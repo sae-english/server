@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="friends-001-create-title" author="english-movies">
+        <insert tableName="title">
+            <column name="type" value="SERIES"/>
+            <column name="name" value="Friends"/>
+            <column name="director" value="Marta Kauffman, David Crane"/>
+            <column name="year" value="1994"/>
+            <column name="description" value="American sitcom about six friends in Manhattan"/>
+        </insert>
+    </changeSet>
+
+</databaseChangeLog>

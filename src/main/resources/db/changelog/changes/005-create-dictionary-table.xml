@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="005-create-dictionary-table" author="english-movies">
+        <createTable tableName="dictionary">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="value" type="VARCHAR(500)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="translation" type="VARCHAR(500)"/>
+            <column name="comment" type="TEXT"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <comment>Словарь: значение (value), перевод (translation), комментарий (comment)</comment>
+    </changeSet>
+
+</databaseChangeLog>

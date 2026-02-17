@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="003-create-episode-table" author="english-movies">
+        <createTable tableName="episode">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="title_id" type="BIGINT">
+                <constraints nullable="false" references="title(id)" foreignKeyName="fk_episode_title"/>
+            </column>
+            <column name="season" type="INTEGER"/>
+            <column name="episode_number" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="episode_title" type="VARCHAR(500)"/>
+            <column name="content" type="JSONB"/>
+            <column name="credits" type="JSONB"/>
+            <column name="note" type="TEXT"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addUniqueConstraint tableName="episode" columnNames="title_id, season, episode_number"
+            constraintName="uq_episode_title_season_number"/>
+        <comment>Эпизоды сериалов или текст фильма. Для фильмов: season=null, episode_number=1</comment>
+    </changeSet>
+
+</databaseChangeLog>

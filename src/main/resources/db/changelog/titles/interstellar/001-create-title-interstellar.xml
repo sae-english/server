@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="interstellar-001-create-title" author="english-movies">
+        <insert tableName="title">
+            <column name="type" value="MOVIE"/>
+            <column name="name" value="Interstellar"/>
+            <column name="director" value="Christopher Nolan"/>
+            <column name="year" value="2014"/>
+            <column name="description" value="A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival"/>
+        </insert>
+    </changeSet>
+
+</databaseChangeLog>

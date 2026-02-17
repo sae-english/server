@@ -1,0 +1,22 @@
+spring:
+  config:
+    activate:
+      on-profile: dev
+  datasource:
+    url: jdbc:postgresql://localhost:5432/englishmovies?currentSchema=englishmovies
+    username: dev
+    password: dev
+    driver-class-name: org.postgresql.Driver
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.xml
+    liquibase-schema: public
+    default-schema: englishmovies
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        default_schema: englishmovies
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
