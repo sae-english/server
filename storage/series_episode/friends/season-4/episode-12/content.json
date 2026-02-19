@@ -1,0 +1,2272 @@
+{
+  "season": 4,
+  "episode_number": 12,
+  "episode_title": "412 - The One With The Embryos",
+  "credits": {
+    "writtenBy": "Jill Condon & Amy Toomin",
+    "transcribedBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "886c559b-e609-4201-ae08-36b4e2e75cd8",
+      "type": "scene",
+      "description": "Monica and Rachel’s, it’s 0-Dark:30, in other words it’s really, really early. Everyone’s asleep, and all through the apartments not a creature was stirring, not even a mouse. That is except for the chick, who turns out to be a rooster and is crowing in the sun. Needless to say, this awakens Monica and Rachel who rush into their living room, searching for the cause of the sound."
+    },
+    {
+      "id": "87b3a9c1-b195-48ce-b100-49225f15e6e2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What the hell is that?!! (to Monica) What the hell is that? Is that you? (Monica nods her head no, and Rachel realizes what is making that sound.) Ohhhhhhh! (storms over to Chandler and Joey’s with Monica in trail.)",
+      "isUncut": false
+    },
+    {
+      "id": "ba26cc87-0cb5-4920-987a-7e0bd881532a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Boy, you are really not a morning person.",
+      "isUncut": false
+    },
+    {
+      "id": "ee2cc5c2-ca89-4140-918f-4fbc8d9c04c3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "BACK OFF!!! (She starts banging on their door.) Get up! Get up! Get up! God damn it! Get up, get up, get up, get up, get up!!",
+      "parenthetical": "angrily",
+      "isUncut": false
+    },
+    {
+      "id": "bda50e88-27cf-4e87-ad25-abe0338aaae9",
+      "type": "action",
+      "text": "(Chandler opens the door, finally.)",
+      "isUncut": false
+    },
+    {
+      "id": "f1026d78-e1a5-49f0-83ea-6b0b11f3eb9e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What is that noise?",
+      "isUncut": false
+    },
+    {
+      "id": "41d26810-645b-429d-9042-13892493a53f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You!",
+      "isUncut": false
+    },
+    {
+      "id": "45a63ff2-85ad-4a81-a3c2-9b61cbb76157",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "It’s the chick! She’s…going through some changes.",
+      "isUncut": false
+    },
+    {
+      "id": "4a0096c5-f9db-44fa-9895-3ff5023b7870",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What kind of changes?",
+      "isUncut": false
+    },
+    {
+      "id": "98b240d3-ae33-4d12-8f8b-545acf517c49",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well the vet seems to think that’s she’s becoming a rooster. (The rooster crows.) We’re getting a second opinion.",
+      "isUncut": false
+    },
+    {
+      "id": "448b1b00-2338-4dfd-8cd7-309fefd4ba81",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "34913d81-df06-4cc1-b194-637a24c06412",
+      "type": "scene",
+      "description": "Monica and Rachel’s, it’s later that morning, everybody has gotten up and Ross and Phoebe has joined them for breakfast. Rachel is returning from shopping."
+    },
+    {
+      "id": "b0d21a06-b3f2-4dae-a95c-ba0fe0d89a18",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "440320fe-6025-45a6-bb33-0c55dce0fa21",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, what are you doing shopping at eight in the morning?",
+      "isUncut": false
+    },
+    {
+      "id": "7e16895d-ba9f-4638-9793-5227039051ee",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I’ve been up since six. Thanks to somebody’s dumb-ass rooster.",
+      "isUncut": false
+    },
+    {
+      "id": "12fcb14e-9f9e-45f5-b11f-f2d1c20ccb2f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You guys you really should get rid of those animals. They shouldn’t be living in an apartment.",
+      "isUncut": false
+    },
+    {
+      "id": "d9316f4f-ee2f-4466-913d-6a320dc69455",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah! Especially not with all of these knives and cookbooks around…",
+      "isUncut": false
+    },
+    {
+      "id": "04062f43-473b-40b7-8c32-e3ee730f210a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "All right. I’m gonna go to the fertility doctor and um, see if I’m ready to have Frank and Alice’s embryo transferred into my uterus.",
+      "isUncut": false
+    },
+    {
+      "id": "5fc7dd03-3dda-4e58-ab39-ff34f945033a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Now, how will they know if you’re ready?",
+      "isUncut": false
+    },
+    {
+      "id": "1c41aee5-1d07-458d-96a2-9c6d7b0b0e64",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, they’re just gonna umm, look to see if my endometria layer is thick.",
+      "isUncut": false
+    },
+    {
+      "id": "d24b7867-8037-4764-8ac3-22913557cee8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, I can uh, check that for ya.",
+      "isUncut": false
+    },
+    {
+      "id": "6042ddff-728d-4b7b-b122-8b7668cc4fe7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay everyone, think thick.",
+      "isUncut": false
+    },
+    {
+      "id": "2b14e1bd-a02d-4747-8568-20c24e5a444b",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Good-bye! Good luck! (She opens the door to reveal Monica and Joey.)",
+      "isUncut": false
+    },
+    {
+      "id": "d47c15af-7457-40e2-a7fd-1f79587956fe",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hi! Wish me luck!",
+      "isUncut": false
+    },
+    {
+      "id": "18132c24-03bd-46a7-ab0f-97012fddd3b4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, good luck.",
+      "isUncut": false
+    },
+    {
+      "id": "0f8c3a7d-a5e6-4f7c-aa48-c54d57c28f33",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Good luck. (to Monica) And I’m still right!",
+      "isUncut": false
+    },
+    {
+      "id": "2a2bd0b7-8fb6-4a63-bd42-979f981e1a9b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That is sooo not true!",
+      "isUncut": false
+    },
+    {
+      "id": "bc8757e4-e7a7-408a-85a5-d59e053c3c52",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "eedb3ed8-cd4f-4c3e-80a2-77d8eebe7e83",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "She’s mad because I know today’s her laundry day and that means she’s wearing her old lady underpants.",
+      "isUncut": false
+    },
+    {
+      "id": "e4ae09f5-8989-4ab4-98ed-3847bc3407af",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I can check that for ya.",
+      "isUncut": false
+    },
+    {
+      "id": "75a81bc1-4c8e-48ed-ae32-98576dc81b3f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I just—I can’t believe that you think that you and Chandler know me and Rachel better than we know you.",
+      "isUncut": false
+    },
+    {
+      "id": "556dea26-3b99-4478-9141-29b03a87549b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well… we-we do. You can only eat Tic Tacks in even numbers.",
+      "isUncut": false
+    },
+    {
+      "id": "dd52d79e-09fb-4dd0-802d-7d42a70d75dc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, what’s that about?",
+      "isUncut": false
+    },
+    {
+      "id": "f8172b53-38e1-463a-b9fb-a5cc25f9bd4a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "And you… Ross, I believe, if you check Rachel’s bag you will find a half-eaten box of cookies in there.",
+      "parenthetical": "to Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "b3e1b907-661f-4af5-bfb4-2c502f3c8713",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You’re good. (Tries a cookie.) These are not.",
+      "parenthetical": "He does so, and finds a half-eaten box of cookies.",
+      "isUncut": false
+    },
+    {
+      "id": "d0dc599b-11b3-4d54-9f91-1f1de1738364",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m so not impressed. Everybody snacks when they shop.",
+      "isUncut": false
+    },
+    {
+      "id": "33d95ce6-eddd-4dd9-aa10-1efacc97e5f2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "7874806d-fdb8-42ed-982b-cf4e76f8990d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh yeah? Ross, how many items left in that bag?",
+      "isUncut": false
+    },
+    {
+      "id": "a3e4fc93-91e0-4973-bc49-5b205730be5a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Five.",
+      "isUncut": false
+    },
+    {
+      "id": "4803beb3-d23a-4ffb-9bb5-210eb9cd5b77",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay, ten bucks says that we can name every item in that bag.",
+      "isUncut": false
+    },
+    {
+      "id": "bdb80bd7-a01d-451a-be28-bd273c99903b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "How many guesses do you get?",
+      "isUncut": false
+    },
+    {
+      "id": "531d5659-3783-4e94-a201-fce4c45cdf9b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Six.",
+      "isUncut": false
+    },
+    {
+      "id": "b8b1e2e5-2c68-42a3-8db3-138b92fe1d5c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Challenge extended.",
+      "isUncut": false
+    },
+    {
+      "id": "5771e89f-34b1-4503-b96a-776da2bc5e69",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Deal!",
+      "isUncut": false
+    },
+    {
+      "id": "afc6552e-97cc-4469-bba8-bec32e90b777",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Challenge excepted.",
+      "isUncut": false
+    },
+    {
+      "id": "6862f09e-38e7-46c4-b184-89701c08cc42",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right, we’ll start with…apples.",
+      "isUncut": false
+    },
+    {
+      "id": "4ff10c6d-6be9-4dbf-81ad-8d0a38ba6b3c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "We’ll be starting with apples.",
+      "isUncut": false
+    },
+    {
+      "id": "0d24f720-84d4-495d-8d12-31a2f2a3fb7d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Stop that now!",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "ab3423ca-e05c-4101-a84b-ddd942f3cb27",
+      "type": "action",
+      "text": "(Ross reveals a bag of apples.)",
+      "isUncut": false
+    },
+    {
+      "id": "b55786ca-cf94-48ce-aab9-a6b0e23eea95",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes!",
+      "isUncut": false
+    },
+    {
+      "id": "c8d96822-3cc5-4785-9957-8f12ea64fcae",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Okay. Uhh, tortilla chips, yogurt.",
+      "isUncut": false
+    },
+    {
+      "id": "643fc07a-388e-4cd3-bdfe-6ffe004b9e9b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Diet soda.",
+      "isUncut": false
+    },
+    {
+      "id": "ffefc03a-1673-4e20-b55e-36d3e5e5a15f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes. Yes. Yes. (They’re perfect so far.)",
+      "isUncut": false
+    },
+    {
+      "id": "635116d7-9d3a-48a4-a53a-9d37d1071a55",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Orange juice.",
+      "isUncut": false
+    },
+    {
+      "id": "7b952fa8-e481-44ad-a3e6-2643358f9807",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No! There’s no orange juice in there! We win!!",
+      "isUncut": false
+    },
+    {
+      "id": "e3eae8e8-a4ba-4788-afc9-c3377711865e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ha-ha!",
+      "isUncut": false
+    },
+    {
+      "id": "cabd8e2a-0e0f-47b8-918a-7c58f06891fe",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "They have another guess.",
+      "isUncut": false
+    },
+    {
+      "id": "c271243f-6985-4a76-bfcc-2b354b471dfa",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, well, we won that one.",
+      "isUncut": false
+    },
+    {
+      "id": "1002fd6a-8141-470d-944d-1e6568b1120c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Okay, the last thing…",
+      "isUncut": false
+    },
+    {
+      "id": "97573b09-416d-4e41-9389-a2d4bfe72b4d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh-oh, oh, oh-oh! (Whispers something in Joey’s ear.)",
+      "isUncut": false
+    },
+    {
+      "id": "d3b9b0f9-e2f4-4a38-aeb9-4a22e1605629",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No-no, not for like another two weeks.",
+      "isUncut": false
+    },
+    {
+      "id": "e4c8c773-cc12-4cb8-99be-068d89d33c13",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I got it! Scotch… tape. (They’re right.)",
+      "isUncut": false
+    },
+    {
+      "id": "0d04807b-635c-4961-81db-020d77ea90a4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "How did you know she would buy scotch tape?",
+      "isUncut": false
+    },
+    {
+      "id": "ffa31f0b-8539-463f-92f4-5d7b1319788a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, we used there’s up last night making scary faces.",
+      "isUncut": false
+    },
+    {
+      "id": "8f837306-f7cc-4329-b848-546b164589d6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Aww, man!",
+      "isUncut": false
+    },
+    {
+      "id": "a67713dd-b8c7-474d-8b97-5ec56fab3694",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "All right! Ten buck! Fork it over! Cough it up! Pay the piper! Gimme it.",
+      "isUncut": false
+    },
+    {
+      "id": "25d6378e-0b66-4884-9a0f-ad29aed8f4b4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That does not mean you know us better, I-I want a rematch.",
+      "isUncut": false
+    },
+    {
+      "id": "26df5b07-1193-4760-b25f-17fb49c9931d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, and none of these stupid grocery questions, real personal questions.",
+      "isUncut": false
+    },
+    {
+      "id": "4822a6be-6f44-4caf-a508-3ff74eed6ebe",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah! And the winner gets a hundred bucks.",
+      "isUncut": false
+    },
+    {
+      "id": "73d8965f-ef60-4280-85f3-85da7481c37c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Serious?",
+      "isUncut": false
+    },
+    {
+      "id": "0f864a40-8a80-49ce-a2f3-3434a28ddfd1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Are you scared?",
+      "isUncut": false
+    },
+    {
+      "id": "4a420a46-c9c8-4a6f-8712-88a6a1be3840",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No! All right, who-who makes up the questions?",
+      "isUncut": false
+    },
+    {
+      "id": "5940ea6a-0b66-4fae-9ef2-7acd74b3ea7e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross will do it.",
+      "isUncut": false
+    },
+    {
+      "id": "df8d8a24-79bc-42ac-82c9-c33f832ea4c4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh sure, “Ross will do it!” It’s not like he has a job, or a child, or a life of his own.",
+      "isUncut": false
+    },
+    {
+      "id": "3f528114-c961-4cc3-8b9b-e09a8e0b07a5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Fine! We’ll ask Phoebe.",
+      "isUncut": false
+    },
+    {
+      "id": "97647360-644e-44e4-a12a-dde9a922590f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No-no-no, I-I wanna play.",
+      "isUncut": false
+    },
+    {
+      "id": "8bac6005-5720-4f34-ad94-c2d686b6002f",
+      "type": "scene",
+      "description": "The Doctor’s office, Dr. Zane is examining Phoebe as Frank and Alice watch."
+    },
+    {
+      "id": "0d2b1278-4f99-4a2f-93de-86a93d993f92",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "It looks like your uterus is ready for implantation.",
+      "isUncut": false
+    },
+    {
+      "id": "3ab98a58-9d66-440f-ba51-e1e38947b1ed",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh! I knew it! I knew it! I felt really thick this morning.",
+      "isUncut": false
+    },
+    {
+      "id": "2fc96bc5-22e1-4e9c-b160-cbab984b50b9",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "Well, okay, so what’s now—go get, go get the eggs, put ‘em in there.",
+      "isUncut": false
+    },
+    {
+      "id": "bb9ee430-e0e7-47f0-a04e-6b6e6a192856",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "Okay, it’ll take just a little while to prepare the embryos.",
+      "isUncut": false
+    },
+    {
+      "id": "15e805c2-a25e-4b95-a15d-5cd6dce38d9c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Embryossss? As in, “More than one?”",
+      "isUncut": false
+    },
+    {
+      "id": "712a5b52-0b9a-4560-9b5a-6ed721c460f4",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "Um-hmm, five actually.",
+      "isUncut": false
+    },
+    {
+      "id": "0c6a7d46-2f7e-4ebc-8add-5cec46b381df",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Five? Okay, where am I giving birth, a hospital or a big box under the stairs?",
+      "isUncut": false
+    },
+    {
+      "id": "4b089605-e95b-437c-8f63-531dbbea1f4c",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "We do five because that gives you a 25% chance that at least one will attach.",
+      "isUncut": false
+    },
+    {
+      "id": "29bb0baa-e626-47fc-b4f6-e7f043bbe012",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "That’s it! 25 percent? That means that’s it’s like 75 percent chance of no baby at all!",
+      "isUncut": false
+    },
+    {
+      "id": "24c3bcba-26c1-4be2-a3ba-4ae2830653a9",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "Hey, y’know I was thinking, what are the odds like if-if, if you stuff like 200 of them in there?",
+      "isUncut": false
+    },
+    {
+      "id": "43185971-9c28-468c-b4ed-44ebf761abdb",
+      "type": "dialogue",
+      "speaker": "Alice",
+      "text": "Sweety, now, she’s a woman, not a gumball machine.",
+      "isUncut": false
+    },
+    {
+      "id": "b35ebec6-01cc-49f7-b574-42402afcb6c4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, well y’know what, don’t worry you guys, ‘cause I’m-I’m gonna do this as many times as it takes to get it right.",
+      "isUncut": false
+    },
+    {
+      "id": "c1f953ec-8366-4816-af31-97af76e193a1",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "Well, you see, the-the thing is, we-we only got, we kinda have one shot to make it right.",
+      "isUncut": false
+    },
+    {
+      "id": "d6f82a5a-48ae-42c7-a788-e9ef5dab6a2d",
+      "type": "dialogue",
+      "speaker": "Alice",
+      "text": "Umm, it costs $16,000 each time you do this. So, umm, we’re kinda using all the money we have to do it just this one time.",
+      "isUncut": false
+    },
+    {
+      "id": "efa413af-d5cd-4986-82a0-2563fbd607ec",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Whoa!! That—okay, that’s a lot of pressure on me and my uterus. (to Dr. Zane) So, well okay, so is there—is maybe is there something that I can do y’know just to like help make sure I get pregnant?",
+      "isUncut": false
+    },
+    {
+      "id": "688a6962-3e18-48de-850d-15add1c484c7",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "No, I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "6ea48a07-25b9-4c7f-abcd-82294ec79f84",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wow! You guys really don’t know anything!",
+      "isUncut": false
+    },
+    {
+      "id": "d3a72fb2-1ee9-4840-bee1-75f8be5b046c",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "I know! Why don’t you get drunk! That worked for a lot of girls in my high school.",
+      "isUncut": false
+    },
+    {
+      "id": "4e3f73bb-4f9f-4afe-91cf-8fc6a74c3551",
+      "type": "scene",
+      "description": "Monica and Rachel’s, the game is about to begin."
+    },
+    {
+      "id": "5f9e6f3e-65d8-4b7f-9eff-60657436c767",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You guys! Do you realize that any minute now, Phoebe can be pregnant?",
+      "isUncut": false
+    },
+    {
+      "id": "0c387e1d-503c-4582-b36b-513d9e098e74",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Huh.",
+      "isUncut": false
+    },
+    {
+      "id": "9e2eb1ea-b67e-4136-a088-5d3bfbe76881",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I know! I know, it’s such a huge, life-altering thing.",
+      "isUncut": false
+    },
+    {
+      "id": "e7bfa599-b8da-482c-9d25-34ebdc7a76a7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I know.",
+      "isUncut": false
+    },
+    {
+      "id": "643c603a-7208-4475-8d86-db4fda91db8b",
+      "type": "action",
+      "text": "(They all pause and think about it.)",
+      "isUncut": false
+    },
+    {
+      "id": "f0e74a8d-9cd6-477f-bce3-0d76b6140790",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "The test is ready.",
+      "isUncut": false
+    },
+    {
+      "id": "f71f7e3a-b8a4-453e-96e5-83d7f7b47fe9",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Yeah! Yes! (They all right into the living room, all excited.)",
+      "isUncut": false
+    },
+    {
+      "id": "5ca3fdd3-8064-49d5-904b-ec27a7797a69",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, each team will answer ten questions. The first team that answers the most questions wins. Okay, the categories are, Fears and Pet Peeves, Ancient History, Literature, and It’s All Relative. Now, the coin toss to see who goes first. (He flips the coin and they all watch it hit the table and stop. Then they all look up at him, to see who goes first.) Okay, somebody call it this time.",
+      "isUncut": false
+    },
+    {
+      "id": "e40dcbc6-0413-4f55-89e4-ed2a75811695",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Oh yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "f079c9e2-3628-462c-b6f3-3d446e13504f",
+      "type": "action",
+      "text": "(Ross flips the coin again.)",
+      "isUncut": false
+    },
+    {
+      "id": "94547374-7cd5-4480-88ff-4fb797e9cc95",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Tails!",
+      "isUncut": false
+    },
+    {
+      "id": "3d655d48-a28a-40ba-9cfc-ec6d61a1828f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It’s heads. (The guys celebrate.) Gentlemen, pick your category.",
+      "isUncut": false
+    },
+    {
+      "id": "3552d6a9-3e15-406f-b0bb-91e2b9bf3cec",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Fears and Pet Peeves.",
+      "isUncut": false
+    },
+    {
+      "id": "ba08d8dc-eb3d-4e30-b4c1-954adaa32e6b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What is Monica’s biggest pet peeve?",
+      "isUncut": false
+    },
+    {
+      "id": "f6e923f6-d3b5-4955-8e23-153ec1692026",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Animals dressed as humans.",
+      "isUncut": false
+    },
+    {
+      "id": "3261135a-5d80-4ee2-a16b-3a325d5b251d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s correct. Ladies?",
+      "isUncut": false
+    },
+    {
+      "id": "7d0df915-5ed8-4edb-aa6a-eeeb69d7e9ea",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Same category?",
+      "isUncut": false
+    },
+    {
+      "id": "204e06cc-b9a2-400c-a593-2d72e58f8883",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "According to Chandler, what phenomenon scares the bejeezus out of him?",
+      "isUncut": false
+    },
+    {
+      "id": "1f89c2cd-5669-4d0f-ae18-139381828ec9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Michael Flatley, Lord of the Dance!",
+      "isUncut": false
+    },
+    {
+      "id": "847c38d5-9c33-49d8-ad24-48e8229479b7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That is correct.",
+      "isUncut": false
+    },
+    {
+      "id": "95623fe7-c09c-4deb-bb15-c5ffa92576f3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "The Irish gig guy?!",
+      "parenthetical": "to Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "5e01d80f-1730-4e3c-acd9-2c0cef9b8258",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "His legs flail about as if independent of his body!",
+      "isUncut": false
+    },
+    {
+      "id": "58e3f8ee-8386-46d1-80b4-05417044b654",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Gentlemen, you’re pick.",
+      "isUncut": false
+    },
+    {
+      "id": "9b097fd3-d008-49b1-ae1f-56814d07fe95",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "It’s All Relative.",
+      "isUncut": false
+    },
+    {
+      "id": "c2ece793-9d39-4881-af10-859ed2c812b5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Monica and I have a grandmother who died, you both went to her funeral, name that grandmother!",
+      "isUncut": false
+    },
+    {
+      "id": "5850caa4-b7b1-4665-ad0e-2a58f1de4a8a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Nana?",
+      "parenthetical": "to Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "7a19b590-5be9-4afb-8b09-e2450cd4c96b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "She has a real name.",
+      "isUncut": false
+    },
+    {
+      "id": "4fda30a9-5aef-4c54-a8a9-60d4f18565b9",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Althea!",
+      "parenthetical": "answering the question",
+      "isUncut": false
+    },
+    {
+      "id": "6e20669e-aae8-4dff-93bc-4980a39c666a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Althea?! What are you doing?!",
+      "isUncut": false
+    },
+    {
+      "id": "e16e3f82-b0d8-4994-b457-e3d07e50d9b0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I took a shot.",
+      "isUncut": false
+    },
+    {
+      "id": "c0463750-0d22-4269-9639-83ccbdccba5c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Are you sure it was Althea?!",
+      "isUncut": false
+    },
+    {
+      "id": "e01ffd44-2c19-4d16-ba02-4b51f0aa33ef",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Althea is correct.",
+      "isUncut": false
+    },
+    {
+      "id": "99cc050b-7c5a-4f1b-9d26-a1d552fd57e4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Nice shooting!",
+      "isUncut": false
+    },
+    {
+      "id": "d3bf2d74-52fd-48fb-afdb-d0da45f766e3",
+      "type": "action",
+      "text": "(Ross motions for the girls to pick.)",
+      "isUncut": false
+    },
+    {
+      "id": "7fe38cb8-69f9-4130-b833-150641b931ab",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "We’ll take Literature!!",
+      "isUncut": false
+    },
+    {
+      "id": "193cef79-6fed-41e6-bb44-1c71e07f2963",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Every week, the TV Guide comes to Chandler and Joey’s apartment. What name appears on the address label?",
+      "isUncut": false
+    },
+    {
+      "id": "10f81a15-62f6-471b-bd3d-c93e3570dc5e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Chandler gets it! It’s Chandler Bing!",
+      "isUncut": false
+    },
+    {
+      "id": "fbf6ee23-f2c3-48cc-9f7b-36bcdb4e6b05",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No!!",
+      "isUncut": false
+    },
+    {
+      "id": "91430366-7991-4122-b188-3f86532e756e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m afraid the TV Guide comes to Chinandolor Bong.",
+      "isUncut": false
+    },
+    {
+      "id": "48222228-3b82-4866-a3d3-ea8193994974",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I knew that! Rachel! Use you’re head!",
+      "isUncut": false
+    },
+    {
+      "id": "6777ee98-c6f1-41f4-b98c-f40b71c54ade",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Actually, it’s Miss Chinandolor Bong.",
+      "isUncut": false
+    },
+    {
+      "id": "acaf69d1-126d-458a-948e-d15c31f74b37",
+      "type": "scene",
+      "description": "The Doctor’s office, Phoebe is giving a pep talk to the petrie dish containing the embryos."
+    },
+    {
+      "id": "eaacdec5-6641-4450-abfe-794d180a4af3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hello, tiny embryos. Well, I’m-I’m Phoebe Buffay, hi! I’m-I’m-I’m hoping to be your uterus for the next nine months. You should know, that we’re doing this for Frank and Alice, who you know, you’ve been there! Umm, y’know they want you so much, so when you guys get in there, really grab on. Okay, and-and I promise that I’ll keep you safe and warm until you’re ready to have them take you home, so… Oh! And also, umm next time you see me, I’m screaming, don’t worry, that’s what’s supposed to happen.",
+      "isUncut": false
+    },
+    {
+      "id": "cb49ca83-e575-4b83-9511-7184ef04261a",
+      "type": "dialogue",
+      "speaker": "Dr. Zane",
+      "text": "Ready?",
+      "isUncut": false
+    },
+    {
+      "id": "279876d2-6442-4068-ba91-b983d26e2739",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Uh-huh. (To the embryos) Good luck.",
+      "isUncut": false
+    },
+    {
+      "id": "b5863822-1559-4adf-9740-ccc2e4e5e2c4",
+      "type": "scene",
+      "description": "Monica and Rachel’s, the game is coming to a close."
+    },
+    {
+      "id": "cc04b016-55fd-4af0-abaa-a40b3d7d8a0d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right, the score is nine to eight in favor of the guys. Ladies if you miss this the game is theirs, pick your category.",
+      "isUncut": false
+    },
+    {
+      "id": "c3b850ad-3041-495b-b2be-c5429b6e77e4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It’s All Relative!!",
+      "parenthetical": "shouting",
+      "isUncut": false
+    },
+    {
+      "id": "7cc1df9b-172e-4eb9-bdd8-51c2a4d6a8c3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You don’t have to shout everything.",
+      "isUncut": false
+    },
+    {
+      "id": "fa66d032-d724-480a-977f-5804c42358dd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m sorry!",
+      "parenthetical": "shouting",
+      "isUncut": false
+    },
+    {
+      "id": "4de2ac44-98e8-4b5d-b426-1749119de10c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ooh. What is the name of Chandler’s father’s Las Vegas all-male burlesque?",
+      "isUncut": false
+    },
+    {
+      "id": "8c581f4c-5cde-4312-8919-46de42436f48",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Viva Las Gaygas!",
+      "isUncut": false
+    },
+    {
+      "id": "91b79eaa-03ca-437d-9308-b39b486a5ffe",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Unfortunately that is correct.",
+      "isUncut": false
+    },
+    {
+      "id": "0c833a1a-4575-407e-859e-2bdad2aa2b8f",
+      "type": "dialogue",
+      "speaker": "The Girls",
+      "text": "Yes!!",
+      "isUncut": false
+    },
+    {
+      "id": "79e6b0f9-e082-4e2c-a6c2-84dd6d8a97d6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right, we have a tie. Luckily, I have prepared for such an event. (He opens up an envelope and holds up some note cards.) The Lightning Round!",
+      "isUncut": false
+    },
+    {
+      "id": "b7eea389-b6b0-4bf7-b9bc-6d2e51ceda6d",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Ohhhh.",
+      "isUncut": false
+    },
+    {
+      "id": "030b1521-a8ea-4e04-b0a3-521eff67c699",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Thirty seconds, all the questions you can answer.",
+      "isUncut": false
+    },
+    {
+      "id": "05a3f730-a8c2-4771-9eff-8b6a261527ce",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You guys are dead, I am so good at lighting rounds.",
+      "isUncut": false
+    },
+    {
+      "id": "d13ad50f-255c-4d25-8c9d-46b61d4b53aa",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I majored in lightning rounds. All right, we’re gonna destroy you.",
+      "isUncut": false
+    },
+    {
+      "id": "066f62df-4e99-472e-ae75-d5ae2e9a66a0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Huh, wanna bet?",
+      "isUncut": false
+    },
+    {
+      "id": "e9085a5b-46c9-4a21-977f-07772c047439",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, I’m so confused as to what we’ve been doing so far…",
+      "isUncut": false
+    },
+    {
+      "id": "b39e7b35-bb90-4a89-95de-5297259db0e3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "How about we play for more money, say 150?",
+      "isUncut": false
+    },
+    {
+      "id": "50272a67-248c-40f8-873d-9d585d81ffc8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "150 dollars.",
+      "isUncut": false
+    },
+    {
+      "id": "92eaa0bb-50a5-4462-8ce1-26039f853e18",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Say 200?",
+      "isUncut": false
+    },
+    {
+      "id": "ae4d907c-2cec-45b3-81f9-231a22074023",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "200 dollars.",
+      "isUncut": false
+    },
+    {
+      "id": "4efd7105-3988-4f0a-aebd-ff1177ebbbd7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re doing it again.",
+      "isUncut": false
+    },
+    {
+      "id": "77049e92-608d-45f8-843a-e32c27d4eae7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Excuse me.",
+      "isUncut": false
+    },
+    {
+      "id": "bec00cb8-685e-40c3-ac43-843931d66561",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Monica, I don’t want to lose 200 dollars.",
+      "isUncut": false
+    },
+    {
+      "id": "7f6b67a8-d64e-404f-acae-f061f3ea7f95",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "We won’t. (to Chandler) 300?",
+      "isUncut": false
+    },
+    {
+      "id": "65329d53-5f03-4176-989c-b0f095f574b3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Monica?!",
+      "isUncut": false
+    },
+    {
+      "id": "ea34e479-bbf6-4aa6-bc98-65b1a7945394",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I’m just trying to spice it up!",
+      "isUncut": false
+    },
+    {
+      "id": "739d2fa6-1275-42e3-b5c8-a88b677ac144",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, so let’s play for some pepper! Stop spending my money!",
+      "isUncut": false
+    },
+    {
+      "id": "f5770798-38d9-44ea-8281-597fe2bf986a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I got it! How about, if we win, they have to get rid of the rooster?",
+      "isUncut": false
+    },
+    {
+      "id": "f2ae119f-91ac-421f-83d9-187390eeaea7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oooohh that’s interesting.",
+      "isUncut": false
+    },
+    {
+      "id": "fc4a45ab-dd2f-4160-8d3c-fc6b30faf578",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey, no way, that rooster’s family!",
+      "isUncut": false
+    },
+    {
+      "id": "0877077d-167f-4e84-b97c-6a39635f0637",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Throw in the duck too!",
+      "isUncut": false
+    },
+    {
+      "id": "1078095e-e910-406a-bd6f-d468c36e03d7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What do you have against the duck?! He doesn’t make any noise!",
+      "isUncut": false
+    },
+    {
+      "id": "859434e9-01ce-4c49-9aa3-8f41d6b3ef9c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, he gets the other one all riled up.",
+      "isUncut": false
+    },
+    {
+      "id": "c21a89e1-adc1-4483-82cd-d4cc50a6e5cf",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look, we are not gonna…",
+      "isUncut": false
+    },
+    {
+      "id": "38425b47-64d2-40b8-a8be-1c108eb7fa06",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "All right, hold on! If you win, we give up the birds.",
+      "parenthetical": "interrupting",
+      "isUncut": false
+    },
+    {
+      "id": "3472f813-b330-468a-b685-11b00e8e9db4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Dah!! (Chandler motions for him to calm down.)",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "70842d2f-e379-41fb-b171-ca63ae7cef7f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "But if we win, we get your apartment.",
+      "isUncut": false
+    },
+    {
+      "id": "bc9af15e-7fed-43b3-ad4c-6cbfc392901d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oooooh!",
+      "isUncut": false
+    },
+    {
+      "id": "a1d60823-d236-4e73-a14d-d5ae0b4d3618",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Deal!",
+      "isUncut": false
+    },
+    {
+      "id": "023cd467-6f13-4c65-bb56-f3e80e903f59",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "095d8b36-7490-4779-84b7-bce430075be3",
+      "type": "scene",
+      "description": "Monica and Rachel’s, continued from earlier, only slightly later."
+    },
+    {
+      "id": "13331a44-1ade-49da-a56a-1f4c87fadef8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Monica, betting the apartment, I don’t know about this.",
+      "isUncut": false
+    },
+    {
+      "id": "10340c09-c3b7-4fd1-8906-c8f88e21a75c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rachel, I have not missed one question the whole game. I own this game! Look at my hand. (Holds up her hand.)",
+      "isUncut": false
+    },
+    {
+      "id": "7432fef9-7144-432f-b629-454873ec11c5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Why? Do you have the answers written on there?",
+      "isUncut": false
+    },
+    {
+      "id": "8cced5d9-3dab-4052-877e-57f8d72cdd0f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No! Steady as a rock! Now, are you with me.",
+      "isUncut": false
+    },
+    {
+      "id": "b03b4652-45e4-4eba-acf7-f200a6cb1b13",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right, let’s do it.",
+      "isUncut": false
+    },
+    {
+      "id": "620aa28a-abab-4cd5-b549-8b473a530b17",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Come on!",
+      "isUncut": false
+    },
+    {
+      "id": "d9bd64ae-bd31-4f03-a8b8-4ac6603eb888",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay. (They go into the living room.)",
+      "isUncut": false
+    },
+    {
+      "id": "aacc70b4-766e-49b9-9c6e-4840df5cf41f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right, gentlemen, you’re up first.",
+      "isUncut": false
+    },
+    {
+      "id": "295593bb-390c-4a77-9de5-9709a4de2f79",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "19172916-1012-4408-a1ae-6baf8043864c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay. (Starts jumping around.)",
+      "isUncut": false
+    },
+    {
+      "id": "cc227144-751f-450b-af03-d45c749abc50",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You have 30 seconds. And the lightning round begins—stop it (Chandler stops jumping)—now. What was Monica’s nickname when she was a field hockey goalie?",
+      "isUncut": false
+    },
+    {
+      "id": "a36cb060-51dc-4328-a145-c0ada035c626",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Big fat goalie.",
+      "isUncut": false
+    },
+    {
+      "id": "265c906c-ab46-4215-9760-6c6be9296932",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct. Rachel claims this is her favorite movie…",
+      "isUncut": false
+    },
+    {
+      "id": "4c94a949-0dfc-4144-8eb1-440091b3aab9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Dangerous Liaisons .",
+      "isUncut": false
+    },
+    {
+      "id": "9a2d8fff-e239-4a32-be2d-c0f1c1a61260",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct. Her actual favorite movie is…",
+      "isUncut": false
+    },
+    {
+      "id": "d8340243-b0bf-430b-b37c-ce7d80f73018",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Weekend at Bernie’s .",
+      "isUncut": false
+    },
+    {
+      "id": "78452f5c-29c3-42c3-a2af-68fa3332aa37",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct. In what part of her body did Monica get a pencil stuck at age 14?",
+      "isUncut": false
+    },
+    {
+      "id": "91c1d175-548b-415d-a00c-e4c4d0a19421",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh! (Whispers something in Joey’s ear and then in Ross’s ear.)",
+      "isUncut": false
+    },
+    {
+      "id": "8abcabaf-0a99-4e93-a32f-ec6f880fd356",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Eww! No!! Her ear! All right, Monica categorizes her towels. How many categories are there?",
+      "isUncut": false
+    },
+    {
+      "id": "61f2d795-2faf-495f-9dd4-9f8e446af02d",
+      "type": "action",
+      "text": "(They both confer.)",
+      "isUncut": false
+    },
+    {
+      "id": "a3ac0a33-2011-432b-b788-e1f030f2c849",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Everyday use.",
+      "isUncut": false
+    },
+    {
+      "id": "849db0df-dca4-422e-a230-55843ccadb29",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Fancy.",
+      "isUncut": false
+    },
+    {
+      "id": "029e7a20-0af3-4f6e-b2b1-e1f60a4c29ca",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Guest.",
+      "isUncut": false
+    },
+    {
+      "id": "7196164f-3de6-414e-abc4-0a0c91344b7d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Fancy guest.",
+      "isUncut": false
+    },
+    {
+      "id": "39af2c0c-976e-433f-bb70-1c81d2d6d33b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Two seconds…",
+      "isUncut": false
+    },
+    {
+      "id": "808b2a74-1fa9-46c4-85cc-b6bf2dc623df",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Uhh, 11!",
+      "isUncut": false
+    },
+    {
+      "id": "e4c4d75e-2ab9-4710-a67b-466bd04e43f2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "11, unbelievable 11 is correct. (The guys celebrate.) All right, that’s 4 for the guys. Ladies, you’re up.",
+      "isUncut": false
+    },
+    {
+      "id": "97deb254-ee1a-49fb-81b5-ef70d9f8b068",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right!",
+      "isUncut": false
+    },
+    {
+      "id": "95c9f8a1-a6c0-477b-9f0f-b52173ed84e1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Come on!",
+      "isUncut": false
+    },
+    {
+      "id": "793ee51c-c78e-4f7a-b4f3-b706dc2f5c4b",
+      "type": "action",
+      "text": "(As they change places, they give each other the now patented Ross maneuver. If you don’t know what that means, find out in The One With Joey’s New Girlfriend.)",
+      "isUncut": false
+    },
+    {
+      "id": "8a25cf3a-22e3-4af8-96c2-bcb62a05df13",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "30 seconds on the clock. 5 questions wins the game. The lightning round begins…now! What is Joey’s favorite food?",
+      "isUncut": false
+    },
+    {
+      "id": "6c7b3b23-5b0c-4391-adaa-1848890c523c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Sandwiches!",
+      "isUncut": false
+    },
+    {
+      "id": "0e632d9e-3f04-4331-a55a-b14d54007d91",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct. Chandler was how old when he first touched a girl’s breast?",
+      "isUncut": false
+    },
+    {
+      "id": "2e7b19b7-45ac-4dd1-aa41-50c47aa1cb40",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "14?",
+      "isUncut": false
+    },
+    {
+      "id": "8856e36d-5b68-4897-8914-0c04d391e504",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, 19.",
+      "isUncut": false
+    },
+    {
+      "id": "160957d7-c0d3-4c18-8bf1-2c7576963525",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Thanks man.",
+      "isUncut": false
+    },
+    {
+      "id": "2d7fd6db-0784-4dba-baa7-0f9ffbb4b5dd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Joey, had an imaginary childhood friend. His name was?",
+      "isUncut": false
+    },
+    {
+      "id": "da144ca7-afab-46ba-af18-242b27ec6d06",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Maurice.",
+      "isUncut": false
+    },
+    {
+      "id": "c2d9faef-df56-4f84-9e36-782c46411a89",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct, his profession was?",
+      "isUncut": false
+    },
+    {
+      "id": "c682d306-a0d8-44b7-a906-bf74b0191870",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Space cowboy!",
+      "isUncut": false
+    },
+    {
+      "id": "04e3872d-6483-41ff-ab1a-f320e4f30ca4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Correct! What is Chandler Bing’s job?",
+      "isUncut": false
+    },
+    {
+      "id": "4f9b7d81-0594-4a37-ade9-79fd4b7c2773",
+      "type": "action",
+      "text": "(The girls are stumped)",
+      "isUncut": false
+    },
+    {
+      "id": "138611a7-bdc4-415c-93ce-e09c07d483d6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh gosh, it has something to do with numbers.",
+      "isUncut": false
+    },
+    {
+      "id": "8192546d-90b6-4d33-864e-6da533575ff8",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And processing.",
+      "isUncut": false
+    },
+    {
+      "id": "392f9232-ade7-4a74-bf3d-28cadd6d291a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "He carries a briefcase.",
+      "isUncut": false
+    },
+    {
+      "id": "cc49bbae-aa6c-4c85-99bb-e5f64c014d0b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "10 seconds, you need this or you lose the game.",
+      "isUncut": false
+    },
+    {
+      "id": "fdcdf6be-02c3-4c27-9575-f06350bb8f58",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "It’s umm, it has something to do with transponding.",
+      "isUncut": false
+    },
+    {
+      "id": "0aa09e11-518a-48d4-ba44-20e1e49f98a3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh-oh-oh, he’s a transponce—transpondster!",
+      "isUncut": false
+    },
+    {
+      "id": "7d2c576a-e2a2-4929-979b-2171af2c29e1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s not even a word! I can get this! I can get this!",
+      "isUncut": false
+    },
+    {
+      "id": "79282c6f-474e-413b-9254-585a4c561ef3",
+      "type": "action",
+      "text": "(Ross stops the clock, signifying the end of the lightning round.)",
+      "isUncut": false
+    },
+    {
+      "id": "fb6b6129-9705-4175-8fca-e6136be35937",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "NOOOOOOOOO!!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "85065dda-d011-41e9-8ec1-de6b054fa311",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God.",
+      "isUncut": false
+    },
+    {
+      "id": "24075b9e-ea07-4c2c-9d41-a9c22ef1bc3d",
+      "type": "dialogue",
+      "speaker": "Chandler and Joey",
+      "text": "YEAH!!! YES!!!",
+      "isUncut": false
+    },
+    {
+      "id": "a9b9ebc7-8335-47ec-a620-34500fd010f1",
+      "type": "scene",
+      "description": "Monica and Rachel’s, erm, Chandler and Joey’s, Chandler and Joey are carrying in the foosball table."
+    },
+    {
+      "id": "084f904a-70e2-4a6e-b33e-b32dd5628fc1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I call Monica’s room!",
+      "isUncut": false
+    },
+    {
+      "id": "cc535f04-54fc-4c5f-9a0b-70500f5c1add",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You can’t just call Monica’s room.",
+      "isUncut": false
+    },
+    {
+      "id": "4621a2d2-48bd-469c-95c4-e92f57ba303a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Sure I can, standard shotgun rules, I’m sight of the room and I called it.",
+      "isUncut": false
+    },
+    {
+      "id": "27f52fb2-49d6-4be6-9a31-c19498f541ac",
+      "type": "action",
+      "text": "(Chandler grunts and turns around, sees that he’s in sight of the room, and mouths damn!)",
+      "isUncut": false
+    },
+    {
+      "id": "d74e5c49-a825-42ca-832f-e66a4aa81895",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Man, I feel like I’m coming down with something.",
+      "isUncut": false
+    },
+    {
+      "id": "b49f3549-3632-4916-80e4-eddc1c08a595",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "f75d9625-c172-4c64-a12c-71eb9fef3b2b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah. (to Chandler) I bet you can’t guess what color my tonsils are? I’ll bet the apartment!",
+      "isUncut": false
+    },
+    {
+      "id": "2098709c-f621-40d8-aa4b-da060703e5fe",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, I would never bet this apartment. It’s too nice.",
+      "isUncut": false
+    },
+    {
+      "id": "c026e50f-d87e-4cd6-bc0c-9c4a6ab94096",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "b4489abd-a505-47f6-91b8-248d002c7bf9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "6c94756b-94e3-458a-ba79-8d584c67fc68",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey—ooh Pheebs, are they in there?",
+      "isUncut": false
+    },
+    {
+      "id": "dee56248-9234-4613-9187-c3a493990ab0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Umm, yeah, uh-huh, they’re implanted.",
+      "isUncut": false
+    },
+    {
+      "id": "bd7291a3-edef-4609-ab8a-f40ac8f35c2c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "How do you feel?",
+      "isUncut": false
+    },
+    {
+      "id": "710086ba-e0fb-43fd-88f7-e5e36b5ba1d2",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well, freaked. ‘Cause it turns out that the odds are really sucky. And! This is Frank and Alice’s like only shot. Like, they are literally putting all of their eggs in my basket.",
+      "isUncut": false
+    },
+    {
+      "id": "040bad46-08f0-4fa8-8ec0-d37cbcc8ddc7",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, but I bet it works.",
+      "isUncut": false
+    },
+    {
+      "id": "8c2ae9ec-79a9-4f3d-9855-7abd91b4c355",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Really?! How much?!",
+      "isUncut": false
+    },
+    {
+      "id": "e4546a8d-e227-445e-a323-5aea05b24c0f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "All right, I’m gonna go take a pregnancy test, right now.",
+      "isUncut": false
+    },
+    {
+      "id": "30a225f3-a888-4da0-9eef-04b978eeee45",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh wow! You can tell this soon.",
+      "isUncut": false
+    },
+    {
+      "id": "4cec8380-8cc9-45d8-9495-720bb1e28468",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well the doctor says it takes a couple days, but my body’s always been a little faster than Western medicine.",
+      "isUncut": false
+    },
+    {
+      "id": "a59a6077-0004-4f2b-b494-1b266400ab61",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God! I can’t believe you guys are actually think you’re moving in here!",
+      "parenthetical": "entering from Chandler’s bedroom, I guess, and sees the foosball table.",
+      "isUncut": false
+    },
+    {
+      "id": "04b37f5e-e761-4588-8476-9d269bc97392",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well believe it baby!",
+      "isUncut": false
+    },
+    {
+      "id": "3e3d47a1-fdaa-4705-bfe0-95952d051702",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well I-I-I’m not moving.",
+      "isUncut": false
+    },
+    {
+      "id": "854489ca-c08c-4989-840b-dfefb252998c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "69b678c1-9b53-4989-9bcf-f4f22f52b8c7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, it was a stupid bet! We were just playing a game!",
+      "isUncut": false
+    },
+    {
+      "id": "e514db44-6291-4b27-bb6f-3e34a0cc9793",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You can’t just ignore the bet! It’s a bet! You bet and you bet and if you lose, you lose the bet!",
+      "isUncut": false
+    },
+    {
+      "id": "6c951c08-8f42-4ba7-9868-3ad3a357ecbb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Look Rach, we have to move. I mean if they had lost, we would’ve made them get rid of the birds. Right?",
+      "isUncut": false
+    },
+    {
+      "id": "91bf8ceb-7380-4ecb-adfa-d625ee143923",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Noooo.",
+      "isUncut": false
+    },
+    {
+      "id": "e10a7796-589c-410a-8dca-f59204091e61",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right, look, I hate this as much as you, but if it makes you feel better, it’s all your fault.",
+      "isUncut": false
+    },
+    {
+      "id": "3dd24c73-d0ff-4ebc-8762-a126582aab59",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "aed79974-7c35-4108-9075-16403ba432cc",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Chinadolor Bong, come on, we steal that TV Guide every week!",
+      "isUncut": false
+    },
+    {
+      "id": "3df88b3a-9fbc-4249-b381-c8a82e3cf66f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I knew it!",
+      "isUncut": false
+    },
+    {
+      "id": "4ceae3c9-ad7c-46f9-8f2a-370a7e16a396",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t care, I’m not going anywhere.",
+      "isUncut": false
+    },
+    {
+      "id": "ed2c5ed8-ed6a-486d-902e-fdffa7ecda30",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Cool, girl roommate.",
+      "isUncut": false
+    },
+    {
+      "id": "bc2afea5-7e93-4860-926c-f28d27c5e326",
+      "type": "action",
+      "text": "(Phoebe comes in from the bathroom as Rachel sits down in disgust.)",
+      "isUncut": false
+    },
+    {
+      "id": "3ccb6ed8-fea0-4876-86cf-a2d73f768b88",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well?",
+      "isUncut": false
+    },
+    {
+      "id": "bab64341-6512-4d23-bc0e-a381c3608ccb",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Nope, not knocked up yet.",
+      "isUncut": false
+    },
+    {
+      "id": "b67ac6f0-0702-446f-a4be-407d4e7b4ac5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "It’s only been a couple of hours, so just give it some time.",
+      "isUncut": false
+    },
+    {
+      "id": "14fbfe39-e85e-41e6-a18f-e8b96edb0c0e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, all right. Meanwhile, I’m gonna do whatever I can to help this so, I’m just gonna y’know, lie it your chair, (She climbs into the chair and drapes her feet over the back of the chair.) Y’know? Yeah, good, I’m let gravity y’know, do its jobs.",
+      "isUncut": false
+    },
+    {
+      "id": "4eede049-f492-42c5-b65d-5c4deda9b409",
+      "type": "transition",
+      "text": "[Cut too later, the moving process is progressing steadily. Monica is trying to lift a heavy box, as Rachel comes in from Chandler’s bedroom.]"
+    },
+    {
+      "id": "05bad646-7a1f-4d99-9743-3940a88e6acf",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, Rach, can you give me a hand with this box?",
+      "isUncut": false
+    },
+    {
+      "id": "2ae09efa-c565-4600-b744-feaaa75d944e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No! Put that box down! We are not going anywhere! This is my apartment and I like it! This is a girl’s apartment! That is a boy’s apartment, it’s dirty and it smells. This is pretty. It’s-it’s so pretty! And look, and it’s-it’s purple! And I’m telling you, you with the steady hand, I am not moving, and now I have got the steady hand. (She holds out her hand, which is shaking uncontrollably.)",
+      "isUncut": false
+    },
+    {
+      "id": "945a3fa9-2ea7-4ce5-a973-51094c095487",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I’ll take care of it.",
+      "isUncut": false
+    },
+    {
+      "id": "4aedeed1-3f1b-4153-bd61-eddfc9911b5c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That’s right! You do what the hand says!",
+      "isUncut": false
+    },
+    {
+      "id": "a29d7b10-47a4-4bdd-8ee4-8f6c164ad47b",
+      "type": "transition",
+      "text": "[Cut to later, Phoebe is still in the chair and Rachel is laying down as Monica enters.]"
+    },
+    {
+      "id": "35086bd9-35ae-4bbb-bce5-d72d33f39da3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "How did it go?",
+      "isUncut": false
+    },
+    {
+      "id": "72471395-de1a-42c1-872f-9ec42dc6daa9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I lost our mattresses.",
+      "isUncut": false
+    },
+    {
+      "id": "b0a7c363-25c6-438b-b467-aea3135cba0d",
+      "type": "transition",
+      "text": "[Cut to still later, Rachel has now resigned herself to move and is now helping Monica. Phoebe is still on the chair.]"
+    },
+    {
+      "id": "1022267d-b15f-4b13-b0de-d2d428369be0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "“ Are you in there little fetus ? In nine will you come great us ? I will buy you some Adidas .”",
+      "parenthetical": "singing",
+      "isUncut": false
+    },
+    {
+      "id": "11b70033-91c6-40b9-b779-22183397d661",
+      "type": "action",
+      "text": "(There’s a knock on the door and Monica answers it.)",
+      "isUncut": false
+    },
+    {
+      "id": "2fe4a1ff-6025-402c-8f12-798a85a3a848",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "0095c23a-3c5f-40e7-8409-67f38e935efa",
+      "type": "dialogue",
+      "speaker": "Frank and Alice",
+      "text": "Hi!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "3e405e4a-e04c-4381-b811-4d6a7ade3633",
+      "type": "dialogue",
+      "speaker": "Alice",
+      "text": "Hi, Phoebe! We were just at the drugstore and we got you a little present.",
+      "isUncut": false
+    },
+    {
+      "id": "5e20bd82-0143-4699-bd43-e0fff91621ce",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh. Oh.",
+      "isUncut": false
+    },
+    {
+      "id": "67a29484-0000-4537-a1f2-07ecd9ea585b",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "Umm, it’s a lollipop and a uh, a home pregnancy test.",
+      "isUncut": false
+    },
+    {
+      "id": "1ac0f2a6-4be9-4e19-ac05-bff9204193f6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, don’t mix those up, you could really ruin that lollipop.",
+      "isUncut": false
+    },
+    {
+      "id": "fd51a882-a1e2-4715-bbfe-e51eb9bf6d18",
+      "type": "dialogue",
+      "speaker": "Alice",
+      "text": "So umm, you feel like taking a test? There’s only one question.",
+      "isUncut": false
+    },
+    {
+      "id": "5bf5f36f-a3a9-41fe-aef6-80860ad3c1d5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "All right, I will. No, I will. But umm, y’know just remember that it’s still really early, okay so, if it says that I’m not pregnant, that doesn’t mean that I’m not gonna get pregnant, okay and, and just please, just so I don’t go completely nuts, just try not put all your hopes on this.",
+      "isUncut": false
+    },
+    {
+      "id": "3a6b9472-6ac2-43a4-88d1-4a00a4ca2a5f",
+      "type": "dialogue",
+      "speaker": "Alice",
+      "text": "Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "54742dd8-5e84-4233-91a1-1888118312db",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "Okay. (They both squeal in expectation.)",
+      "isUncut": false
+    },
+    {
+      "id": "26693df1-9684-4317-a8c7-67000cadd65d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Great. (Goes to take the test.)",
+      "isUncut": false
+    },
+    {
+      "id": "a019cadf-6462-4a83-a1e6-d093bf64ee38",
+      "type": "action",
+      "text": "(The door opens and Joey and Chandler ride in on the big, fake dog in triumph)",
+      "isUncut": false
+    },
+    {
+      "id": "2eccfe96-aaa3-43d1-adff-c2b6c9178273",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know what, you are mean boys, who are just being mean!",
+      "isUncut": false
+    },
+    {
+      "id": "22d42837-89ae-41e3-9c8f-9dd082c70218",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey, don’t get mad at us! No one forced you to raise the stakes!",
+      "isUncut": false
+    },
+    {
+      "id": "b8ddb0d9-1158-4a37-81dd-fd6bb2493448",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That is not true. She did! She forced me!",
+      "isUncut": false
+    },
+    {
+      "id": "fe51f655-c461-41ed-be27-06f071ff57f8",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, we would still be living here if hadn’t gotten the question wrong!",
+      "isUncut": false
+    },
+    {
+      "id": "1a071c75-bca0-4c5e-bf62-c70cd4e2fdf2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well it stupid, unfair question!",
+      "isUncut": false
+    },
+    {
+      "id": "22f18c66-48f3-4db6-87eb-b6e559c181ea",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Don’t blame the questions!",
+      "isUncut": false
+    },
+    {
+      "id": "fe52bc2b-4330-4f28-a34f-3ab1d520ca0d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Would you all stop yelling in our apartment! You are ruining moving day for us!",
+      "isUncut": false
+    },
+    {
+      "id": "b192d8e6-c4cc-4e4d-a2a5-200ca86031ea",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Will you stop calling it your apartment!",
+      "isUncut": false
+    },
+    {
+      "id": "f6c9dd3d-1ee0-42fd-bbdc-974e11b7c153",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "But it is our apartment!",
+      "isUncut": false
+    },
+    {
+      "id": "ec4f6e93-c107-4d99-98a6-ae077acd3667",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No it’s not!",
+      "isUncut": false
+    },
+    {
+      "id": "e366af86-aaee-451f-944d-3fa2c96e5087",
+      "type": "action",
+      "text": "(They all decay into massive bickering as Phoebe returns from the bathroom.)",
+      "isUncut": false
+    },
+    {
+      "id": "5a476d2b-a84f-4c7e-86b2-9f4dfffee19e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You guys! You guys! You’re gonna have a baby! They’re gonna have a baby!",
+      "isUncut": false
+    },
+    {
+      "id": "5ca2c4cc-1a09-4961-b17b-8b425e9dbcf1",
+      "type": "dialogue",
+      "speaker": "Frank",
+      "text": "MY SISTER’S GONNA HAVE MY BABY!!!!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "75b26900-19cf-40c6-b9b7-7e58f7123810",
+      "type": "action",
+      "text": "(They all go over and hug Phoebe.)",
+      "isUncut": false
+    },
+    {
+      "id": "8f89d434-0287-435e-a6ad-245223644558",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, but this can’t be good for the baby.",
+      "isUncut": false
+    },
+    {
+      "id": "c5831f62-830d-42c1-a570-09b0a1ec4aaa",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Oh! (They stop hugging her to let her out and resume the hug without her.)",
+      "isUncut": false
+    },
+    {
+      "id": "88a593f6-25dc-4e46-8d93-9179f40205a6",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "ac59ac24-6ffb-4aa9-967c-45e626d38f69",
+      "type": "scene",
+      "description": "Chandler and Joey’s, erm, Monica and Rachel’s, Monica and Rachel are busy unpacking."
+    },
+    {
+      "id": "e49981ad-f323-4d72-b878-be60aa0c5c9b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t find garbage bags!",
+      "isUncut": false
+    },
+    {
+      "id": "3a92dc9f-9391-4098-bf99-068ca43a29de",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I think I saw some in here.",
+      "isUncut": false
+    },
+    {
+      "id": "76ba3abf-a945-49f2-89c9-036ae29929de",
+      "type": "action",
+      "text": "(She opens a door and they both scream at horror at what’s inside of it.)",
+      "isUncut": false
+    },
+    {
+      "id": "9fc79796-0482-442f-84e2-5bf933d66983",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What is it?!",
+      "isUncut": false
+    },
+    {
+      "id": "c121f6e7-a70d-4e5c-b339-400e25e792d5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know! But maybe if we keep that drawer shut, it’ll die.",
+      "isUncut": false
+    },
+    {
+      "id": "bfdb229f-7381-428d-88fc-8367c063e4a7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t believe we’re living here!",
+      "isUncut": false
+    },
+    {
+      "id": "367c00e7-f26b-45fe-954d-ee8353e33ae0",
+      "type": "scene",
+      "description": "Monica and Rachel’s, erm, Chandler and Joey’s, they’re both unpacked. The big ceramic dog has found a new home in front of the window. Joey screams and runs into the living room."
+    },
+    {
+      "id": "5aa9af67-ec0e-422b-bced-34992c5c0fe2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What?! What-what is it?!",
+      "isUncut": false
+    },
+    {
+      "id": "43cda50a-dd9c-43cd-aabc-4dba0e096236",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Did you see the size of the closets?!",
+      "isUncut": false
+    },
+    {
+      "id": "8aa6a9ac-70f2-4fe4-ab02-26eef6049adb",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I can’t believe we live here!",
+      "isUncut": false
+    },
+    {
+      "id": "4e4ad16f-c2ee-4d1a-8baa-bc0e00b0eba6",
+      "type": "action",
+      "text": "(They both sit down on the chairs and put up the foot rest.)",
+      "isUncut": false
+    },
+    {
+      "id": "d10fc458-1c15-4310-a5b6-e57f1850c3e5",
+      "type": "dialogue",
+      "speaker": "Chandler and Joey",
+      "text": "Awwwww!! (They lean back all the way.) Awwwwwww!!!",
+      "isUncut": false
+    },
+    {
+      "id": "b13c9530-7700-4c97-97ab-8413b45ef6c9",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

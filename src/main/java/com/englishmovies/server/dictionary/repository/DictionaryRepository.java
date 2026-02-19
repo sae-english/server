@@ -1,7 +1,11 @@
 package com.englishmovies.server.dictionary.repository;
 
-import com.englishmovies.server.dictionary.domain.entity.Dictionary;
+import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface DictionaryRepository extends JpaRepository<Dictionary, Long> {
+import java.util.Optional;
+
+public interface DictionaryRepository extends JpaRepository<DictionaryEntity, Long> {
+
+    Optional<DictionaryEntity> findFirstByOrderByIdAsc();
 }

@@ -1,17 +1,20 @@
 package com.englishmovies.server.movies.repository;
 
-import com.englishmovies.server.movies.domain.entity.Episode;
+import com.englishmovies.server.movies.domain.entity.EpisodeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 import java.util.Optional;
 
-public interface EpisodeRepository extends JpaRepository<Episode, Long> {
+public interface EpisodeRepository extends JpaRepository<EpisodeEntity, Long> {
 
-    @Query("SELECT e FROM Episode e JOIN FETCH e.title WHERE e.id = :id")
-    Optional<Episode> findByIdWithTitle(Long id);
+    @Query("SELECT e FROM EpisodeEntity e JOIN FETCH e.work WHERE e.id = :id")
+    Optional<EpisodeEntity> findByIdWithWork(Long id);
 
-    @Query("SELECT e FROM Episode e WHERE e.title.id = :titleId ORDER BY e.season ASC NULLS FIRST, e.episodeNumber ASC")
-    List<Episode> findByTitleIdOrderBySeasonAscEpisodeNumberAsc(Long titleId);
+    @Query("SELECT e FROM EpisodeEntity e JOIN FETCH e.work LEFT JOIN FETCH e.content WHERE e.id = :id")
+    Optional<EpisodeEntity> findByIdWithWorkAndContent(Long id);
+
+    @Query("SELECT e FROM EpisodeEntity e WHERE e.work.id = :workId ORDER BY e.season ASC NULLS FIRST, e.episodeNumber ASC")
+    List<EpisodeEntity> findByWorkIdOrderBySeasonAscEpisodeNumberAsc(Long workId);
 }

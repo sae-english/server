@@ -1,0 +1,2279 @@
+{
+  "season": 1,
+  "episode_number": 18,
+  "episode_title": "118 - The One With All The Poker",
+  "credits": {
+    "writtenBy": "Jeffrey Astrof and Mike Sikowitz.",
+    "transcribedBy": "Dan Silverstein."
+  },
+  "note": "(The whole gang is helping Rachel mail out resumes while whistling the theme from The Bridge on the River Kwai.)",
+  "content": [
+    {
+      "id": "3ed39258-c1bf-49eb-b5c4-234cfdf97594",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, Rach, we’re running low on resumes over here.",
+      "isUncut": false
+    },
+    {
+      "id": "759141b9-acfe-4964-9ca7-ef6aa2c73339",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Do you really want a job with Popular Mechanics ?",
+      "isUncut": false
+    },
+    {
+      "id": "58eb3b69-8654-499b-8e32-b9ef0385618b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, if you’re gonna work for mechanics, those are the ones to work for.",
+      "isUncut": false
+    },
+    {
+      "id": "77048082-5919-445d-bd54-c188da141c63",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey, look, you guys, I’m going for anything here, OK? I cannot be a waitress anymore, I mean it. I’m sick of the lousy tips, I’m sick of being called ‘Excuse me…’",
+      "isUncut": false
+    },
+    {
+      "id": "6605db8c-f06e-43e7-ae7c-16353119c8b6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Rach, did you proofread these?",
+      "isUncut": false
+    },
+    {
+      "id": "4a4554cc-e3aa-4ef1-89e2-b5e2a5f29a2f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh… yeah, why?",
+      "isUncut": false
+    },
+    {
+      "id": "4c05e379-4033-45cc-ba41-fd91a89c345a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, nothing, I’m sure they’ll be impressed with your excellent compuper skills.",
+      "isUncut": false
+    },
+    {
+      "id": "1492513c-92d2-4ff3-b863-4b479222b041",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my Goood! Oh, do you think it’s on all of them?",
+      "parenthetical": "upset",
+      "isUncut": false
+    },
+    {
+      "id": "f1dc9064-5f0b-4eab-8adc-5a0e5306fd69",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh no, I’m sure the Xerox machine caught a few.",
+      "isUncut": false
+    },
+    {
+      "id": "d95e86e0-6d16-4f9b-863b-90a15a531d7e",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "afbee9b7-73c3-4b0e-9cbe-d49cb5341fba",
+      "type": "scene",
+      "description": "Central Perk, Ross and Chandler are sitting at a table. Rachel is working. Monica and Phoebe enter."
+    },
+    {
+      "id": "f5a9896f-d9fe-47c7-9f69-10173c8b7ea6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, guys.",
+      "isUncut": false
+    },
+    {
+      "id": "54230782-643b-4e1e-9b65-ecf6a562406f",
+      "type": "dialogue",
+      "speaker": "Chandler and Ross",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "87c3e62b-19b6-4477-8814-3359316954bb",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey… hi, ladies… uh, can I get you anything? (to Monica, quietly): Did you bring the mail?",
+      "isUncut": false
+    },
+    {
+      "id": "85dbab9f-302b-465f-9e35-1880aa3bbb91",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Lots of responses.",
+      "isUncut": false
+    },
+    {
+      "id": "8bd45e1a-cb6f-4834-aa1b-55c86ccc8104",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": Really? (out loud): Sure, we have scones left! (to Monica): OK, read them to me.",
+      "parenthetical": "to Monica",
+      "isUncut": false
+    },
+    {
+      "id": "353edef6-f6e4-449b-976f-2781cde937b1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": ": Dear Ms. Green, thank you for your inquiry, however… oh… (crumples up letter)",
+      "parenthetical": "reading",
+      "isUncut": false
+    },
+    {
+      "id": "0bbc324e-c6c8-45ba-b236-da164f6fb3a6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": We have apple cinnamon…",
+      "parenthetical": "out loud",
+      "isUncut": false
+    },
+    {
+      "id": "077adea1-d890-45f0-81f4-af8dbc7480e0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": ": OK… Dear Ms. Green… yeah… yeah… yeah… No. (crumpes up letter)",
+      "parenthetical": "reading",
+      "isUncut": false
+    },
+    {
+      "id": "e57553d6-ff31-49cf-b8a8-823f0064d43d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wow!",
+      "isUncut": false
+    },
+    {
+      "id": "f4c5e3a4-be82-482b-a4ae-0750c3e37e0e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "031d1ea6-a299-413b-a6aa-81812445ce62",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": ": Your Visa bill is huge!",
+      "parenthetical": "reading",
+      "isUncut": false
+    },
+    {
+      "id": "0e5db9f8-0b75-429f-86aa-812c766f7258",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Give me that!",
+      "parenthetical": "grabs the bill",
+      "isUncut": false
+    },
+    {
+      "id": "36002c08-d9cf-4d5a-97e2-7e4db90d374e",
+      "type": "action",
+      "text": "(Camera cuts to Chandler and Ross at table.)",
+      "isUncut": false
+    },
+    {
+      "id": "34736f12-763b-4a91-b5be-e7dd4a5e3a3f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You know, I can’t believe you. Linda is so great! Why won’t you go out with her again?",
+      "isUncut": false
+    },
+    {
+      "id": "9e3bd464-e5bf-4bb0-ae93-cae1e31f7008",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t know.",
+      "isUncut": false
+    },
+    {
+      "id": "7a131f98-279d-490c-92f4-59c5dfbf5274",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Is this still about her whole ‘The Flintstones could’ve really happened’ thing?",
+      "isUncut": false
+    },
+    {
+      "id": "b3dc9fa7-e578-4f95-bde7-8a91893d7ddc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, it’s not just that. It’s just—I want someone who… who does something for me, y’know? Who gets my heart pounding, who… who makes me, uh… (begins to stare lovingly at Rachel)",
+      "isUncut": false
+    },
+    {
+      "id": "19c1d3bc-3aeb-4e0d-9f0f-fc6585f9970f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "…little playthings with yarn?",
+      "isUncut": false
+    },
+    {
+      "id": "e9d97028-dd31-4554-be67-298d85b062a3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "5585974f-2bcf-4de7-830a-eb7689bc7bfa",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Could you want her more?",
+      "isUncut": false
+    },
+    {
+      "id": "9e8a6ef0-309e-45a2-9f39-2ba12fc6d99f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Who?",
+      "isUncut": false
+    },
+    {
+      "id": "dd26269d-6f20-4260-a4e1-03a56c79e32b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Dee, the sarcastic sister from Whats Happening .",
+      "parenthetical": "sarcastically",
+      "isUncut": false
+    },
+    {
+      "id": "4a508edf-f747-49ee-9ba4-74643f151ca5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Look, I am totally, totally over her, OK, I just… (Rachel comes over, Ross lays head on table): Hiiii!",
+      "isUncut": false
+    },
+    {
+      "id": "2bdeab24-e6b2-49f7-b836-2b668b5b1c5a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi! How are you?",
+      "isUncut": false
+    },
+    {
+      "id": "718101cb-3b53-462b-a460-8f3baffe8815",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "We’re fine, we’re fine.",
+      "isUncut": false
+    },
+    {
+      "id": "924f7650-c8c2-4981-8c6f-50453c87edac",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK. (walks away)",
+      "isUncut": false
+    },
+    {
+      "id": "ae407b9e-73d7-462d-b0d3-c16575ff324a",
+      "type": "action",
+      "text": "(Ross keeps staring at her, head on table. Chandler smacks him with a newspaper. Joey enters, Ross and Chandler laugh at him.)",
+      "isUncut": false
+    },
+    {
+      "id": "c2986a6c-75f8-46ab-90a8-33ecd172283b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Shut up!",
+      "isUncut": false
+    },
+    {
+      "id": "61ee2dab-8cdb-4307-9e9a-ae904a71d9dc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "We’re not—we’re not saying anything.",
+      "isUncut": false
+    },
+    {
+      "id": "e02e97fb-656a-44cd-958c-4498955f73ce",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "775f4a2a-8d88-40b5-86d9-5d1dc2de6b20",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uhhhh… Joey cried last night.",
+      "isUncut": false
+    },
+    {
+      "id": "6573cb70-b33b-4c92-8e28-5607f31e50c3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "3b9c87b9-87c0-46b7-b4ef-792d5c40c472",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "We were playing poker, alright…",
+      "parenthetical": "to the girls",
+      "isUncut": false
+    },
+    {
+      "id": "8bb6bdbf-b001-4da3-9f06-e369bcd71cc2",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "There was chocolate on the three. It looked like an eight, alright?",
+      "isUncut": false
+    },
+    {
+      "id": "aaef0c87-467e-48ef-a41f-007a4ab649b4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, guys, you should’ve seen him. ’read ’em and weep.’",
+      "isUncut": false
+    },
+    {
+      "id": "1299eaa7-e0d7-4286-a752-5317dd1b8b86",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "And then he did.",
+      "isUncut": false
+    },
+    {
+      "id": "49eb44b7-1bc9-49f3-99d4-e00d14646053",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, now, how come you guys have never played poker with us?",
+      "isUncut": false
+    },
+    {
+      "id": "33038be7-3bf1-4b5b-bc9f-82f0caeffd13",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it’s poker, so only guys can play?",
+      "isUncut": false
+    },
+    {
+      "id": "eb24b73b-2c5d-4c87-8c2c-12901af8925b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, women are welcome to play.",
+      "isUncut": false
+    },
+    {
+      "id": "2a632ed2-720a-4af1-8231-08023bf13403",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, OK, so then what is it? Some kind of… you know, like, like… some kind of, y’know, like… alright, what is it?",
+      "isUncut": false
+    },
+    {
+      "id": "b3273320-c31a-4cc4-8919-467f3265de98",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "There just don’t happen to be any women in our games.",
+      "isUncut": false
+    },
+    {
+      "id": "bb441823-d1c2-402d-8605-98cbb681fcc8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, we just don’t happen to know any women that know how to play poker.",
+      "isUncut": false
+    },
+    {
+      "id": "9d02bf4d-50c6-4926-82df-a9b60a638c21",
+      "type": "dialogue",
+      "speaker": "Girls",
+      "text": "Oh, yeah, right.",
+      "isUncut": false
+    },
+    {
+      "id": "e24d3e1a-b61c-4cb7-857e-af17c3aad934",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, please, that is such a lame excuse!",
+      "isUncut": false
+    },
+    {
+      "id": "bb0d5e3e-ff04-4539-898f-ec83380cb61c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really.",
+      "isUncut": false
+    },
+    {
+      "id": "eb05fff5-f8ee-480a-974b-02eba523ff96",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I mean, that’s a typical guy response.",
+      "isUncut": false
+    },
+    {
+      "id": "694babda-e863-435c-b058-aa3e60fd055a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Excuse me, do any of you know how to play?",
+      "isUncut": false
+    },
+    {
+      "id": "804e07fb-f11f-430b-a71f-875e22ea98b0",
+      "type": "dialogue",
+      "speaker": "Girls",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "1f04aac9-c6b2-4c42-8ee2-a1622aef79bf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "But you could teach us.",
+      "isUncut": false
+    },
+    {
+      "id": "cf89ac7d-1bcc-431c-8cfc-b2297fd055fe",
+      "type": "dialogue",
+      "speaker": "Guys",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "066b1545-08eb-43a1-a183-2f21b9fd8eee",
+      "type": "scene",
+      "description": "Monica and Rachel’s, the guys are teaching the girls how to play poker."
+    },
+    {
+      "id": "399f2ff0-eff6-4ca3-814e-f77b10e70bcd",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "OK, so now we draw cards.",
+      "parenthetical": "teaching",
+      "isUncut": false
+    },
+    {
+      "id": "7ab01093-d580-4569-840f-19e591c66361",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So I wouldn’t need any, right? Cause I have a straight.",
+      "isUncut": false
+    },
+    {
+      "id": "2fb53d37-5058-4dea-8363-94660e03e393",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, good for you!",
+      "isUncut": false
+    },
+    {
+      "id": "c822713d-a008-426a-9a77-2cec7f3e19e7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Congratulations!",
+      "isUncut": false
+    },
+    {
+      "id": "232fc0fd-54df-417e-bdd2-30fc08376b40",
+      "type": "action",
+      "text": "(Microwave timer goes off. Monica gets up.)",
+      "isUncut": false
+    },
+    {
+      "id": "0e39f472-e5e5-4d32-a5c8-ec2418abfb22",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "OK Phoebs, how many do you want?",
+      "isUncut": false
+    },
+    {
+      "id": "c6c740b5-aa4f-4485-a5fd-06f234c377d1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "OK, I just need two… the, um, ten of spades and the six of clubs.",
+      "isUncut": false
+    },
+    {
+      "id": "a1517fa5-ed69-42bc-afc6-a0b1a3ccac4e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No. No, uh, Phoebs? You can’t—you can’t do…",
+      "isUncut": false
+    },
+    {
+      "id": "0dc85cb9-42b0-4d55-832a-f88648b7e956",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh wait, I have the ten of spades! Here! (gives it to Phoebe)",
+      "isUncut": false
+    },
+    {
+      "id": "1f0fde82-98b3-46df-bd4e-f96021490427",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, no. Uh… no, see, uh, you-you can’t do that.",
+      "isUncut": false
+    },
+    {
+      "id": "8af6020d-f138-4b12-b7b9-6fb6562273cd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, no-no-no-no-no-no, that’s OK, I don’t need them. I’m going for fours.",
+      "isUncut": false
+    },
+    {
+      "id": "ce2219a8-761e-4d53-a258-6ce55e7870ce",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, you’re… (gives up)",
+      "isUncut": false
+    },
+    {
+      "id": "f0f05ac2-ed8a-4f4d-a3af-47a94b331a6f",
+      "type": "action",
+      "text": "(Monica comes back to the table with plates of food.)",
+      "isUncut": false
+    },
+    {
+      "id": "b58ec63e-ec12-4e25-8cdd-6a989b263938",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright, here we go. We’ve got salmon roulettes and assorted crudites.",
+      "isUncut": false
+    },
+    {
+      "id": "4e73dfb6-6f19-4e7d-883f-f3946395856d",
+      "type": "dialogue",
+      "speaker": "Phoebe and Rachel",
+      "text": "OOooooo!",
+      "isUncut": false
+    },
+    {
+      "id": "0f0fcaac-6a81-4025-9c73-dc789d284258",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Whoa, whoa, whoa, Monica, what’re you doin’? This is a poker game. You can’t serve food with more than one syllable. It’s gotta be like chips, or dip, or pretz…(look of realization)",
+      "isUncut": false
+    },
+    {
+      "id": "40991d34-5ddf-4aa0-b3dc-0d9a69f1cfe2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "OK, so at this point, the dealer…",
+      "parenthetical": "changing subject",
+      "isUncut": false
+    },
+    {
+      "id": "98fa7e50-889a-4a24-873f-620eca80cd88",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright, you know, we got it, we got it. Let’s play for real. High stakes… big bucks…",
+      "isUncut": false
+    },
+    {
+      "id": "fdc8d2f6-fcc2-4aa9-a9c4-c6d88c133e43",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright, now, you sure? Phoebe just threw away two jacks because they didn’t look happy…",
+      "isUncut": false
+    },
+    {
+      "id": "51bd0f75-e4d8-4c68-add1-296878f6d7bb",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "But… I’m ready, so, just deal.",
+      "isUncut": false
+    },
+    {
+      "id": "ac775abe-9766-4dc6-8a80-de0eadeb4dc8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "OK, alright, last minute lesson, last minute lesson. (holds up two cards) Joey… three… eight. Eight… three. (Joey is unamused) Alright babe, deal the cards.",
+      "isUncut": false
+    },
+    {
+      "id": "52701d46-c0bb-4d1e-97f1-27b073b7ad07",
+      "type": "action",
+      "text": "(Time lapse.)",
+      "isUncut": false
+    },
+    {
+      "id": "17172e29-4528-49b0-9d04-d5e109bcf1f1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Dammit, dammit, dammit!",
+      "parenthetical": "throws down her cards",
+      "isUncut": false
+    },
+    {
+      "id": "7a3a4c08-6df2-47d1-8d03-984af3cfca87",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": ": Oh I see, so then, you were lying.",
+      "parenthetical": "to Joey",
+      "isUncut": false
+    },
+    {
+      "id": "1841a7ba-9a66-451f-b28b-29f0599d23f9",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "About what?",
+      "isUncut": false
+    },
+    {
+      "id": "d94fcb02-1baf-4a91-8805-edf4e3c21c45",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "About how good your cards were.",
+      "isUncut": false
+    },
+    {
+      "id": "d955049e-348c-4559-aa86-b3fbce15e10f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Heh… I was bluffing .",
+      "isUncut": false
+    },
+    {
+      "id": "69694540-a4b3-4b5c-9e0e-846fd39abddd",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "A-ha! And… what is bluffing? Is it not another word for… lying?",
+      "isUncut": false
+    },
+    {
+      "id": "03781185-0052-4e61-ab3d-d841c310408e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK, sorry to break up this party, but I’ve got resumes to fax before work tomorrow… (gets up to leave)",
+      "isUncut": false
+    },
+    {
+      "id": "475ba204-1f7a-44c6-a3b3-740127651808",
+      "type": "dialogue",
+      "speaker": "Guys",
+      "text": "Whoa, whoa, whoa!",
+      "isUncut": false
+    },
+    {
+      "id": "f34106ac-dd6a-42af-b66a-e8c9a4df1657",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Rach, Rach, we gotta settle.",
+      "isUncut": false
+    },
+    {
+      "id": "e022934f-be39-4e31-9878-352f57289ab6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Settle what?",
+      "isUncut": false
+    },
+    {
+      "id": "28ba01d3-e788-4b16-8167-a5bbe6f203ad",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "The… Jamestown colony of Virginia. You see, King George is giving us the land, so…",
+      "isUncut": false
+    },
+    {
+      "id": "490840dc-a817-4d47-bbef-6b1da9a51dc3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "The game, Rachel, the game. You owe us money for the game.",
+      "isUncut": false
+    },
+    {
+      "id": "0da4665a-1f98-4437-997e-f866dff1cee8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh. Right.",
+      "isUncut": false
+    },
+    {
+      "id": "efeacc3d-68b9-45ea-8642-c14a2e698fb5",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You know what, you guys? It’s their first time, why don’t we just forget about the money, alright?",
+      "isUncut": false
+    },
+    {
+      "id": "948b6059-b85b-49db-8c68-ef73b0d56300",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hell no, we’ll pay!",
+      "isUncut": false
+    },
+    {
+      "id": "ec4e66b3-5ab9-40a9-bb07-b94d23a628c0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "OK, Monica? I had another answer all ready.",
+      "isUncut": false
+    },
+    {
+      "id": "8420c229-b826-460b-aba5-a1fe857c3949",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And you know what? We want a rematch.",
+      "isUncut": false
+    },
+    {
+      "id": "f1c5c141-013c-43e5-bf3e-7bd0c18aa3ce",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well that’s fine with me. Could use the money.",
+      "isUncut": false
+    },
+    {
+      "id": "01f0db2a-50b2-4d6a-b366-4b78080812e7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": So basically, you get your ya-yas by taking money from all of your friends.",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "b005adf3-18cd-442c-abe5-2f2f4f9cfc14",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…Yeah.",
+      "parenthetical": "pause",
+      "isUncut": false
+    },
+    {
+      "id": "9b6ecd97-26d0-4255-8f0d-a6dd6fbbda70",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes, and I get my ya-yas from Ikea . You have to put them together yourself, but they cost a little less.",
+      "isUncut": false
+    },
+    {
+      "id": "df6a8cf1-8291-4775-906e-09f30d1d2009",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you’re gonna play poker with me, don’t expect me to be a ‘nice guy,’ OK? Cause once those cards are dealt… (claps hands three times)",
+      "isUncut": false
+    },
+    {
+      "id": "2ffacf8e-3c57-49e5-a04f-f2656f4adf64",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "…Yeah?",
+      "parenthetical": "pause",
+      "isUncut": false
+    },
+    {
+      "id": "532f69b9-3d7f-4882-ad64-8c2084bfb92f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m not a nice guy.",
+      "isUncut": false
+    },
+    {
+      "id": "20f445d5-94a1-4180-b910-0e28aed02f62",
+      "type": "scene",
+      "description": "Ross’ apartment. Chandler and Joey are there. Ross enters with a pizza."
+    },
+    {
+      "id": "5a97bdc8-4fc2-4a8c-8fcf-11d972b4d7eb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright boys, let’s eat.",
+      "isUncut": false
+    },
+    {
+      "id": "d39de9cc-d3bc-4d73-9f38-27f44b70cc5a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, did you get that from the ‘I Love Rachel’ pizzeria?",
+      "isUncut": false
+    },
+    {
+      "id": "9a4913b4-34f2-4e98-b9ce-2ade7b8d2424",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You still on that?",
+      "isUncut": false
+    },
+    {
+      "id": "5445dbcb-22f5-4b43-8eaa-881fdbcb6edc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, come on. What was with that whole Black Bart speech? (mimicking): ”When I play poker, I’m not a nice guy!”",
+      "isUncut": false
+    },
+    {
+      "id": "69a0af41-aade-48cf-8afc-e1fcb81399df",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You are way off, pal.",
+      "isUncut": false
+    },
+    {
+      "id": "6de8d544-8ca1-4fc3-922f-0cc486e20af1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No, I don’t think so, see Ross, because I think you love her.",
+      "isUncut": false
+    },
+    {
+      "id": "5de229e8-c6c5-49f9-8f32-d74f776bce78",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Um… no. See, I might’ve had feelings for her at one time—not any more. I just—I…",
+      "isUncut": false
+    },
+    {
+      "id": "7408b5dd-0dc0-4a8d-a2e8-f2d1d7d39548",
+      "type": "action",
+      "text": "(Marcel makes a screeching noise in background.)",
+      "isUncut": false
+    },
+    {
+      "id": "bb61b5c1-37c5-49d2-af3f-2c286a170955",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel! Where are you going with that disc?",
+      "isUncut": false
+    },
+    {
+      "id": "2d166951-f1ab-451a-a59a-e794477a65bb",
+      "type": "action",
+      "text": "(Marcel puts a CD in the player.)",
+      "isUncut": false
+    },
+    {
+      "id": "3264b1c2-8a25-4265-8b59-eee7bd896976",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You are not putting that on again! Marcel, OK—if you press that button, you are in very, very big trouble.",
+      "isUncut": false
+    },
+    {
+      "id": "7662dc8f-77e9-49f4-a266-186044d185c1",
+      "type": "action",
+      "text": "(The Lion Sleeps Tonight starts to play. Marcel starts to dance.)",
+      "isUncut": false
+    },
+    {
+      "id": "a2b586f3-efe4-4b8d-b215-811a650ddf4f",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Rachel, Monica, and Phoebe are there."
+    },
+    {
+      "id": "c8dfef39-65fb-4cf2-b436-c25417c36121",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Can you believe what a jerk Ross was being?",
+      "parenthetical": "opening mail",
+      "isUncut": false
+    },
+    {
+      "id": "814c81cc-d880-4bc1-92d0-798d68ab9461",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah, I know. He can get really competitive.",
+      "isUncut": false
+    },
+    {
+      "id": "67364eec-8b99-4463-9d0a-ec6271444090",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ha. Ha, ha.",
+      "isUncut": false
+    },
+    {
+      "id": "ced2107b-2247-4937-963e-8e1e1563835d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "cdd17804-851d-410d-8f0f-97c2e738bd88",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, hello, kettle? This is Monica. You’re black.",
+      "isUncut": false
+    },
+    {
+      "id": "797cc3ed-0da2-4609-a08e-666d4a90e175",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Please! I am not as bad as Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "d02b5189-0c25-490f-846e-3d94ef0540f4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I beg to differ. The Pictionary incident?",
+      "isUncut": false
+    },
+    {
+      "id": "f577bc99-c56a-4991-9aad-086a1ac4de64",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.",
+      "isUncut": false
+    },
+    {
+      "id": "591ba590-1deb-4e1b-a56d-a70f98a33a12",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oooooh. (reads letter) (surprised): Oh! I got an interview! I got an interview!",
+      "isUncut": false
+    },
+    {
+      "id": "5868a165-95e9-4bd7-953d-608bb639e440",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re kidding! Where? Where?",
+      "isUncut": false
+    },
+    {
+      "id": "98361dcc-af00-4238-a05f-e45c5bc5cd0f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": Sak’s… Fifth… Avenue.",
+      "parenthetical": "in disbelief",
+      "isUncut": false
+    },
+    {
+      "id": "a30f15bc-f5f5-4620-a17d-51ee558c59a2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, Rachel!",
+      "isUncut": false
+    },
+    {
+      "id": "84a2cd24-84be-4a42-9428-cd1061295076",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, it’s like the mother ship is calling you home.",
+      "isUncut": false
+    },
+    {
+      "id": "cd1b1b3b-eeca-4c2e-86e4-bd86ced33a15",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, what’s the job?",
+      "isUncut": false
+    },
+    {
+      "id": "503198a0-d817-4ae9-b92e-3a101d612da4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Assistant buyer. Oh! I would be shopping… for a living!",
+      "isUncut": false
+    },
+    {
+      "id": "267ade67-9a7f-406e-a833-e0784367f232",
+      "type": "action",
+      "text": "(Knock on door.)",
+      "isUncut": false
+    },
+    {
+      "id": "baab1663-7687-4fdf-86d3-94c08bc4da83",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. (opens door) Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "fcda4fb4-24e0-46d6-8404-109f72dc2884",
+      "type": "dialogue",
+      "speaker": "Aunt Iris",
+      "text": "Is Tony Randall dead?",
+      "isUncut": false
+    },
+    {
+      "id": "79c3679a-322f-43a6-9f36-d96ee580de52",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "ebfa7a0f-208b-4def-8435-4da1ce0bce44",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I don’t think so.",
+      "isUncut": false
+    },
+    {
+      "id": "ee14d1a5-1e1f-4241-9b68-3a2acff4ca0c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Why?",
+      "isUncut": false
+    },
+    {
+      "id": "41276502-7de9-41d1-be31-f533231152f7",
+      "type": "dialogue",
+      "speaker": "Aunt Iris",
+      "text": "Well, he may be now, because I think I hit him with my car.",
+      "isUncut": false
+    },
+    {
+      "id": "15429581-de89-41bc-be0d-d3f988276d83",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "4e908bef-0593-4e05-9df4-e95c912110d2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God!",
+      "isUncut": false
+    },
+    {
+      "id": "bb2c89a8-f451-474e-9398-bf42769886f6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "159a587f-37df-4c25-b6af-0370df3a7cc3",
+      "type": "dialogue",
+      "speaker": "Aunt Iris",
+      "text": "No! That’s bluffing. Lesson number one. (walks into kitchen) Let me tell you something… everything you hear at a poker game is pure crap. (to Phoebe): Nice earrings.",
+      "isUncut": false
+    },
+    {
+      "id": "cc7be739-3dff-4a73-b112-e42c1c0225d3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Thank y… (thinks about it)",
+      "isUncut": false
+    },
+    {
+      "id": "8485141d-70be-4993-a4dc-80802deaf15f",
+      "type": "dialogue",
+      "speaker": "Aunt Iris",
+      "text": "Girls, sit down.",
+      "isUncut": false
+    },
+    {
+      "id": "c1996760-f1db-453a-8f20-a39641a640de",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Uh, Aunt Iris? This is Phoebe, and that’s Rachel…",
+      "isUncut": false
+    },
+    {
+      "id": "b4878cf4-064c-4de7-adf6-d868d7bcd22f",
+      "type": "dialogue",
+      "speaker": "Aunt Iris",
+      "text": "Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let’s do it.",
+      "isUncut": false
+    },
+    {
+      "id": "7746fce7-e0a4-47ae-97df-42abdaaec4c3",
+      "type": "scene",
+      "description": "[Scene: Ross’s apartment, everyone but Rachel is seated around his table. The Lion Sleep Tonight plays in the background.]"
+    },
+    {
+      "id": "bfbe66c0-c5fd-4e1b-9bfd-c3f809753cbe",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ross, could we please, please, please listen to anything else?",
+      "isUncut": false
+    },
+    {
+      "id": "4d656d7e-f6c8-485b-bcdf-39224c996184",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright.",
+      "isUncut": false
+    },
+    {
+      "id": "1af1856f-498b-4c42-aeb8-5df9042df0dc",
+      "type": "action",
+      "text": "(Ross shuts off the CD player. Marcel runs into the bedroom and slams the door.)",
+      "isUncut": false
+    },
+    {
+      "id": "b8d282e2-4a08-4736-82e7-a6573a32e314",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m gonna pay for that tonight.",
+      "isUncut": false
+    },
+    {
+      "id": "5a098b3e-39a2-4faa-9ca8-42175b401cba",
+      "type": "action",
+      "text": "(Knock on door. Ross opens it. Rachel enters.)",
+      "isUncut": false
+    },
+    {
+      "id": "a12a04a5-42c6-4437-9239-16ba52d5688d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "9dccb430-0366-4000-a1f9-daf02f3d318b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "5814f5ed-cd57-4167-b09e-dcb80ec1c593",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Guys! Guess what, guess what, guess what, guess what!",
+      "isUncut": false
+    },
+    {
+      "id": "56fb7d56-ca79-45dc-9b0d-311be32621dc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Um, ok… the… the fifth dentist caved and now they’re all recommending Trident ?",
+      "isUncut": false
+    },
+    {
+      "id": "90c92832-c97a-4aba-bc61-f4cd62b3f2c4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Noooo… the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and—oh, I went to camp with her cousin… And, oh, the job is perfect. I can do this. I can do this well!",
+      "isUncut": false
+    },
+    {
+      "id": "118cafd9-31be-4344-8271-981315f1cd2a",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "That’s great! That’s wonderful!",
+      "isUncut": false
+    },
+    {
+      "id": "240f01e5-01f9-4100-9eb0-6b3bf9b19fb9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh God, oh, and then she told the funniest story…",
+      "isUncut": false
+    },
+    {
+      "id": "7dadcb41-3041-4f82-9f9f-4c387f0a6899",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "OK, great. You’ll tell us and we’ll laugh. Let’s play poker.",
+      "isUncut": false
+    },
+    {
+      "id": "0dbc89da-2ca0-41f7-bb82-226121db4271",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Alright now listen, you guys, we talked about it, and if you don’t want to play, we completely understand.",
+      "isUncut": false
+    },
+    {
+      "id": "f8e02c8d-dd6a-4d2a-a184-26dcc3d32e2e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh yes, yes, we could play some other game… like, uh, I don’t know… Pictionary ?",
+      "isUncut": false
+    },
+    {
+      "id": "06cb5f33-eb4b-4171-87fb-62c91dd98c7b",
+      "type": "action",
+      "text": "(The guys all duck under the table.)",
+      "isUncut": false
+    },
+    {
+      "id": "6737b06a-238c-4a16-8462-82fdad45b42a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ha, ha, very funny, very funny. But I think we’d like to give poker another try. Shall we, ladies?",
+      "isUncut": false
+    },
+    {
+      "id": "6925c3ed-6269-46b9-8650-67975687fe73",
+      "type": "dialogue",
+      "speaker": "Phoebe and Rachel",
+      "text": "Yes, we should. I think we should.",
+      "isUncut": false
+    },
+    {
+      "id": "15d879c8-1592-408b-8e9a-aa7a7110c8da",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, Rach, do you want me to shuffle those?",
+      "isUncut": false
+    },
+    {
+      "id": "4cb367a6-08bf-4ed2-85ce-2a777714ef03",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, no, thats OK. Y’know, I think I’m gonna give it a go.",
+      "isUncut": false
+    },
+    {
+      "id": "56892677-d838-49e1-96a7-d84e70d11731",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright.",
+      "isUncut": false
+    },
+    {
+      "id": "0c9ac7d5-0f76-4f34-b17f-c8174a5054f4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Alright… (shuffles cards expertly, all the guys stare in amazement)",
+      "isUncut": false
+    },
+    {
+      "id": "8aba9011-0dfd-47c6-a0dc-f26a425cae35",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "bbffd4f9-6d73-4be1-bbb7-ba73ff74f6e7",
+      "type": "scene",
+      "description": "Ross’s Apartment, continued from earlier."
+    },
+    {
+      "id": "b15f4e45-3471-46d8-964f-57bf7052dc8a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.",
+      "isUncut": false
+    },
+    {
+      "id": "344b34c0-3d7d-49bf-8f7a-ccadaa425480",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "But hey, thanks for teachin’ us Cross-Eyed Mary. You guys, we gotta play that at our regular game.",
+      "isUncut": false
+    },
+    {
+      "id": "53641626-1219-4886-858f-f6c6621c50e8",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Alright, here’s my $7.50. (Hands them the money) But I think you should know that this money is cursed.",
+      "isUncut": false
+    },
+    {
+      "id": "f7ed9f08-c527-4d61-b220-3fc2a1638f43",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "202add0e-1758-419a-9eea-48ed36312776",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, I cursed it. So now bad things will happen to he who spends it.",
+      "isUncut": false
+    },
+    {
+      "id": "0fab9649-482b-41b2-bc40-f8627e6caba4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "That’s alright, I’ll take it. Bad things happen to me anyway. This way I can break ’em up with a movie.",
+      "isUncut": false
+    },
+    {
+      "id": "02312f75-6644-4c3c-a079-57ef7e5d0812",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, that just leaves the big Green poker machine, who owes fifteen…",
+      "isUncut": false
+    },
+    {
+      "id": "4fb3057a-7781-42c2-ba7c-0d6afa23d384",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Mmm-hmmm. Oh, so typical. Ooo, I’m a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women. (hands over her money)",
+      "isUncut": false
+    },
+    {
+      "id": "bbe16fe4-ded4-4142-a4a1-caf741f0f080",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever .",
+      "isUncut": false
+    },
+    {
+      "id": "7d06e23d-2d97-44be-baed-f33e2be6f6cd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hmm. Kinda stepped on my point there, Mon.",
+      "isUncut": false
+    },
+    {
+      "id": "f24dd186-f4b7-4b0e-879b-8f73ffc7bd21",
+      "type": "scene",
+      "description": "Monica and Rachel’s, everyone is there ready for another poker game."
+    },
+    {
+      "id": "deef6e72-adaa-49b8-873d-a6564a6e502e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So, you gals wanna hand over your money now? That way, we don’t have to go through the formality of actually playing.",
+      "isUncut": false
+    },
+    {
+      "id": "83598585-4dab-4eb8-8245-a40cffd0d31e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ooooh, that’s fine. We’ll see who has the last laugh there, monkey boy.",
+      "isUncut": false
+    },
+    {
+      "id": "b84522f1-1856-40b8-ac48-c209ab2b24ae",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "OK, we done with the chit-chat? Are we ready to play some serious poker?",
+      "isUncut": false
+    },
+    {
+      "id": "c8f8774a-db34-4a85-b771-9b1058119b36",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey you guys, look, the one-eyed jack follows me wherever I go. (they look at her) Right, OK, serious poker.",
+      "parenthetical": "holding a card and waving it in front of her face",
+      "isUncut": false
+    },
+    {
+      "id": "b8d14c02-2bd5-4162-a61a-097d2cdef636",
+      "type": "action",
+      "text": "(Ross gets up from the table.)",
+      "isUncut": false
+    },
+    {
+      "id": "8ffadeba-3941-4205-8d58-d55bc83f12e0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Excuse me, where are you going?",
+      "isUncut": false
+    },
+    {
+      "id": "32dd5dbe-e753-4f6f-acb5-9bf28e518366",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh… to the bathroom.",
+      "isUncut": false
+    },
+    {
+      "id": "7bfe56e1-b78a-455b-a06e-e0f25d808afd",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Do you want to go to the bathroom, or do you wanna play poker?",
+      "isUncut": false
+    },
+    {
+      "id": "6606a8d3-c252-42ce-8132-80f341ef6a03",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I want to go to the bathroom. (exits)",
+      "isUncut": false
+    },
+    {
+      "id": "34a7ab91-f75d-4963-958e-e72f75722052",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Alright, well, I’m gonna order a pizza. (gets up)",
+      "isUncut": false
+    },
+    {
+      "id": "a92dec29-6bc0-4b2f-a2c3-6031906b6794",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh no-no-no-no-no, I’m still waiting to hear from that job and the store closes at nine, so you can eat then.",
+      "isUncut": false
+    },
+    {
+      "id": "27e193f9-e4a1-4b09-996c-8b8225e4d31c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s fine. I’ll just have a Tic-Tac to hold me over.",
+      "isUncut": false
+    },
+    {
+      "id": "208799fb-5da2-47e1-85d5-db88357bd6e5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright, Cincinnati, no blinds, everybody ante. (deals cards)",
+      "isUncut": false
+    },
+    {
+      "id": "f7afa666-d4ec-4b8a-8339-f00f7d257e0e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yes! (everyone looks at her) … or no.",
+      "parenthetical": "looks at her cards",
+      "isUncut": false
+    },
+    {
+      "id": "2f45308f-f9aa-41ec-9249-ae318e014a39",
+      "type": "action",
+      "text": "(Ross comes back from bathroom.)",
+      "isUncut": false
+    },
+    {
+      "id": "d4be49ae-c72f-4e55-b96b-ed79a7762c74",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright. (to Rachel): Your money’s mine, Green.",
+      "isUncut": false
+    },
+    {
+      "id": "5945b957-e625-4582-9b0c-ea059983db03",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Your fly is open, Geller. (he checks it, and zips up)",
+      "isUncut": false
+    },
+    {
+      "id": "34a639ec-6d98-4398-b915-5a8079b28a3c",
+      "type": "action",
+      "text": "(Time lapse.)",
+      "isUncut": false
+    },
+    {
+      "id": "4be33299-b638-4212-8ad9-fcbacc367fef",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You guys, you know what I just realized? ‘Joker’ is ‘poker’ with a ‘J.’ Coincidence?",
+      "isUncut": false
+    },
+    {
+      "id": "49e0431e-8ded-499f-b7b1-73c23f2cd390",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey, that’s… that’s ‘joincidence’ with a ‘C’!",
+      "isUncut": false
+    },
+    {
+      "id": "4940f04d-e506-43ae-9988-35b4b9a0ac71",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Uh… Phoebe? Phoebe?",
+      "isUncut": false
+    },
+    {
+      "id": "d7c3f70a-08ed-46ae-935e-476bc4211190",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah. Um… I’m out. (throws in cards)",
+      "isUncut": false
+    },
+    {
+      "id": "e2115474-727d-4b5b-8d93-302bfbec726d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m in.",
+      "isUncut": false
+    },
+    {
+      "id": "c2997ebc-d8f3-4374-bf2a-1205a3617e6f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Me too.",
+      "isUncut": false
+    },
+    {
+      "id": "5183e20c-3daa-490c-bad4-cb8f69c58aca",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Me too. Alright, whattaya got.",
+      "isUncut": false
+    },
+    {
+      "id": "d9992d68-afb0-4d5d-94a4-4a8c59997c01",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, you better hop outta the shower, cause… I gotta flush. (lays down cards)",
+      "isUncut": false
+    },
+    {
+      "id": "06a78d60-ea5b-49cb-94ee-167d1a26e8c5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, well, well, hop back in bucko, cause I got four sixes! (lays down cards) I won! I actually won! Oh my God! Y’know what? (collects chips) I think I’m gonna make a little Ross pile. (holds up a chip) I think that one was Ross’s, and I think—oh—that one was Ross’s. Yes! (Starts singing): Well, I have got your money, and you’ll never see it …",
+      "isUncut": false
+    },
+    {
+      "id": "ec7c5415-9bf0-4e80-bc46-f8ffdad44772",
+      "type": "action",
+      "text": "(Ross stands up.)",
+      "isUncut": false
+    },
+    {
+      "id": "03f9476a-acbc-4efa-b844-4e7a42367173",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "And your fly’s still open…",
+      "isUncut": false
+    },
+    {
+      "id": "1b59f7ea-4a6f-4b2c-a9b2-949a694b2847",
+      "type": "action",
+      "text": "(Ross looks down.)",
+      "isUncut": false
+    },
+    {
+      "id": "2011df62-fdd2-4311-a708-cd9cab6e6cc9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ha, I made you look…",
+      "isUncut": false
+    },
+    {
+      "id": "32045cf4-0fa0-4341-b9bf-67ee6f5391ce",
+      "type": "action",
+      "text": "(Time lapse.)",
+      "isUncut": false
+    },
+    {
+      "id": "1293ba59-7cba-4bfd-ae66-dd96faf48ed0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I couldn’t be inner. Monica?",
+      "isUncut": false
+    },
+    {
+      "id": "4fab3f48-e2c0-48af-adf0-38051f81710f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Monica, in or out?",
+      "isUncut": false
+    },
+    {
+      "id": "46219ad1-fae9-46b0-85f2-2679452007e9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I hate this game!",
+      "parenthetical": "slams down cards",
+      "isUncut": false
+    },
+    {
+      "id": "e5babbc5-a47c-4aff-96e4-f0aab3158aed",
+      "type": "action",
+      "text": "(Joey slides a plate away from Monica towards Chandler, who hides it under the table.)",
+      "isUncut": false
+    },
+    {
+      "id": "261fa72b-8774-482e-9853-de2a45c6404b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "OK Joey, your bet.",
+      "isUncut": false
+    },
+    {
+      "id": "5feab6c2-2c50-438b-b6e5-8be3b2c958cd",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. (the girls look at him, confused) Oh, I’m out.",
+      "isUncut": false
+    },
+    {
+      "id": "ee176460-522e-4ed0-8ef6-29f5ee9b18a4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ross?",
+      "isUncut": false
+    },
+    {
+      "id": "7976479a-8956-49bc-82e0-0642a5f324c1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, I am very in.",
+      "isUncut": false
+    },
+    {
+      "id": "537bd95b-e9e6-415a-abdd-27568b79510c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Chandler?",
+      "isUncut": false
+    },
+    {
+      "id": "f2df7748-46ab-4a41-a0f3-935c354ad908",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Couldn’t be more out. (throws in cards)",
+      "isUncut": false
+    },
+    {
+      "id": "78eee7e2-6f61-4c75-8968-d4769c34056d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Me too. Rachel.",
+      "isUncut": false
+    },
+    {
+      "id": "151434f0-6368-4ee2-b027-57ba6a82d2b3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh, I will see you… and I’ll raise you. (throws chips in pot) What do you say… want to waste another buck?",
+      "isUncut": false
+    },
+    {
+      "id": "f02e67ce-bace-490c-8f3b-80eecdf4ab01",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, not this time. (he folds) So… what’d you have?",
+      "isUncut": false
+    },
+    {
+      "id": "580d0c3e-48dd-4bdd-b14b-5487b63caea4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m not telling. (collects chips)",
+      "isUncut": false
+    },
+    {
+      "id": "ed93d3c0-22cc-4793-a69f-b9f65bf2eedb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Come on, show them to me. (reaches for her cards, Rachel covers them up)",
+      "isUncut": false
+    },
+    {
+      "id": "65222c39-a603-4471-a603-7906ebdb2b1b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No..!",
+      "isUncut": false
+    },
+    {
+      "id": "0c31cf89-4c4f-4bbe-8eb2-b6511a97e59e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Show them to me!",
+      "isUncut": false
+    },
+    {
+      "id": "67028116-d617-4ee1-9d44-5e33cc77f8b9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Get your hands out of there! No!",
+      "isUncut": false
+    },
+    {
+      "id": "28a01a53-c149-459c-80e5-b95763e043f2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Let me see! Show them!",
+      "isUncut": false
+    },
+    {
+      "id": "90ef73b9-2984-458b-912c-4287f31871f9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Y’know, I’ve had dates like this.",
+      "isUncut": false
+    },
+    {
+      "id": "89d7714f-bc3a-47a0-9e1f-e2f9c0ca8a84",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Boy, you really can’t stand to lose, can you? Your whole face is getting red… little veins popping out on your temple…",
+      "parenthetical": "deals new hand",
+      "isUncut": false
+    },
+    {
+      "id": "f5ffce7a-6c18-4412-aa6f-f5186d5a806b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Plus that shirt doesn’t really match those pants.",
+      "isUncut": false
+    },
+    {
+      "id": "b709c0fd-b7dd-41fd-85cc-11e3107bf911",
+      "type": "action",
+      "text": "(Ross is visibly upset.)",
+      "isUncut": false
+    },
+    {
+      "id": "bd809be4-5876-4ded-8ef7-d8490ae7d608",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "First of all, I’m not losing…",
+      "isUncut": false
+    },
+    {
+      "id": "1bbba858-b07c-42c7-96a0-dd2a3c588701",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, you are losing. Definitely losing. (phone rings)",
+      "isUncut": false
+    },
+    {
+      "id": "cacdbacd-f59e-4991-abd0-11dc2336a924",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Let’s not talk about losing. Just deal the…",
+      "isUncut": false
+    },
+    {
+      "id": "a20b6ddb-8062-4679-bc0f-92dfb510794d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hel-lo, Rachel Green.",
+      "parenthetical": "answering phone",
+      "isUncut": false
+    },
+    {
+      "id": "6a0d643b-c28d-401b-8807-0a7f019b6e01",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Mee mee, mee-mee mee.",
+      "parenthetical": "mimicking Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "2239e416-eec7-46c1-b227-091c7a30c4a4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Excuse me. (covers up phone; to Ross) It’s about the job .",
+      "parenthetical": "on phone",
+      "isUncut": false
+    },
+    {
+      "id": "982758d5-1f58-4495-ab87-394fb92e9090",
+      "type": "action",
+      "text": "(Rachel walks into kitchen to talk on the phone.)",
+      "isUncut": false
+    },
+    {
+      "id": "9ed3c3cd-dc2f-4921-addc-45db67052a79",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Barbara! Hi, how are you? (Listens) Uh-huh. (Listens) No, I understand. Yeah. Oh, oh, come on, no, I’m fine. Don’t be silly. Yeah… oh, but you know, if-if anything else opens up, plea—Hello? Hello? (hangs up phone, very depressed)",
+      "isUncut": false
+    },
+    {
+      "id": "ee9779a2-8f1f-4e1e-af11-c6bd7cc94992",
+      "type": "action",
+      "text": "(Rachel goes back and sits down. The rest don’t know what to say.)",
+      "isUncut": false
+    },
+    {
+      "id": "f41aed46-b884-4fe1-9bf4-ada532cff043",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Sorry, Rach.",
+      "isUncut": false
+    },
+    {
+      "id": "93e5de61-59ea-44b0-993c-fd35238b7f25",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Y’know, there’s gonna be lots of other stuff.",
+      "isUncut": false
+    },
+    {
+      "id": "6fb00e4f-dd7a-4d1c-86c6-0f81a2aba9ba",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah…(sigh)…OK. Where were we? Oh, OK… five card draw, uh… jacks or better… nothing wild, everybody ante.",
+      "isUncut": false
+    },
+    {
+      "id": "cf8e0b6d-2c7a-4d85-9d60-3bd4503f4d6c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look, Rachel, we don’t have to do this.",
+      "isUncut": false
+    },
+    {
+      "id": "f834f2fc-dff2-4004-8b29-c7be62b1c447",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes, we do. (pause)",
+      "isUncut": false
+    },
+    {
+      "id": "4cb6fd30-dae4-4187-838e-dc4a507f4754",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright, check.",
+      "isUncut": false
+    },
+    {
+      "id": "a6cce761-077d-4709-937e-246227d6a53e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Check.",
+      "isUncut": false
+    },
+    {
+      "id": "f5762a63-7543-4bfe-92bb-c252e437956f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m in for fifty cents. (throws it in)",
+      "isUncut": false
+    },
+    {
+      "id": "478deed1-71b9-42b9-8021-d3aad77080d2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Call.",
+      "isUncut": false
+    },
+    {
+      "id": "48c166b4-fe1f-46ed-a821-f2be6cc0e3a9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m in.",
+      "isUncut": false
+    },
+    {
+      "id": "2a4193ad-ea88-43b8-9ed8-1e5261ee0129",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I see your fifty cents… and I raise you… five dollars. (throws it in)",
+      "isUncut": false
+    },
+    {
+      "id": "0388d403-195c-4af5-97f2-a5aed97904e7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I thought, uh… it was a fifty cent limit.",
+      "isUncut": false
+    },
+    {
+      "id": "2dc443c1-98d9-4f3d-b715-10960931b3c3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I just lost a job, and I’d like to raise the bet five bucks. Does anybody have a problem with that?",
+      "isUncut": false
+    },
+    {
+      "id": "42c2e5a2-7804-49e5-9796-04c2b91ef5fb",
+      "type": "action",
+      "text": "(Everyone says no and folds, except for Ross, who thinks about it.)",
+      "isUncut": false
+    },
+    {
+      "id": "38fd0c13-1773-48f8-8583-f7acc7fe5d8b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": Loser?",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "aece5291-252b-4a71-9883-f84b048c9593",
+      "type": "action",
+      "text": "(Chandler, Monica, Joey, and Phoebe back their chairs away from the table.)",
+      "isUncut": false
+    },
+    {
+      "id": "dd815947-c0e3-42e3-9478-9de862c606ad",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, I fold. (lays cards down, and gets up)",
+      "isUncut": false
+    },
+    {
+      "id": "242558b2-3cd9-464d-b227-b5c7131f4df2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What do you mean, you fold? Hey, come on! What is this? I thought that ‘once the cards were dealt, I’m not a nice guy.’ I mean, what, were you just full of it?",
+      "isUncut": false
+    },
+    {
+      "id": "8c0bb174-c161-4eaf-b766-03d84704d407",
+      "type": "action",
+      "text": "(Ross thinks it over, finally sits down and picks up his cards.)",
+      "isUncut": false
+    },
+    {
+      "id": "696175c2-17fd-4db2-b0c1-9bf07020909b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m in. (throws in chips)",
+      "isUncut": false
+    },
+    {
+      "id": "f960db93-7c74-4775-ae39-e61f26daec6a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "How many you want?",
+      "isUncut": false
+    },
+    {
+      "id": "347d7a28-63ed-476d-bf52-5447e771a709",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "One. (Rachel gives him the card.)",
+      "isUncut": false
+    },
+    {
+      "id": "e988a6dd-9c81-4306-88fd-1ebb8820f7e3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Dealer takes two. (she deals herself two cards) What do you bet?",
+      "isUncut": false
+    },
+    {
+      "id": "7db3e454-90fc-4db4-a330-362a7de49712",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I bet two dollars. (throws it in)",
+      "isUncut": false
+    },
+    {
+      "id": "5b787e98-c48c-4d28-8eda-2860e3834a9e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK… see your two… and I raise you twenty. (throws it in)",
+      "isUncut": false
+    },
+    {
+      "id": "d8499946-a2d5-4af6-a631-575e24abd81b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I see your twenty, raise you twenty-five. (throws it in)",
+      "isUncut": false
+    },
+    {
+      "id": "a8cb5a0c-7f44-4e77-9bcd-7680b5e7bf0e",
+      "type": "action",
+      "text": "(The other four look amazed at the large pot.)",
+      "isUncut": false
+    },
+    {
+      "id": "dee37644-615c-4e4c-8bd0-9ec9cca835f3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "See your twenty-five…and…uh, Monica, get my purse.",
+      "isUncut": false
+    },
+    {
+      "id": "49c5de5a-abdb-4054-9f0f-a2b02ee71127",
+      "type": "action",
+      "text": "(Monica gets up, looks in Rachel’s purse.)",
+      "isUncut": false
+    },
+    {
+      "id": "5a46a072-ad8e-4662-94a4-303e22811ddb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rachel, there’s nothing in it.",
+      "isUncut": false
+    },
+    {
+      "id": "503c206e-e35f-46d1-a0fb-fabb4ae7422f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK, then get me your purse.",
+      "isUncut": false
+    },
+    {
+      "id": "582a3463-d2f1-43d8-96a8-0284bcd1d40c",
+      "type": "action",
+      "text": "(Monica gets Rachel her purse.)",
+      "isUncut": false
+    },
+    {
+      "id": "07380c1f-d1b3-46bd-8f0f-437846a8b10b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "OK, here you go. Good luck.",
+      "isUncut": false
+    },
+    {
+      "id": "0d5b5cc9-3fc9-48f2-a43b-1af856d342a8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": ": Thank you. (to Ross): I saw your twenty-five, and I raise you… seven.",
+      "parenthetical": "to Monica",
+      "isUncut": false
+    },
+    {
+      "id": "8003b984-dc06-45d8-b53c-9d7f7cfcb04f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "…teen! (throws in a ten-dollar bill)",
+      "isUncut": false
+    },
+    {
+      "id": "55b9027a-63a5-477d-8f51-acd2752a19cc",
+      "type": "action",
+      "text": "(Ross looks in his wallet, pulls out two dollars.)",
+      "isUncut": false
+    },
+    {
+      "id": "f5560319-6e0f-406a-b7e9-2b9f134c2776",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": ": Joey, I’m a little shy.",
+      "parenthetical": "to Joey",
+      "isUncut": false
+    },
+    {
+      "id": "efddba4d-34df-43f1-8fae-793ee05a7399",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s OK, Ross, you can ask me. What?",
+      "isUncut": false
+    },
+    {
+      "id": "d3e24d00-dbe1-4798-99dd-82fb4de0c2b2",
+      "type": "action",
+      "text": "(Ross looks at Joey, dumbfounded at his stupidity.)",
+      "isUncut": false
+    },
+    {
+      "id": "7b8b01c5-9209-434c-a5c7-716e6e0d38e2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": ": What do you need, what do you need?",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "8cd0cec5-e39c-4420-a74a-b8088bdb069e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Fifteen.",
+      "isUncut": false
+    },
+    {
+      "id": "4ddd90af-56c6-4993-822a-408bf856f0a0",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Alright, here’s ten. (gives it to him)",
+      "isUncut": false
+    },
+    {
+      "id": "abf79e46-3e1b-4b35-8af4-7dca41c166e3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Here, I got five, I got five. (Ross takes the money)",
+      "isUncut": false
+    },
+    {
+      "id": "7502dc31-42d2-4596-a45b-e0ff590edd9a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "e811fea1-e952-4c18-b82c-787faf1b2d67",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Good luck.",
+      "isUncut": false
+    },
+    {
+      "id": "49ca4735-b891-40be-83dc-af7c5adbe919",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": ": OK, I am calling your seventeen. What do you got?",
+      "parenthetical": "to Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "832f44af-7606-4fed-9b70-7b425393cc14",
+      "type": "action",
+      "text": "(Long pause as they both look at each other.)",
+      "isUncut": false
+    },
+    {
+      "id": "ec56428f-0d7e-4928-859e-663a37043842",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Full house.",
+      "parenthetical": "lays down cards",
+      "isUncut": false
+    },
+    {
+      "id": "b291fa84-6bdf-44e9-aba1-74f3a23b39e7",
+      "type": "action",
+      "text": "(Ross stares at her. Thinks about it. Puts cards on table, face down.)",
+      "isUncut": false
+    },
+    {
+      "id": "54800d93-938e-4b5d-81b5-6e6b51179ae2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You got me.",
+      "isUncut": false
+    },
+    {
+      "id": "e57c95da-c3e8-4f24-9de9-041ca8053dc0",
+      "type": "action",
+      "text": "(Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them.)",
+      "isUncut": false
+    },
+    {
+      "id": "c58c90a7-cb44-45b7-a6be-03e5b21f0e96",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": ": Ahhh, that’s alright. Y’know, that’s a tough hand to beat.",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "fe9c2d54-08b0-43a6-bd3a-bdd5091f9ea3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": ": I thought we had them!",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "4060181b-5c37-41dd-a5e3-f9695473f6e0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, well, when you don’t have the cards, you don’t have the cards, you know. (looks at Rachel) But, uh… look how happy she is. (smiles)",
+      "isUncut": false
+    },
+    {
+      "id": "3ca48819-5e1a-4e84-b777-b45c692825e9",
+      "type": "action",
+      "text": "(Chandler and Joey look at her, and then look back at him. They dive for Ross’s hand to see what he had, and he tries to stop them from looking.)",
+      "isUncut": false
+    },
+    {
+      "id": "165f9ee1-46c9-4d86-9d2d-0fa2e6a2626a",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "bb1d6683-9025-423e-aac5-0e7c5e50cc20",
+      "type": "scene",
+      "description": "[Scene: Monica and Rachel’s, all six are playing Pictionary at Monica’s apartment. Monica is drawing a picture, and the three guys are guessing. She draws what looks like an airplane.]"
+    },
+    {
+      "id": "53da5633-7f50-4abe-bfb3-3615bec47b8b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Airplane ! Airport ! Airport ‘75 ! Airport ‘77 ! Airport ‘79 !",
+      "isUncut": false
+    },
+    {
+      "id": "518d6612-0eb2-48e0-acad-3c9949e0dfe0",
+      "type": "action",
+      "text": "(Timer goes off.)",
+      "isUncut": false
+    },
+    {
+      "id": "2a65ccc7-73fc-4463-8754-758957e8c1b4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, time’s up.",
+      "isUncut": false
+    },
+    {
+      "id": "291415b9-17e4-46d1-9722-445b4483fcc3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Bye… bye… BIRDIE .",
+      "parenthetical": "pointing at the drawing, upset",
+      "isUncut": false
+    },
+    {
+      "id": "f7575ef4-984e-480b-9772-5b173ee69a5c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh!",
+      "isUncut": false
+    },
+    {
+      "id": "30be6fab-1656-4f24-9f03-c3245d6a7bbf",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "That’s a bird?",
+      "isUncut": false
+    },
+    {
+      "id": "527240c9-b1b5-4051-9441-7dfaf0a0c730",
+      "type": "action",
+      "text": "(Monica glares at Phoebe.)",
+      "isUncut": false
+    },
+    {
+      "id": "eaed95a5-5bac-4307-8216-e6c5e6a1b9d3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "That’s a bird !",
+      "isUncut": false
+    },
+    {
+      "id": "2d31ca93-b4b9-4b8a-8556-3c25e84991e5",
+      "type": "action",
+      "text": "(Monica sits, Rachel gets up.)",
+      "isUncut": false
+    },
+    {
+      "id": "3fd3b274-4d84-46d9-a07b-0901c3145a03",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK, OK, it’s my turn. (reads the answer)",
+      "isUncut": false
+    },
+    {
+      "id": "4291da48-dad8-44e9-a421-ee95602e4451",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Go.",
+      "isUncut": false
+    },
+    {
+      "id": "4f08389f-2229-461e-902d-830081ceca38",
+      "type": "action",
+      "text": "(Rachel starts drawing what looks like a bean.)",
+      "isUncut": false
+    },
+    {
+      "id": "d4d7702f-65b1-48e4-90c5-f9af9a4f3fb3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh… bean! Bean!",
+      "isUncut": false
+    },
+    {
+      "id": "0c51be9e-59cb-4763-a530-6a07a938a08f",
+      "type": "action",
+      "text": "(Rachel begins tapping the picture of the bean frantically.)",
+      "isUncut": false
+    },
+    {
+      "id": "5823da25-9e15-49a9-91cf-d94a1b7e69e0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "The Unbearable Likeness of Being !",
+      "parenthetical": "triumphantly",
+      "isUncut": false
+    },
+    {
+      "id": "6fb78d74-a887-4bec-9b89-8cecfe509926",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes!",
+      "isUncut": false
+    },
+    {
+      "id": "b6312a73-b135-437e-a5d3-5a682be5bbf3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That , you get? That , you get?",
+      "isUncut": false
+    },
+    {
+      "id": "78e17b00-be0b-41f2-9139-df0fa59299e4",
+      "type": "action",
+      "text": "(Monica picks up a glass to take a drink, everyone ducks as though she was about to throw it.)",
+      "isUncut": false
+    },
+    {
+      "id": "c5c5abdf-0561-4d1b-8d52-270b59bbfe8a",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

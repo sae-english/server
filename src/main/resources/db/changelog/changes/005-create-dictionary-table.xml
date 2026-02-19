@@ -14,11 +14,17 @@
                 <constraints nullable="false"/>
             </column>
             <column name="translation" type="VARCHAR(500)"/>
+            <column name="language" type="VARCHAR(20)" defaultValue="ENGLISH">
+                <constraints nullable="false"/>
+            </column>
             <column name="comment" type="TEXT"/>
+            <column name="content_key" type="VARCHAR(255)"/>
+            <column name="content_type" type="VARCHAR(20)"/>
+            <column name="block_id" type="VARCHAR(255)"/>
             <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
             <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
         </createTable>
-        <comment>Словарь: значение (value), перевод (translation), комментарий (comment)</comment>
+        <comment>Словарь: value, translation, language, comment, content_key, content_type, block_id</comment>
     </changeSet>
 
 </databaseChangeLog>

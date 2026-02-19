@@ -1,0 +1,2283 @@
+{
+  "season": 4,
+  "episode_number": 21,
+  "episode_title": "421 - The One With The Invitation",
+  "credits": {
+    "writtenBy": "Seth Kirkland",
+    "transcribedBy": "guineapig <shadelet@easynet.co.uk>, Ruth Curran, Mindy Mattingly Phillips, Josh Hodge, Dan Silverstein & Eric Aasen."
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "bf5d7225-481d-4518-b754-cfb9dfef7f16",
+      "type": "scene",
+      "description": "Central Perk, Joey and Chandler are sitting and talking."
+    },
+    {
+      "id": "0d9f974d-aebc-490d-9188-a6e16b3d27d9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Y’know what? It seems like all of the sudden; so much has happened.",
+      "isUncut": false
+    },
+    {
+      "id": "3a0ea7f0-ca5c-4982-ad0d-83e0f7b44046",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I know. Ross is getting married.",
+      "isUncut": false
+    },
+    {
+      "id": "6675155f-0e73-4f54-8739-e4710bf9d23e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Phoebe is, making people.",
+      "isUncut": false
+    },
+    {
+      "id": "6217567a-fc72-4232-9d94-3fcb1a456cb0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Everybody’s doing stuff!",
+      "isUncut": false
+    },
+    {
+      "id": "fd18c1f8-5010-4ce7-95f6-83ff0385123e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "And we just sit here. I mean if I die the only way people would even know I was here, would be by the ass print on this chair! Look, we have to do something. Okay? Something huge!",
+      "isUncut": false
+    },
+    {
+      "id": "a982bdbc-f05f-4222-bc8d-67dc24b40066",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "We could climb Mt. Everest!",
+      "parenthetical": "snaps his fingers",
+      "isUncut": false
+    },
+    {
+      "id": "9041d415-b3af-4ce9-92eb-8e5e3374c816",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "No-no, not something stupid, something huge.",
+      "isUncut": false
+    },
+    {
+      "id": "8913a154-ff17-4d91-b02b-542f6b42ef6a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No-no-no-no-no, I saw an ad for this video, people climb that thing everyday! We could totally do that!",
+      "isUncut": false
+    },
+    {
+      "id": "b705dff9-dfed-45dd-ba72-731931fc362c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why not?! I mean it’s just, it’s just climbing! It’s just, it’s just steep!",
+      "isUncut": false
+    },
+    {
+      "id": "0794174c-35f5-4d67-a734-6828321ca566",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "6bb6e45f-1199-4b1c-aa99-52dcc8d46c4c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "We’re going to Everest! Okay, it would be nice to leave an ass print on Everest!",
+      "isUncut": false
+    },
+    {
+      "id": "5bea1354-1534-4c15-9b26-a41f2f245b10",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "0741607b-5dad-446d-b0dd-00a3be18932d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "613f61f1-705a-4123-9bc5-560f1ac5d1f3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What-what’s up?",
+      "isUncut": false
+    },
+    {
+      "id": "1c8ca024-3ab9-42ba-b7de-962b6f0cf5d0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "We’re gonna climb Mt. Everest!",
+      "isUncut": false
+    },
+    {
+      "id": "27d9034f-65d7-4472-8ab5-540c30f92e38",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah baby!",
+      "isUncut": false
+    },
+    {
+      "id": "922aa9c0-2bdd-4f96-af65-9028c145061a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Really?! I looked into that. Yeah, but, I mean it costs like $60,000 and y’know you can die. And, you would die!",
+      "isUncut": false
+    },
+    {
+      "id": "d51a357a-e071-486f-b537-0db32df7bbd9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, well…",
+      "parenthetical": "dejected",
+      "isUncut": false
+    },
+    {
+      "id": "0908bbfc-7fe4-41b9-afd4-2f081cb4f7c9",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "We could get that Everest video though.",
+      "isUncut": false
+    },
+    {
+      "id": "53fc35e6-1e46-45c1-8aed-df7a930cd0a4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, we could do that without y’know risking our lives at all!",
+      "isUncut": false
+    },
+    {
+      "id": "e7544f7c-20dc-4121-bcb5-a140f09f19d4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And while we’re down at the video store, you know what else we could rent? Die Hard ! (Chandler’s excited.) Oh, y’know what? I just remembered, that Everest thing is only available through mail order.",
+      "isUncut": false
+    },
+    {
+      "id": "a8d74bf7-c792-4647-8fb7-54661862a8d7",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, well…",
+      "parenthetical": "dejected",
+      "isUncut": false
+    },
+    {
+      "id": "e13ddd3e-4815-4788-9498-2e0b95134c1f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So you guys’ll stay here and hang out with me?",
+      "isUncut": false
+    },
+    {
+      "id": "2f9dd461-fdc8-4c19-90b3-03c917e71b00",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeeeeahhhh.",
+      "isUncut": false
+    },
+    {
+      "id": "efb8d0b0-cf3c-4c64-b6a0-bfda0753f4ad",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah. Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "c6fd5fce-1b24-4299-996d-d3aeb2ee30b2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "But I’ll tell you something. One of these days we’re get off of our buts and rent Die Hard again!",
+      "isUncut": false
+    },
+    {
+      "id": "ac81d804-50da-4f7b-a3aa-c1c9ab24c4e3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah we are!",
+      "isUncut": false
+    },
+    {
+      "id": "9bece72b-1e04-477d-aa26-98a3d984fc2c",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "13b07472-1b29-40a1-a99a-abfdc9bb6608",
+      "type": "scene",
+      "description": "Ross’s apartment, he and Emily are addressing their invitations."
+    },
+    {
+      "id": "e59350c4-93c6-4b79-b60b-9437268eb9ce",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "So what did he decide? Does your Uncle Nathan get an invite or not?",
+      "isUncut": false
+    },
+    {
+      "id": "b94642e5-56f0-4fdd-b9eb-f776cb8f015e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ohh, God, nobody likes him, and he’s so cheap, he’d never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough? (Hands her some envelopes.)",
+      "isUncut": false
+    },
+    {
+      "id": "48dd7a26-ee6e-49b2-984d-333009ebdf1b",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "Yeah, they’re fine.",
+      "isUncut": false
+    },
+    {
+      "id": "b287f39e-bd6f-49b7-b81e-8d9147005c63",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "8d342cb9-0121-408f-87bc-6fa49151439e",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "If anyone asks, we’ll just say Ben addressed them. (Looking through the envelopes.) Oh! So you invited Rachel then?",
+      "isUncut": false
+    },
+    {
+      "id": "8c5bdba7-a6df-4f55-838c-a31b5caa1b96",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Sure. Why not?",
+      "isUncut": false
+    },
+    {
+      "id": "3a798fcd-4a26-4f03-b799-c865db410901",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "4c0e9d99-1c14-4c16-bd9e-b40f4ca80dd9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "6b38e635-c9d6-4fde-80d7-fd5c2646e61c",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "I don’t think I’d be comfortable with any of my old lovers there.",
+      "isUncut": false
+    },
+    {
+      "id": "be4bdf89-8823-4194-a47d-dbcf63771170",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wait-wait-wait, do you, do you think, maybe we shouldn’t invite her?",
+      "isUncut": false
+    },
+    {
+      "id": "313e962b-303e-436a-9e61-8d8a82279415",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "Oh, no-no, y’know I absolutely adore Rachel it’s just that, well it might be a awkward for you. But it’s absolutely your decision. (Gets up.) More tea?",
+      "isUncut": false
+    },
+    {
+      "id": "5b063522-fd0b-4efa-9882-42d4b43f37bf",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah sure.",
+      "isUncut": false
+    },
+    {
+      "id": "1ce39bc1-37ae-4432-aca5-7af66bc5be83",
+      "type": "dialogue",
+      "speaker": "Emily",
+      "text": "Earl Grey?",
+      "isUncut": false
+    },
+    {
+      "id": "2c26a338-30eb-4c03-8a83-91599cb84112",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Huh? Yeah, fine, invite whoever you want.",
+      "isUncut": false
+    },
+    {
+      "id": "e460b5ea-9c21-4fee-a78d-9f7678933f3c",
+      "type": "transition",
+      "text": "[And with that we start off on a series of clips from the entire history of Ross and Rachel, from Ross’s point of view. The first clip is from The Pilot.]"
+    },
+    {
+      "id": "163b8d2f-fdf4-4a26-aadb-fb0b1b116022",
+      "type": "scene",
+      "description": "Central Perk, Ross is complaining about Carol."
+    },
+    {
+      "id": "14c3cf6a-2754-483f-b575-403c7832fa2d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t want to be single, okay? I just… I just- I just wanna be married again!",
+      "isUncut": false
+    },
+    {
+      "id": "a98ba3af-6f20-4c86-9f8e-ef185272c477",
+      "type": "action",
+      "text": "(ENTER Rachel IN A WET WEDDING DRESS. SHE STARTS TO SEARCH AROUND THE ROOM)",
+      "isUncut": false
+    },
+    {
+      "id": "4d353b13-f0c3-49fa-9382-8c400f5a630d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "And I just want a million dollars! (EXTENDS HIS HAND HOPEFULLY)",
+      "isUncut": false
+    },
+    {
+      "id": "2db1bf9a-b141-4677-b590-4a81ef2fe1d1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rachel?!",
+      "isUncut": false
+    },
+    {
+      "id": "793a77a3-ceed-4387-8e1c-f1a0a8b7ac7c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh God Monica hi! I just went to your building and you weren’t there and then this guy with a big hammer said you might be here and you are, you are!",
+      "isUncut": false
+    },
+    {
+      "id": "332269e3-3889-4a3d-a1f0-516dbe7f5dfc",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "ea07e142-11ad-4b88-9fd2-da851a2e637e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay, everybody, this is Rachel, another Lincoln High survivor. (TO Rachel) This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?",
+      "isUncut": false
+    },
+    {
+      "id": "18e29806-d82c-4d9c-8f22-d63f36eb073b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi, sure!",
+      "isUncut": false
+    },
+    {
+      "id": "e39fea26-032a-4300-8378-9c65e5628ccb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "6798690a-44c8-4426-8bc0-55dd0b872d03",
+      "type": "action",
+      "text": "(THEY GO TO HUG BUT ROSs’ UMBRELLA OPENS. HE SITS, DEFEATED AGAIN)",
+      "isUncut": false
+    },
+    {
+      "id": "1afc2473-cd6b-4462-8523-095e3a278952",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "f50eff0d-f12a-44f0-a1f9-e70b516fa8ec",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Ross and Rachel are finishing up some cookies."
+    },
+    {
+      "id": "36d89cf3-138b-42b5-be58-b7299ce8a678",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You know you probably didn’t know this, but back in high school, I had a, um, major crush on you.",
+      "isUncut": false
+    },
+    {
+      "id": "184dda2a-a830-40ca-a9fb-94a4e5faf99d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I knew.",
+      "isUncut": false
+    },
+    {
+      "id": "65375be6-9b18-4654-96e1-79edceeeeec0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You did! Oh… I always figured you just thought I was Monica’s geeky older brother.",
+      "isUncut": false
+    },
+    {
+      "id": "8f0f5b8f-6378-48a4-bd87-1a4bc04c20db",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I did.",
+      "isUncut": false
+    },
+    {
+      "id": "79318722-16be-45fb-baec-c0652a622411",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
+      "isUncut": false
+    },
+    {
+      "id": "9cf56495-4540-48bb-b2c5-5f211a69819e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, maybe…",
+      "isUncut": false
+    },
+    {
+      "id": "47dd1a78-84df-420a-9f43-526e8aeba4b2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay… okay, maybe I will…",
+      "isUncut": false
+    },
+    {
+      "id": "f420dd62-0dfb-4b7f-9f66-51bf9232db71",
+      "type": "transition",
+      "text": "[The next clip is from The One With The Blackout.]"
+    },
+    {
+      "id": "db69ec3f-45fd-4c3a-b9d2-aa54cc0ad61e",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Ross and Rachel are talking about passion."
+    },
+    {
+      "id": "93fe49b6-3140-4d29-83bc-36df67a0ef7c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "See, I see… big passion in your future.",
+      "isUncut": false
+    },
+    {
+      "id": "bcfe1ab2-0f82-4e88-869d-a204ccd353c4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "59bc98ca-2885-446b-b8e0-5f87184d3beb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I do.",
+      "isUncut": false
+    },
+    {
+      "id": "81ef5e63-6dd4-4fbb-be9b-996ea354402e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh Ross, you’re so great. [she playfully rubs his head and gets up]",
+      "isUncut": false
+    },
+    {
+      "id": "fd2c1308-c97b-4684-9eb2-218ea9dbfb9c",
+      "type": "transition",
+      "text": "[Ross gets up, pleased with himself and starts to walk past Joey.]"
+    },
+    {
+      "id": "2112a200-696e-4341-abcb-aaa0b90655a4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "It’s never gonna happen.",
+      "isUncut": false
+    },
+    {
+      "id": "4df342ff-eaf8-4557-989a-8741513bc3af",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "ce46420f-acb2-4259-a2b0-fdcff5b34c3b",
+      "type": "scene",
+      "description": "Monica and Rachel’s balcony, Ross is about to be attacked by Paulo’s cat."
+    },
+    {
+      "id": "75b72b7f-ec1c-46ba-9739-c23028f1bf21",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, I have a question. Well, actually, it’s not so much a question as.. more of a general wondering… ment.",
+      "isUncut": false
+    },
+    {
+      "id": "67be7cc7-ea58-4522-a3a6-12d3f2bd656b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "OK.",
+      "isUncut": false
+    },
+    {
+      "id": "1b1fd885-35ab-4c2e-8585-51b5af96fa5d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "OK. Umm, for a while now, I’ve been wanting to, um…",
+      "isUncut": false
+    },
+    {
+      "id": "b5ae51b7-31be-44f0-8326-4bc4632434d9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohhh!!!! [looking at something behind Ross]",
+      "isUncut": false
+    },
+    {
+      "id": "56319ca1-3f66-4826-ba87-362a46199422",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, yes, that’s right…",
+      "isUncut": false
+    },
+    {
+      "id": "af37045c-b284-409f-9aca-a45dbe883c55",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, look at the little cat! [a small kitten is on the roof behind Ross] Look at it!",
+      "isUncut": false
+    },
+    {
+      "id": "656426f5-db7d-4904-ad83-979a0cca85db",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What? [the cat jumps on his shoulders] Ow!",
+      "isUncut": false
+    },
+    {
+      "id": "fae7fcf0-aa32-40a8-9a59-6c9f9d5ce35a",
+      "type": "scene",
+      "description": "Inside. Monica, Joey and Phoebe are singing while outside, Ross and Rachel are trying to get the cat off of Ross’ shoulder."
+    },
+    {
+      "id": "81802051-77a0-417e-baf4-2db694af12be",
+      "type": "dialogue",
+      "speaker": "Monica, Joey, and Phoebe",
+      "text": "[singing] I’m on top of the world, looking down on creation and the only explanation I can find…",
+      "isUncut": false
+    },
+    {
+      "id": "c94a564f-6bf4-450b-bc6c-3b8249a16dcc",
+      "type": "transition",
+      "text": "[The next clip is from The One With The East German Laundry Detergent.]"
+    },
+    {
+      "id": "54407345-7cb9-4918-8017-2f20629b15d6",
+      "type": "scene",
+      "description": "The Laundromat, Rachel is fighting with that old, annoying woman for a cart."
+    },
+    {
+      "id": "e4549d0b-9b5d-45bc-bd16-eb775a9586ec",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right, listen, missy. If you want this cart, you’re gonna have to take me with it!",
+      "isUncut": false
+    },
+    {
+      "id": "fe63344c-a8fe-463a-a56a-37daa3026251",
+      "type": "transition",
+      "text": "[She thinks it over, and then walks away.]"
+    },
+    {
+      "id": "60ade424-988e-4c8d-85b3-689d8be7648d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "[to Ross] Yes! Did you see that?",
+      "isUncut": false
+    },
+    {
+      "id": "df6fa8ec-042e-4be6-9192-7df31b470394",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You were incredible! Brand new woman, ladies and gentlemen.",
+      "isUncut": false
+    },
+    {
+      "id": "61683528-788a-4a9a-9010-65536e5c5d4e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I could not have done this without you.",
+      "isUncut": false
+    },
+    {
+      "id": "818edfad-ed12-43b3-854f-5db13a882b8a",
+      "type": "transition",
+      "text": "[Rachel stands up and kisses Ross. He is stunned. A moment of silence follows.]"
+    },
+    {
+      "id": "426ed341-cf0c-4599-8fa0-f5c3804050ca",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ok, um, uh, more clothes in the dryer? [Ross turns and bangs his head on an open dryer door.] I’m fine, I’m fine.",
+      "isUncut": false
+    },
+    {
+      "id": "ac07ecbe-47eb-48c9-8a32-711b420976d8",
+      "type": "transition",
+      "text": "[The next clip is from The One Where Ross Finds Out]"
+    },
+    {
+      "id": "9cd9caa8-2804-4f95-bf87-226516f7857a",
+      "type": "scene",
+      "description": "Central Perk, I’m sure you’ve guessed, it’s the famous fight scene between Ross and Rachel."
+    },
+    {
+      "id": "b2726ec4-7754-4e28-a8ea-388c431406d9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You had no right to tell me you ever had feelings for me.",
+      "isUncut": false
+    },
+    {
+      "id": "a1139aa1-38d8-4c1a-babc-3f76d29cc6ca",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "[hurt] What?",
+      "isUncut": false
+    },
+    {
+      "id": "921d7902-6289-42e3-8917-32004e54005f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I was doing great with Julie before I found out about you.",
+      "isUncut": false
+    },
+    {
+      "id": "cd380b77-4a37-4f83-b301-08150445d9cc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey, I was doin’ great before I found out about you. You think it’s easy for me to see you with Julie?",
+      "isUncut": false
+    },
+    {
+      "id": "ff11935f-9f1a-4e8a-a750-eb5b40751dc3",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "5019f468-3fa2-4e80-a12c-5bc4c8895693",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "The point is I… I don’t need this right now, OK. It, it’s too late, I’m with somebody else, I’m happy. This ship has sailed.",
+      "isUncut": false
+    },
+    {
+      "id": "0246509e-b302-4080-9fe3-e67b0abe1b41",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "19303d79-3ba0-45ef-9cfb-e6345c2c22fb",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Alright, fine, you go ahead and you do that, alright Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "752dd7e0-3602-451b-965e-b6df12fe038f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Fine.",
+      "isUncut": false
+    },
+    {
+      "id": "ee206bcc-a9d6-4b7d-b8b5-906f65450fd6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "’Cause I don’t need your stupid ship.",
+      "isUncut": false
+    },
+    {
+      "id": "bcf55eef-b47f-43e5-a95d-0aeb4fee6385",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Good.",
+      "isUncut": false
+    },
+    {
+      "id": "6fcd0e5f-4335-4d4c-9710-724e5e7698c9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Good. [Ross leaves]",
+      "isUncut": false
+    },
+    {
+      "id": "fe849926-465c-40bf-89fa-c6ce7cdd2215",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "50212c97-dc73-47c6-9714-57644974ebfd",
+      "type": "transition",
+      "text": "[Rachel slams the door and locks it. She sits down, visibly upset. She puts her head in her hands and begins to cry. Ross comes back and is standing outside the window. When Rachel regroups and gets back up to finish closing, she sees him.]"
+    },
+    {
+      "id": "c38d3dc4-201a-4e6c-ad1c-61459ab23b03",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "7899b524-7ee6-409d-a242-607b45bb3c4f",
+      "type": "transition",
+      "text": "[She opens the door and they kiss.]"
+    },
+    {
+      "id": "7aeae125-a70d-48c5-ac25-e73e76a813c4",
+      "type": "transition",
+      "text": "[The next clip is the second famous fight in The One Where Ross and Rachel Take A Break.]"
+    },
+    {
+      "id": "44fe5f1d-0096-41fa-ba7d-0733cc3b30c1",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Ross and Rachel are arguing."
+    },
+    {
+      "id": "2e4ecdb8-5f66-43d1-84ff-47d9e12326a8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross do you realise this is the first time in my life I’m doing something I actually care about. This is the first time in my life I’m doing something that I’m actually good at. I mean. if you don’t get that…",
+      "isUncut": false
+    },
+    {
+      "id": "f39d6872-59a9-49df-909a-4d0528227316",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, hey, I get that, okay, I get that big time. And I’m happy for ya, but I’m tired of having a relationship with your answering machine! Okay, I don’t know what to do anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "d00cc9eb-97b7-40e1-8726-8761e4b19840",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well neither do I!",
+      "isUncut": false
+    },
+    {
+      "id": "30812ae2-2b3c-48ac-a3d8-dfb31c6b22f8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Is this about Mark?",
+      "isUncut": false
+    },
+    {
+      "id": "9753a99d-b90a-477b-bc10-ff5d7a5e682e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God.",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "446901ce-11e2-48f4-9b6d-13421203facf",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, it’s not, it’s not.",
+      "isUncut": false
+    },
+    {
+      "id": "861f6574-15fe-4e39-b4ef-6cc67e59983d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God. I cannot keep having this same fight over and over again, Ross, no, you’re, you’re, you’re making this too hard.",
+      "isUncut": false
+    },
+    {
+      "id": "f559fa07-b27e-4254-986c-a50666274f49",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh I’m, I’m making this too hard. Okay, what do you want me to do.",
+      "isUncut": false
+    },
+    {
+      "id": "884a47e6-fd75-4b91-95a0-18c09654c4c0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know, I don’t know. Urrrgh! Look, maybe we should take a break.",
+      "isUncut": false
+    },
+    {
+      "id": "b26776ae-f3fe-4e7c-8f1a-05e5a120ff97",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, okay, fine, you’re right. Let’s ah, let’s take a break, (goes to the door) let’s cool off, okay, let’s get some frozen yogart, or something.. (opens the door)",
+      "isUncut": false
+    },
+    {
+      "id": "e7b696cc-fbdc-49b1-a38d-99db056181dc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No. (Ross is standing in the doorway.) A break from us.",
+      "isUncut": false
+    },
+    {
+      "id": "e0e441a6-4065-41c9-bff4-4d79461d532a",
+      "type": "action",
+      "text": "(Ross looks at her, then leaves slamming the door behind him.)",
+      "isUncut": false
+    },
+    {
+      "id": "6132a7fe-358f-4bfa-a77f-432fb4dcdfc0",
+      "type": "transition",
+      "text": "[The next clip is from The One The Morning After]"
+    },
+    {
+      "id": "41e3908e-c23a-468e-bf91-577bdc66297c",
+      "type": "scene",
+      "description": "Ross’s apartment, Ross is hurrying Chloe out the door."
+    },
+    {
+      "id": "dcf32c59-544f-4f80-b3b6-99f44ac8c936",
+      "type": "dialogue",
+      "speaker": "Chloe",
+      "text": "Do I know why we’re rushing?",
+      "isUncut": false
+    },
+    {
+      "id": "b58913e7-f9c6-423a-b355-417b0af125bb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, y’know the ah, the girlfriend I told you about last night? (He’s frantically throwing the cushions off of the couch looking for her other shoe) Well it turns out she ah, she wants to get back together with me. Oh, I found it!!",
+      "isUncut": false
+    },
+    {
+      "id": "5278f200-dec4-4555-a868-97eb200e2d05",
+      "type": "dialogue",
+      "speaker": "Chloe",
+      "text": "That’s so great for you guys!",
+      "isUncut": false
+    },
+    {
+      "id": "eaea97a9-52c7-4fc0-a345-adc85430f704",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "de11a22a-b54d-4ce7-85a7-39553e190082",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "54cec4d4-cb75-47c8-8041-38eff4f9600c",
+      "type": "dialogue",
+      "speaker": "Chloe",
+      "text": "Good luck, with your girlfriend.",
+      "isUncut": false
+    },
+    {
+      "id": "65a64ca3-f015-4cef-b7f5-af1526378d2b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, thank you. (She goes to kiss him, but he holds her coat up between their faces to stop her.) Hey, hey. (opens the door, sees Rachel, and hides Chloe behind the door) Rachel!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "970b6513-48da-46e5-af43-41b8ca91f508",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi. Ohhh, you got my message.",
+      "isUncut": false
+    },
+    {
+      "id": "aebc33d5-1acb-45f6-a41b-2cedc94db6b9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, oh hey, you are right on time.",
+      "isUncut": false
+    },
+    {
+      "id": "ea819aa2-4986-4cab-817f-69a12b1ce394",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So what do you say? Can I be your girlfriend again?",
+      "isUncut": false
+    },
+    {
+      "id": "49e39774-3421-443a-a4b8-84375606d1e4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, you can, very much.",
+      "isUncut": false
+    },
+    {
+      "id": "fa67148a-c540-4d8c-8cc8-6604141eb544",
+      "type": "action",
+      "text": "(Chloe gives Ross the thumbs up while still standing behind the door.)",
+      "isUncut": false
+    },
+    {
+      "id": "1b7d8cc4-343d-44e6-ba57-9bf891e2de16",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ahhhh!! (Hugs Rachel tighter.)",
+      "parenthetical": "seeing the thumbs up",
+      "isUncut": false
+    },
+    {
+      "id": "13778be3-37e7-4724-a285-dc358eb8c333",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "a8a33a56-e3a7-4674-a809-b2f6698d5727",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Rachel has just found out about Chloe and is screaming at Ross. The rest of the gang is trapped in Monica’s bedroom."
+    },
+    {
+      "id": "58bd5d8e-e7cd-4736-9a52-8a5c4e0aad66",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know what, I want you to leave! Get outta here!",
+      "parenthetical": "opening the door",
+      "isUncut": false
+    },
+    {
+      "id": "a068b9e1-d711-4b8e-ac23-e8bfa9c3681a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No!!",
+      "isUncut": false
+    },
+    {
+      "id": "68cafda9-905a-44b4-8783-80daa73b9900",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Just get out! Now!!",
+      "isUncut": false
+    },
+    {
+      "id": "2e9ffb00-ac34-4efb-b16c-0b675fd4631e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No!! No!! I wanna stay. I wanna talk about this.",
+      "isUncut": false
+    },
+    {
+      "id": "83a03644-0a79-4b19-b416-547f2d3e8d38",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay! All right! How was she?",
+      "isUncut": false
+    },
+    {
+      "id": "c95556ca-9325-406d-bc64-58fc8ddd5c01",
+      "type": "transition",
+      "text": "[Cut to Monica’s bedroom]"
+    },
+    {
+      "id": "2a9299cb-870e-4d59-9d1a-25fae11cfe1d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Uh-oh.",
+      "isUncut": false
+    },
+    {
+      "id": "484cda52-9547-42ae-9efe-607164d43e48",
+      "type": "transition",
+      "text": "[Cut to Living Room]"
+    },
+    {
+      "id": "cce56889-5b2e-476e-825f-3a9fbb8f7624",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "deddb7d1-7931-471b-aa3c-84f332557b24",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Was she good?",
+      "isUncut": false
+    },
+    {
+      "id": "13b09b5f-8496-409d-aedd-6c0e721783e7",
+      "type": "transition",
+      "text": "[Cut to Monica’s bedroom]"
+    },
+    {
+      "id": "21f10a01-bec3-493e-b3fb-6bf9c041c9eb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Don’t answer that.",
+      "isUncut": false
+    },
+    {
+      "id": "8f0b5ced-a0c2-4dbf-903e-ac97718184f5",
+      "type": "transition",
+      "text": "[Cut to Living Room]"
+    },
+    {
+      "id": "c1834070-17e1-4f35-bb30-40a09bc8682b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Come on Ross! You said you wanted to talk about it, let’s talk about it!! How was she?",
+      "isUncut": false
+    },
+    {
+      "id": "7b03788e-4f69-4f0c-88f2-ef724925a1cf",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "She was…",
+      "isUncut": false
+    },
+    {
+      "id": "3802133c-b7f0-4f93-ac66-144d9475c68e",
+      "type": "transition",
+      "text": "[Cut to Monica’s bedroom]"
+    },
+    {
+      "id": "24ba7d4e-45a1-4347-a98d-699e40e08f51",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Awful! Horrible!",
+      "isUncut": false
+    },
+    {
+      "id": "ebcf0aa5-133e-4809-b998-65b63be585ee",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "She was not good. Not good.",
+      "isUncut": false
+    },
+    {
+      "id": "c58a31c3-a070-41b2-adb1-bd48b253ec8d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "She was nothing compared to you.",
+      "isUncut": false
+    },
+    {
+      "id": "65c061c9-9f35-4a17-80fe-f7de579ef903",
+      "type": "transition",
+      "text": "[Cut to Living Room]"
+    },
+    {
+      "id": "d48d39f0-907e-4997-90bb-2132205aa85f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "She, she was different.",
+      "isUncut": false
+    },
+    {
+      "id": "6ed00510-c9a7-49b2-aca5-16ccff32c7af",
+      "type": "transition",
+      "text": "[Cut to Monica’s bedroom]"
+    },
+    {
+      "id": "09b948f1-e50c-45eb-a47c-e7229ebfc3c4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ewwwww!",
+      "isUncut": false
+    },
+    {
+      "id": "e0328206-4cb5-4ae6-b604-e838adc903eb",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Uh-oh.",
+      "isUncut": false
+    },
+    {
+      "id": "e76e8d48-6b77-4a49-b689-e6610a3325e1",
+      "type": "transition",
+      "text": "[Cut to Living Room]"
+    },
+    {
+      "id": "c18f46d9-e781-4637-8cc3-2ad44ef7a8ed",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Good different?",
+      "isUncut": false
+    },
+    {
+      "id": "e7f550f7-715a-4741-8e3e-0b63a35d0c8a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Nobody likes change.",
+      "isUncut": false
+    },
+    {
+      "id": "347b29cb-92c4-4d2e-a04c-83863a591292",
+      "type": "action",
+      "text": "(Rachel picks up a newspaper and starts beating him with it.)",
+      "isUncut": false
+    },
+    {
+      "id": "ef4324f5-956b-4b8f-a7a1-d1df22783b5e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What? Okay, okay, okay, okay.",
+      "isUncut": false
+    },
+    {
+      "id": "24290340-2d9c-44d0-aaeb-5964ad619ba3",
+      "type": "transition",
+      "text": "[The next clip is from The One With The Jellyfish.]"
+    },
+    {
+      "id": "a2131057-b47b-463d-a086-52db8fb7badb",
+      "type": "scene",
+      "description": "Rachel’s bedroom, Rachel, entering selfish mode, is thanking Ross for wrongly taking the entire blame of the breakup; as if she had absolutely nothing to do with it."
+    },
+    {
+      "id": "251a2f19-4484-437b-abbf-9c544bb903f6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "…the way you owned up to everything, it just showed me how much you’ve grown. Y’know? I mean my Mom never thought this would work out. It was all, “Once a cheater, always a cheater.” Ooh, I just wish we hadn’t lost those four months, but if time was what you needed just to gain a little perspective…",
+      "isUncut": false
+    },
+    {
+      "id": "6f1b3d8a-6ea8-4849-9ee7-3c00b9ee34b4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "WE WERE ON A BREAK!!!!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "126b8627-2f9e-439f-8f3d-3f8237bd6025",
+      "type": "transition",
+      "text": "[Cut back to the present.]"
+    },
+    {
+      "id": "7fcf7318-ac60-4c77-ae8e-b96b261bc0f0",
+      "type": "scene",
+      "description": "A mailbox, Ross is mailing the invitations. He throws a bunch into the mailbox, but pauses with Rachel’s. And it starts another round of clips."
+    },
+    {
+      "id": "df69bb03-d45f-4b3b-b278-9b6745ca3da3",
+      "type": "transition",
+      "text": "[The One With The Fake Party]"
+    },
+    {
+      "id": "40aad0ea-f3e7-4ebd-8f6e-4c2425e4ecff",
+      "type": "scene",
+      "description": "The hallway, Rachel is convincing Ross that Emily is good for him."
+    },
+    {
+      "id": "2230cc41-6f00-4ea8-b800-b03a249d5f09",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You seem to really like her.",
+      "isUncut": false
+    },
+    {
+      "id": "049b0dad-39be-4707-b346-44421c29623f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y’know no commitment.",
+      "isUncut": false
+    },
+    {
+      "id": "6b4659c0-37bd-4dbf-92da-073bba6e3616",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica’s photo albums, I mean you don’t do that if you’re just in it for two weeks.",
+      "isUncut": false
+    },
+    {
+      "id": "2f12136c-90cd-4f12-917c-1e2ef89ada17",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You think?",
+      "isUncut": false
+    },
+    {
+      "id": "c97325eb-7240-43f0-87b7-93ee05fb94cc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, you got like 14 hours until she has to be at the airport, and you’re sitting here in the hallway with a 28-year-old cheerleader with a fat lip.",
+      "isUncut": false
+    },
+    {
+      "id": "e1ddb9fa-696d-4423-ae1e-5845ca986012",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, you’re right.",
+      "isUncut": false
+    },
+    {
+      "id": "3cd12968-a487-4ae3-934d-cd53db7ffa60",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "dfb38483-d8fc-4659-b9dc-22ed1b21f86a",
+      "type": "transition",
+      "text": "[Cut back to the present, Ross is still looking at Rachel’s invitation. Finally, he makes up his mind and mails it.]"
+    },
+    {
+      "id": "ee76e83e-5092-4254-9ba1-87a14e69fa51",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "635a0260-6b94-45b5-af62-3e98bd2bf5bd",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Joey, Monica, and Phoebe are opening their invitations."
+    },
+    {
+      "id": "5434a024-921b-4ede-ba45-3784436d9e74",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ohh, this is soo amazing! I can’t believe my brother’s getting married! And in London! It’s so romantic!",
+      "isUncut": false
+    },
+    {
+      "id": "a8176f8a-a38d-40af-ad4a-e430d7f7b936",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey, pretty smart! Tissue paper! You’re at the wedding, you have to cry, “Handkerchief?” “No-no, I got my invitation.”",
+      "parenthetical": "taking apart the invitation",
+      "isUncut": false
+    },
+    {
+      "id": "611b8615-ea33-452a-90e3-ace16fa2b743",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oooh look! Isn’t this adorable, Ross let Ben address mine!",
+      "isUncut": false
+    },
+    {
+      "id": "20209d71-797d-451b-a84d-c1006c1be57b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hello!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "12050014-73c6-488a-800b-5c32648ab714",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "af197e6b-10e2-4cd0-b638-9b7987254f7c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "2bbdde35-9e12-4aba-897b-91d301202084",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey! Hey, did you get your invitation to Ross’s wedding?",
+      "isUncut": false
+    },
+    {
+      "id": "a489f293-206a-41d7-9fd6-31869c2befb3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Noo.",
+      "parenthetical": "sarcastic",
+      "isUncut": false
+    },
+    {
+      "id": "6bfdeedc-d752-4f71-9cbc-4b5b778cf680",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Don’t worry man, I get to bring a guest. We’ll show him.",
+      "isUncut": false
+    },
+    {
+      "id": "a26442ca-f0ae-4934-a20e-08181fc29936",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m so jealous you’re all going! I can’t believe I never knew that you can’t fly in your third trimester!",
+      "isUncut": false
+    },
+    {
+      "id": "dd071494-3da5-4147-b59f-1b58d5ab0cc6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I didn’t know that.",
+      "isUncut": false
+    },
+    {
+      "id": "9ae16103-98ba-43d0-8888-562fd9dd6c3f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I never knew that either.",
+      "isUncut": false
+    },
+    {
+      "id": "72636016-aff9-417f-809c-550b72f88e35",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I knew that! (They all look at him) I sooo didn’t know that, but you should see your faces.",
+      "isUncut": false
+    },
+    {
+      "id": "a0dada68-ab19-4c22-bc27-6a8d51eb6004",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey guys! What’s up?",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "0b94a9a8-8cae-40e3-96c6-2004521fe8ee",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Heyyy. (They all try and hide their invitations.)",
+      "isUncut": false
+    },
+    {
+      "id": "f0fa62cd-aeef-4eaf-9179-3915af0abc10",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "We’re hanging out.",
+      "isUncut": false
+    },
+    {
+      "id": "7941e707-208a-46ab-b607-c77d13deef2a",
+      "type": "action",
+      "text": "(Rachel starts going through her mail, and come across her invitation.)",
+      "isUncut": false
+    },
+    {
+      "id": "a9eee11f-1f70-4f6d-a080-9f2d4dc81d57",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What’s this? Is this Ross’s wedding invitation?",
+      "isUncut": false
+    },
+    {
+      "id": "cae7ec75-3c85-4b27-ab38-d63153cb65a3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "See, maybe that’s the one we should’ve actually hidden.",
+      "isUncut": false
+    },
+    {
+      "id": "8af19e42-b536-431e-a0fd-a4d9bb62e9f7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, no! No you guys! Come on, you don’t have to do that! I’m happy for him! I am! I really—I’m-I’m happ—I’ll work on it.",
+      "isUncut": false
+    },
+    {
+      "id": "95919989-6cd5-4dcc-a6ec-37d030733b92",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I’m sorry honey.",
+      "isUncut": false
+    },
+    {
+      "id": "1c08434d-719c-4291-9cfe-33bdd2dcc001",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "ec240329-eeab-4ff4-98e4-94b170c5da57",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rach, you’re gonna come though aren’t you?",
+      "isUncut": false
+    },
+    {
+      "id": "4a2054a4-ea40-4448-a38d-4d69e3e4b0a9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, honey, I don’t know. I…",
+      "isUncut": false
+    },
+    {
+      "id": "3f3d5367-4b3a-4a45-b756-dc79f4e541d5",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "This isn’t one of those uh, y’know “If she doesn’t come, we-we don’t, we don’t come?” Right? Because I already bought my ticket…",
+      "isUncut": false
+    },
+    {
+      "id": "e10e60c5-d9e1-4e57-8c75-8e538898be4e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You know what would be real weird? Is if you weren’t there. Just say you’ll think about it, okay?",
+      "isUncut": false
+    },
+    {
+      "id": "3078cff1-878b-438f-9d41-802b6650fbf1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, I’ll think about it. Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "bc8416aa-88f9-42cb-8a3a-2bfcb5d63f10",
+      "type": "transition",
+      "text": "[And with that, we go into another set of clips, this time from Rachel’s point of view.]"
+    },
+    {
+      "id": "692dbcb5-fbbd-4ab4-a87a-03694be50b17",
+      "type": "transition",
+      "text": "[The first clip is from The One Where Rachel Finds Out.]"
+    },
+    {
+      "id": "f6d6e3d2-a357-4c8d-b614-34af37be77fd",
+      "type": "scene",
+      "description": "Monica and Rachel’s, it’s Rachel birthday party and Chandler is about to spill the beans."
+    },
+    {
+      "id": "99f0e7fa-05a4-4525-92b0-8cc8a1546a0a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Who’s this from?",
+      "isUncut": false
+    },
+    {
+      "id": "99a52af0-e92e-4709-a7c6-bd1b09a1c2b1",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, that’s Ross’s.",
+      "isUncut": false
+    },
+    {
+      "id": "8e39787c-4efa-4797-a71f-3646b602cf52",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh… [opens it]… [sees it is a pin] Oh my God. He remembered.",
+      "isUncut": false
+    },
+    {
+      "id": "5817876b-6b03-4b8e-a18b-4d7ae513bd64",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Remembered what?",
+      "isUncut": false
+    },
+    {
+      "id": "7d057ab9-358f-42f6-a6b0-0c35b469f826",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl. Oh! I can’t believe he remembered!",
+      "isUncut": false
+    },
+    {
+      "id": "6e226ef4-f2de-4c9e-a26f-bf7d37c82d78",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, it’s so pretty. This must have cost him a fortune.",
+      "isUncut": false
+    },
+    {
+      "id": "d1a46342-3799-4e0a-ace8-5e59beba18c2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t believe he did this.",
+      "isUncut": false
+    },
+    {
+      "id": "87721fb0-075a-4032-87f6-5889ab8f9aee",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?",
+      "isUncut": false
+    },
+    {
+      "id": "f6c67aaa-9f8b-49a9-9690-8d31c34cd333",
+      "type": "transition",
+      "text": "[Everyone looks at him. He realizes he just spilled the beans about Ross’s crush on Rachel.]"
+    },
+    {
+      "id": "9c252415-ffdd-41a1-9054-36bcb9258e0e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What did you just say?",
+      "isUncut": false
+    },
+    {
+      "id": "2dddbe4e-f7f4-466d-a04a-99749df04de9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "[stuttering incoherently] F-hah… flennin…",
+      "isUncut": false
+    },
+    {
+      "id": "9122015e-5d62-42f8-bfe7-0540f3de6e6d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh… my God.",
+      "isUncut": false
+    },
+    {
+      "id": "ef066cc7-9a38-4214-8dd7-62734f1bf730",
+      "type": "transition",
+      "text": "[The next clip is from The One With Ross’s New Girlfriend.]"
+    },
+    {
+      "id": "2d69a354-1ae1-47ad-977c-4868d9c5e1d3",
+      "type": "scene",
+      "description": "The airport, Ross is about to walk off of the plane with Julie."
+    },
+    {
+      "id": "38fef8c6-da1b-45a5-9e0e-3a4cd0ad14e8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God.",
+      "parenthetical": "seeing Ross come off the plane with another woman.",
+      "isUncut": false
+    },
+    {
+      "id": "3237e2df-26f6-4e5a-ad1b-f9abc7881534",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "218731e1-08cd-4740-9266-417522e5c649",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Ross is introducing Julie to the gang."
+    },
+    {
+      "id": "cf0db6bf-de89-43da-82dc-a3fc06976005",
+      "type": "dialogue",
+      "speaker": "Julie",
+      "text": "Well, Ross and I were in grad school together.",
+      "isUncut": false
+    },
+    {
+      "id": "34bda6b1-ba0a-4aab-8dd7-d68998214966",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "But we haven’t seen each other since then. Well I land in China, guess who’s in charge of the dig.",
+      "isUncut": false
+    },
+    {
+      "id": "ec35187e-bacc-4519-bf20-1ade9e0a1a15",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Julie! Julie, isn’t that great? I mean, isn’t that just kick- you-in-the-crotch, spit-on-your-neck fantastic?",
+      "isUncut": false
+    },
+    {
+      "id": "4a231e7a-b76f-4a9a-ac0a-6f3af9d9e59f",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "28e3323a-1509-4e5e-b2e6-d5df953c9d5d",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Ross is trying to hang up on Julie."
+    },
+    {
+      "id": "07491523-1534-47dc-a256-1b2512145d5b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, that is so sweet.(listens) No, no, ok, you hang up. Ok, ok, one, two, three.(He doesn’t hang up and motions for Rachel to be quiet.) Well you didn’t hang up either.",
+      "isUncut": false
+    },
+    {
+      "id": "c41121f3-e9d8-4394-bb1b-906684a57b32",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "She didn’t hang up either…",
+      "isUncut": false
+    },
+    {
+      "id": "52a9c06c-4945-4e69-b16c-b4762570d5c5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ok, no, no, you hang up. You, you, y— (Rachel grabs the phone and hangs it up for him.)",
+      "isUncut": false
+    },
+    {
+      "id": "3f12ac8f-2782-49fd-a2d6-fd64670aba3c",
+      "type": "transition",
+      "text": "[The next clip is from The One Where Ross Finds Out.]"
+    },
+    {
+      "id": "04a0fadb-37ad-4f77-9824-6d7c19ff2bbb",
+      "type": "scene",
+      "description": "[Scene, A Restaurant, Rachel is on her date, drunk, and is leaving that answering machine message.]"
+    },
+    {
+      "id": "6e2d626e-1760-4760-93e2-a0f49f5873b8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "[on phone] Ross, hi, it’s Rachel. I’m just calling to say that um, everything’s fine and I’m really happy for you and your cat …(cut)…I am over you. I am over you and that, my friend, is what they call closure. [hangs up and tosses phone in the ice bucket]",
+      "isUncut": false
+    },
+    {
+      "id": "aa3b8b29-7e35-4afc-b900-c685065956c8",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "c5c62707-f5ec-45a7-8bf4-e062c21dd963",
+      "type": "scene",
+      "description": "[Scene, Monica and Rachel’s, the next morning, Ross is checking his messages.]"
+    },
+    {
+      "id": "133cf8c5-d270-406f-a10e-eda7d1d9b280",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Rach, I got a message from you.",
+      "isUncut": false
+    },
+    {
+      "id": "d8b388f0-f9f1-4d0e-a1cb-5eb1cebc558d",
+      "type": "transition",
+      "text": "[Rachel comes out of her room, suddenly she remembers leaving the message.]"
+    },
+    {
+      "id": "cbeb6e0e-d05d-4b69-a68e-0baad9cb1333",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the… [jumps the couch and lands on Ross’s back, finally getting the phone from him. Ross has a confused expression on his face.]",
+      "isUncut": false
+    },
+    {
+      "id": "d674e808-7e58-4df6-948d-11db1592c762",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You’re over me?",
+      "isUncut": false
+    },
+    {
+      "id": "ed2a4141-d892-489c-89b9-e2721619a054",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohhhhhhhh God. [climbs off his back]",
+      "isUncut": false
+    },
+    {
+      "id": "36f9d5cb-5882-4b1d-939f-dc84d0c7f705",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wha… you’re uh, you’re, you’re over me?",
+      "isUncut": false
+    },
+    {
+      "id": "920ee69c-4970-4637-9a23-c5c4290ec36c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohh, ohh.",
+      "isUncut": false
+    },
+    {
+      "id": "256f5ae3-4def-418b-a11d-895787b0d13d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "When, when were you… under me?",
+      "isUncut": false
+    },
+    {
+      "id": "3f4bed2c-4713-42b5-baad-95157e096890",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, basically, lately, I’ve uh, I’ve uh, sort of had feelings for you.",
+      "isUncut": false
+    },
+    {
+      "id": "b1d3e9dc-3d6d-4f42-9785-66ec2040cc18",
+      "type": "transition",
+      "text": "[cut to later in the same scene]"
+    },
+    {
+      "id": "2c00080a-f9dc-4386-ba22-1d10d1da6be2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "OK, I need to lie down.",
+      "isUncut": false
+    },
+    {
+      "id": "34879fff-3511-440a-af5e-b206b114a87f",
+      "type": "transition",
+      "text": "[The next clip is from The One With The List.]"
+    },
+    {
+      "id": "cca2bf5f-ba19-4df5-9e56-29ba4114d7d4",
+      "type": "scene",
+      "description": "Chandler and Joey’s, Ross has just broken up with Julie and is about to get with Rachel."
+    },
+    {
+      "id": "cf9bd3f6-a73d-432f-aebf-1ca160771abc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "He broke up with Julie. Well, go hug her, for god’s sakes.",
+      "isUncut": false
+    },
+    {
+      "id": "3d23d392-14ff-4617-856c-0b84a1f8c044",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "8fffd4b5-8c99-4a1f-b6b6-3548b38763b8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Really. It’s always been you, Rach.",
+      "isUncut": false
+    },
+    {
+      "id": "87a03a63-db0a-47ad-a33c-00f9c91cd201",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, god.",
+      "isUncut": false
+    },
+    {
+      "id": "00927892-e424-4de5-b2e7-4a4589e18253",
+      "type": "transition",
+      "text": "[Ross and Rachel hug.]"
+    },
+    {
+      "id": "1c6b53a4-0105-4750-8906-978da462af77",
+      "type": "dialogue",
+      "speaker": "Chandler and Joey",
+      "text": "Ohhh.",
+      "isUncut": false
+    },
+    {
+      "id": "d36c690e-68ce-4198-aeb5-0651957c98a3",
+      "type": "transition",
+      "text": "[The next clip is from The One Where Ross and Rachel… You Know.]"
+    },
+    {
+      "id": "7dd2223c-68c8-4f5c-8667-e0cc3bf4b47b",
+      "type": "scene",
+      "description": "The Auditorium, Ross and Rachel are about to… you know."
+    },
+    {
+      "id": "c009e89f-2a3d-415f-9433-3b488aa150b0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’ve no idea, could be. Listen, I’m sorry I had to work tonight.",
+      "isUncut": false
+    },
+    {
+      "id": "cd50f974-4bad-496d-978c-ce743789d660",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh it’s OK. You were worth the wait, and I don’t just mean tonight.",
+      "isUncut": false
+    },
+    {
+      "id": "5d34bfa2-af9a-441c-a0e4-7fed63f5be37",
+      "type": "transition",
+      "text": "[They kiss and start undressing. As Rachel tries to pull off Ross’s tie she catches it in his mouth. Then they roll across the fur rug.]"
+    },
+    {
+      "id": "082e1a15-63cb-4f4e-9420-b691bc12f78d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ah, oh God. Oh, honey, oh that’s OK.",
+      "isUncut": false
+    },
+    {
+      "id": "e5a9ce40-83c9-4efe-9b44-3bbc71ba530f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What. Oh no, you just rolled over the juice box.",
+      "isUncut": false
+    },
+    {
+      "id": "51f72fd8-62f2-42a4-9610-9cd4e6ebfd98",
+      "type": "transition",
+      "text": "[The next clip is from The One The Morning After.]"
+    },
+    {
+      "id": "47acb26e-6d66-4934-9505-b81d0afd6468",
+      "type": "scene",
+      "description": "Central Perk, Ross is trying to prevent Gunther from spilling the beans."
+    },
+    {
+      "id": "a46b1545-bb18-4530-ab00-5e5815aa804e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Gunther! Gunther. Gunther, please tell me you didn’t say anything to Rachel about me and the girl from the Xerox place.",
+      "isUncut": false
+    },
+    {
+      "id": "114c872a-1760-4ac0-b68e-489776756631",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "I’m sorry. Was I not supposed to?",
+      "isUncut": false
+    },
+    {
+      "id": "b6ce61fc-11da-4b74-a76a-5f1c13bbcbe5",
+      "type": "action",
+      "text": "(Ross turns around and sees Rachel sitting by the window. She is just glaring at him.)",
+      "isUncut": false
+    },
+    {
+      "id": "e63626e9-aa67-4c87-8d65-5da22f4f44dc",
+      "type": "transition",
+      "text": "[The next clip is from The One At The Beach.]"
+    },
+    {
+      "id": "58e0540f-ff2e-491d-8ac2-cdac0a0bb35d",
+      "type": "scene",
+      "description": "The beachhouse, Ross and Rachel are argueing about the breakup."
+    },
+    {
+      "id": "1b17fd65-6b90-4e85-a2ba-1277048c0beb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Y’know, hey! You’re the one who ended it, remember?",
+      "isUncut": false
+    },
+    {
+      "id": "0494c571-c371-4dc3-96c3-fa7e9d0d09a9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, because I was mad at you, not because I stopped loving you!",
+      "isUncut": false
+    },
+    {
+      "id": "031c0609-c1ba-4755-b8a2-3e520acb4cba",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You still love me?",
+      "isUncut": false
+    },
+    {
+      "id": "ffaf4956-613a-4e10-8f1c-2b31531821c6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Noo.",
+      "isUncut": false
+    },
+    {
+      "id": "b89ade61-0a54-4259-8c3b-98799212ede8",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "8afd7ff0-033f-4b33-b16d-f49fecd537de",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What does this mean? What do you, I mean do you wanna, get back together?",
+      "isUncut": false
+    },
+    {
+      "id": "758e73c0-6505-400f-8dd9-eaec80adccfd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Noo! Maybe! I, I don’t know.",
+      "isUncut": false
+    },
+    {
+      "id": "dcd1ec38-a001-408c-8a58-d3e8fdea21ca",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "a4baa7fa-b217-43ec-b9ac-4deef7f0f0c4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I just, I feel, I-I just…",
+      "isUncut": false
+    },
+    {
+      "id": "ad1f5534-e576-421a-8294-1a00ce3f578b",
+      "type": "action",
+      "text": "(Ross leans in and kisses her. They both look at each other for a moment, and then embrace in a more passionate kiss.)",
+      "isUncut": false
+    },
+    {
+      "id": "9dd5c5c3-014e-4782-a85e-7778caa927eb",
+      "type": "transition",
+      "text": "[The next clip is from The One With The Jellyfish.]"
+    },
+    {
+      "id": "fa397d13-b575-43a5-a0b1-5176f65df60f",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Rachel and Ross are finally breaking up for good, or is it?"
+    },
+    {
+      "id": "ea01b71c-cb36-490e-8834-5ac0d0f667a5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know I can’t believe I even thought about getting back together again! We are so over!!",
+      "isUncut": false
+    },
+    {
+      "id": "2c8a8f6d-0ce8-4e7e-883f-d589e66c7c0b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "FINE BY ME!! (he opens the door and traps Chandler behind it)",
+      "parenthetical": "starts to cry",
+      "isUncut": false
+    },
+    {
+      "id": "73728932-ff41-42d5-9bf3-887d0c900a04",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "3a262ebc-b6c1-4f33-a717-24436169104f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "And hey! Just so you know, it’s not that common! It doesn’t happen to every guy! And it is a big deal!!",
+      "isUncut": false
+    },
+    {
+      "id": "f38d664c-1b72-461b-816e-01049fa7e431",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I KNEW IT!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "ef3de7fc-2a23-4030-81ee-b3cacb948123",
+      "type": "transition",
+      "text": "[cut back to the present.]"
+    },
+    {
+      "id": "e7bcd6c6-a364-44b5-8652-507a4aa7bc44",
+      "type": "scene",
+      "description": "Central Perk, Rachel is deciding on whether or not to go to the wedding."
+    },
+    {
+      "id": "ff10ed6a-3fb5-4c65-bf92-f8b71615b13f",
+      "type": "transition",
+      "text": "[cut to another clip, this one is from The One With The Prom Video]"
+    },
+    {
+      "id": "047f6754-9d4f-4900-9a08-3e7d00251c54",
+      "type": "scene",
+      "description": "Monica and Rachel’s, the gang is watching the Prom Video and Rachel is about to make her entrance on the video. The italics are portions of the prom video."
+    },
+    {
+      "id": "55ea6023-3d0c-4388-92ba-daec280c0d38",
+      "type": "action",
+      "text": "MRS. GELLER: Rachel’s coming up the path. Doesn’t she look pretty. Jack… [Rachel enters with a huge nose]",
+      "isUncut": false
+    },
+    {
+      "id": "d2723cb6-b790-4224-a034-c77506298710",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God.",
+      "isUncut": false
+    },
+    {
+      "id": "d8e8d44d-886d-489b-ac78-32a85b54d788",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You know what this is, this is us getting ready for the prom.",
+      "isUncut": false
+    },
+    {
+      "id": "fa2bd9c1-628e-4899-a5ac-81d9616f8dfd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh.",
+      "isUncut": false
+    },
+    {
+      "id": "41653964-d83d-46c0-bd6b-cbb7f7bedfdc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You know what, you guys, we don’t have to watch this.",
+      "isUncut": false
+    },
+    {
+      "id": "e8a2ff3b-befa-4e3e-8219-77212c31b384",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Oh yeah we do. C’mon.",
+      "isUncut": false
+    },
+    {
+      "id": "2617be80-1d74-408e-922e-2eb8fcb4d07a",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Get a shot of Monica. Where’s Monica.",
+      "isUncut": false
+    },
+    {
+      "id": "0ab2e21b-7b48-48fe-b59c-70de05f575e0",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Wait, how do you zoom out? [zooms out and we see an extremely overweight Monica eating a big sandwich] There she is.",
+      "isUncut": false
+    },
+    {
+      "id": "8ff1ec52-267c-4324-bbf5-1b39ade1a144",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Shut up, the camera adds ten pounds.",
+      "isUncut": false
+    },
+    {
+      "id": "aaf0cbe2-8bb0-45bb-a813-dafc22bc6ebd",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ahh, so how many cameras are actually on you?",
+      "isUncut": false
+    },
+    {
+      "id": "2d0e3de2-0dd7-4be7-ba76-72a6ee6e1685",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "f9b0c593-14fe-421a-9857-b649c3ac2f34",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, dad, turn it off.",
+      "isUncut": false
+    },
+    {
+      "id": "f5369ab8-a9dc-4b7c-af81-81f8aebb13d3",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "It is off. Right Ross? [pans over to see Ross with an afro and moustache]",
+      "isUncut": false
+    },
+    {
+      "id": "c65105b1-f515-4b43-87ab-cc412f6be148",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Lookin’ good Mr. Cotter.",
+      "isUncut": false
+    },
+    {
+      "id": "c142468d-2c1d-4a69-a8db-37477d8f7931",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "260e34d0-5570-4204-a5fe-5edf28b44615",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I can’t go to my own prom without a date, I can’t, it’s too late.",
+      "isUncut": false
+    },
+    {
+      "id": "6f185618-1415-4978-8d90-c011ae3bfd91",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "If you’re not going then I don’t want to go either.",
+      "isUncut": false
+    },
+    {
+      "id": "289e7da1-2cda-4fac-b731-e51876523982",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "[to Ross on the stairs] I have a wonderful idea. You should take Rachel to the prom.",
+      "isUncut": false
+    },
+    {
+      "id": "f82c3723-cae2-4525-9a9e-cecf45b9e909",
+      "type": "transition",
+      "text": "[cut to later]"
+    },
+    {
+      "id": "b2463752-eea7-4ad3-847f-02273005b55d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Y’know what? I think we’ve seen enough, let’s turn it off.",
+      "isUncut": false
+    },
+    {
+      "id": "80795df9-aea0-4636-84be-5ff9d912d8e9",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "No, no, no.",
+      "isUncut": false
+    },
+    {
+      "id": "0c25f645-a7e3-4121-ac12-b04bbcb31218",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "OK, fine, well I’m not gonna watch, alright.",
+      "isUncut": false
+    },
+    {
+      "id": "f0ddf136-53b9-4260-90eb-116e187a05f0",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "C’mon kid, let’s go.",
+      "isUncut": false
+    },
+    {
+      "id": "64568499-fbe4-426a-aabf-b764d3a08d52",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Ahh, are you hadsome.",
+      "isUncut": false
+    },
+    {
+      "id": "9be34765-7274-4c01-8aa3-0cb7ab981677",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Let’s show ’em.",
+      "isUncut": false
+    },
+    {
+      "id": "ca01a053-155a-4b1d-9006-31db33f7a9c9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "[walks down the stairs and grabs the flowers out of the vase on the endtable] OK dad.",
+      "isUncut": false
+    },
+    {
+      "id": "266b1a7d-c417-4e7c-bf4f-ac9824d37885",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "[going downstairs] Rachel, ready or not, here comes your knight in shining… no. [Chip has shown up and the four are leaving]",
+      "isUncut": false
+    },
+    {
+      "id": "aaace8a5-8ab8-4459-a381-a0fb316d4c20",
+      "type": "dialogue",
+      "speaker": "Rachel, Monica, Roy, and Chip",
+      "text": "Bye.",
+      "isUncut": false
+    },
+    {
+      "id": "0fce8a16-79a4-43c1-adb5-f5f631cb171a",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Oh, dear. Jack, how do I turn this off?",
+      "isUncut": false
+    },
+    {
+      "id": "393e6728-110e-4fad-8d70-5bdcab5641b3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t believe you did that.",
+      "isUncut": false
+    },
+    {
+      "id": "ec723675-9d59-4d18-9436-bf677b32b953",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, well.",
+      "isUncut": false
+    },
+    {
+      "id": "2386bb96-ee61-4515-ab46-79700ca86b28",
+      "type": "transition",
+      "text": "[Rachel, seeing what he did for her, gets up, walks across the room, and kisses Ross]"
+    },
+    {
+      "id": "8d975acd-233e-49a0-b3e8-6634aef81f24",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "See, he’s her lobster.",
+      "isUncut": false
+    },
+    {
+      "id": "c9521e66-4972-4463-845b-1e364d830199",
+      "type": "transition",
+      "text": "[Cut back to the present, Rachel has made her decision.]"
+    },
+    {
+      "id": "6abca45e-ad6e-4124-84f8-095ff017bad0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Nooooo. You’re really not going?",
+      "parenthetical": "seeing the decision",
+      "isUncut": false
+    },
+    {
+      "id": "25299c28-b6f4-4767-a4b6-cca24e8e953a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah. It’s just gonna be too hard. Y’know? I mean, it’s Ross. How can I watch him get married? Y’know it’s just, it’s for the best, y’know it is, it’s… Y’know, plus, somebody’s got to stay here with Phoebe! Y’know she’s gonna be pretty big by then, and she needs someone to help her tie her shoes; drive her to the hospital in case she goes into labour.",
+      "isUncut": false
+    },
+    {
+      "id": "d3ca748d-7bdb-466d-a9e8-a35fed58dc96",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You don’t have a car. And your license expired.",
+      "isUncut": false
+    },
+    {
+      "id": "5b5d50bd-405b-4dd6-90c0-210c45a8fc6e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I know. (Starts to cry) Yeah, see, there’s so much to do and I have so little time to do it in.",
+      "isUncut": false
+    },
+    {
+      "id": "a5508d00-af35-4af4-a91e-5b0c44a9f4a4",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "a9cca60d-4aa7-4426-9ba7-2304511e33c2",
+      "type": "scene",
+      "description": "Central Perk, Chandler, Joey, and Phoebe are reading a book about things to do whilst in London."
+    },
+    {
+      "id": "e0067d1c-ec6b-4be9-9a2e-0fdb4257a66f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "All right, check it out. Check this out. It says here that there’s a place you can go to rent videos of all the museums! (Reading from the book.) “It’s almost as good as being there.”",
+      "isUncut": false
+    },
+    {
+      "id": "df538bc0-5243-4de8-bfa3-3d28a8c2c44c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "It’s better! You can’t go to a museum in your underwear!",
+      "isUncut": false
+    },
+    {
+      "id": "22fd587a-676f-43eb-872f-be930cce09bb",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, You could, but… probably just the one time.",
+      "isUncut": false
+    },
+    {
+      "id": "7bc90672-3df5-4c4e-bb7c-28ad60ee57a3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I bet we could get videos of all the sites, get a VCR in our hotel room… we’d never even have to go outside!",
+      "isUncut": false
+    },
+    {
+      "id": "041db1a0-b6fd-4991-b9d3-fa991174c4db",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "If we do that, we gotta get Die Hard.",
+      "isUncut": false
+    },
+    {
+      "id": "d738a548-da7d-47a9-ae8c-781b37b67711",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh-ho! I bet the British version is gooooood!",
+      "isUncut": false
+    },
+    {
+      "id": "be253821-14e7-4781-9e5c-1180a5c744a2",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

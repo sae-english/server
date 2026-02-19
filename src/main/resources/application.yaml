@@ -3,3 +3,9 @@ spring:
     name: english-movies-server
   profiles:
     active: ${SPRING_PROFILES_ACTIVE:dev}
+
+# Telegram: бот для отправки сообщений в твой канал (опционально)
+# Создай бота через @BotFather, добавь его админом в канал, укажи сюда токен и chat_id
+telegram:
+  bot-token: ${TELEGRAM_BOT_TOKEN:}
+  chat-id: ${TELEGRAM_CHAT_ID:}

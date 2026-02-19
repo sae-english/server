@@ -3,6 +3,7 @@ package com.englishmovies.server.dictionary.controller;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryDto;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
 import com.englishmovies.server.dictionary.service.DictionaryService;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -15,13 +16,10 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/dictionary")
 @CrossOrigin(origins = {"http://localhost:5173", "http://127.0.0.1:5173"})
+@RequiredArgsConstructor
 public class DictionaryController {
 
     private final DictionaryService dictionaryService;
-
-    public DictionaryController(DictionaryService dictionaryService) {
-        this.dictionaryService = dictionaryService;
-    }
 
     /**
      * Создать новую запись в словаре.

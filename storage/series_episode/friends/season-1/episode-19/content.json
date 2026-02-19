@@ -1,0 +1,1932 @@
+{
+  "season": 1,
+  "episode_number": 19,
+  "episode_title": "119 - The One Where the Monkey Gets Away",
+  "credits": {
+    "writtenBy": "Jeffrey Astrof and Mike Sikowitz",
+    "transcribedBy": "guineapig <shadelet@easynet.co.uk>"
+  },
+  "note": "{Transcriber’s Note: The credits list two characters, Tia and Samantha, who I assume are the sweaty women Joey and Chandler meet. However, I don’t know which is which, so I’ve simply called them Woman #1 and Woman #2.}",
+  "content": [
+    {
+      "id": "af1329e5-f53a-4832-bc25-1d7e2f0dd7d6",
+      "type": "scene",
+      "description": "Central Perk, Rachel is talking to a customer."
+    },
+    {
+      "id": "c8c2a8da-158f-414f-8afe-67cadea9b7d5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there’s one more, um.. Lemon Soother. You’re not the guy that asked for the tea, are you? (Guy shakes his head) Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "1272d811-33d6-406e-aa08-1ed3977d7b52",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "7b368d9a-ddc6-4b45-abc4-407f3e88421d",
+      "type": "scene",
+      "description": "Central Perk, Monica enters with some mail."
+    },
+    {
+      "id": "3f565f34-b4d4-4d69-82b6-1c03a00dbc5d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mail call, Rachel Green, bunk seven.",
+      "isUncut": false
+    },
+    {
+      "id": "20111083-49cb-47cf-be0b-1ab8032035e0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Thank you. (Examines it) Oh, cool! Free sample of coffee!",
+      "isUncut": false
+    },
+    {
+      "id": "8ea422c6-75db-44e4-b719-c5e653864f97",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh good! ’Cause where else would we get any?",
+      "isUncut": false
+    },
+    {
+      "id": "46342037-1f01-4ad1-85d2-02340e41b556",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh. Right. …Oh great.",
+      "isUncut": false
+    },
+    {
+      "id": "398e9e57-000c-4523-9ffa-68b503c39ebf",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What is it?",
+      "isUncut": false
+    },
+    {
+      "id": "774f0135-0648-4df9-8bd5-55f301802728",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Country club newsletter. My mother sends me the engagement notices for ‘inspiration.’ Oh my God! Oh my God, it’s Barry and Mindy!",
+      "isUncut": false
+    },
+    {
+      "id": "3211d7eb-dd11-4410-b99e-b1b1fcad4b76",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Barry who you almost…?",
+      "isUncut": false
+    },
+    {
+      "id": "215e7be3-9903-4fba-a930-273cd0d07a1c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Barry who I almost.",
+      "isUncut": false
+    },
+    {
+      "id": "a5095091-3cc3-4711-a267-744c179358f7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And Mindy, your maid of…?",
+      "isUncut": false
+    },
+    {
+      "id": "baeb3943-4be4-408f-9f00-c57d360caa2f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Mindy, my maid of. Oh!",
+      "isUncut": false
+    },
+    {
+      "id": "f91eea7d-9af0-4662-b170-7b8b26d3514f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s Mindy? Wow, she is pretty. (Sees Rachel’s look) Lucky. To have had a friend like you.",
+      "parenthetical": "Takes it",
+      "isUncut": false
+    },
+    {
+      "id": "304e1a05-d8cc-4bee-b332-3c5a3d78e8f9",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Rachel and Ross are eating Chinese."
+    },
+    {
+      "id": "7e97eb34-c580-4905-8c5c-67df9bf3f8d4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel. Bring me the rice, c’mon. Bring me the rice, c’mon. Good boy. Good boy. C’mere, gimme the rice. (Marcel brings the rice) Thank you, good boy. Well, I see he’s finally mastered the difference between ‘bring me the’ and ‘pee in the’. (Rachel ignores him) ‘Bring me the’ and- Rach?",
+      "isUncut": false
+    },
+    {
+      "id": "ad07a5cf-c118-446e-9e00-bef148f32d9c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "21cd53cf-2477-4df5-8a03-265c788ce096",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "b60edca3-ad66-4d86-8aba-72957a08b61a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I’m sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I’m happy for them.",
+      "isUncut": false
+    },
+    {
+      "id": "ea723a20-e09d-4d9d-ba57-f19ef28b4f12",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Really.",
+      "isUncut": false
+    },
+    {
+      "id": "2c045648-8e3f-4b2e-bb20-97058553c698",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No. Oh, oh, I guess it would be different if I were- with somebody.",
+      "isUncut": false
+    },
+    {
+      "id": "fdc9931a-fea2-4731-aaec-6f42392321c3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Whoah, uh, what happened to, uh, ‘Forget relationships! I’m done with men!’ The whole, uh, penis embargo?",
+      "isUncut": false
+    },
+    {
+      "id": "2bdb1397-21d2-4ea4-8aa7-55d5c31aa393",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I don’t know. I guess it’s not about no guys, it’s about the right guy, y’know? I mean, with Barry, it was safe and it was easy, but there was no heat. With Paolo, that’s all there was, was heat! And it was just this raw, animal, sexual…",
+      "isUncut": false
+    },
+    {
+      "id": "95663569-180c-4f64-9a09-f413cd2a7400",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wait-wait. I, I got it. I was there.",
+      "isUncut": false
+    },
+    {
+      "id": "cbe025d8-ee5e-43b4-935d-cd56696784e9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I mean, do you think you can ever have both? Y’know? Someone who’s like, who’s like your best friend, but then also can make your toes curl?",
+      "isUncut": false
+    },
+    {
+      "id": "77d93c51-8dce-425b-b9d0-90b1a6ed992f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes. Yes. Yes! Yes, I really do! In fact, it’s funny, very often, someone who you wouldn’t think could-could curl your toes, might just be the one who…",
+      "isUncut": false
+    },
+    {
+      "id": "c57b14f1-c0fa-4714-b99f-ba278640f4ae",
+      "type": "action",
+      "text": "(Enter the other four)",
+      "isUncut": false
+    },
+    {
+      "id": "332180a8-ba6d-422c-ba2d-c19a06efe4f7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "bceef0b1-0124-4941-9bf4-4a2942e6397b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…Gets interrupted. Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "98652c7c-6e57-48d9-b7ad-f6e3b5954a00",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi, how was the movie?",
+      "isUncut": false
+    },
+    {
+      "id": "5c9a5f40-7a18-49e3-af79-c1419344de30",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Wonderful!",
+      "isUncut": false
+    },
+    {
+      "id": "7f57b453-78de-4f7f-9e9c-229c7a569864",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So good!",
+      "isUncut": false
+    },
+    {
+      "id": "8b95b85d-ea1c-451f-a7b1-62a0bafe63ac",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Suck-fest.",
+      "isUncut": false
+    },
+    {
+      "id": "a0a3c61b-5d9d-4d3b-b445-f85742bc1688",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Toootal chick-flick.",
+      "isUncut": false
+    },
+    {
+      "id": "74a78e44-9450-4458-a0f0-4d018d9f3555",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I-I’m sorry it wasn’t one of those movies with, like, y’know, guns and bombs and, like, buses going really fast…",
+      "isUncut": false
+    },
+    {
+      "id": "f645bd5a-3926-4a6b-8e89-1c7ec75d98eb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey, I don’t need violence to enjoy a movie. Just so long as there’s a little nudity.",
+      "isUncut": false
+    },
+    {
+      "id": "59438e08-5ad4-4c85-8fab-eb3f60931ff6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "There was nudity!",
+      "isUncut": false
+    },
+    {
+      "id": "a5368f79-0be1-4dd4-a919-958a4717cb17",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I meant female nudity. Alright? I don’t need to see Lou Grant frolicking.",
+      "isUncut": false
+    },
+    {
+      "id": "7408a04b-717f-492d-bacd-3fc30868c409",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hugh! Hugh Grant!",
+      "isUncut": false
+    },
+    {
+      "id": "f8194535-e508-4971-a946-9b5fe74b5ccd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright, I’ve gotta go. C’mon, Marcel! C’mon! We’re gonna go take a bath. Yes we are, aren’t we? Yes, we are.",
+      "isUncut": false
+    },
+    {
+      "id": "aff39edc-0e10-4439-82a8-94fd9c507173",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "They’re still just friends, right?",
+      "isUncut": false
+    },
+    {
+      "id": "906ab1c2-481a-4df9-bce3-2d5be17d7c2b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "And I will see you tomorrow!",
+      "parenthetical": "To Marcel",
+      "isUncut": false
+    },
+    {
+      "id": "2f94b0fe-1fd1-4bad-8fb0-4a9374ee1462",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s right, you’re gonna spend tomorrow at Aunt Rachel’s, aren’t you.",
+      "isUncut": false
+    },
+    {
+      "id": "697b21f4-9974-46de-bf1a-38109dc86660",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, hang on, hang on. Does Aunt Monica get a say in this?",
+      "isUncut": false
+    },
+    {
+      "id": "22159c9a-e2c8-45c3-a485-6eff8b5ab6ef",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "‘Pwease, Aunt Monica, pwease?’ Oh, unclench. You’re not even gonna be there.",
+      "isUncut": false
+    },
+    {
+      "id": "df22e407-6a77-4a5b-84fd-834b77bd22ec",
+      "type": "scene",
+      "description": "Joe-G’s Pizza, the guys are there."
+    },
+    {
+      "id": "1bb0d6bb-74c2-456b-b9e3-430208f8f975",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I can’t believe we are even having this discussion.",
+      "isUncut": false
+    },
+    {
+      "id": "6b5be708-4338-4a8f-a2f1-beef222db3f0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I agree. I’m, like, in disbelief.",
+      "isUncut": false
+    },
+    {
+      "id": "98fba841-f9eb-4bdc-a3d9-d71892446553",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I mean, don’t you think if things were gonna happen with Rachel, they would’ve happened already?",
+      "isUncut": false
+    },
+    {
+      "id": "dd3d9ee9-0c73-42b2-ba6a-8cfa70b9dcad",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m telling you, she said she’s looking for a relationship with someone exactly like me.",
+      "isUncut": false
+    },
+    {
+      "id": "2fe48dbd-72e2-4b61-8ccc-4da901132dc2",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "She really said that?",
+      "isUncut": false
+    },
+    {
+      "id": "5524be71-f6f9-481c-9b64-e99245f078b4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, I added the ‘exactly like me’ part… But she said she’s looking for someone, and someone is gonna be there tonight.",
+      "isUncut": false
+    },
+    {
+      "id": "749003e5-ca71-41c8-8847-9c860122a75f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "‘Tonight’ tonight?",
+      "isUncut": false
+    },
+    {
+      "id": "33081b21-c6f8-47b2-b9e2-6e16474c221d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, I think it’s perfect. Y’know, it’s just gonna be the two of us, she spent all day taking care of my monkey…",
+      "isUncut": false
+    },
+    {
+      "id": "a31ca4aa-8beb-400a-8d78-118f0ec78c59",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I can’t remember the last time I got a girl to take care of my monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "17661081-6f52-4b03-9628-61bb09b17c24",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Anyway, I figured after work I’d go pick up a bottle of wine, go over there and, uh, try to woo her.",
+      "isUncut": false
+    },
+    {
+      "id": "82051bf1-1b08-430f-be66-1b750064ae17",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey, y’know what you should do? You should take her back to the 1890’s, when that phrase was last used.",
+      "isUncut": false
+    },
+    {
+      "id": "dbe3a67e-c27c-41bc-b19c-48b86c470ffb",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Rachel is taking care of Marcel and they are watching a soap opera."
+    },
+    {
+      "id": "436cd483-9e7d-4852-835f-9899e8d95db0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Now, now the one in the feather boa, that’s Dr. Francis. Now, she used to be a man. Okay, now look, see, there’s Raven. We hate her. We’re glad she’s dying. Okay- (Marcel pushes down a cushion to reveal a shoe) Wh- wh- Marcel, are you playing with Monica’s shoes? You know you’re not supposed to pl- whoah. Marcel, did you poo in the shoe? (Takes the shoe into the kitchen) Marcel, bad monkey! Oh! Oh! (She notices the newsletter and taps the contents of the shoes onto it, then folds it shut) Sorry, Barry. Little engagement gift. I’m sure you didn’t register for that. (She leaves the apartment holding the newsletter at arm’s length. However, she leaves the door open. Marcel runs out in the opposite direction. There is a shot from the TV and Rachel runs back in) Who died? Who died? Roll him over! Oh, c’mon, roll him over! Oh…! Well, we know it wasn’t Dexter, right Marcel? Because- (Looks down and notices he is missing) Marcel? Marc- (Notices the open door)",
+      "isUncut": false
+    },
+    {
+      "id": "51decc90-efbc-4193-a51d-6245e89b5a0d",
+      "type": "transition",
+      "text": "[Time lapse. Now everyone but Ross and Phoebe is back at Monica and Rachel’s.]"
+    },
+    {
+      "id": "d5dceac0-b57d-4299-aca9-9d7b8d541df4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "How could you lose him?",
+      "isUncut": false
+    },
+    {
+      "id": "546ab032-781c-4af9-b9bc-a325f71a856d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know. We were watching TV, and then he pooped in Monica’s shoe-",
+      "isUncut": false
+    },
+    {
+      "id": "80d3e038-d336-4f1c-882e-1ac23db4bdca",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Wait. He pooped in my shoe? Which one?",
+      "isUncut": false
+    },
+    {
+      "id": "6659bc08-5c12-4d0e-a153-07931be19ca5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know. The left one.",
+      "isUncut": false
+    },
+    {
+      "id": "2efa1cb0-f7a2-49aa-bb61-cdfb4a706788",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Which ones ?",
+      "isUncut": false
+    },
+    {
+      "id": "164a43bd-9eda-4369-8910-4d8a8ce7d3b2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh. Oh, those little clunky Amish things you think go with everything.",
+      "isUncut": false
+    },
+    {
+      "id": "39543551-eff6-4c29-b202-44b84fafb0a9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey.",
+      "parenthetical": "Entering",
+      "isUncut": false
+    },
+    {
+      "id": "75946474-bae3-47b7-bcf6-cce4c663cf35",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "7053b801-0307-480d-a160-f9944e1b56bf",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Whoah, ooh, why is the air in here so negative?",
+      "isUncut": false
+    },
+    {
+      "id": "81146b3b-c7cc-4840-a92a-372314938aac",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Rachel lost Marcel.",
+      "isUncut": false
+    },
+    {
+      "id": "a57f319c-e3c7-4a22-af91-c7de130206a8",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh no, how?",
+      "isUncut": false
+    },
+    {
+      "id": "581f58d9-4691-484b-810e-ecc89c4953af",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "He- he pooped in my shoe.",
+      "isUncut": false
+    },
+    {
+      "id": "606ba7fa-2f6f-49fe-a8b5-d5f78774d5f9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Which one?",
+      "isUncut": false
+    },
+    {
+      "id": "cf552548-92f3-4a49-90f1-855f7ddb3d10",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Those cute little black ones I wear all the time.",
+      "isUncut": false
+    },
+    {
+      "id": "2f168cfb-9151-48b1-bbc8-505520cb8654",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No, which one ? The right or left? ’Cause the left one is lucky…",
+      "isUncut": false
+    },
+    {
+      "id": "26361d56-0008-461f-9840-0c319fcc7b45",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "C’mon, you guys, what’re we gonna do, what’re we gonna do?",
+      "isUncut": false
+    },
+    {
+      "id": "4f151943-2623-43be-a301-f06c8babb330",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Alright alright. You’re a monkey. You’re loose in the city. Where do you go?",
+      "isUncut": false
+    },
+    {
+      "id": "b4a40efe-e1d4-4de8-b558-0302af261ebe",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay, it’s his first time out, so he’s probably gonna wanna do some of the touristy things. I’ll go to Cats , you go to the Russian Tea Room .",
+      "isUncut": false
+    },
+    {
+      "id": "f0e9aa5c-82a7-4d7d-a2f5-29ccdf42e1c4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, my, God, c’mon, you guys! He’s gonna be home any minute! He’s gonna kill me!",
+      "isUncut": false
+    },
+    {
+      "id": "d81a161c-a2ca-4dc2-944c-5053c742a1b0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay, we’ll start with the building. You guys take the first and second floor, Phoebe and I’ll take third and fourth.",
+      "isUncut": false
+    },
+    {
+      "id": "f8cf4df7-10d8-40a5-b340-2f9faf97e3ad",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, what’m I gonna do? What’m I gonna do?",
+      "isUncut": false
+    },
+    {
+      "id": "c6eeb4d2-45d9-49c8-88f5-9014dc0ec821",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you.",
+      "isUncut": false
+    },
+    {
+      "id": "45285dd4-ccac-4be3-a850-93d454820c5c",
+      "type": "action",
+      "text": "(They all leave)",
+      "isUncut": false
+    },
+    {
+      "id": "b6b33f7d-4288-4f87-8a91-df8e335a41ca",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Anybody wanna trade? Oh…",
+      "isUncut": false
+    },
+    {
+      "id": "30d7d102-58dc-4aaa-acb2-9466aad690be",
+      "type": "transition",
+      "text": "[Cut to a hallway in the building, Monica and Phoebe are knocking on a door. Mr. Heckles emerges.]"
+    },
+    {
+      "id": "2e5fd1f2-5813-4075-88bc-7d4a8d3c838b",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "Whaddyou want?",
+      "isUncut": false
+    },
+    {
+      "id": "4590a903-b517-420c-924b-d942bc85d7b1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mr. Heckles, our friend lost a monkey. Have you seen it?",
+      "isUncut": false
+    },
+    {
+      "id": "da52f290-4534-4f0f-a73d-41ea780b88aa",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "I left a Belgian waffle out here, did you take it?",
+      "isUncut": false
+    },
+    {
+      "id": "b1e813aa-2d29-4851-96f0-31eb281e0071",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No!",
+      "isUncut": false
+    },
+    {
+      "id": "fd6b9fa1-2ad1-4146-bc7f-1ba8854e5eae",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Why would you leave your Belgian waffle in the hall?",
+      "isUncut": false
+    },
+    {
+      "id": "a4f9d5fd-1f5f-46aa-bb42-ac1c17390208",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "I wasn’t ready for it.",
+      "isUncut": false
+    },
+    {
+      "id": "814e65fc-cec9-4a04-8993-0fb6c9415d27",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "A monkey. Have you seen a monkey?",
+      "isUncut": false
+    },
+    {
+      "id": "774b7c20-f7ff-404c-9e27-a2dc194600c7",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "Saw Regis Philbin once…",
+      "isUncut": false
+    },
+    {
+      "id": "d169555b-3ef7-4f40-a17f-59f3923ae09f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, thank you, Mr. Heckles. (They move off)",
+      "isUncut": false
+    },
+    {
+      "id": "0265bc20-9eb9-46d9-bb2a-2c41b6e5308f",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "You owe me a waffle.",
+      "isUncut": false
+    },
+    {
+      "id": "bcbe0ffe-d286-4045-9695-6bc670ae9ba5",
+      "type": "transition",
+      "text": "[Cut to Monica and Rachel’s.]"
+    },
+    {
+      "id": "23a9eb6c-7a4a-4706-8709-cf306c3ee0ce",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, he’s a, he’s a black capuchian monkey with a white face… (Enter Ross) …with, with Russian dressing and, and pickles on the side. Okay. Thanks.",
+      "parenthetical": "On the phone",
+      "isUncut": false
+    },
+    {
+      "id": "ce06b71c-bf9c-4aa6-b778-897ec1f16cc3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey. How did, uh, how’d it go today?",
+      "isUncut": false
+    },
+    {
+      "id": "d1462d64-97d6-4fb4-85b6-cbcd50de7d6a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Great! It went great. Really great. Hey, is that wine?",
+      "isUncut": false
+    },
+    {
+      "id": "9b4c543c-e735-48c7-94b1-f5cb2554bdca",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah. You, uh, you want some?",
+      "isUncut": false
+    },
+    {
+      "id": "f46657ef-07bc-4562-86d0-81c3ea27f5fd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I would love some. But y’know what? Y’know what? Let’s not drink it here. I’m feeling kinda crazy. You wanna go to Newark?",
+      "isUncut": false
+    },
+    {
+      "id": "6ed49c97-d78b-44c3-8127-dc9f8fb5c4b5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y’know how we were, uh, y’know, talking before about, uh, relationships and stuff? (Uncorks the wine) Well-",
+      "isUncut": false
+    },
+    {
+      "id": "11caa881-a74b-4bcd-8462-85eccea28462",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh God, Ross, I cannot do this.",
+      "isUncut": false
+    },
+    {
+      "id": "192a0808-29b1-460f-99d1-6b4f11d39a39",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, quick and painful. (Starts to cork the wine)",
+      "isUncut": false
+    },
+    {
+      "id": "10b8cacf-c3b9-407b-876c-0403040ecdd8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh God… Okay. Alright. Alright. Okay. Ross, please don’t hate me.",
+      "isUncut": false
+    },
+    {
+      "id": "bd9f43f6-bc68-4a30-82f3-d650e8d5603b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, what? What-what?",
+      "isUncut": false
+    },
+    {
+      "id": "52d5094a-b9d6-46db-b265-715c68fcadb6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "2b29610e-d0d7-4ebe-bc5f-a2ee255f6e58",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "3f97507e-d3e1-4005-81bc-02a138bbac27",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I kind of… I kind of lost him.",
+      "isUncut": false
+    },
+    {
+      "id": "94c256ab-cdba-4dac-bd96-6078626b89ab",
+      "type": "transition",
+      "text": "[Cut to outside the window, with Ross reacting with disbelief. The shot pans back until we see Marcel sitting on the window ledge.]"
+    },
+    {
+      "id": "7a55adcd-e359-4f56-a33d-48dc069d522f",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "84f164f2-bf72-434f-8859-0f3a0da2e24b",
+      "type": "scene",
+      "description": "Monica and Rachel’s, continued from earlier."
+    },
+    {
+      "id": "54592dd5-e07f-40c8-97b3-c99911adddad",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I- I- I ca- I can’t believe this. I mean, all I asked you to do was keep him in the apartment.",
+      "parenthetical": "Angry",
+      "isUncut": false
+    },
+    {
+      "id": "9201909d-9f82-46a0-a1df-c4b5552da026",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I know, I know, I’m sorry-",
+      "isUncut": false
+    },
+    {
+      "id": "9e3f397f-0a9e-45db-abbd-50fbbd2869c5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, y’know what, I guess it’s partially my fault. Y’know, I shouldn’t’ve, uh, asked you to start off with a monkey. I should’ve started you off with like a pen or a pencil.",
+      "isUncut": false
+    },
+    {
+      "id": "91811928-5b30-43b2-bcd9-2ab0c8cacf45",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross, I’m doing everything that I can, I’ve got everybody looking for him, and I- (Door buzzer goes and she runs to get it) Oh! Who is it?",
+      "parenthetical": "Tearfully",
+      "isUncut": false
+    },
+    {
+      "id": "30c4d28f-9194-4da6-a18e-1de5f8208c73",
+      "type": "dialogue",
+      "speaker": "Intercom",
+      "text": "Animal Control.",
+      "isUncut": false
+    },
+    {
+      "id": "39ee1af7-d37f-4af3-8ae8-57cabcc9e918",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "See? I’ve even called Animal Control!",
+      "isUncut": false
+    },
+    {
+      "id": "970f1616-72ec-4e71-a4eb-482cd3c1f4c2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You called Animal Control?",
+      "isUncut": false
+    },
+    {
+      "id": "b0303b30-3f2a-47a4-a2a5-f5d02e8b5452",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh-huh… why… do you not like them?",
+      "isUncut": false
+    },
+    {
+      "id": "423dbc42-74b5-4cc1-9cba-8390faf6b8e8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel is an illegal exotic animal. I’m not allowed to have him in the city. If they find him, they’ll take him away from me.",
+      "isUncut": false
+    },
+    {
+      "id": "a38872d2-dd26-4a9f-a968-3f95d20de574",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "O-okay, now see, you never ever ever told us that…",
+      "isUncut": false
+    },
+    {
+      "id": "6663859b-72b6-40b3-be54-5d391c282ccf",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s right, I.. ’cause I didn’t expect you were gonna invite them to the apartment!",
+      "isUncut": false
+    },
+    {
+      "id": "868ed067-cc4f-4e7a-9967-5860cac5bf7b",
+      "type": "action",
+      "text": "(A knock on the door. Rachel swiftly opens it)",
+      "isUncut": false
+    },
+    {
+      "id": "8236e1d0-85e1-4bf0-8467-276248ddda19",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi, thanks for coming.",
+      "isUncut": false
+    },
+    {
+      "id": "17d92df1-5e26-4e80-a5cc-cc4172c28966",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Somebody called about a monkey?",
+      "parenthetical": "Animal Control",
+      "isUncut": false
+    },
+    {
+      "id": "f8c55ad5-7288-4ce7-9e7b-1f37a7567965",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, y’know what? That was a complete misunderstanding! (Ross puts his arms around her and they act all sweetness and light)",
+      "isUncut": false
+    },
+    {
+      "id": "09ed3e45-1ef6-4a60-908c-60cf7f3ad974",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, we thought we had a monkey, but we-we didn’t.",
+      "isUncut": false
+    },
+    {
+      "id": "13367e91-ae7d-4166-86d9-9ee853716d73",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Turned out it was a hat.",
+      "isUncut": false
+    },
+    {
+      "id": "e3215a0d-ef2d-45fe-a0f3-f4b58c415e1f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Cat!",
+      "isUncut": false
+    },
+    {
+      "id": "c9b356bd-1030-45dc-af30-611330197f1c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Cat! What’m I saying? Cat!",
+      "isUncut": false
+    },
+    {
+      "id": "4264457c-39b9-408f-8e3d-0a9424ca54ac",
+      "type": "action",
+      "text": "(Luisa nods, but then Monica and Phoebe run in)",
+      "isUncut": false
+    },
+    {
+      "id": "4d1d4382-2fd2-4da4-941b-4ddc178e85f2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hi. We checked the third and fourth floor, no-one’s seen Marcel.",
+      "isUncut": false
+    },
+    {
+      "id": "de8cb605-7cad-4a51-b044-9c0121398e8c",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "180b0029-12e6-450c-92c8-be1b1b776c34",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "My uncle Marcel.",
+      "isUncut": false
+    },
+    {
+      "id": "598abe45-fea3-4b7f-ac78-48df873c6c6a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, is that who the monkey’s named after?",
+      "isUncut": false
+    },
+    {
+      "id": "60365dfb-7adb-4347-8738-6d3d7befa4a4",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?",
+      "isUncut": false
+    },
+    {
+      "id": "c95450ff-7a48-489e-b604-8e18dc6db753",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh my God. You’d put that poor little creature in jail?",
+      "isUncut": false
+    },
+    {
+      "id": "3965ee7f-d247-480a-8220-72adf594ec0f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Pheebs, you remember how we talked about saying things quietly to yourself first?",
+      "isUncut": false
+    },
+    {
+      "id": "a43fb900-866c-427c-88cf-efa3e155ba91",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yes, but there isn’t always time!",
+      "isUncut": false
+    },
+    {
+      "id": "582d655c-aca9-45e9-b8c0-7049676250b4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Look. I’m sure there’s some friendly way to reconcile this! Um, have a seat. First of all, we haven’t been introduced, I’m Monica Geller.",
+      "isUncut": false
+    },
+    {
+      "id": "cd391b22-51bd-4908-807d-c6ffdf527c86",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Oh my God, you are! And you’re Rachel Green!",
+      "isUncut": false
+    },
+    {
+      "id": "18984418-6655-4cbf-826b-3f043703ba94",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "5b8e47ad-4153-4075-8384-8530ffee3e9a",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Luisa Gianetti! Lincoln High? I sat behind you guys in home room!",
+      "isUncut": false
+    },
+    {
+      "id": "74a014a9-01c8-4ae5-a7c3-3f747d58e13e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Luisa? Oh my God! Monica! It’s Luisa!",
+      "isUncut": false
+    },
+    {
+      "id": "a21eed62-d295-471d-8f5a-2ce922bf0c0a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "The Luisa from home room!",
+      "isUncut": false
+    },
+    {
+      "id": "9a7103da-9a58-46e6-99be-bf4e4a4fbe19",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes!!",
+      "isUncut": false
+    },
+    {
+      "id": "8b4f54dd-328a-422e-bad5-34fd86f23346",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "You have no idea who I am, do you.",
+      "isUncut": false
+    },
+    {
+      "id": "818a03ce-e91f-4a26-9488-039685d232bc",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No, none at all.",
+      "isUncut": false
+    },
+    {
+      "id": "c490ad5c-dd52-4d49-a1a7-bdd2cb547133",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "None.",
+      "isUncut": false
+    },
+    {
+      "id": "ee728c7e-3994-473f-b673-b8a93d444eb1",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Well, maybe that’s because you spent four years ignoring me. I mean, would it have been so hard to say ’morning, Luisa’? Or ‘Nice overalls’?",
+      "isUncut": false
+    },
+    {
+      "id": "f653ec07-0cd1-4dfc-a11a-9a2c96987de3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, I’m- I’m so sorry!",
+      "isUncut": false
+    },
+    {
+      "id": "2b4df8d4-8b06-4b01-8c14-7cfd91d08b06",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Ah, it’s not so much you, you were fat, you had your own problems. (To Rachel) But you? What a bitch !",
+      "isUncut": false
+    },
+    {
+      "id": "8f75ead8-3d9d-4f3a-ac37-aa2fc0f6c853",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "ac9f21de-67e5-4e6c-98cd-62003d7ae6b8",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Be that as it may, d’you think you could just help us out here on that monkey thing? Y’know, just for old times’ sake? Go Bobcats?",
+      "isUncut": false
+    },
+    {
+      "id": "7b5ee694-ce9f-4650-ba26-5c5835c739fe",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "I could… but I won’t. If I find that monkey, he’s mine. (Leaves)",
+      "isUncut": false
+    },
+    {
+      "id": "a64c8ef3-872e-4f07-ae46-aa63c1d418cb",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Dun-dun-duuuur! Sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "4dc47449-3a4f-4492-86ab-e4cc7c3d17b6",
+      "type": "transition",
+      "text": "[Cut to another part of the building. We see Marcel jump in through a window and run down some stairs, then Chandler and Joey come down from the upper floor without noticing.]"
+    },
+    {
+      "id": "cb7d1273-fc3e-4677-b984-51273424110d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "39ea350b-511e-4790-9dd8-d494042ac6d3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "e9b508d5-b1a4-4d01-b694-680de8e09391",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "0b506610-4f90-44ae-86be-91e0acbef4df",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "c21c531f-cd54-4522-897e-af14ba98b4d6",
+      "type": "action",
+      "text": "(They come to a door and silently agree to try it. A very sweaty woman emerges)",
+      "isUncut": false
+    },
+    {
+      "id": "2c0a6a3d-0396-4b78-8146-08745c6341b0",
+      "type": "dialogue",
+      "speaker": "Woman No. 1",
+      "text": "Hi, can I help you?",
+      "isUncut": false
+    },
+    {
+      "id": "46910a93-ff54-48d4-979d-9fc13c317921",
+      "type": "action",
+      "text": "(Chandler and Joey are dumbstruck for a moment)",
+      "isUncut": false
+    },
+    {
+      "id": "9dc5e155-da3d-4be0-9945-6678445f4200",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Um, we’re kind of having an emergency and we-we were looking for something…",
+      "isUncut": false
+    },
+    {
+      "id": "54ce41f4-866d-49be-8bab-fb5d8a6efa44",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "A monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "b10c947b-8939-4183-b3ba-caf79030f45a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes have you seen any?",
+      "isUncut": false
+    },
+    {
+      "id": "8257f66a-7fca-4ba1-a07c-76a7f055a245",
+      "type": "dialogue",
+      "speaker": "Woman No. 1",
+      "text": "No. No, haven’t seen a monkey. Do you know anything about fixing radiators?",
+      "isUncut": false
+    },
+    {
+      "id": "cc41b3b6-9eac-48c2-91dc-a995a94632cf",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Um, sure! Did you, uh, did you try turning the knob back the other way?",
+      "isUncut": false
+    },
+    {
+      "id": "cc841434-1ea9-43ca-a585-6e4ea8c99ec0",
+      "type": "dialogue",
+      "speaker": "Woman No. 1",
+      "text": "Of course.",
+      "isUncut": false
+    },
+    {
+      "id": "6b8b76d4-8571-4db9-95c8-c4fbd3b25439",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh. Then, no.",
+      "isUncut": false
+    },
+    {
+      "id": "21e4ddfa-0f41-446b-9ff1-0c06391bc20c",
+      "type": "action",
+      "text": "(Another sweaty woman comes to the door and speaks to her friend)",
+      "isUncut": false
+    },
+    {
+      "id": "bc1336c5-b395-4754-b6f1-4f7a71393875",
+      "type": "dialogue",
+      "speaker": "Woman No. 2",
+      "text": "Did I put too much rum in here?",
+      "isUncut": false
+    },
+    {
+      "id": "e31bf996-7278-4b14-9497-385cd6a1976d",
+      "type": "action",
+      "text": "(Joey and Chandler shoot each other glances)",
+      "isUncut": false
+    },
+    {
+      "id": "cdd27302-f89e-4b1c-86a3-85f95a384b17",
+      "type": "dialogue",
+      "speaker": "Woman No. 1",
+      "text": "Just a sec. (To Chandler and Joey) Hope you find your monkey. (She starts to shut the door)",
+      "isUncut": false
+    },
+    {
+      "id": "f43051cf-1118-4005-baad-4139f3f29468",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, nononowaitwaitwaitnono! Uh… we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling… mileu.",
+      "isUncut": false
+    },
+    {
+      "id": "ee116f6a-f446-4e9f-bf18-91ff10b3fd11",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Uh, aren’t we kind of in the middle of something here?",
+      "isUncut": false
+    },
+    {
+      "id": "0176420f-e06c-41f9-94f1-74fb987ba896",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes, but these women are very hot, and they need our help! And they’re very hot.",
+      "isUncut": false
+    },
+    {
+      "id": "afed3f7f-db6a-4c5e-aaaf-0cb411608750",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "We can’t, alright? (To the women) We’re sorry. You have no idea how sorry, but… We promised we’d find this monkey. If you see him, he’s about yea high and answers to the name Marcel, so if we could get some pictures of you, you’d really be helping us out.",
+      "isUncut": false
+    },
+    {
+      "id": "99366637-21b0-4723-9f75-fb6ad82b4ee5",
+      "type": "action",
+      "text": "(The women quickly shut the door)",
+      "isUncut": false
+    },
+    {
+      "id": "074769c0-d8e6-465a-bf98-75541bb41a7e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay, from now on, you don’t get to talk to other people.",
+      "isUncut": false
+    },
+    {
+      "id": "d7c21969-2f6f-4a6b-b5ea-19583a471f2d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "e93ef8fb-2196-4415-9448-e166ff41e5ab",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Marcel?!",
+      "isUncut": false
+    },
+    {
+      "id": "921b3295-2c3a-440f-a20d-feada3b84532",
+      "type": "transition",
+      "text": "[Cut to Monica and Phoebe searching the basement.]"
+    },
+    {
+      "id": "edf45492-ae5b-42fb-b40e-74fe3ff8b06e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "1fadaf3a-987b-4042-bfdd-24b27169168d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "8ef9f485-9c18-4389-b921-1cf33a8628eb",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "d5b4a6f8-04ab-4839-a74e-07593fb1f4e9",
+      "type": "dialogue",
+      "speaker": "Both",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "4bedbaa2-b8fb-461e-888c-7be7512424e0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh-my-God!",
+      "isUncut": false
+    },
+    {
+      "id": "b4b29115-f293-4cfd-91e1-701f63032ea9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Whaaat!",
+      "isUncut": false
+    },
+    {
+      "id": "c429f391-771c-4dfe-8bab-ba48990f463d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Something just brushed up against my right leg!",
+      "isUncut": false
+    },
+    {
+      "id": "17914cb7-7ac5-48a2-80a4-e9fb6c912ead",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What is it?",
+      "isUncut": false
+    },
+    {
+      "id": "393fdb8e-5e54-4713-b3b4-e3e1d1575045",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, it’s okay, it was just my left leg.",
+      "isUncut": false
+    },
+    {
+      "id": "10912788-ba30-43e9-b111-d694bb2f15d5",
+      "type": "action",
+      "text": "(Marcel makes a monkeyish noise. He is sitting in the corner)",
+      "isUncut": false
+    },
+    {
+      "id": "2d1da9ec-8cde-4ed9-8154-c2bbbe81a855",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Look, Phoebe!",
+      "isUncut": false
+    },
+    {
+      "id": "50b0a267-bf7b-42ae-90bf-48d24fc774b4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah! Oh, c’mere, Marcel! Oh, Marcel, c’mere!",
+      "isUncut": false
+    },
+    {
+      "id": "febd5396-b18e-4243-b238-268e4e80b088",
+      "type": "action",
+      "text": "(Luisa appears on the stairs)",
+      "isUncut": false
+    },
+    {
+      "id": "55d87c7d-ca95-4ff0-bf01-a87655f07a49",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Step aside, ladies! (She loads a gun)",
+      "isUncut": false
+    },
+    {
+      "id": "0b7415ff-d02a-4ffd-977c-0ef39e884af6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What’re you gonna do?",
+      "isUncut": false
+    },
+    {
+      "id": "0c5afc7c-4087-4aa5-b80b-992bbcf0be11",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Just a small tranquiliser.",
+      "isUncut": false
+    },
+    {
+      "id": "5351d187-ef67-4fed-82e6-0303fc38f3dc",
+      "type": "action",
+      "text": "(In slow motion we see Phoebe look at Marcel, then at Luisa. She jumps toward Marcel just as Luisa fires the gun.)",
+      "isUncut": false
+    },
+    {
+      "id": "95d40f3e-9e28-4b9c-93b9-dbdbbd48dabe",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Run, Marcel, run! Run, Marcel! (Marcel runs off and Luisa runs after him. Monica goes to check up on Phoebe) Are you okay?",
+      "isUncut": false
+    },
+    {
+      "id": "81c6b9c6-dc6a-4ba7-85c6-ccb55b10d19d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, think so. Oh! (She notices the tranquiliser dart has hit her in the butt and removes it) Huh. (Sways back) Whoah.",
+      "isUncut": false
+    },
+    {
+      "id": "66521c61-8f2c-4730-a45a-f13775606e6a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh gosh.",
+      "isUncut": false
+    },
+    {
+      "id": "7749bf30-ebe3-4f7a-b6e3-f4cb097e7af7",
+      "type": "transition",
+      "text": "[Cut to Marcel walking along a hallway. He notices a banana on the floor and picks it up. The hand of an unseen person grabs him and carries him away. Then cut to Ross and Rachel on the street outside.]"
+    },
+    {
+      "id": "c05f1cdb-2981-4d23-a90c-aca4306ab5a4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "7c0ecdf4-e8c3-4e87-857c-1364474dc09a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "591c87f4-6b33-49b9-8df3-0dfeaeeb2cb0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marc- oh, this is ridiculous! We’ve been all over the neighbourhood. He’s gone, he’s-he’s just gone.",
+      "isUncut": false
+    },
+    {
+      "id": "b9771c76-cd06-4112-bf3a-cbe79539a375",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross, you don’t know that.",
+      "isUncut": false
+    },
+    {
+      "id": "18d3122a-cd2f-44b2-af0a-3b0c7704c886",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh come on. It’s cold, it’s dark, he doesn’t know the Village. (Kicks a sign in frustration) And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much.",
+      "isUncut": false
+    },
+    {
+      "id": "2d2ffe22-97d9-4f06-b236-160189bd341b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross, I said I’m sorry like a million times. What do you want me to do? You want me to break my foot too? Okay, I’m gonna break my foot, right here. (Kicks the sign) Ow!! Oh! Oh my God, oh my God! There, are you happy now?!",
+      "isUncut": false
+    },
+    {
+      "id": "a22cb773-9428-4125-a7b8-00b80a58066d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, yeah. Y’know, now that you kicked the sign, hey! I don’t miss Marcel any more!",
+      "isUncut": false
+    },
+    {
+      "id": "ebfdd297-d8eb-487a-bc5a-baa456ba12db",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know, it is not like I did this on purpose.",
+      "isUncut": false
+    },
+    {
+      "id": "d3425023-b284-4284-97da-74152990db2a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you’re off in Rachel-land, doing your Rachel-thing, totally oblivious to people’s monkeys, or to people’s feelings…",
+      "isUncut": false
+    },
+    {
+      "id": "cb1d59f8-7f45-4601-8e27-dc9baeefe1f2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "46aa5978-c713-4410-a91a-20935c13891d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t even wanna hear it, you’re just…",
+      "isUncut": false
+    },
+    {
+      "id": "064dc0a9-77b8-49bc-a3f4-764ef36e9fdf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "7ebb00e8-a7d4-4d6e-a9f1-048377008800",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, forget it, okay?",
+      "isUncut": false
+    },
+    {
+      "id": "ec71019b-4347-469c-bd73-30c04619ba90",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross!",
+      "isUncut": false
+    },
+    {
+      "id": "6035a660-c1d5-4b97-bd80-c5deabd18edc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What? What?",
+      "isUncut": false
+    },
+    {
+      "id": "f4989cb4-e89f-43a0-9ffd-c74c2f5a38bd",
+      "type": "action",
+      "text": "(A man carrying a box of bananas walks past them. They stare for a minute and then hobble after him)",
+      "isUncut": false
+    },
+    {
+      "id": "bba3d794-bc70-4a50-932d-2112ec9d59fc",
+      "type": "dialogue",
+      "speaker": "Both",
+      "text": "Hey! Hey, Bananaman!",
+      "isUncut": false
+    },
+    {
+      "id": "0dd90213-5d56-4c3a-9597-4b68f7a7a47a",
+      "type": "action",
+      "text": "(Scene 4: Everyone in the hall outside Mr. Heckles’ door. Ross is carrying the box of bananas. He bangs on the door)",
+      "isUncut": false
+    },
+    {
+      "id": "2967a2db-80cc-4f9c-9065-ac36c7621d5c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea.",
+      "isUncut": false
+    },
+    {
+      "id": "bdc16883-09ac-4a05-98fb-23ae103f12cd",
+      "type": "action",
+      "text": "(Mr. Heckles opens the door)",
+      "isUncut": false
+    },
+    {
+      "id": "e3d368f5-0b32-49ea-aca2-c7f61c24717c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi, did you order some bananas?",
+      "isUncut": false
+    },
+    {
+      "id": "1ff627e2-19fb-4dcd-a9ac-0c9a6733f372",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "What about it?",
+      "isUncut": false
+    },
+    {
+      "id": "3bbacac9-0fab-46ef-a7ba-c26b0ff4898c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Gimme back my monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "68c0bbce-67e5-4a6d-9029-fb3c101cc17a",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "I don’t have a monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "54cb389b-cb66-40d5-9265-4a149e81048f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Then what’s with all the bananas?",
+      "isUncut": false
+    },
+    {
+      "id": "92d1ca80-78ec-473e-a635-0e55dd34be69",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "Potassium.",
+      "isUncut": false
+    },
+    {
+      "id": "482a2773-ab0d-4db9-99aa-c544f0af49ec",
+      "type": "action",
+      "text": "(There is a monkey-like noise from within and Ross pushes past Mr. Heckles and enters his apartment)",
+      "isUncut": false
+    },
+    {
+      "id": "e21ca99d-d481-43ef-844a-4f9a3fc17df8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?",
+      "isUncut": false
+    },
+    {
+      "id": "4fdacae8-835f-4d13-b414-2cd98bb8f6ff",
+      "type": "action",
+      "text": "(Marcel jumps into view wearing a pink dress. Everybody gasps)",
+      "isUncut": false
+    },
+    {
+      "id": "ba114910-79ab-4098-b430-7569abff1040",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Marcel! What’ve you done to him?",
+      "isUncut": false
+    },
+    {
+      "id": "31b37f15-5902-4958-a38e-f3c2c28ff9cb",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "That’s my monkey. That’s Patti, Patti the monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "a3405ed7-6b10-4d2a-83ed-04b08beeb057",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Are you insane? C’mere, Marcel, c’mon. (Marcel starts to go to him)",
+      "isUncut": false
+    },
+    {
+      "id": "5a5022d1-938b-4cfa-abe8-08dfd18d6c67",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "C’mere, Patti. (Marcel turns round)",
+      "isUncut": false
+    },
+    {
+      "id": "29faf8ca-1066-4b49-835a-2c63a78bfc4d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "C’mere, Marcel. (Turns to Ross)",
+      "isUncut": false
+    },
+    {
+      "id": "3d55e2af-1707-49a4-bfda-1f7194e95aa6",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "C’mere, Patti. (Turns to Mr. Heckles)",
+      "isUncut": false
+    },
+    {
+      "id": "5f380d2d-71e9-4c23-b885-2062f42e393f",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Here, monkey. Here, monkey! Here, monkey! (Marcel runs to the door and into Luisa’s cage, which she slams shut) Gotcha.",
+      "parenthetical": "Out of shot",
+      "isUncut": false
+    },
+    {
+      "id": "dafafc6a-3b5c-4f2c-8be9-9e956994c74d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, gimme my monkey back.",
+      "isUncut": false
+    },
+    {
+      "id": "e08230f2-3e82-4f1a-8365-0be7ddbf2d98",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "That’s my monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "29608551-9f1e-4f47-a050-16bf68a71df8",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "You’re both gonna have to take this up with the judge.",
+      "isUncut": false
+    },
+    {
+      "id": "793919d0-76e0-41b6-a3ce-44c20bbbda0d",
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "text": "That’s not my monkey. Just the dress is mine, you can send that back whenever.",
+      "isUncut": false
+    },
+    {
+      "id": "0b757025-c015-4491-99d1-939e7db4c132",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright, I want my monkey.",
+      "isUncut": false
+    },
+    {
+      "id": "cf561ecc-3f87-4840-be4e-bc57e27e99dd",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "No!",
+      "isUncut": false
+    },
+    {
+      "id": "d81f3297-0777-4acb-a65b-c6c463a32909",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, c’mon, Luisa!",
+      "isUncut": false
+    },
+    {
+      "id": "db89af77-8b5e-4110-af13-55022a19b88e",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Sorry, prom queen.",
+      "isUncut": false
+    },
+    {
+      "id": "a4e7da73-78ea-4b66-9046-cc7fadef0729",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You had to be a bitch in high school, you couldn’t’ve been fat.",
+      "parenthetical": "To Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "46ad8419-2f40-471a-927d-9d48f945879a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you… were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C’mon, Luisa, you have a chance to be the bigger person here! Take it!",
+      "isUncut": false
+    },
+    {
+      "id": "8bee52d2-17f4-4e0b-8288-a80ab9686d0f",
+      "type": "dialogue",
+      "speaker": "Luisa",
+      "text": "Nope.",
+      "isUncut": false
+    },
+    {
+      "id": "a28b8033-0642-4ab7-bc46-5e3fbc53960c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Alright. Well then how about I call your supervisor, and I tell her that you shot my friend in the ass with a dart?",
+      "isUncut": false
+    },
+    {
+      "id": "a6f995ff-d09b-43dc-9399-fa74176c9a43",
+      "type": "scene",
+      "description": "Monica and Rachel’s. Rachel and Ross are there. Ross is trying to get the dress off Marcel."
+    },
+    {
+      "id": "35b518ee-8da6-438d-a94b-13459d60c639",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It’ll be nice to get this off finally, won’t it? Yes it will. (Marcel resists) Or we can leave it on for now, that’s fine.",
+      "isUncut": false
+    },
+    {
+      "id": "295afb2e-4be9-438a-a32f-4eb00460e9fe",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Y’know, with the right pair of pumps, that would be a great little outfit.",
+      "isUncut": false
+    },
+    {
+      "id": "e177d178-8985-4dd5-a0e1-fb1cf3d30ff7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Listen, I’m- I’m sorry I was so hard on you before, it’s just I…",
+      "isUncut": false
+    },
+    {
+      "id": "6bc4f4ca-97c0-49b8-9baf-2a3f65d8f03b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, Ross, c’mon. It’s my fault, I almost lost your…",
+      "isUncut": false
+    },
+    {
+      "id": "99c782f9-75b8-4e5c-a9e8-e33862eacb22",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, but you were the one who got him back, y’know? You, you were great. …Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?",
+      "isUncut": false
+    },
+    {
+      "id": "4e96728f-0412-42a6-9cba-dc3912690d9d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That’d be good.",
+      "isUncut": false
+    },
+    {
+      "id": "daf41e81-f6af-4eff-b7b5-da1a817dfbcd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbours must be vacuuming. (He sits down and starts to pour the wine) Well, so long as we’re here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um…",
+      "isUncut": false
+    },
+    {
+      "id": "795370b8-c98e-45aa-a6a2-2baad417d4b4",
+      "type": "action",
+      "text": "(Barry bursts in)",
+      "isUncut": false
+    },
+    {
+      "id": "42db0bd2-b88c-4722-882d-0ad97dee9cc8",
+      "type": "dialogue",
+      "speaker": "Barry",
+      "text": "Rachel.",
+      "isUncut": false
+    },
+    {
+      "id": "32f23733-3e5c-488d-98d7-41ea2c32869d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Barry?!",
+      "isUncut": false
+    },
+    {
+      "id": "5e883809-0295-4bee-905b-5be66a2c0ec2",
+      "type": "dialogue",
+      "speaker": "Barry",
+      "text": "I can’t. I can’t do it, I can’t marry Mindy. I think I’m still in love with you.",
+      "isUncut": false
+    },
+    {
+      "id": "67183b8c-40cc-43e8-b84a-97f982ddbba9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh!",
+      "isUncut": false
+    },
+    {
+      "id": "06b4042c-8985-418b-91cc-82010a563f31",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "We have got to start locking that door!",
+      "isUncut": false
+    },
+    {
+      "id": "368bfb53-ca6b-4365-a9ac-44f63bce9a3e",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "1b174b97-ca35-4ead-a982-26a2dca95150",
+      "type": "scene",
+      "description": "Central Perk, Monica, Joey, Phoebe, and Chandler are looking through Monica’s high school yearbook"
+    },
+    {
+      "id": "2579dd87-8ad0-4bec-aa27-8cea904ebb2b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "This is me in The Sound of Music . See the von Trapp kids?",
+      "isUncut": false
+    },
+    {
+      "id": "140175af-ac8d-462c-96f8-94818a0e8e3d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Nope.",
+      "isUncut": false
+    },
+    {
+      "id": "51265dc5-f07f-4621-a3d7-fc1b43f484bb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s because I’m in front of them.",
+      "isUncut": false
+    },
+    {
+      "id": "bba6954d-9636-485a-8788-569a137fb926",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Eh. I thought that was an alp.",
+      "isUncut": false
+    },
+    {
+      "id": "f4e828d7-83ec-4df5-a6ce-1da22b68f808",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, high school was not my favourite time.",
+      "isUncut": false
+    },
+    {
+      "id": "4ed4868f-549b-4c72-95d0-47efd0ac585c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I dunno, I loved high school. Y’know? It was just four years of parties and dating and sex.",
+      "isUncut": false
+    },
+    {
+      "id": "efec359f-5a6a-477b-8330-d5612116ce75",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, well I went to boarding school with four hundred boys. Any sex I had would’ve involved a major lifestyle choice.",
+      "isUncut": false
+    },
+    {
+      "id": "4a694159-38c2-4ede-a7b0-cfe0a8685d8d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Gosh, doesn’t it seem like a million years ago?",
+      "isUncut": false
+    },
+    {
+      "id": "86224139-11b0-4582-83f1-e553862cbdfa",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh. Oooh! Ooh! Ooh! (She stands up and starts to dance around) Ooh! My butt cheek is waking up! Oooh! Ooh!",
+      "isUncut": false
+    },
+    {
+      "id": "b61235cf-8bee-46ea-94ee-da527b3bc73a",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

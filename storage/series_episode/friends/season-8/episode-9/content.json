@@ -1,0 +1,2033 @@
+{
+  "season": 8,
+  "episode_number": 9,
+  "episode_title": "809 - The One With The Rumor",
+  "credits": {
+    "writtenBy": "Shana Goldberg-Meehan",
+    "transcribedBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": "[Scene: Joey and Rachel’s, Joey is reading What to Expect When You’re Expecting as Rachel enters from her bedroom.]",
+  "content": [
+    {
+      "id": "af1577db-af41-4e96-aa9c-7e5c76d9f34f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey Rach listen, did you know that during pregnancy your fingers swell up to twice their size and never go back.",
+      "isUncut": false
+    },
+    {
+      "id": "3c2e35fa-39ab-4e1c-9908-1ca4ac3aeedb",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my…God! Let me see that! (Grabs the book from him.)",
+      "parenthetical": "looking at her fingers",
+      "isUncut": false
+    },
+    {
+      "id": "7db9c520-c0b8-4dd1-91a1-ecea135ecc3a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You fall for it every time!",
+      "parenthetical": "laughing",
+      "isUncut": false
+    },
+    {
+      "id": "49e4501b-149e-43e2-ac37-596b335f071f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "2c2da89a-40e5-475c-855d-e527829c5964",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "16dd9bcd-105a-4e03-8fee-fdb8fcd3961e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I brought you my old maternity clothes! (Sets a bag on the counter.)",
+      "isUncut": false
+    },
+    {
+      "id": "f04e19b6-252e-4bbd-a2d5-b6b4db5cc569",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh Pheebs that’s so sweet—(Grabs a pair of pants)—Ooh, those are so cute!",
+      "isUncut": false
+    },
+    {
+      "id": "653ee3fb-fb9f-4181-b69f-c32a81f250b4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah! And look, (Grabs the pants) see how they expand as the baby grows? (There’s a stretchy part in front.) And then after the baby’s born, they’re great for shoplifting melons.",
+      "isUncut": false
+    },
+    {
+      "id": "2296d38f-9122-4e10-8433-eddee226c33b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh good you’re all here. Thanksgiving tomorrow, four o’clock. (To Rachel) Oh, guess who I invited. Remember that guy Will Colbert from high school?",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "bb420b89-defd-4bdc-a55d-0cce212e9df3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "179f30e5-deef-4eda-a810-fbf7c16e21e7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "He was in Ross’s class…marching band…kinda overweight? Well, really overweight. I mean I was his thin friend.",
+      "isUncut": false
+    },
+    {
+      "id": "e9dba960-ad61-4e50-a7a9-24fdfae42f1f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Wow! I don’t remember him. Honey, are you sure you’re not talking about your imaginary boyfriend.",
+      "isUncut": false
+    },
+    {
+      "id": "009a7b8d-f0a6-49fd-aaad-90537e80fb95",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No that was Jarred! Wow! I haven’t thought about him in a long time… (Stares off into the distance lost in thought.) (Pause) Anyway, umm Will’s, Will’s here on business and he didn’t have a place to go so I invited him here.",
+      "isUncut": false
+    },
+    {
+      "id": "80dcc639-210e-43f2-a49a-e65e3eb71bb1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh that’s nice.",
+      "isUncut": false
+    },
+    {
+      "id": "6ca1b624-e13b-4909-b1c4-7a814d184187",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, and by the way, he’s lost a bunch of weight. I mean he looks goo-ood! Okay, I mean really , really gorgeous! (Joey clears his throat.) I still love Chandler.",
+      "isUncut": false
+    },
+    {
+      "id": "fb05fc05-638e-4d61-9acd-496160a721cc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I just want you to say it once in a while.",
+      "isUncut": false
+    },
+    {
+      "id": "999a948d-05a3-4586-bb92-ef150bf11723",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right okay, just so you know, I’m not gonna make a turkey this year.",
+      "isUncut": false
+    },
+    {
+      "id": "bfa0b0b5-fca3-430b-94c2-da0b71874fa1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "e2005d8c-56a7-4175-aa36-75bf24351fae",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well Phoebe doesn’t eat turkey…",
+      "isUncut": false
+    },
+    {
+      "id": "6e140348-b08c-4915-aefa-39a31a6f3746",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Phoebe!",
+      "isUncut": false
+    },
+    {
+      "id": "5a2ec7c3-579b-4e60-8ee5-f9f0c639f2ec",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Turkey’s are beautiful, intelligent animals!",
+      "isUncut": false
+    },
+    {
+      "id": "c9e9f708-5324-4178-8c20-276a2104aacd",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No they’re not! They’re ugly and stupid and delicious!",
+      "isUncut": false
+    },
+    {
+      "id": "e76dc5a9-6395-4cc8-86d3-fa0e18582fbb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right! Okay, it’s just Phoebe. Will’s still on a diet, Chandler doesn’t eat Thanksgiving food, and Rachel’s having her aversion to poultry.",
+      "isUncut": false
+    },
+    {
+      "id": "a7919874-57ae-4b26-951c-5858e14ca160",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "She is?",
+      "isUncut": false
+    },
+    {
+      "id": "afe17080-54bb-4c73-a72d-cdbde5727d9f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Remember I had to leave the room the other day when you had that roast chicken?",
+      "isUncut": false
+    },
+    {
+      "id": "6782b09f-8066-4fca-9ff9-91925c620225",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah. But I thought that was because I put the whole thing on my hand and made it walk across the table.",
+      "isUncut": false
+    },
+    {
+      "id": "c94bcafe-0671-4c54-85d1-da9536304bf5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Anyway, it just doesn’t seem worth it to make a whole turkey for just three people. Okay? It’s a lot of work.",
+      "isUncut": false
+    },
+    {
+      "id": "bf625061-a141-470a-8763-13bb33c4f391",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "But you gotta have turkey on Thanksgiving! I mean, Thanksgiving with no turkey is like-like Fourth of July with no apple pie! Or Friday with no two pizzas!",
+      "isUncut": false
+    },
+    {
+      "id": "138d6999-fdb9-4a6b-b0c1-32b93921d92a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right fine! If it means that much to you! But just—there’s gonna be a ton left over.",
+      "isUncut": false
+    },
+    {
+      "id": "54c8e7b1-97f7-43a3-a714-d3ee7463ae61",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No there won’t! I promise I will finish that turkey!",
+      "isUncut": false
+    },
+    {
+      "id": "3ea05821-537f-4a32-ae46-2d35346ebee1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right, you’re telling me you can eat an entire turkey in just one sitting?",
+      "isUncut": false
+    },
+    {
+      "id": "a97a507b-f48b-452e-9da2-a03509f0d5e9",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s right! ‘Cause I’m a Tribbiani! (To Rachel) And this is what we do! I mean we may not be great thinkers or world leaders, we don’t read a lot or run very fast, but damnit! We can eat!",
+      "isUncut": false
+    },
+    {
+      "id": "d746b6fa-5554-432b-9a0f-798986a64fd2",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "3e1e3360-76f7-4437-bf2d-0b4a83cb0183",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Chandler is watching football, and it’s actually the right game Green Bay at Detroit (although not this year’s), as Monica is getting everything ready."
+    },
+    {
+      "id": "cc2774ca-6e31-40fc-95be-194cbfc233a4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, isn’t weird to think about how next year at this time they’ll be a little baby at the table? (Chandler turns around in horror.) (Seeing him) Rachel’s! But good to know where you’re at!",
+      "isUncut": false
+    },
+    {
+      "id": "2a26bee5-075d-4b9b-a501-c1f8ec3913d8",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "a5ca3cc3-f311-4974-899b-385e1dec34b2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "dcb110b9-66d4-4ac9-a475-e89bdcebd9b7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Happy Thanksgiving!",
+      "isUncut": false
+    },
+    {
+      "id": "e565b51d-a935-441d-b854-262f519515aa",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You too!",
+      "isUncut": false
+    },
+    {
+      "id": "17e23513-528c-4563-bf72-05439e0e683c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Anything I can do to help?",
+      "isUncut": false
+    },
+    {
+      "id": "8220a5b4-c030-49a0-a0dc-658ea8f84002",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Actually there is. Chandler usually helps me with this, but he’s really into the game so I don’t want to bother him. Could you help me fold these napkins? (Hands her a stack of them.)",
+      "isUncut": false
+    },
+    {
+      "id": "5006c021-48b7-4d09-b8c1-c82c4fc21595",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Sure!",
+      "isUncut": false
+    },
+    {
+      "id": "9070931d-6628-4c5b-a2ba-593c918960c9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I’m gonna go across the hall to check on the yams.",
+      "isUncut": false
+    },
+    {
+      "id": "cd2e866a-99ee-452e-9a81-6f958a791145",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay. (She starts folding the napkins in half.)",
+      "isUncut": false
+    },
+    {
+      "id": "89d40c8c-cc54-4165-8b30-2ee6e8e68b9a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No! No! No! No sweetie! No! Not like that! We’re not at a barn dance. You’ve gotta—you wanna fold them like swans. Like I showed you at Christmas time, remember?",
+      "isUncut": false
+    },
+    {
+      "id": "94c89c5e-0d20-4184-856f-282d29afeb9d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, it all just came screaming back to me. (Monica exits.) (To Chandler) So how’s the game?",
+      "isUncut": false
+    },
+    {
+      "id": "478af755-841b-48dc-8632-5eb9c4f739cd",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I have no idea.",
+      "isUncut": false
+    },
+    {
+      "id": "1c92e9a6-fde5-495a-a755-c88e7c83f32e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "b1dd799e-6c6d-46b6-85c5-b84188ed1041",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah! I’m just pretending to watch the game so I don’t have to help out with stuff.",
+      "isUncut": false
+    },
+    {
+      "id": "c308940d-ca92-4768-8e61-e85235147988",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I don’t believe you! That is…brilliant! And Monica has no idea?",
+      "isUncut": false
+    },
+    {
+      "id": "7c0143f0-7b9f-4e06-9345-2f6586aa64ca",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Nope! Every once and a while I just scream stuff at the TV.",
+      "isUncut": false
+    },
+    {
+      "id": "2bdd1b16-72c7-4a08-89ea-ce78099dffea",
+      "type": "action",
+      "text": "(Monica enters and Chandler screams stuff at the TV.)",
+      "isUncut": false
+    },
+    {
+      "id": "0765b36e-578d-49c4-b6f2-9a17aede2162",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Is your team winning hon?",
+      "isUncut": false
+    },
+    {
+      "id": "753319fd-1130-4f10-a642-0b9ca5915533",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah! Anderson just scored again! (To Phoebe) There’s no Anderson.",
+      "isUncut": false
+    },
+    {
+      "id": "82e5be06-3ec0-4e6d-a7c2-97d50b4f6a86",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well I want to get in on this. Hey Mon? I don’t think I can help you after all, I didn’t realize this game was on.",
+      "isUncut": false
+    },
+    {
+      "id": "8297159f-2250-4623-bcde-6dce9a62e0ba",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, I didn’t know you liked football.",
+      "isUncut": false
+    },
+    {
+      "id": "e592d6e8-3f98-4ff0-a91e-63c0fe136530",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well normally I don’t, but y’know…(looks at the TV)…Green Bay is playing.",
+      "isUncut": false
+    },
+    {
+      "id": "0da19b32-4e65-4a0d-9827-0a32887d456c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You like Green Bay?",
+      "isUncut": false
+    },
+    {
+      "id": "14964cb2-9b23-4ff5-aab6-869a8eba2c93",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well it’s only like my favorite bay! {Actually, it’s not bad. It just gets a little cold in winter, but in Wisconsin winter only lasts from August to June. :-) }",
+      "isUncut": false
+    },
+    {
+      "id": "06f4adc1-09a8-441c-beae-2a4eedccd15e",
+      "type": "action",
+      "text": "(Phoebe joins Chandler on the couch as there is a knock on the door which Monica answers.)",
+      "isUncut": false
+    },
+    {
+      "id": "fb7867da-5743-44a3-9d7b-bbcf741ffde5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "6b37c1c1-9601-48a2-8c3b-11848001b4a7",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "83a65157-ceee-4b04-8513-67c1263b4eca",
+      "type": "action",
+      "text": "(Oh, I should point out that the live studio audience at this point goes absolutely wild. And I had absolutely no idea that this Will character was that popular! Maybe they should make him the seventh friend. Which would work out just fine since he’s already married to one of them. Will is played by some guy named Brad Pitt, I guess he’s some sort of actor.)",
+      "isUncut": false
+    },
+    {
+      "id": "7c2be42a-77a0-4199-9061-cc918ae75f6f",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Happy Thanksgiving!",
+      "isUncut": false
+    },
+    {
+      "id": "026b4e8b-3263-42e4-aaea-1df71d5de437",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Aww thanks! God Will I’m so glad that you came! You look great! You must’ve lost like…",
+      "isUncut": false
+    },
+    {
+      "id": "211a413d-896a-4e60-a730-ce200b6f0be2",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "150 pounds. Yeah, I’m gonna be in one of those Subway sandwich commercials.",
+      "isUncut": false
+    },
+    {
+      "id": "d663e020-35b7-478a-8183-d725881752f2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "A pie! (Will brought a pie.)",
+      "isUncut": false
+    },
+    {
+      "id": "483fefd5-7c38-4da7-ad51-40d83a29ad86",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh right. All right, it’s no fat, it’s no sugar, it’s no dairy…it’s no good. Throw it out.",
+      "isUncut": false
+    },
+    {
+      "id": "8f591791-ab63-4547-8baa-0baf87b5028f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You wanna meet some people? This is uh; this is my husband Chandler. Chandler, this is Will.",
+      "isUncut": false
+    },
+    {
+      "id": "fd7220b2-4d7e-4b84-8444-b0643f212e41",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "d1fcf370-4e8a-4343-9cfd-3bfc36e127dc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh hey. I’d shake your hand but uh; I’m really into the game. Plus, I think it’d be better for my ego if we didn’t stand right next to each other.",
+      "isUncut": false
+    },
+    {
+      "id": "bc5e99a0-d3a2-40b8-b6f8-2f1490b213c4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "This is Phoebe.",
+      "isUncut": false
+    },
+    {
+      "id": "6ccf4730-c4e3-42a9-9b45-3bb830cd7892",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey. (Turns back around.) Wow! (Looks up.) Well done.",
+      "parenthetical": "nonchalantly glancing",
+      "isUncut": false
+    },
+    {
+      "id": "546cf98d-3a8e-400f-9763-a2f349a801f5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Wanna give me a hand?",
+      "parenthetical": "to Will",
+      "isUncut": false
+    },
+    {
+      "id": "c549a182-4cbd-4b34-b1c4-5f79451a8d68",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Sure! Monica, I can’t get over how great you look! You look stunning!",
+      "isUncut": false
+    },
+    {
+      "id": "28b17e35-77ba-461c-a7d9-26ef064283c3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well you look incredible too! You’re just—you’re so fit!",
+      "isUncut": false
+    },
+    {
+      "id": "a3c1ca1b-bd1d-4675-ae04-c296464c583a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I’m watching the game, but I’m not deaf!",
+      "isUncut": false
+    },
+    {
+      "id": "b5614766-9372-4c31-bd6b-ae034dbaf9f3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh umm, I meant to tell you, Ross is coming.",
+      "isUncut": false
+    },
+    {
+      "id": "594b2a9f-4b03-438f-bd20-5876c35ab620",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Ross is coming. Great! I love Ross!",
+      "isUncut": false
+    },
+    {
+      "id": "b7bdc1ca-5e95-481c-93c5-5b92bddba172",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Good. And Rachel Green too. (Will stops suddenly.)",
+      "isUncut": false
+    },
+    {
+      "id": "3eb4d927-69f2-4449-b100-a809891a595d",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh.",
+      "isUncut": false
+    },
+    {
+      "id": "f7559e7a-3a3f-454b-8159-952cdb556708",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Is there a problem?",
+      "isUncut": false
+    },
+    {
+      "id": "b2da52b8-4f01-4ed3-9f7c-347346e23c6d",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Nope. Uh, it’s okay. It’s just uh, God I hated her.",
+      "isUncut": false
+    },
+    {
+      "id": "3c6f2f5d-8dd1-4e1d-acfb-97526e4ae6b3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "53b11a94-50b3-4efe-aaba-7b626920bbc1",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yeah, I hated her. She was horrible to me in high school. But hey, it was a long time ago, I’m in a good place, it might be actually fun to see her again. You got any cakes or cookies or something? (Starts looking.) No Will no!",
+      "isUncut": false
+    },
+    {
+      "id": "aecff683-d0ca-4b98-aea7-7305e8daaad8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Y’know, it’s been a while since we’ve screamed something. Maybe we should.",
+      "parenthetical": "To Phoebe",
+      "isUncut": false
+    },
+    {
+      "id": "694c9ca6-9049-4eb5-b15f-aa7cb6f70006",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh okay.",
+      "isUncut": false
+    },
+    {
+      "id": "d161b84e-11d5-4bc0-8694-28cac7ba6ce9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh come on!",
+      "isUncut": false
+    },
+    {
+      "id": "0104c58c-fe8c-4a6c-b99f-4c7965174c31",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Noooo!! Damn you ref! You burn in hell!!!",
+      "isUncut": false
+    },
+    {
+      "id": "fc46dcaa-ffd9-46fb-973c-65c843d98020",
+      "type": "action",
+      "text": "(Joey enters eating potato chips.)",
+      "isUncut": false
+    },
+    {
+      "id": "d023e4b8-c3bc-4c4b-b89d-a4b3ed64a973",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, what are you doing? You gotta save room, you’ve got almost an entire turkey to eat.",
+      "isUncut": false
+    },
+    {
+      "id": "b276f849-9730-4af4-a22c-98af5f34f8d1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Let me explain to you how the human body works. I have to warm my stomach first. Eatin’ chips is like stretching.",
+      "isUncut": false
+    },
+    {
+      "id": "a817d694-48a9-4267-875b-b79d0961f6d0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right.",
+      "isUncut": false
+    },
+    {
+      "id": "13e3b2dd-0cb0-4c91-a65b-e70cfb41ebd6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Don’t worry, Tribbianis never get full.",
+      "isUncut": false
+    },
+    {
+      "id": "04afa689-bcfd-4c1d-81ba-12d870df5ae2",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "I actually know what you’re talking about. I’m here to tell you something my friend, you can eat and eat and eat but nothing will ever fill that void.",
+      "isUncut": false
+    },
+    {
+      "id": "a8c52937-012a-46a7-b96e-173f71ae73f9",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Who the hell is this guy?",
+      "parenthetical": "To Monica",
+      "isUncut": false
+    },
+    {
+      "id": "efa09c0f-5966-44ea-8e39-aeceaf25d06c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Will! From high school.",
+      "isUncut": false
+    },
+    {
+      "id": "4e3cba48-7cdd-4ed2-96d6-4ede830fe530",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh hey!",
+      "isUncut": false
+    },
+    {
+      "id": "1e88fb31-edf1-44a6-a7a9-d7cdbcb87cc7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Joey.",
+      "parenthetical": "to Will",
+      "isUncut": false
+    },
+    {
+      "id": "19765bfc-43c3-4bbc-b6d4-8443c247550c",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Hello.",
+      "isUncut": false
+    },
+    {
+      "id": "0973cacc-6f9f-44e0-8e65-0ba4d7a28e65",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Will!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "5d558446-b425-4e94-8ee2-d26405a804fe",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Ross!",
+      "isUncut": false
+    },
+    {
+      "id": "8be78be8-151f-4ee0-8c25-e6ba568cffb5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey-hey you came! Man you look incredible! Hot stuff! (They hug and Ross realizes what he said.) Hot stuff?",
+      "isUncut": false
+    },
+    {
+      "id": "dfb6eea6-98e3-453d-a875-b214219f4863",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "It’s good to see you man.",
+      "isUncut": false
+    },
+    {
+      "id": "57777694-3c5b-4252-8df7-cc35aec66090",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, you too. Man, so-so what are you up to?",
+      "isUncut": false
+    },
+    {
+      "id": "67c37916-9c01-4b37-adca-f656b9315e22",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "I’m a commodities broker.",
+      "isUncut": false
+    },
+    {
+      "id": "59e8b324-ffc9-4353-885c-abf4c1b95cf8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Really? Yeah that-that sounds interesting.",
+      "isUncut": false
+    },
+    {
+      "id": "7bda996e-0cb6-41c9-a23f-363082d919bc",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yeah, it’s not. But I’m rich and thin.",
+      "isUncut": false
+    },
+    {
+      "id": "875c9bbf-7c34-4331-98c4-18b7fc81f919",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh! Man I don’t think I’ve seen you since uh, Lance Davis’ graduation party.",
+      "isUncut": false
+    },
+    {
+      "id": "b47e5cfe-c594-4034-aa91-700127bb7361",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "That was such a fun night!",
+      "isUncut": false
+    },
+    {
+      "id": "c707305e-7364-4e29-af22-ef0097d617e3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah. It would’ve been good if we had gotten in, but still real fun.",
+      "isUncut": false
+    },
+    {
+      "id": "c2e2f0e3-83c6-4207-bd6a-527a74a00752",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "3890a550-a428-4412-800e-2d6157082702",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "53af80ac-503f-4234-89f5-593aa028eaac",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "God we were lame back then. Do you remember how into dinosaurs we were?",
+      "isUncut": false
+    },
+    {
+      "id": "d039efcd-167d-4960-aa24-5e4b73c58ef0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah.",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "350b5028-ba7a-48da-924f-70a3942df4d1",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "So what do you, what do you do now?",
+      "isUncut": false
+    },
+    {
+      "id": "63feeee5-2953-4c5e-9fae-2700f91acaca",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So how long are you in town?",
+      "isUncut": false
+    },
+    {
+      "id": "24dc8ceb-8326-4da7-9fc3-fc2c56fe8290",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi!",
+      "parenthetical": "entering, carrying a baking dish",
+      "isUncut": false
+    },
+    {
+      "id": "1a94dc25-83ce-4a86-8545-c2bff50e1e3f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey sweetie. Oh good. (Takes the baking dish from her.)",
+      "isUncut": false
+    },
+    {
+      "id": "ac716e7c-a4ad-4bed-9086-236a317b3171",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Rachel Green.",
+      "parenthetical": "glaring at Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "1f119476-accc-4fd1-ac1f-e92b1eb84297",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Aw—oh, that’s right. Are-are you gonna be okay?",
+      "isUncut": false
+    },
+    {
+      "id": "95ebc02a-5df4-41d0-ac9a-7751cb355fac",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh, I’ll-I’ll be fine. Just God I hate her Ross! I hate her!",
+      "isUncut": false
+    },
+    {
+      "id": "daf02083-0a22-4a68-8c02-7af9d7e12f54",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Will, high school was-was a long time ago.",
+      "isUncut": false
+    },
+    {
+      "id": "17064b94-e9c0-4d8a-a2e6-74503bf8b773",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Look at her standing there with those yams! My two greatest enemies Ross: Rachel Green and complex carbohydrates.",
+      "isUncut": false
+    },
+    {
+      "id": "a5bcb0ab-d809-478a-bc92-8d6ab93efe69",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God Monica, who is that?",
+      "parenthetical": "sees Will",
+      "isUncut": false
+    },
+    {
+      "id": "91e6fae1-64c6-40b9-adbe-46ae3d07fec2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s Will from high school!",
+      "isUncut": false
+    },
+    {
+      "id": "2550f8b0-0ef8-4735-b4d4-17266ffb821a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh! I do not remember him! Wow! He’s really got that sexy, smoldering thing going on. (We see Will angrily staring at Rachel.) Oh my God, he’s… Look at the way he’s just staring at me. I think he’s trying to mouth something to me, but I can’t make it out. (Will mouths, “I hate you.”)",
+      "isUncut": false
+    },
+    {
+      "id": "712b720b-149c-4cb2-90fa-f5cc1e560929",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay, dinner’s ready!",
+      "isUncut": false
+    },
+    {
+      "id": "c51e99cb-862a-40ec-86dc-a4adcf6ba4e5",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Good game!",
+      "isUncut": false
+    },
+    {
+      "id": "69dd4c31-bb1e-4f13-b24a-3fbab56b3ac0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "eb9c2b0c-8587-4335-a1ef-74d822e190f0",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah. Solid effort. Solid effort.",
+      "isUncut": false
+    },
+    {
+      "id": "568da387-de40-42da-aa52-544bb50fdbb1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, so who won?",
+      "isUncut": false
+    },
+    {
+      "id": "726bd4df-a548-4787-8533-13e9394bbb0e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Green Bay.",
+      "parenthetical": "simultaneously",
+      "isUncut": false
+    },
+    {
+      "id": "e92e5b4f-2de1-4ffc-8148-7d27fdca2204",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Detroit.",
+      "parenthetical": "simultaneously",
+      "isUncut": false
+    },
+    {
+      "id": "f8f115a5-7f39-4794-a18b-23aefde43562",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "d89dd368-c1c5-455b-91fa-a099a9dcbb3b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well the Lions technically won, but it was a moral victory for the Green Bay…Mermen.",
+      "isUncut": false
+    },
+    {
+      "id": "c0021e06-3522-468c-8a28-51464fa627aa",
+      "type": "action",
+      "text": "(They sit down at the table and Will goes to talk to Rachel.)",
+      "isUncut": false
+    },
+    {
+      "id": "b83bb831-c7a1-4c60-b93f-a8ea997425c6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi! Will, right?",
+      "isUncut": false
+    },
+    {
+      "id": "d5ab8732-43bc-4a85-8516-b103312a1783",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Right.",
+      "isUncut": false
+    },
+    {
+      "id": "67b9d307-cc5a-4589-88a6-d3730854317b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi! I’m Rachel Green.",
+      "isUncut": false
+    },
+    {
+      "id": "62d7d013-9246-4e4d-9567-0b3866aede73",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh I-I remember you.",
+      "isUncut": false
+    },
+    {
+      "id": "19e832d9-fce9-4ce4-a294-4251e33c83cf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really?! Aren’t you sweet! I gotta tell you though, I am, I am having the hardest time placing you. Oh-oh hang on! Did we umm, did we fool around at Lance Davis’ graduation party?",
+      "isUncut": false
+    },
+    {
+      "id": "d70e70e8-ff16-492b-aa14-ee72f875f4d0",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "You are unbelievable.",
+      "isUncut": false
+    },
+    {
+      "id": "065336c9-485a-4ebd-94ea-60f0a51a63c1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Thank you!",
+      "isUncut": false
+    },
+    {
+      "id": "4134caa5-8b06-41bb-9f7f-34a9b036e1e3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Uh Rachel? Rachel, why don’t you sit here? (Next to Joey) And Will you sit way over there. (The other side of the table.)",
+      "parenthetical": "breaking it up",
+      "isUncut": false
+    },
+    {
+      "id": "cbbbbc2e-c903-4912-b869-2f99bdc883df",
+      "type": "action",
+      "text": "(Monica sets something on the table and removes the cover. It kinda looks like turkey.)",
+      "isUncut": false
+    },
+    {
+      "id": "4810d4c7-435d-4f70-a991-324ba628c30c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s it?! Even if nobody helps me I can eat that no problem. At least give me a challenge!",
+      "isUncut": false
+    },
+    {
+      "id": "f9e3796f-4c7b-47b8-b9d5-618338e7851b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "This is Chandler’s chicken. This is the turkey. (Sets down a huge turkey.)",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "2ecd2cf6-0078-4960-8d02-281f640c4ed6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh. How-how big is that?",
+      "parenthetical": "quietly",
+      "isUncut": false
+    },
+    {
+      "id": "b021db42-1af9-4fcf-b3b1-869224373314",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "About nineteen pounds.",
+      "isUncut": false
+    },
+    {
+      "id": "9c25cd22-f6a6-4e24-b476-98576966066d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "It’s like me when I was born.",
+      "parenthetical": "To Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "14c8d633-9ea5-4740-8ff8-5250d6c39cc3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right, who would uh, like some yams? Will?",
+      "isUncut": false
+    },
+    {
+      "id": "a114dc3b-f693-4674-9175-f75871f29501",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh, you’d like that wouldn’t ya?",
+      "isUncut": false
+    },
+    {
+      "id": "b5c280cb-6ed8-412a-8935-5adac4467b6b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What? (Joey starts offering Ross some turkey.) Oh y’know what? Can we please keep the chicken and the turkey and everything on the other side of the table? The smell is just yuck!",
+      "isUncut": false
+    },
+    {
+      "id": "a2084839-2666-49ac-b52a-938713d81390",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Typical.",
+      "parenthetical": "sneeze talks",
+      "isUncut": false
+    },
+    {
+      "id": "193fe8f7-8696-4874-9c8a-3fb81e551992",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m sorry. What?",
+      "isUncut": false
+    },
+    {
+      "id": "6efc9423-064f-445a-b123-139fd0991a76",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "I said it was typical. Typical of you, Rachel Green, Queen Rachel does whatever she wants in little Rachel land. (Does a fake hair flip.)",
+      "isUncut": false
+    },
+    {
+      "id": "21af9e75-bf36-4bf8-836f-114c1e5ef2da",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Seriously, who is this guy?",
+      "parenthetical": "To Monica",
+      "isUncut": false
+    },
+    {
+      "id": "2abd36b0-0ebd-4ded-af74-eace6be7561b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Umm, I’m sorry. Do you-do you have a problem with me?",
+      "isUncut": false
+    },
+    {
+      "id": "8cd70d90-340f-441a-bf63-37ca188e97fb",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "I don’t know? Do I? Do I?",
+      "isUncut": false
+    },
+    {
+      "id": "f9c4e08c-79e1-4fce-b7ef-e3045f1ad909",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I think you do.",
+      "isUncut": false
+    },
+    {
+      "id": "badf5c1e-2c6e-4ab0-ac43-5be63b58b164",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Apparently you were umm, a little mean to him in high school.",
+      "parenthetical": "To Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "bf13321f-fa60-4131-b02a-f9a2e9b2f281",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "A little mean? You made my life miserable!",
+      "isUncut": false
+    },
+    {
+      "id": "77023d2c-b037-424b-9d52-3c11124c0a68",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m-I’m—I had no idea. I’m sorry. I…",
+      "isUncut": false
+    },
+    {
+      "id": "2d53888e-2457-4a13-83de-ba583400886f",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Well you should be. Screw it! Bring on the yams!",
+      "isUncut": false
+    },
+    {
+      "id": "a60aafbb-a064-42d4-84a3-7b29db72602c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh Will. But you-you’ve worked so hard…",
+      "isUncut": false
+    },
+    {
+      "id": "0a42209c-0de4-447f-9475-4e7432566680",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yams !!!!",
+      "isUncut": false
+    },
+    {
+      "id": "90c048a9-c0d5-458f-bef2-1c6f51c9e813",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay. (Chandler grabs the dish from Monica and hands it to Will who starts dishing out a large helping.)",
+      "isUncut": false
+    },
+    {
+      "id": "f05a9e68-3a32-47f2-9ddf-1cc39d28bcdf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh Will umm, I just want to say that I’m real sorry for whatever I-I did to you in high school…",
+      "isUncut": false
+    },
+    {
+      "id": "5962ca92-0079-45f6-88ce-e66b277ecc68",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Oh, it wasn’t just me. We had a club!",
+      "isUncut": false
+    },
+    {
+      "id": "d54d8cd8-67ee-436f-bc82-9edbb24aa177",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You had a club?!",
+      "isUncut": false
+    },
+    {
+      "id": "e11c9aa9-5fb1-4b24-b21c-1ef17f350514",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "That’s right, The I Hate Rachel Green Club!",
+      "isUncut": false
+    },
+    {
+      "id": "e9e49c65-06f3-4131-9889-2803f980d320",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Whoa! My God! So what, you all just joined together to hate me?! Who else was in this club?",
+      "isUncut": false
+    },
+    {
+      "id": "3a595541-f713-4f25-8d86-48e14f84b36b",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Me and Ross. (Points at Ross.)",
+      "isUncut": false
+    },
+    {
+      "id": "f76e2d8e-2626-406a-bcda-ee3e1fa0726e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No need to point, she knows who Ross is.",
+      "isUncut": false
+    },
+    {
+      "id": "7d4747eb-9484-480e-9fe5-4d983d2f4ffd",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "e63e7597-0284-4f39-949f-f19eacc0763d",
+      "type": "scene",
+      "description": "Monica and Chandler’s, scene continued from earlier."
+    },
+    {
+      "id": "2c141b82-26ba-47db-bea0-20606c536308",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So you were in an I Hate Rachel club?",
+      "parenthetical": "To Ross",
+      "isUncut": false
+    },
+    {
+      "id": "b2bb4e25-8b44-44db-9434-5557deed515a",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yes he was. (Holds up his hand for a high-five.)",
+      "isUncut": false
+    },
+    {
+      "id": "1ad6b32f-b573-4319-b9f9-7011fb9c00d5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No. No.",
+      "isUncut": false
+    },
+    {
+      "id": "355f0b18-b590-49e6-b7ec-48e433632ef7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So who else was in this club?",
+      "isUncut": false
+    },
+    {
+      "id": "01c12475-fa43-49c4-a6d0-cf3ecb90a192",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh actually, there-there was also that exchange student from Thailand but I-I don’t think he-he knew what it was.",
+      "isUncut": false
+    },
+    {
+      "id": "bf87c7bb-4628-4cad-a7ee-3a0d53c150e3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So Ross, we went out for two years, and you never told me you were in an I Hate Rachel club.",
+      "isUncut": false
+    },
+    {
+      "id": "87eebbcd-6b80-44c5-86a3-e1b16ed3cbc5",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "You went out with her?! We had a pact!",
+      "isUncut": false
+    },
+    {
+      "id": "a14eeb8b-49eb-4cc9-b3b1-ec2e6cae1963",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That was in high school! It’s not like it was binding forever.",
+      "isUncut": false
+    },
+    {
+      "id": "bb547d6a-1c37-49df-aef8-00d186788cf8",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Then why did it have the word eternity in it?",
+      "isUncut": false
+    },
+    {
+      "id": "524df067-1a6f-4cd5-aeed-87f6d26d9f88",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay Monica, did you know about this?!",
+      "isUncut": false
+    },
+    {
+      "id": "49b100e9-24aa-46b1-bd6b-5be8cc9a1370",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I swear I didn’t. (To Ross and Will) Hey! Is that why you guys used to go up to your bedroom and lock the door?",
+      "isUncut": false
+    },
+    {
+      "id": "b099d1a0-75d6-4027-99f1-6598ba2b32fa",
+      "type": "dialogue",
+      "speaker": "Ross and Will",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "e22e29a7-a9bf-4183-a248-0c5c61e97844",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hmm, a little relieved, I gotta say.",
+      "isUncut": false
+    },
+    {
+      "id": "c927c3d2-d958-4b08-9526-97b1f2c377dc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Look Rach I-I’m sorry, okay? I…I was a stupid kid, okay? The only reason I joined…",
+      "isUncut": false
+    },
+    {
+      "id": "a610521f-ca22-4ab9-a5bf-ad72ba5e5bf8",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Co-founded!",
+      "isUncut": false
+    },
+    {
+      "id": "219ab6ac-18ce-49a1-8301-b5e4e2334226",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…co-founded. Co-founded the club was because I was insanely in love with you. Obviously I didn’t handle it very well. But if you think about it the I Hate Rachel Club was really the I Love Rachel Club.",
+      "isUncut": false
+    },
+    {
+      "id": "d775033d-8947-4edb-8f78-731bcb59c8de",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Uh, except that it was really the I Hate Rachel Club.",
+      "isUncut": false
+    },
+    {
+      "id": "800f2634-3167-47eb-8183-f4a45716a749",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay. So what? You guys would just like get together and like just say mean things about me?",
+      "isUncut": false
+    },
+    {
+      "id": "fdec2789-1a6c-414e-889f-f1fe574a50b4",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Well, we did a little more than that.",
+      "isUncut": false
+    },
+    {
+      "id": "c2a34c32-ed9b-4376-8273-91725441d94d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No-no! No-no. No-no.",
+      "isUncut": false
+    },
+    {
+      "id": "5c3ba2a6-c09f-443d-94f9-b43136f7c4e0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What?! What else did you do?",
+      "isUncut": false
+    },
+    {
+      "id": "969d79e4-59c0-405e-baef-79cd9c332270",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "We started a rumor.",
+      "isUncut": false
+    },
+    {
+      "id": "0165ea55-99cd-43ff-b356-9fcf4fccec0a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What rumor?",
+      "isUncut": false
+    },
+    {
+      "id": "d6ab2af3-4229-4d05-b33b-86c720b04ada",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, come on Will! Just take off your shirt and tell us!",
+      "isUncut": false
+    },
+    {
+      "id": "728a4814-b545-46df-9495-1f49ce6372c8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ross!",
+      "isUncut": false
+    },
+    {
+      "id": "dba828d2-8ca2-44b2-b001-94ba4a4e8e43",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It was no big deal. We-we…said that the rumor was…that umm…you had both…male and female reproductive parts.",
+      "isUncut": false
+    },
+    {
+      "id": "00495e95-674d-4d39-816e-fbe37b673740",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "1d691b4e-5733-4b0e-a72d-c17815fc8d81",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "That’s right! We said your parents flipped a coin, decided to raise you as a girl, but you still had a hint of a penis.",
+      "isUncut": false
+    },
+    {
+      "id": "d678df3e-dcc3-4392-b4f5-02b389fdce27",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God!",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "a717d074-c394-4048-b004-c9f55702f5ec",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You started that?!",
+      "isUncut": false
+    },
+    {
+      "id": "98d18d54-85f4-40a4-bc78-488743aa6879",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?! You heard that?! (Goes and stands behind Joey.)",
+      "isUncut": false
+    },
+    {
+      "id": "faa326ac-d219-4999-a4a9-a6e3cb1f1232",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Everyone at our school heard it!",
+      "isUncut": false
+    },
+    {
+      "id": "776e9c9a-25e7-40ab-99a3-088bb2798092",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Everybody at my school heard it! You were the hermaphrodite cheerleader from Long Island?!",
+      "isUncut": false
+    },
+    {
+      "id": "1a1088d3-4c9e-4aa0-ba24-337d0e9747cc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh no!!!! Oh my God!! This is all making so much sense to me now! This is why Adam Carter wouldn’t go out with me! This is why Billy Tratt would just stay in this region! (Motions to her breasts.) (Joey has turned around.)",
+      "isUncut": false
+    },
+    {
+      "id": "c6fee3a1-756d-44d9-b821-3c7cdec8e7dd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Actually, Billy Tratt is gay now. So-so that one’s not really our fault.",
+      "isUncut": false
+    },
+    {
+      "id": "1d2b4755-70f2-4173-8433-aca74ab354aa",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Monica, how come you never told me this?!",
+      "isUncut": false
+    },
+    {
+      "id": "be07da7d-d867-4a78-9407-b95904718ab6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I thought it might be true. And I was afraid that you were gonna cry and then show it to me.",
+      "isUncut": false
+    },
+    {
+      "id": "8bf1c1f9-ec59-432a-b883-56d411055f42",
+      "type": "action",
+      "text": "(Joey is now looking at Rachel, and since Rachel’s standing and he’s sitting down and he’s not looking at her face… You get the picture.)",
+      "isUncut": false
+    },
+    {
+      "id": "8a52e962-79e4-40ac-8d71-4922274cfbf8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey stop staring! There’s nothing there! It’s not true!",
+      "isUncut": false
+    },
+    {
+      "id": "51b2704d-723b-4494-9cf2-7c6acbcf51b4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I’m afraid I’m gonna need proof.",
+      "isUncut": false
+    },
+    {
+      "id": "223280c7-d37a-4f52-a288-6e09f227d2c1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh! (Hits him and storms out.)",
+      "isUncut": false
+    },
+    {
+      "id": "be919d36-5ffb-4bfc-8621-831cb4055f11",
+      "type": "transition",
+      "text": "[Time Lapse, dinner has ended for everyone except Joey who looks like to have finished the turkey, until he turns the plate around and reveals he only ate one side.]"
+    },
+    {
+      "id": "bac7dbaf-82b9-45a9-990b-2a751066efb0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You are my Everest.",
+      "isUncut": false
+    },
+    {
+      "id": "c3d28dfa-caac-4b35-8343-3ff808af418f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Joey, you don’t have to finish that.",
+      "isUncut": false
+    },
+    {
+      "id": "445cff17-a2c3-4c4e-b7e4-f52fa0c9edb3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh yes I do. Otherwise what’s next? Today I’m just a guy who can’t finish a turkey, but tomorrow I’m the guy who eats half a Powerbar , wraps up the rest, and puts in the fridge? No! No, I just…I just—I gotta change my pants. (Gets up and heads for the door.) Jeans have no give. (Exits.)",
+      "isUncut": false
+    },
+    {
+      "id": "b160db4f-e1a0-487d-9aa7-3fc91611ae0d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay! Okay! Listen to what Sean McMahon wrote in my yearbook senior year, “Dear Rach, you’re such a good person.” Not girl! Person!",
+      "parenthetical": "entering carrying a book",
+      "isUncut": false
+    },
+    {
+      "id": "46bfdafc-06e5-45d4-8246-1cec86a005c1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Rach, I think you’re reading a little too much into it.",
+      "isUncut": false
+    },
+    {
+      "id": "041a31e0-639b-43c6-8421-aa704399ad52",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "“Dear Rach, you’re a great person. Sorry about your tiney-wienie.” (Will laughs.)",
+      "parenthetical": "reading what he wrote again",
+      "isUncut": false
+    },
+    {
+      "id": "f5bf63ed-15b3-4828-bf21-5c732a60c7bf",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Look, what do you want me to do? Do you want me to call everyone in the entire school and tell them it wasn’t true?!",
+      "isUncut": false
+    },
+    {
+      "id": "647872bc-14b5-4a52-8879-c9a216e12b0c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes!",
+      "isUncut": false
+    },
+    {
+      "id": "60642c01-0650-499f-b7d3-b59d6e191a1a",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Could you also tell them I’m skinny now?",
+      "isUncut": false
+    },
+    {
+      "id": "3a8cb4d9-c7ad-4ed5-8d72-40fce43dce45",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh! Me too!",
+      "isUncut": false
+    },
+    {
+      "id": "9a03e6ff-98e1-40d9-a041-f65bc691e9f5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well look-look I’m not calling anybody! Okay? It was like a million years ago!",
+      "isUncut": false
+    },
+    {
+      "id": "6a425cba-bab3-4abc-9527-9532e322c9ab",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t care how long ago it was! You told people that I was half and half! Y’know what? I just want to point out I never did anything to hurt you in high school.",
+      "isUncut": false
+    },
+    {
+      "id": "4789658c-480a-4740-9987-c877d9ad1fe5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s not totally true.",
+      "isUncut": false
+    },
+    {
+      "id": "448b606b-2e11-4b9b-98d5-2fa1266720df",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "36b2bb99-3271-4c61-84eb-2eb8df7f0fb3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "d6029b50-d398-4d39-914d-7d1c6cf47597",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well you-you did start that rumor about Ross making out with Mrs. Altman, our 50-year-old librarian.",
+      "isUncut": false
+    },
+    {
+      "id": "10fc6570-5216-4815-9f43-d04919fe0053",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "(To Rachel) How did you know that?!!!!",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "6c964546-b4f3-4b71-9448-c07f92754f10",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "It’s true?!!",
+      "isUncut": false
+    },
+    {
+      "id": "45aecd21-a19b-412b-8663-0998142ad4cd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "16332fd8-4cad-4bc9-b139-580b2c292c5e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes it is! I saw you guys going at it behind the card catalog!",
+      "isUncut": false
+    },
+    {
+      "id": "3ff38cf8-e695-4529-84fb-32b9b08bf035",
+      "type": "action",
+      "text": "(Ross is at a loss for words.)",
+      "isUncut": false
+    },
+    {
+      "id": "5816ebf3-5963-4975-952b-d430386e458b",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Mrs. Altman? She also made out with Takaka Ci-Kek the night before he went back to Thailand.",
+      "isUncut": false
+    },
+    {
+      "id": "71ebdceb-6216-428b-96d9-598a5fe71309",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I’m sorry. When you were in high school you made out with a 50-year-old woman?",
+      "isUncut": false
+    },
+    {
+      "id": "f8448d56-0eb5-4eaa-9146-72a6747e6b25",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey! She didn’t look 50!",
+      "isUncut": false
+    },
+    {
+      "id": "2c2b4699-e334-4c64-b451-58bd4c2801ef",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Did she look 16?",
+      "isUncut": false
+    },
+    {
+      "id": "d5d54ab6-4e05-44dd-b6d9-383a26968278",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohh, there’s a picture of her in the yearbook actually.",
+      "isUncut": false
+    },
+    {
+      "id": "d5ee5c71-0629-44f4-8d2d-93c0e55e8c60",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh! (They all look.) Wow!",
+      "isUncut": false
+    },
+    {
+      "id": "8f65de5c-b4b4-420d-afeb-923530eaff81",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "She didn’t photograph well!",
+      "isUncut": false
+    },
+    {
+      "id": "017c715d-22cb-4b5f-a83a-791d816dbde5",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, she probably wasn’t familiar with the process having spent most of her life sitting for oil paintings!",
+      "isUncut": false
+    },
+    {
+      "id": "98a02ab0-998d-4a5a-b539-704adb03f3b3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So how did this happen? Did she, did she lure you to an early bird dinner?",
+      "isUncut": false
+    },
+    {
+      "id": "8e69c6b8-9cd4-4f41-9049-3a557fd95179",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I was working late in the library one afternoon. It was just the two of us. She needed some help with her word jumble. And one thing led to another. If you must know, Anita was very gentle and tender. May she rest in peace…",
+      "isUncut": false
+    },
+    {
+      "id": "2adfc717-87b4-4d57-87a0-ecc237ee6fee",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Didn’t she walk with a cane?",
+      "isUncut": false
+    },
+    {
+      "id": "5a5f06b8-0d97-4458-b47a-4389acfe56be",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Only when it was damp!! (To Rachel) I can’t believe you-you told people about this?! Everybody knew?! Y’know what? (To Will) I’m back in the club!",
+      "isUncut": false
+    },
+    {
+      "id": "ac5a5706-393f-4b8d-babf-2439ba945b16",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Yeah! (They high-five.)",
+      "isUncut": false
+    },
+    {
+      "id": "eb2bb850-7240-47a8-b18b-8c635a1f642c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I wanna join!",
+      "isUncut": false
+    },
+    {
+      "id": "60903397-bda4-46d5-afab-421d00935b8f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Wh—Phoebe!!",
+      "isUncut": false
+    },
+    {
+      "id": "f5663be0-60fb-4599-b835-bf2d68cecb88",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m sorry. I’m sorry. I never got to be in a club. I-I didn’t go to high school, but three of us would meet behind a dumpster to learn French. Bonjour.",
+      "isUncut": false
+    },
+    {
+      "id": "c360c59e-c331-49e1-93ce-10dd9ec37d03",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right, y’know—Fine! You guys have your stupid little club, but I would just like to say is what you did to me is way worse than what I did to you! You gave me a tiney-wienie! (Will laughs.)",
+      "isUncut": false
+    },
+    {
+      "id": "46ab35d2-7c29-4abe-aaf8-16a56a4efd04",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right, listen you’re just being silly. Rachel, even with that rumor you were one of the most popular girls in school and everyone wanted to be like you. One girl wanted to be like you so much she stuffed her pants with a Tootsie Roll !",
+      "isUncut": false
+    },
+    {
+      "id": "33ae0c51-123e-4a70-8708-de711f7cda81",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Wow…",
+      "isUncut": false
+    },
+    {
+      "id": "b76c62f9-f8ce-4b8b-8317-57160b17a057",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And Ross, if it weren’t for Rachel’s rumor I mean no one in high school would even know who you were. She put you on the map!",
+      "isUncut": false
+    },
+    {
+      "id": "adca7e3f-19f5-4df5-90c1-ff4ad238c93c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "As a romancer of the elderly.",
+      "isUncut": false
+    },
+    {
+      "id": "1ccb521f-9366-41fa-a91c-4ca7cf32f25c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey! Mrs. Altman was the kind of woman you could tell she used to be pretty.",
+      "isUncut": false
+    },
+    {
+      "id": "eb182594-959d-4bfb-a327-55fe335f1ff8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "The eyes…did still sparkle.",
+      "isUncut": false
+    },
+    {
+      "id": "535a3349-a653-4c86-adbe-f9195d3cfb28",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey guys this stuff is just so way in the past. You-you’ve been through so much since then. And right now you’ve got so much more important stuff going on in your life. Can’t you just let this go?",
+      "isUncut": false
+    },
+    {
+      "id": "e036b108-2d69-48f3-9a97-6e007e652363",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "She’s right.",
+      "isUncut": false
+    },
+    {
+      "id": "e770232f-fc1e-4182-b790-43e1b848e885",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah. I mean we are having a baby together.",
+      "isUncut": false
+    },
+    {
+      "id": "84bc67a5-eaf5-40aa-b89f-3af8a3d9ea8e",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Hold on! You got her pregnant?",
+      "isUncut": false
+    },
+    {
+      "id": "5046c2be-d961-48d0-ba39-6ff67ddcb451",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "3ad1cf41-06a9-4ad2-a9b7-f3c738c4e20f",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "Are ya getting married?",
+      "isUncut": false
+    },
+    {
+      "id": "271e007f-0aed-42fb-88c9-0a52b6688d80",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Nope.",
+      "isUncut": false
+    },
+    {
+      "id": "22fd6018-2f22-474c-957e-a15073314678",
+      "type": "dialogue",
+      "speaker": "Will",
+      "text": "So you knocked her up but you’re not gonna marry her. Dude! (Wants another high-five and Ross ignores him.) Anybody?",
+      "isUncut": false
+    },
+    {
+      "id": "29d0d641-36d4-435f-a3c8-1a8425c8d1eb",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay. (Goes over and hugs him.) It’s exactly how I’d imagined it would be.",
+      "isUncut": false
+    },
+    {
+      "id": "bb0c5da2-b2e4-40a5-b887-c240ff130156",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right where’s that turkey!",
+      "parenthetical": "entering, wearing the maternity pants from earlier",
+      "isUncut": false
+    },
+    {
+      "id": "ead462f6-504c-42fe-bb1c-e8571e012efc",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Joey! Those are my maternity pants!",
+      "isUncut": false
+    },
+    {
+      "id": "438c1903-80fe-4bdc-83b5-b1aa11f58093",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Not now! These are my Thanksgiving pants!",
+      "isUncut": false
+    },
+    {
+      "id": "4848c331-ef72-451d-8256-56fe10f83c9b",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "dc684b2f-2031-4cdf-b9be-bec2770b79ce",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Will has left and the rest of the gang is watching Joey finish the turkey."
+    },
+    {
+      "id": "d74eb483-e8d0-459a-af6a-24082c003aff",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well that’s it. I’m done. Whew! (Wipes his forehead.) There come the meat sweats. (Chandler hands him a towel and he wipes his face.)",
+      "isUncut": false
+    },
+    {
+      "id": "df821ea8-89a0-407d-9c95-81c3d01928d3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well Joey, we’re all…we’re all very proud of you.",
+      "isUncut": false
+    },
+    {
+      "id": "ad6da934-3077-40d5-b7d3-85987cca9caf",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes, I believe we can expect a call from the President any moment now.",
+      "isUncut": false
+    },
+    {
+      "id": "d16308d6-81e4-40d9-afaf-c6ac44a260ad",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Is there anything we can do for you?",
+      "isUncut": false
+    },
+    {
+      "id": "8ab6a4e2-ac3b-4eb1-acff-ed06c0a52121",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No just, nobody press on my stomach.",
+      "isUncut": false
+    },
+    {
+      "id": "5c213817-634f-45fe-841d-f9152f32e1fd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You can keep those pants by the way.",
+      "isUncut": false
+    },
+    {
+      "id": "e0d41b7e-8a1e-4d9b-8d92-459d11299e4b",
+      "type": "action",
+      "text": "(Joey notices Monica has gotten a pie.)",
+      "isUncut": false
+    },
+    {
+      "id": "e6cf398b-cacb-43c2-8946-e64b13e237e0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Whoa—hey—wh-wh-what do you got there? What is that? Pie?",
+      "isUncut": false
+    },
+    {
+      "id": "aba3ea41-e391-42c7-8cdc-cb5f9dedda7a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah, you want some?",
+      "isUncut": false
+    },
+    {
+      "id": "3ccaef36-0ae8-4596-a59c-81ee121fdb62",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ah, just cut me a little sliver. (Monica prepares to cut a little sliver.) A little bigger. (Monica prepares to cut a bigger piece.) Little bigger. (Monica moves the knife again.) What?! Are you afraid you’re gonna run out?! Cut me a real piece!",
+      "isUncut": false
+    },
+    {
+      "id": "c094b574-6d44-4ed5-bd34-49f98692c398",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

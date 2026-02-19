@@ -1,0 +1,1731 @@
+{
+  "season": 3,
+  "episode_number": 10,
+  "episode_title": "310 - The One Where Rachel Quits",
+  "credits": {
+    "writtenBy": "Michael Curtis and Gregory S. Malins",
+    "transcribedBy": "Eric B Aasen"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "5a97cc4a-7499-4a08-b5e0-06f76afd554a",
+      "type": "scene",
+      "description": "Central Perk, Chandler and Rachel are sitting on the couch."
+    },
+    {
+      "id": "fa4f95ed-a3f0-47be-b226-e909d7db995e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Eh…, I don’t, I don’t know.",
+      "parenthetical": "reading the comics",
+      "isUncut": false
+    },
+    {
+      "id": "b02f6251-6c89-4bd8-adca-e58e8700f391",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "fb82652d-ea68-4395-95a6-897cfd36f0ba",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?",
+      "isUncut": false
+    },
+    {
+      "id": "302833f7-695c-46f6-94ea-e0730aa94583",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Rachel?",
+      "isUncut": false
+    },
+    {
+      "id": "98328127-8358-4e4e-a5c3-31ef375f8284",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "54128030-a142-4470-9f7d-999c65f381e9",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Do you remember when you first came here, how you spent two weeks getting trained by another waitress?",
+      "isUncut": false
+    },
+    {
+      "id": "0b3f30c6-843f-454f-acc1-2124828472f1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, sure! Do you need me to train somebody new?",
+      "isUncut": false
+    },
+    {
+      "id": "2100371d-4222-4140-9f76-86f4a0455e3f",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Good one. Actually, ah, Terry wants you to take the training again, whenever.",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "5f8a56c7-639b-45f6-91af-aa3b8964b9b0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Eh, do you believe that?",
+      "parenthetical": "to Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "6ab0e70a-69e9-469f-8419-f52d7f56de28",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah?",
+      "parenthetical": "thinks about it",
+      "isUncut": false
+    },
+    {
+      "id": "31d6d95d-574a-493d-babb-a19d80073ab9",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "0df1db2d-290d-4028-a29d-957b5f4804b5",
+      "type": "scene",
+      "description": "The hallway of Ross’s building, there is a Brown Bird girl selling cookies, as Ross and Chandler come up the stairs."
+    },
+    {
+      "id": "9c01d9e0-a816-492e-9d35-f20f5b002e44",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "So that’s two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you. (Does the Brown Bird salute, she blows on a bird call, then holds her hand, palm facing out, next to her face, and then waves it like a bird flapping it’s wings.)",
+      "isUncut": false
+    },
+    {
+      "id": "a286795b-a2fd-4606-a9c8-4e257355ca7c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Just admit it Chandler, you have no backhand.",
+      "isUncut": false
+    },
+    {
+      "id": "8b36c351-2145-407f-937e-4b70fceac62f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Excuse me little one, I have a very solid backhand.",
+      "isUncut": false
+    },
+    {
+      "id": "21b11435-8748-45e2-ad45-8c0051084457",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Shielding your face and shrieking like a girl… is not a backhand.",
+      "isUncut": false
+    },
+    {
+      "id": "dc7c505b-f982-4d83-8198-ec57eb550c26",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I was shrieking… like a Marine.",
+      "isUncut": false
+    },
+    {
+      "id": "b5bc7ac5-83da-45d4-a9e3-330e5804fa73",
+      "type": "action",
+      "text": "(they both start up the stairs.)",
+      "isUncut": false
+    },
+    {
+      "id": "4f43639e-b79a-4306-bfe4-8c8bf39f6c35",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right here. Watch me execute the three ‘P’s of championship play. Power. (swings the racquet) Precision. (swings the racquet.) and penache. (does a backswing and hits Sarah who’s started up the stairs, knocking her down, they both watch in horror.)",
+      "isUncut": false
+    },
+    {
+      "id": "e778b36f-3632-42db-a39a-4df827396af9",
+      "type": "scene",
+      "description": "Central Perk, the gang’s all there discussing the incident."
+    },
+    {
+      "id": "b10c44ed-2383-48c3-9663-999d70e9820d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You broke a little girl’s leg?!!",
+      "isUncut": false
+    },
+    {
+      "id": "6b04a480-bb27-4f6a-a301-da3d598f075f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I know. I feel horrible. Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "254bcd37-c4a8-4097-b37e-c44e68a508d2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Says here that a muppet got whacked on Seasame Street last night. (to Ross) Where exactly were around ten-ish?",
+      "parenthetical": "reading the paper",
+      "isUncut": false
+    },
+    {
+      "id": "508a53d1-b538-4509-b333-11ba6fcf8eba",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, I’m gonna go see her. I want to bring her something, what do you think she’ll like?",
+      "isUncut": false
+    },
+    {
+      "id": "b2b42378-aad3-4466-8364-8d02d730dd81",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Maybe a Hello Kitty doll, the ability to walk…",
+      "isUncut": false
+    },
+    {
+      "id": "555ed06c-93c1-40f0-9473-27fcbd835e97",
+      "type": "action",
+      "text": "(Rachel starts to laugh, and Ross notices her.)",
+      "isUncut": false
+    },
+    {
+      "id": "da20c38b-6ca3-4de5-a166-b3c281647848",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m gonna get back to retraining. (gets up)",
+      "isUncut": false
+    },
+    {
+      "id": "5b47a5df-c2e5-4b76-b09e-431b2d85df7e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right, see you guys. (starts to leave)",
+      "isUncut": false
+    },
+    {
+      "id": "16e53d7c-2cb5-423f-b73a-0f2e82c1791d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Look out kids, he’s coming! (Ross continues to leave with his head down in shame.)",
+      "isUncut": false
+    },
+    {
+      "id": "7c166ce9-3fde-4151-86d5-6e1a82a1a0f3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And I gotta go sell some Christmas trees.",
+      "isUncut": false
+    },
+    {
+      "id": "b8a42a5d-ffab-453b-9fdc-f522bc9587ff",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Have fun. Oh wait, no, don’t! I forgot I am totally against that now.",
+      "isUncut": false
+    },
+    {
+      "id": "b0711e3c-7894-4583-98f9-423c8b65d0dc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What? Me having a job?",
+      "isUncut": false
+    },
+    {
+      "id": "37eab46c-6d17-47a8-88e7-d17d0bee38a0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No, no, I am against innocent trees being cut down in their prime, and their, their corpses grotesquely dressed in like tinsel and twinkly lights. (to Joey) Hey, how do you sleep at night?",
+      "isUncut": false
+    },
+    {
+      "id": "913e7d58-2148-4499-b5bc-d6c23d536823",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well, I’m pretty tired from lugging the trees around all day. Hey, Phoebe listen, you got this all wrong. Those trees were born to be Christmas trees, their fulfilling their life purpose, by, by making people happy.",
+      "isUncut": false
+    },
+    {
+      "id": "3bfc8c3a-9aae-472f-9ea4-8b241390a288",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "b9cf121a-989f-41d0-9996-18d3d90cf839",
+      "type": "action",
+      "text": "(Phoebe turns and looks at Monica, while Joey frantically motions to Chandler to help him out.)",
+      "isUncut": false
+    },
+    {
+      "id": "29c47d95-9574-4b43-b815-63405a331038",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes. Yes, and ah, ah, the trees are happy too, because for most of them, it’s the only chance to see New York.",
+      "isUncut": false
+    },
+    {
+      "id": "6949ac47-2d4e-4802-8062-22e03d2e5ba1",
+      "type": "transition",
+      "text": "[cut to Gunther retraining Rachel.]"
+    },
+    {
+      "id": "4156f225-edab-4d4f-b35a-39c27b0033b0",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "…and after you’ve delivered the drinks, you take the empty tray…",
+      "isUncut": false
+    },
+    {
+      "id": "16e69406-fb96-4c58-a144-2d5ebee5111f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Gunther, Gunther, please, I’ve worked here for two and a half years, I know the empty trays go over there. (points to the counter.)",
+      "isUncut": false
+    },
+    {
+      "id": "17f38882-47d5-403f-9511-7e3507a8a454",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "What if you put them here. (sets the empty tray on another stack of empty trays on the back counter.)",
+      "isUncut": false
+    },
+    {
+      "id": "582faacf-0e35-47bb-9f21-70de475c53af",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Huh. Well, y’know that’s actually a really good idea, because that way they’ll be closer to the mugs. Y’know what, you should have the other waitresses do that too.",
+      "isUncut": false
+    },
+    {
+      "id": "83b6e058-7440-40a7-90d9-a5ed9ef96b58",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "They already do. That’s why they call it the ‘tray spot.’",
+      "isUncut": false
+    },
+    {
+      "id": "d58eeabc-7cc3-4e05-a8d3-ef20eefcc4a9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Gee, I always heard them talk about that, I just always thought that it was a club they went to. Oh God, I’m, I’m sorry. (walks away)",
+      "isUncut": false
+    },
+    {
+      "id": "6b305e14-3acc-4440-bb27-f4f9134c0f4e",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "It’s all right. Sweetheart.",
+      "isUncut": false
+    },
+    {
+      "id": "466d9a23-3be6-4f02-b501-859379f89d23",
+      "type": "scene",
+      "description": "Sarah’s bedroom, her room is decorated with a space motif."
+    },
+    {
+      "id": "3806163e-e9a5-4585-b3ae-f449a2db410a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So, this must be kinda neat for ya, huh? I mean, your Dad tells me that you get a couple of days off school, and you, you ah, don’t have to sell those cookies anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "e9e6f512-f1a0-416b-aa13-49fb9a386d0e",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Well, I kinda wanted to sell the cookies. The girl who sells the most wins a trip to Spacecamp, and gets to sit in a real space shuttle.",
+      "isUncut": false
+    },
+    {
+      "id": "41127f95-87d4-4ac1-b5b1-774e0c55b8cd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wow, you ah, you really like all this space stuff, huh?",
+      "isUncut": false
+    },
+    {
+      "id": "0df1ff16-ff80-4ce9-b067-1a8846400931",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Yeah. My Dad says if I spend as much time helping him clean apartments, as I do daydreaming about outer space, he’d be able to afford a trip to the Taj Mahal.",
+      "isUncut": false
+    },
+    {
+      "id": "f8a64694-47f3-4d49-905f-dce6a57e6771",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I think you would have to clean a whole lot of apartments to go all the way to India.",
+      "isUncut": false
+    },
+    {
+      "id": "26214a7a-e725-4d1c-b633-77881838806c",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "No. The one in Atlantic City, Dad loves the slots. He says he’s gonna double the college money my Grandma left me.",
+      "isUncut": false
+    },
+    {
+      "id": "0780de8a-116f-48e1-b997-3bbf6fa88b1c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Huh. Well, good luck to Dad. Say, how many more boxes would you have to sell in order to win?",
+      "isUncut": false
+    },
+    {
+      "id": "db2f6f2e-2935-4831-ae51-8a268f1693c4",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "The girl who won last year sold four hundred and seventy-five.",
+      "isUncut": false
+    },
+    {
+      "id": "e4910036-e0a9-4e5b-850a-e0ff0deccc56",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "4d29d994-fc66-4c9d-96b0-c329c9c26ffc",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "So far, I’ve sold seventy-five.",
+      "isUncut": false
+    },
+    {
+      "id": "f9c6f40e-8e18-4128-9e73-e33175eda8fc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Four hundred, huh? Well, that sounds do-able. (starts to get out his wallet) How much are the boxes?",
+      "isUncut": false
+    },
+    {
+      "id": "e3d6e930-4ff8-4c21-b0e1-65eeee3b2eb3",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Five dollars a box.",
+      "isUncut": false
+    },
+    {
+      "id": "4c970309-4f9b-4bf6-9b3d-ed53622f80ec",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "And what is second prize?",
+      "parenthetical": "puts away his wallet",
+      "isUncut": false
+    },
+    {
+      "id": "052a3920-c794-4cdc-8be2-006828e8dc5f",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "A ten speed bike. But, I’d rather have something my Dad couldn’t sell.",
+      "isUncut": false
+    },
+    {
+      "id": "7b6eee7e-016c-4b0d-af63-8c7ac5549018",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, that makes sense.",
+      "isUncut": false
+    },
+    {
+      "id": "f0e15b28-4f90-4f2f-88ee-38ecb11b67d1",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Could you do me one favor, if it’s not too much trouble?",
+      "isUncut": false
+    },
+    {
+      "id": "5d580c76-69b6-4e4b-b873-9ef23e35f143",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, Sarah, anything.",
+      "isUncut": false
+    },
+    {
+      "id": "525ed34e-fcf2-4a41-851a-6681e0c4dd3b",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Could you pull open the curtains for me? The astronauts from the space shuttle are gonna be on the news, and since we don’t have a TV, the lady across the alley said she’d push hers up to a window, so I could watch it.",
+      "isUncut": false
+    },
+    {
+      "id": "93084367-30b2-49ac-b568-c559c2f0982f",
+      "type": "scene",
+      "description": "A hallway, Ross is selling Brown Bird cookies for Sarah, he stops and knocks on a door."
+    },
+    {
+      "id": "19f20cf7-48f7-4671-bed2-16014615c155",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "Yesss?",
+      "parenthetical": "looking through her peephole, we see Ross standing in the hallway.",
+      "isUncut": false
+    },
+    {
+      "id": "928b1b1d-1f6e-4ad1-8d91-3952e1861de3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi, I’m selling Brown Bird cookies.",
+      "isUncut": false
+    },
+    {
+      "id": "158f0304-fce9-44e5-929a-d591e1129d06",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "You’re no Brown Bird, I can see you through my peephole.",
+      "isUncut": false
+    },
+    {
+      "id": "85b8dce2-61b3-4787-9187-19075bcbd737",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, hi, I’m, I’m an honorary Brown Bird (does the Brown Bird salute.)",
+      "isUncut": false
+    },
+    {
+      "id": "c6bf685c-535f-4332-ab93-980e3813ed13",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "What does that mean?",
+      "isUncut": false
+    },
+    {
+      "id": "cdc03cc6-b0d5-4820-ba09-0be6d281615f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ah, well, it means that I can sell cookies, but I’m not invited to sleep-overs.",
+      "isUncut": false
+    },
+    {
+      "id": "4e5dc54d-4cb6-42ec-b969-72830a67be74",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "I can dial 9-1-1 at the touch of a button, y’know. Now, go away!",
+      "isUncut": false
+    },
+    {
+      "id": "bb0bf1d2-924c-4f00-91f1-591373e2a2b4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, please, please, um, it’s for a poor little girl who wants to go to Spacecamp more than anything in the world.",
+      "isUncut": false
+    },
+    {
+      "id": "fcc07776-92a6-493d-8407-a093b7fca386",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "I’m pressing, a policeman is on his way.",
+      "isUncut": false
+    },
+    {
+      "id": "a688ea4e-05dc-4f76-b089-41deed4b4792",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, okay! I’m going. I’m going. (goes across the hall to knock on another door.)",
+      "isUncut": false
+    },
+    {
+      "id": "34365530-8391-48bc-bd05-e0afa4a4962f",
+      "type": "dialogue",
+      "speaker": "Woman",
+      "text": "I can still see you!",
+      "isUncut": false
+    },
+    {
+      "id": "2adf6423-2f42-4727-a24c-0cae1dfd2c6f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right!!",
+      "isUncut": false
+    },
+    {
+      "id": "75120331-bcf0-4c3b-8db2-545dfad43963",
+      "type": "scene",
+      "description": "Joey’s work, selling Christmas trees."
+    },
+    {
+      "id": "526df0ef-28ec-478d-933b-728098983216",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey.",
+      "parenthetical": "walking up to Joey",
+      "isUncut": false
+    },
+    {
+      "id": "1c045f98-a40d-48b6-bf50-853e01f32c6d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey. What, what are you doing here?",
+      "isUncut": false
+    },
+    {
+      "id": "8ea0d0cb-fef0-421e-a30d-92894e1eb7d9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental. Yeah, (looks at the tree) oh, but oh…",
+      "isUncut": false
+    },
+    {
+      "id": "5976b398-f5e1-42be-bf8b-2c67b9db7fba",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look now, Phoebe remember, hey, their just fulfilling their Christmas…",
+      "isUncut": false
+    },
+    {
+      "id": "791f7491-3570-43c3-8b2e-d20b08082ce5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Destiny.",
+      "isUncut": false
+    },
+    {
+      "id": "a89c9097-7316-4df1-8fa1-f8a6a7e1893a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Sure.",
+      "isUncut": false
+    },
+    {
+      "id": "603f91cd-4407-4937-94af-f4ccd47e4b48",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yes.",
+      "isUncut": false
+    },
+    {
+      "id": "a98ad798-8312-4ba9-a02a-e312f3b9f84b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right.",
+      "isUncut": false
+    },
+    {
+      "id": "87df8c6a-c4dc-423a-8bf4-09799c699374",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay. (One of Joey’s co-workers, walks by with a dead tree.) Yikes! That one doesn’t look very fulfilled.",
+      "isUncut": false
+    },
+    {
+      "id": "efe2a296-cdac-4576-9450-eb02e96f0417",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh, that’s, that’s ah, one of the old ones, he’s just taking it to the back.",
+      "isUncut": false
+    },
+    {
+      "id": "00aca6ba-3815-44ef-8781-059f35f8a199",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You keep the old ones in the back, that is so ageist.",
+      "isUncut": false
+    },
+    {
+      "id": "ae05cd52-71da-4079-8957-ee4bf88d5e86",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well we have to make room for the fresh ones.",
+      "isUncut": false
+    },
+    {
+      "id": "1b748838-5886-4c73-be1f-1b5c5831bac5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So, what happens to the old guys?",
+      "isUncut": false
+    },
+    {
+      "id": "0f8fddcd-ab5e-40f0-b002-d5de9968a057",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well, they go into the chipper.",
+      "isUncut": false
+    },
+    {
+      "id": "c61ad80e-67d9-44ea-8c12-e5e75c26cc7c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Why, do I have a feeling that’s not as happy as it sounds? (Joey points out one going into the chipper to her, as this haunty, demonic music starts to play in the background) No! Nooooo!!! (she winces in horror and hides her face against Joey’s shoulder, as she sees the tree spit out from the chipper.)",
+      "isUncut": false
+    },
+    {
+      "id": "1a35480d-7df2-4545-a65c-54f3587df5de",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey! Hey!! (makes the ‘cut it’ motion with his hands)",
+      "parenthetical": "to the guy operating the chipper",
+      "isUncut": false
+    },
+    {
+      "id": "6285fad8-32f3-40f9-914a-80bb1daf296a",
+      "type": "scene",
+      "description": "Central Perk, all except Phoebe are there, Ross is telling the gang, minus Rachel who’s still being retrained, about the different cookie options."
+    },
+    {
+      "id": "c42c63d8-5029-400f-8497-b8e0a47f834b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus.",
+      "isUncut": false
+    },
+    {
+      "id": "20c9a63a-d854-4dd6-ac1d-1bde1d055f81",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right, I’ll take a box of the cream filled Jesus’s.",
+      "isUncut": false
+    },
+    {
+      "id": "2f99d602-37cb-46f8-8c5e-8c88e830b108",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wait a minute, one box! Come on, I’m trying to send a little girl to Spacecamp, I’m putting you down for five boxes. Chandler, what about you?",
+      "isUncut": false
+    },
+    {
+      "id": "0cef7f36-2da6-4f78-a063-754b573f7eed",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ahh, do you have any coconut flavoured deities?",
+      "isUncut": false
+    },
+    {
+      "id": "c132139d-206d-4faf-b6a5-4cb3d747607a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, but ah, there’s coconut in the Hanukkah Menoreoes. I tell you what, I’ll put you down for eight boxes, one for each night.",
+      "isUncut": false
+    },
+    {
+      "id": "dab6a456-342d-457c-9e78-3c4c2b57cda7",
+      "type": "action",
+      "text": "(Chandler mouths ‘Okay.’)",
+      "isUncut": false
+    },
+    {
+      "id": "60d30b71-1d01-40e5-b59d-46bba32cac0e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Mon?",
+      "isUncut": false
+    },
+    {
+      "id": "6ff86586-716e-4e97-9d55-101bb85a2412",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right, I’ll take one box of the mint treasures, just one, and that’s it. I-I started gaining weight after I joined the Brown Birds. (to Ross) Remember, how Dad bought all my boxes and I ate them all?",
+      "isUncut": false
+    },
+    {
+      "id": "33f51be5-bf12-4246-8875-b7604c4c5452",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ah, no Mon, Dad had to buy everyone of your boxes because you ate them all. But ah, y’know I’m sure that’s not gonna happen this time, why don’t I put you down for three of the mint treasures and just a couple of the Rudolph’s.",
+      "isUncut": false
+    },
+    {
+      "id": "a7511c47-bcd2-4e5c-9d1d-8dcdbd5dfe18",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "2b1bbcae-d8a0-4efb-86fd-78120bb0cb88",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, come on, now you know you want ‘em.",
+      "isUncut": false
+    },
+    {
+      "id": "048c2fb1-f1d6-41b5-9dc7-664bc1f626b1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Don’t, don’t, don’t, don’t, don’t do this.",
+      "isUncut": false
+    },
+    {
+      "id": "add5409a-ad7b-4def-b8dc-9ad50ee624db",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’ll tell you what Mon, I’ll give you the first box for free.",
+      "isUncut": false
+    },
+    {
+      "id": "34ff6310-9820-4071-a300-92406a41b689",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh God! I gotta go! (runs out)",
+      "parenthetical": "she reaches out for it and stops",
+      "isUncut": false
+    },
+    {
+      "id": "e5ca627e-72f2-44ab-b1da-becd1eab919e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Come on! All the cool kids are eating ‘em! (chases after her.)",
+      "isUncut": false
+    },
+    {
+      "id": "0c81c44c-bedf-450e-84d4-884424437408",
+      "type": "transition",
+      "text": "[cut to Gunther retraining Rachel.]"
+    },
+    {
+      "id": "18344650-29bd-46af-a745-02dfd949a65a",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "And when you have a second later, I wanna show you why we don’t just trap spiders under coffee mugs and leave them there.",
+      "isUncut": false
+    },
+    {
+      "id": "7ec707bf-21e8-4699-a9d6-a38387f3489d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m training to be better at a job that I hate, my life officially sucks.",
+      "parenthetical": "sitting down next to Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "29503712-b300-4ddf-b722-8b20ef9424d0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look Rach, wasn’t this supposed to a temporary thing? I thought you wanted to do fashion stuff?",
+      "isUncut": false
+    },
+    {
+      "id": "4e76f092-bee4-4927-bed4-4f6dfbfe5286",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, yeah! I’m still pursuing that.",
+      "isUncut": false
+    },
+    {
+      "id": "8469198e-a475-4f89-a8f8-0363626a6db3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "How… exactly are you pursuing that? Y’know other than sending out resumes like what, two years ago?",
+      "isUncut": false
+    },
+    {
+      "id": "0723c9db-3222-497d-aa50-861127b5a5db",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I’m also sending out… good thoughts.",
+      "isUncut": false
+    },
+    {
+      "id": "e2a86ba2-1358-4eef-b131-b34ea9213022",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "If you ask me, as long as you got this job, you’ve got nothing pushing you to get another one. You need the fear.",
+      "isUncut": false
+    },
+    {
+      "id": "c66fe660-f617-4449-b84a-3e2256281710",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "The fear?",
+      "isUncut": false
+    },
+    {
+      "id": "95d391a8-2cac-4877-890c-6c1b87ef977e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "He’s right, if you quit this job, you then have motivation to go after a job you really want.",
+      "isUncut": false
+    },
+    {
+      "id": "ab54acdc-1d20-4e86-9e0a-ec42f731a967",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well then how come you’re still at a job that you hate, I mean why don’t you quit and get ‘the fear’?",
+      "isUncut": false
+    },
+    {
+      "id": "f8ef8fb2-0e55-4fbe-b829-ac7e3da099a2",
+      "type": "action",
+      "text": "(Chandler and Joey both laugh)",
+      "isUncut": false
+    },
+    {
+      "id": "e8a3185b-748d-42db-b31e-930729eb304c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Because, I’m too afraid.",
+      "isUncut": false
+    },
+    {
+      "id": "6fdb6ee5-4a61-440a-886c-6852d256c32f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know, I mean I would give anything to work for a designer, y’know, or a buyer… Oh, I just don’t want to be 30 and still work here.",
+      "isUncut": false
+    },
+    {
+      "id": "859e952e-a413-4c8c-a160-6e4e684717c3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, that’d be much worse than being 28, and still working here.",
+      "isUncut": false
+    },
+    {
+      "id": "8f8fb81c-429f-4654-82b5-4f8e24b6565a",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Rachel?",
+      "isUncut": false
+    },
+    {
+      "id": "bf981809-bc3a-4422-adb0-3c0d4cc1bc32",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "829d841a-4ce0-4b3b-9a54-c8235128ec61",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Remind me to review with you which pot is decaf and which is regular.",
+      "isUncut": false
+    },
+    {
+      "id": "ad5ebf03-9742-45cc-a6bc-c2957c85b300",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Can’t I just look at the handles on them?",
+      "isUncut": false
+    },
+    {
+      "id": "ff8ef520-c8ad-47b8-8e85-0ddcf5fd2fe6",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "You would think.",
+      "isUncut": false
+    },
+    {
+      "id": "b9d28a5c-c1d3-4615-aa02-ac10efbc0a00",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, fine. Gunther, y’know what, I am a terrible waitress, do you know why I’m a terrible waitress? Because, I don’t care. I don’t care. I don’t care which pot is regular and which pot is decaf, I don’t care where the tray spot is, I just don’t care, this is not what I want to do. So I don’t think I should do it anymore. I’m gonna give you my weeks notice.",
+      "isUncut": false
+    },
+    {
+      "id": "b2f18b9a-28c2-4f1c-b570-ee35f218ecd8",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "96b09701-bc7a-42fc-ad5e-85a25f5a6286",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Gunther, I quit.",
+      "isUncut": false
+    },
+    {
+      "id": "69e4914e-7a19-4efd-a566-6aad9b250ab6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Does this mean we’re gonna have to start paying for coffee? (Joey shrugs his shoulders.)",
+      "parenthetical": "to Joey",
+      "isUncut": false
+    },
+    {
+      "id": "84725928-3365-41cd-915b-c558374c1202",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "4d0e7c96-a7b1-457f-9631-963a1063e1aa",
+      "type": "scene",
+      "description": "Monica and Rachel’s, Chandler is entering numbers on a calculator as Ross reads off how much he’s sold."
+    },
+    {
+      "id": "a23c015e-f631-487d-ab60-4383e1ff81bb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "…and 12, 22, 18, four… (Chandler starts laughing) What?",
+      "isUncut": false
+    },
+    {
+      "id": "642616c4-3bc1-4b32-9ce1-f1d9a62d3a08",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I spelled out boobies.",
+      "isUncut": false
+    },
+    {
+      "id": "a2a35b61-6420-4d82-bfbd-b9728dabcfff",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?",
+      "parenthetical": "comes up and starts looking through Ross’s cookie supply",
+      "isUncut": false
+    },
+    {
+      "id": "55565cbd-2498-418b-ac68-71e61af22584",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ah, we’re out. I sold them all.",
+      "isUncut": false
+    },
+    {
+      "id": "23a05af3-8361-4195-b1f0-c4366fc7d0e6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "68cd28ca-3776-4767-bbb2-49f9096168b0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Monica, I’m cutting you off.",
+      "isUncut": false
+    },
+    {
+      "id": "1c5c9b12-4f1b-4ebb-916c-9e5e25d9a33f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No. No, just, just, just a couple more boxes. It-it-it’s no big deal, all right, I’m-I’m cool. You gotta help me out with a couple more boxes!",
+      "isUncut": false
+    },
+    {
+      "id": "8073bed3-f7e6-4789-a7f7-8b384227e2c0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Mon, look at yourself. You have cookie on your neck.",
+      "isUncut": false
+    },
+    {
+      "id": "a0c49686-8a11-4be1-8154-c9465691c792",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh God! (runs to the bathroom)",
+      "parenthetical": "covers her neck",
+      "isUncut": false
+    },
+    {
+      "id": "628c46e4-bb8b-42eb-a104-2379a88aac03",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So, how many have you sold so far?",
+      "isUncut": false
+    },
+    {
+      "id": "73bfd4b6-e15d-4c09-8bfb-902efaa09931",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Check this out. Five hundred and seventeen boxes!",
+      "isUncut": false
+    },
+    {
+      "id": "d6123b54-45dc-4416-a757-908df9641502",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh my God, how did you do that?",
+      "isUncut": false
+    },
+    {
+      "id": "6d8cbd00-694d-4881-b37e-68dbd9915a99",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, the other night I was leaving the museum just as ‘Laser Floyd’ was letting out of the planetarium, without even trying I sold 50 boxes! That’s when it occurred to me, the key to my success, ‘the munchies.’ So I ah, started hitting the NYU dorms around midnight. I am selling cookies by the case. They call me: ‘Cookie Dude!’",
+      "isUncut": false
+    },
+    {
+      "id": "77150ad1-1844-4fba-9bb7-59ac66493328",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, stop what you’re doing, I need envelope stuffers, I need stamp lickers…",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "18ad22b9-e5a5-48ef-bef5-f9b576d4e0c3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well hey, who did these resumes for ya?",
+      "isUncut": false
+    },
+    {
+      "id": "fd9c135a-7b7c-4c45-9390-a34a01f9908a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Me! On my computer.",
+      "isUncut": false
+    },
+    {
+      "id": "b219a4ef-b7dd-4463-a9a2-c0debcf39fc6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well you sure used a large font.",
+      "isUncut": false
+    },
+    {
+      "id": "04954bfb-e427-4684-b355-cc377ab597a4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Eh, yeah, well ah, waitress at a coffee shop and cheer squad co-captain only took up so much room.",
+      "isUncut": false
+    },
+    {
+      "id": "5a3cf3ec-083b-4d40-8b39-6f96071e5d66",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey-hey-hey that’s funny! Your funny Chandler! Your a funny guy! You wanna know what else is really funny?!",
+      "isUncut": false
+    },
+    {
+      "id": "f4de42ee-ab18-48da-afcd-c0abd7d5e0aa",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Something else I might have said?",
+      "isUncut": false
+    },
+    {
+      "id": "bf3b811b-3483-46b3-8876-6ee402362906",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know, I don’t know, weren’t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!",
+      "isUncut": false
+    },
+    {
+      "id": "ce401abd-0a5d-44a9-80e7-28387d1c6801",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Sweetie, calm down, it’s gonna be okay.",
+      "isUncut": false
+    },
+    {
+      "id": "dd1e3f83-6122-4244-9195-5d587d032588",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, it’s not gonna be okay Ross, tomorrow is my last day, and I don’t have a lead. Okay, y’know what, I’m just gonna, I’m just gonna call Gunther and I’m gonna tell him, I’m not quitting.",
+      "isUncut": false
+    },
+    {
+      "id": "40b6209b-729f-49e8-91af-f4e65f41f184",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You-you-you don’t wanna give into the fear.",
+      "isUncut": false
+    },
+    {
+      "id": "85f4e67d-03de-4a11-90c0-4b7758f3c272",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You and your stupid fear. I hate your fear. I would like to take you and your fear…",
+      "isUncut": false
+    },
+    {
+      "id": "b1603dd1-c78e-4c0a-b303-5ccab888c9d0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey! I got great news!",
+      "parenthetical": "entering, interrupting Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "fa052ba2-3704-4f89-8d83-f8f7cf0b5aca",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Run, Joey! Run for your life! (runs out)",
+      "isUncut": false
+    },
+    {
+      "id": "f9b9865d-7796-4204-800f-c487dc971663",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What? Rachel, listen, have you ever heard of Fortunata Fashions?",
+      "isUncut": false
+    },
+    {
+      "id": "52e2ae5f-723a-4edf-83bf-2b33d6dcb3ab",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "8e9d555b-39d0-42a6-8751-2317ac0b5442",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well my old man is doing a plumbing job down there and he heard they have an opening. So, you want me to see if I can get you an interview?",
+      "isUncut": false
+    },
+    {
+      "id": "a6cbf945-c1f3-4d99-b367-96d5539d1701",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God! Yes, I would love that, oh, that is soo sweet, Joey.",
+      "isUncut": false
+    },
+    {
+      "id": "4a6d1602-0905-45fd-87ce-432f90a9f348",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Not a problem.",
+      "isUncut": false
+    },
+    {
+      "id": "15e0bfd8-9efe-42ac-9fee-5a16e47d1484",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Thanks.",
+      "isUncut": false
+    },
+    {
+      "id": "c4dcecbc-9053-45a9-9d59-e323af733a09",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And now for the great news.",
+      "isUncut": false
+    },
+    {
+      "id": "5c652421-b9cd-43ca-a73b-10f3144062f2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What, that wasn’t the great news?",
+      "isUncut": false
+    },
+    {
+      "id": "7ef50c4f-aa10-4351-bc39-910712bdedb7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Only if you think it’s better than this… (holds up an aerosol can) snow-in-a-can!! I got it at work. Mon, you want me to decorate the window, give it a kind of Christmas lookie.",
+      "isUncut": false
+    },
+    {
+      "id": "65c5140e-3794-4ac4-b2e3-2ca7ce5d5a43",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Christmas cookie?",
+      "isUncut": false
+    },
+    {
+      "id": "f7dd3207-e1a4-4ea1-9802-656ea577e302",
+      "type": "scene",
+      "description": "Joey work, Joey is showing a guy a tree."
+    },
+    {
+      "id": "648fe991-581b-4aa2-9d7b-1d601db89cbf",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Okay, and ah, this one here is a Douglas Fir, now it’s a little more money, but you get a nicer smell.",
+      "isUncut": false
+    },
+    {
+      "id": "2e99d4f7-7377-4d4d-a9c9-099a91315ef6",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "Looks good. I’ll take it.",
+      "isUncut": false
+    },
+    {
+      "id": "dc0db1ac-5055-4aa8-a46e-be2423a1dece",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wait, wait, wait, wait, wait! No, no, you don’t want that one. No, you can have this cool brown one. (points to the almost dead tree she has)",
+      "parenthetical": "running up carrying a tree",
+      "isUncut": false
+    },
+    {
+      "id": "025b43bb-a751-476b-a77e-4ada95e6c868",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "It’s-it’s-it’s almost dead!",
+      "isUncut": false
+    },
+    {
+      "id": "699be95f-2a04-46cb-a283-92b153df9352",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay but that’s why you have to buy it, so it can fulfil it’s Christmas destiny, otherwise there gonna throw it into the chipper. Tell him, Joey",
+      "isUncut": false
+    },
+    {
+      "id": "2bbe8725-2786-4885-a357-b446764c5fdb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, the ah, trees that don’t fulfil their Christmas destiny are thrown in the chipper.",
+      "isUncut": false
+    },
+    {
+      "id": "aee60c82-05da-4e77-953d-6bb2f2721487",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "I-I think I’m gonna look around a little bit more.",
+      "isUncut": false
+    },
+    {
+      "id": "d2e596f9-5671-448c-937d-939861f972a7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Pheebs, you gotta stop this, I working on commission here.",
+      "isUncut": false
+    },
+    {
+      "id": "2bde71d6-2328-4006-8e58-773b2746b94a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, guys. I’m here to pick out my Christmas tree.",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "178c1bfe-3616-4fd9-879c-eec09bd75398",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well look no further, (shows her the dead one) this one’s yours! Ahhh.",
+      "isUncut": false
+    },
+    {
+      "id": "7038215a-756b-4dba-b02f-a43dfadc6395",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Is this the one that I threw out last year?",
+      "isUncut": false
+    },
+    {
+      "id": "595f82a7-ecdb-4021-833b-e84843c5ac34",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "All right y’know what, nevermind! Everyone wants to have a green one! I’m sorry, I’m sorry, I didn’t mean to get so emotional, I guess it’s just the holidays, it’s hard.",
+      "isUncut": false
+    },
+    {
+      "id": "44f5e864-bddc-4fe7-aaf1-e6330c166eea",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh honey, is that ‘cause your Mom died around Christmas?",
+      "isUncut": false
+    },
+    {
+      "id": "2df39ed3-473c-4e36-a204-8e72d51d741e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, I wasn’t even thinking about that.",
+      "isUncut": false
+    },
+    {
+      "id": "ba9950fe-4c6b-4a64-9558-144c04ed4071",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh. (turns and looks at Joey, who gives a ‘way-to-go’ thumbs up and smile.)",
+      "isUncut": false
+    },
+    {
+      "id": "f2ad7eda-bd04-4a3a-8b65-e8a033cb0828",
+      "type": "scene",
+      "description": "A Brown Bird meeting, Ross is there with the other Brown Birds to see who won the contest."
+    },
+    {
+      "id": "1a08b51c-4060-414d-932d-aee5f502541e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi there. How many, how many ah, did you sell?",
+      "parenthetical": "to the girl sitting next to him",
+      "isUncut": false
+    },
+    {
+      "id": "392e0629-9ace-4466-8e75-a2568c75a185",
+      "type": "dialogue",
+      "speaker": "Girl",
+      "text": "I’m not gonna tell you! You’re the bad man who broke Sarah’s leg.",
+      "isUncut": false
+    },
+    {
+      "id": "415db3f1-5a49-4ebf-8536-5c906e4a4a66",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey now! That was an accident, okay.",
+      "isUncut": false
+    },
+    {
+      "id": "9b5c7bdb-dc06-48ab-b78d-bd26dc94a6df",
+      "type": "dialogue",
+      "speaker": "Girl",
+      "text": "You’re a big scrud.",
+      "isUncut": false
+    },
+    {
+      "id": "15ce0405-9391-4eba-95e0-d127d78e8ac6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What’s a scrud?",
+      "isUncut": false
+    },
+    {
+      "id": "d9af548c-6029-4bcb-97c0-824ef223de81",
+      "type": "dialogue",
+      "speaker": "Girl",
+      "text": "Why don’t you look in the mirror, scrud.",
+      "isUncut": false
+    },
+    {
+      "id": "ecc5c510-a697-4ef4-af89-18dc7ee4e691",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t have too. I can just look at you.",
+      "isUncut": false
+    },
+    {
+      "id": "7a07f6d1-74d0-49a0-ba65-e13e9d81fc49",
+      "type": "dialogue",
+      "speaker": "Leader",
+      "text": "All right girls, and man. Let’s see your final tallies. (all the girls raise their hands) Ohhhh, Debbie, (looks at her form) 321 boxes of cookies, (to Debbie) Very nice.",
+      "isUncut": false
+    },
+    {
+      "id": "945a944a-93e4-4c0d-841b-b77ac50ee827",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Not nice enough.",
+      "parenthetical": "to himself",
+      "isUncut": false
+    },
+    {
+      "id": "a7738792-7b5a-4e68-819d-85e69de37932",
+      "type": "dialogue",
+      "speaker": "Leader",
+      "text": "Charla, 278. Sorry, dear, but still good.",
+      "isUncut": false
+    },
+    {
+      "id": "b2541802-4e60-4f83-b7bb-b7c730676fcc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Good for a scrud.",
+      "parenthetical": "to himself",
+      "isUncut": false
+    },
+    {
+      "id": "e9dd7f21-370b-409f-97da-a8a22f938a9f",
+      "type": "dialogue",
+      "speaker": "Leader",
+      "text": "Oh, yes Elizabeth. Ah, 871.",
+      "isUncut": false
+    },
+    {
+      "id": "9a2e1092-0ec8-45e9-a478-55d1edde75b6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s crap!! Sister Brown Bird. (to Elizabeth) Good going. (does the salute)",
+      "isUncut": false
+    },
+    {
+      "id": "20baf936-062b-4cb1-a5b2-93bfa7e00b1f",
+      "type": "dialogue",
+      "speaker": "Leader",
+      "text": "Who’s next? (goes over and stands behind Ross, who’s feverishly writing on his form, and clears her throat to get his attention.)",
+      "isUncut": false
+    },
+    {
+      "id": "78a7528b-6137-4e8b-ba84-6c1e206ee158",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi there!",
+      "isUncut": false
+    },
+    {
+      "id": "d547f1e8-33ed-4772-8ba2-f067e1db4be6",
+      "type": "dialogue",
+      "speaker": "Leader",
+      "text": "Hi. And batting for Sarah, Ross Geller, 872. Although, it looks like you bought an awful lot of cookies yourself.",
+      "isUncut": false
+    },
+    {
+      "id": "d40c3a10-dd0f-4537-bbf4-93dc38101e44",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Um, that is because my doctor says that I have a very serious… nuget… diffency.",
+      "isUncut": false
+    },
+    {
+      "id": "cc3a7213-414e-402e-b0d9-77462a26a592",
+      "type": "scene",
+      "description": "Central Perk, Chandler, Phoebe, and Ross are there."
+    },
+    {
+      "id": "df160839-85a9-4ede-9671-8fce4f35452c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Tell us what happened, Brown Bird Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "8cdcee8c-e54b-4a8e-85b2-dead359251f9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, I lost. Some little girl loaned her uniform to her nineteen year old sister, who went down to the U.S.S. Nimitz, and sold over 2,000 boxes.",
+      "isUncut": false
+    },
+    {
+      "id": "fea2c3ce-7174-4125-abf3-c233da540a1b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey! How’d the interview go?",
+      "parenthetical": "to Rachel, who’s entering",
+      "isUncut": false
+    },
+    {
+      "id": "684e02d2-4acd-4a85-a552-ada75b19d18c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, I blew it. I wouldn’t of even hired me.",
+      "isUncut": false
+    },
+    {
+      "id": "c6522895-e3f1-40e9-84a6-7cb9952bd2cc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, come here sweetie, listen, you’re gonna go on like a thousand interviews before you get a job. (she glares at him) That’s not how that was supposed to come out.",
+      "isUncut": false
+    },
+    {
+      "id": "05c47ffe-78b6-4398-ab5d-08be1dfff50b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "This is the worst Christmas ever.",
+      "isUncut": false
+    },
+    {
+      "id": "2e2c4efb-01bb-4bb9-b49a-96439c95abf4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Y’know what Rach, maybe you should just, y’know stay here at the coffee house.",
+      "isUncut": false
+    },
+    {
+      "id": "b09cd844-7914-46a5-ad2c-2cfa8fb11cc5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I can’t! It’s too late! Terry already hired that girl over there. (points to her) Look at her, she’s even got waitress experience. Last night she was teaching everybody how to make napkin… (starts to cry) swans.",
+      "isUncut": false
+    },
+    {
+      "id": "3216c3a2-7f98-4940-a830-8b0374f373fb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That word was swans.",
+      "isUncut": false
+    },
+    {
+      "id": "35338189-e3db-425a-9db8-31baa28a12c8",
+      "type": "scene",
+      "description": "The hallway between the two apartments, Chandler, Phoebe, Ross, and Rachel are coming up the stairs."
+    },
+    {
+      "id": "0e49316e-89af-4665-b6e9-698fb8f54d65",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well seeing that drunk Santa wet himself, really perked up my Christmas.",
+      "isUncut": false
+    },
+    {
+      "id": "c71ab918-d267-4943-bb04-be30640a6f5d",
+      "type": "action",
+      "text": "(They start to go into Monica and Rachel’s, their apartment is filled with all of the old Christmas trees from Joey’s work.)",
+      "isUncut": false
+    },
+    {
+      "id": "e75f392e-b507-4e38-9d2e-d137a45bc4db",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh! Oh my God!",
+      "isUncut": false
+    },
+    {
+      "id": "0f878873-d8b5-4388-a751-a9ea8c160f25",
+      "type": "dialogue",
+      "speaker": "Joey and Monica",
+      "text": "Merry Christmas!!",
+      "parenthetical": "jumping up from behind the couch",
+      "isUncut": false
+    },
+    {
+      "id": "3c3e2ab4-323d-4b42-aa95-e0df6fd56066",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You saved them! You guys! Oh God, you’re the best!",
+      "isUncut": false
+    },
+    {
+      "id": "915a2706-2ea5-48ec-9515-1c01aa6c0f62",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "It’s like ‘Night of the Living Dead Christmas Trees.’",
+      "isUncut": false
+    },
+    {
+      "id": "60c9eef1-d274-4096-a7ec-772b3b67c0ba",
+      "type": "action",
+      "text": "(phone rings)",
+      "isUncut": false
+    },
+    {
+      "id": "1076c4e3-0ebe-4242-b570-6e89e75a1b84",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hello? (listens) Yeah, this is she. (listens) Oh! You’re kidding! You’re kidding! (listens) Oh thank you! I love you!",
+      "parenthetical": "answering the phone",
+      "isUncut": false
+    },
+    {
+      "id": "1926ca8d-02f1-49e1-b7bd-5299ab2453dd",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Sure, everybody loves a kidder.",
+      "isUncut": false
+    },
+    {
+      "id": "fd34be70-9f8c-431c-9271-3fbcc6dcd3c0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I got the job!",
+      "parenthetical": "hanging up the phone",
+      "isUncut": false
+    },
+    {
+      "id": "3fef9a28-1bbd-4f67-a731-b9aa7326b6eb",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "That’s great! Hey! Excellent!",
+      "isUncut": false
+    },
+    {
+      "id": "5285d113-9567-43bf-a7c7-4a3aac9595e7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, God bless us, everyone.",
+      "isUncut": false
+    },
+    {
+      "id": "e0c6e6fe-33c8-40ad-a04a-ff7ce754ab8a",
+      "type": "scene",
+      "description": "Central Perk, Rachel is serving her last cup of coffee."
+    },
+    {
+      "id": "ec4fc6ed-9720-4518-ae5f-d13627664cc6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Here we go. I’m serving my last cup of coffee. (the gang starts humming the graduation theme) There you go. (hands it to Chandler) Enjoy. (they all cheer)",
+      "isUncut": false
+    },
+    {
+      "id": "e63320a8-0da7-427b-a345-e7b20bbc434f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Should I tell her I ordered tea?",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "02dd2d04-8aff-4239-b212-f4a5439a482c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No.",
+      "isUncut": false
+    },
+    {
+      "id": "e21ecc2d-f2d5-4292-96e7-f53d36d8023c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Um, excuse me, everyone. Ah, this is my last night working here, and I ah, just wanted say that I made some really good friends working here, and ah, it’s just time to move on. (at the counter Gunther starts to cry and runs into the back room) Ah, and no offence to everybody who ah, still works here, you have no idea how good it feels to say that as of this moment I will never have to make coffee again.",
+      "isUncut": false
+    },
+    {
+      "id": "212f3133-d969-4c46-be46-c17bb00cbbf1",
+      "type": "scene",
+      "description": "Rachel’s new job, Rachel’s boss is telling her what to do."
+    },
+    {
+      "id": "bcd1f45c-eec6-4f76-89e4-b25fba55ed6c",
+      "type": "dialogue",
+      "speaker": "Rachel’s Boss",
+      "text": "Now Mr. Kaplan Sr. likes his coffee strong, so your gonna use two bags instead of one, see. Now pay attention, ‘cause this part’s tricky, see some people use filters just once.",
+      "isUncut": false
+    },
+    {
+      "id": "f6728976-c49a-4f72-b29f-98e52c06c370",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "f1c35223-b7bb-453b-aa88-794ca14b8906",
+      "type": "scene",
+      "description": "The hallway between the apartments, Ross is bringing Sarah to Joey and Chandler’s."
+    },
+    {
+      "id": "2eb371f1-be98-4924-bcae-7ce3e70fcc09",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m, I’m sorry you didn’t get to go to Spacecamp, and I’m hoping that maybe somehow, this may make up for it. Presenting Sarah Tuttle’s Private Very Special Spacecamp!! (opens the door and Chandler and Joey jump up, their apartment is decorated like outer space, one of the leather chairs is covered in tinfoil.)",
+      "isUncut": false
+    },
+    {
+      "id": "d5f231bb-f856-41ce-a1dd-de72b094c472",
+      "type": "dialogue",
+      "speaker": "Sarah",
+      "text": "Really Mr. Geller, you don’t have to do this.",
+      "isUncut": false
+    },
+    {
+      "id": "b70a227b-70cd-46dd-ac3b-0243d69825e1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh come on! Here we go! (picks her up and puts her in the chair) Stand by for mission countdown!",
+      "isUncut": false
+    },
+    {
+      "id": "721d00b7-cfe7-4d69-8a5e-bb2cbc4c85c1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ten , ten.., nine , nine, nine…, eight , eight, eight… (Chandler hits him in the back of the head) Okay, Blast off!",
+      "parenthetical": "simulating an echo",
+      "isUncut": false
+    },
+    {
+      "id": "de17baae-f897-474d-9cb1-93929a5e9edf",
+      "type": "action",
+      "text": "(They start shaking the chair likes it’s flying into outer space. Ross picks up a soccer ball and starts spinning it in his hand and runs around the chair beeping like a satellite. Chandler also starts running around the chair and saying…)",
+      "isUncut": false
+    },
+    {
+      "id": "96733757-93b1-4cbe-91d0-6aa0d6f7bf73",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I’m an alien. I’m an alien.",
+      "isUncut": false
+    },
+    {
+      "id": "29454d39-ac70-433e-b7bd-49b43d2b7cb1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh no! An asteroid! (throws the soccer ball off the back of Joey’s head.)",
+      "isUncut": false
+    },
+    {
+      "id": "20d412c5-b26c-4972-8102-940899c4bbf5",
+      "type": "action",
+      "text": "(The camera zooms in on Sarah and she has a big smile on her face.)",
+      "isUncut": false
+    },
+    {
+      "id": "41fe2a1b-ab60-4f7d-b624-c024f3ce8723",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

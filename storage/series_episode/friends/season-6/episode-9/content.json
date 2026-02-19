@@ -1,0 +1,2238 @@
+{
+  "season": 6,
+  "episode_number": 9,
+  "episode_title": "609 - The One Where Ross Got High",
+  "credits": {
+    "writtenBy": "Greg Malins",
+    "transcribedBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "c471e7ba-330c-4d71-8f22-f03361699f58",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Monica is mixing some Thanksgiving treat (I’m assuming mashed potatoes) in a bowl."
+    },
+    {
+      "id": "bc33ac16-2103-469a-a937-564a73f980d3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay, great! Bye. (Hangs up as Chandler enters.) So guess who’s coming to Thanksgiving dinner?",
+      "parenthetical": "on phone",
+      "isUncut": false
+    },
+    {
+      "id": "5eaba2dc-42a8-40b1-9adb-6dfe8ed69f05",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Sydney Portier? Hehheh.",
+      "isUncut": false
+    },
+    {
+      "id": "0add7879-eb48-4145-8ad3-33acdfbcc17d",
+      "type": "transition",
+      "text": "[Chandler throws his coat on the couch]"
+    },
+    {
+      "id": "fe5b8dbb-2ae2-4268-9192-19d8072b4349",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I miss Rachel. (To Chandler) No, my parents.",
+      "parenthetical": "not amused by Chandler’s joke",
+      "isUncut": false
+    },
+    {
+      "id": "80c4f364-52c1-407b-afcf-1e9c89544e69",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh! That’s great, they haven’t seen the place since I moved in!",
+      "isUncut": false
+    },
+    {
+      "id": "539e7217-90ee-46f1-b83d-07a4e00a89a4",
+      "type": "transition",
+      "text": "[Monica goes to fiddle with something on the table.]"
+    },
+    {
+      "id": "a8950cf5-cb57-443d-ad58-6cf06503c84c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah, and y’know, if you could not mention to them that we live together, that would be great! (Quickly trying to change subjects), I was thinking we would eat around four.",
+      "isUncut": false
+    },
+    {
+      "id": "9a96903d-bbe0-4663-b3fd-e9f4ffa2f26d",
+      "type": "transition",
+      "text": "[Monica goes to the stove.]"
+    },
+    {
+      "id": "ed189559-fb39-4055-a88a-2a45f4d49c52",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why can’t I tell them that we live together?",
+      "parenthetical": "shocked at the news",
+      "isUncut": false
+    },
+    {
+      "id": "719a3542-01b8-4974-b3eb-ebbd0bd4c77f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Because they don’t know we’re dating. (Again, trying to quickly change subjects.) Do you think we should eat in the kitchen? (Goes to the sink and the stove to cook.)",
+      "isUncut": false
+    },
+    {
+      "id": "f1ca1122-f9db-459d-92cf-93551f229e0d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why haven’t you told them?!",
+      "isUncut": false
+    },
+    {
+      "id": "7c5bae5d-eea4-48ab-8ffc-d0b28b3fd760",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Um, well, I was going to, I-I-I really was. But um, then somewhere, just out of nowhere, I didn’t.",
+      "isUncut": false
+    },
+    {
+      "id": "8589e423-6135-4032-9dce-e286c4a0f5a3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why haven’t you told them?! Wouldn’t they be happy?!",
+      "isUncut": false
+    },
+    {
+      "id": "07c02ddb-62a4-44e7-82d7-c0d2c4c3e513",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So! Dinner in the kitchen around four! I’ll see you then. (Pats Chandler on the shoulder and goes into the living room.)",
+      "parenthetical": "trying to change subjects, excitedly",
+      "isUncut": false
+    },
+    {
+      "id": "34c2f3f6-0c72-4487-b180-9cd928f4ef11",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why wouldn’t they be happy?",
+      "isUncut": false
+    },
+    {
+      "id": "e176c30a-f616-4614-82a7-3349b5bd48fb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, um, because mainly, um, they don’t like you. I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "5533e540-545f-48aa-8182-91fb292bcc6b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What? What? Why?!",
+      "isUncut": false
+    },
+    {
+      "id": "d26e84e5-b994-44eb-9e87-13a5914d79d8",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Maybe because you used to be aloof, or that you’re really sarcastic, or that, y’know, you joke around all the time. Or that you take off your clothes and throw them on the couch.",
+      "isUncut": false
+    },
+    {
+      "id": "f990c080-7457-4c9e-989f-014f4327a926",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Is this why they don’t like me or why you don’t like me?",
+      "isUncut": false
+    },
+    {
+      "id": "c526cffc-3cce-4ea4-873b-0ef65c16ff1d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Look, I know that I should’ve told them. I know I shouldn’t care what they think. I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "d7e92e5a-1d87-4a3f-abab-153c68e70f7f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Y’know, it’ll be okay. It’ll be okay. Because when they come over, I will be all charming, I will make them fall in love with me, and then we’ll tell ‘em.",
+      "isUncut": false
+    },
+    {
+      "id": "9fa85259-0210-48f7-98ad-b0d40c0da981",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You really think that’ll work?",
+      "isUncut": false
+    },
+    {
+      "id": "27cc988a-3c79-42bf-8b15-cf922b66d012",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey, I can be pretty charming, babe, I won YOU over, didn’t I?",
+      "isUncut": false
+    },
+    {
+      "id": "61269359-d265-470f-b4ee-f25d53865f34",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I don’t think you’ll ever get my parents that drunk!",
+      "parenthetical": "hugging Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "55d0d796-0b98-4cda-85e9-3f897ea74d7f",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "8d60af5f-dcae-4321-a6d1-a8174d7e30bd",
+      "type": "scene",
+      "description": "[Scene: Joey and Janine’s, Joey and Ross are playing Sony Playstation. Chandler enters.]"
+    },
+    {
+      "id": "63b7dd9a-f511-4c51-b5e7-0c0e642240fc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey! (Sees Ross is there) Oh, good, Ross! You’re parents like me, right?",
+      "isUncut": false
+    },
+    {
+      "id": "904eb833-aba4-4177-a351-c4863cf75686",
+      "type": "transition",
+      "text": "[Chandler goes to stand to the side of the TV.]"
+    },
+    {
+      "id": "fb1326c7-12c0-4d90-b69f-20eada3ac4ff",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, of course they like you!",
+      "parenthetical": "only half-paying attention",
+      "isUncut": false
+    },
+    {
+      "id": "f8648a2c-930f-4048-87e4-a266ce3dff8c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well Monica just told me that they don’t.",
+      "isUncut": false
+    },
+    {
+      "id": "d7ef7dcf-e5d5-4f34-8f09-d9171b73af50",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, they don’t like you.",
+      "parenthetical": "not paying attention",
+      "isUncut": false
+    },
+    {
+      "id": "ae27601e-622e-452b-867a-13b5a12fc510",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Do you know why?",
+      "parenthetical": "annoyed",
+      "isUncut": false
+    },
+    {
+      "id": "a13d5f9f-3d19-4753-9268-0b65cef092d5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I dunno, maybe it’s because you’re really sarcastic. Or maybe it’s cause you uh-",
+      "isUncut": false
+    },
+    {
+      "id": "94332276-0db3-4d6f-a340-f481368cac4b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well if people don’t know they shouldn’t just guess!",
+      "parenthetical": "angry",
+      "isUncut": false
+    },
+    {
+      "id": "ff6ecd2c-56cd-487e-ae6e-575a818282f2",
+      "type": "transition",
+      "text": "[Joey and Ross get annoyed with Chandler’s outburst.]"
+    },
+    {
+      "id": "9fc6a563-7ec4-404b-b305-4e2c2143f804",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "This is great, another Thanksgiving with nothing to give thanks for.",
+      "isUncut": false
+    },
+    {
+      "id": "b8de5c51-8ec0-41d0-867d-f28aa6510d42",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Maybe I could give thanks for you shuttin’ up, eh?",
+      "isUncut": false
+    },
+    {
+      "id": "bcd5f4a5-6824-4235-b116-237448808fdf",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Maybe I could give thanks by taking my Playstation over to my new apartment.",
+      "isUncut": false
+    },
+    {
+      "id": "1942b171-6ef8-4edb-be1b-d337f484e254",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well maybe I love ya’.",
+      "isUncut": false
+    },
+    {
+      "id": "eadc5652-a05a-46c7-beac-b42ccc10df1b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "[mocks that last comment].",
+      "isUncut": false
+    },
+    {
+      "id": "6ee4e0a6-e278-4b3c-bbb6-1158e002f2cb",
+      "type": "transition",
+      "text": "[Chandler starts to leave as Janine enters]"
+    },
+    {
+      "id": "6a492dcd-09b6-41d9-8e68-824ddbfd0ab5",
+      "type": "action",
+      "text": "Janine [to Chandler]: Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "7d41ebca-ae0d-40d0-80b4-4aa84297569c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "8e0ff4e6-0413-4855-ad1e-3c2fa42fff6b",
+      "type": "transition",
+      "text": "[Chandler exits]"
+    },
+    {
+      "id": "cad575a5-d7a1-40c0-8044-3156ea6190d8",
+      "type": "dialogue",
+      "speaker": "Janine",
+      "text": "Hey guys!",
+      "isUncut": false
+    },
+    {
+      "id": "c0adf50c-5ab9-49e1-b8fa-4823adb5c5c5",
+      "type": "transition",
+      "text": "[Joey and Ross drop their video game controllers.]"
+    },
+    {
+      "id": "bffd8047-c1a9-45c1-b1ab-797f2f321fc3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No I don’t want to play video games, Joey!",
+      "parenthetical": "trying to act manly in front of Janine",
+      "isUncut": false
+    },
+    {
+      "id": "1aa856f9-28cc-440a-8552-e7b6d6826e43",
+      "type": "dialogue",
+      "speaker": "Janine",
+      "text": "Are you guys going to Chandler’s for Thanksgiving?",
+      "isUncut": false
+    },
+    {
+      "id": "ca00ff67-634d-4d5b-9419-5e8bf3281e9e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah! Yeah, why? What’s up?",
+      "isUncut": false
+    },
+    {
+      "id": "9cf03c0d-c082-4548-89db-d2d22da24f26",
+      "type": "dialogue",
+      "speaker": "Janine",
+      "text": "Well, me and my dancer friends are thinking of doing Thanksgiving uptown. I thought you guys might like to come.",
+      "isUncut": false
+    },
+    {
+      "id": "ee113f50-c2cf-4ce1-b630-a91e7b8397e0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "For real?",
+      "isUncut": false
+    },
+    {
+      "id": "8700be4f-4bb8-4b5c-96fd-f5fccdef7fc3",
+      "type": "dialogue",
+      "speaker": "Janine",
+      "text": "No, but you should go to Chandler’s. Because none of us knows how to cook, we’ll probably just end up drinking all day.",
+      "isUncut": false
+    },
+    {
+      "id": "50fa2d24-11de-4ffa-bd2c-e47883aa09dc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ye-ye, we go to yours!",
+      "isUncut": false
+    },
+    {
+      "id": "e6473f09-044d-453f-9a5d-426d27bc0cee",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, see, we-we-we have to stop across the hall, because it’s my sister. But, uh, uh y’know actually, growing up with a sister was nice because it really helped me understand women. Yeah, you-you should tell your friends that.",
+      "isUncut": false
+    },
+    {
+      "id": "3fd6bd9c-f661-447c-aba9-27d337bf850b",
+      "type": "dialogue",
+      "speaker": "Janine",
+      "text": "Okay.",
+      "parenthetical": "not sure of what to make of that",
+      "isUncut": false
+    },
+    {
+      "id": "3ac291b4-a64a-4693-9a36-00462a372eaf",
+      "type": "transition",
+      "text": "[Janine leaves]"
+    },
+    {
+      "id": "982f3156-72ab-4d13-8e53-498cdc889ae8",
+      "type": "transition",
+      "text": "[Ross looks at Joey coyly.]"
+    },
+    {
+      "id": "cfeb8b9b-3429-4874-92a2-62ae178ffba8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "How you got three women to marry you, I’ll never know.",
+      "isUncut": false
+    },
+    {
+      "id": "4172a9e5-19d9-4d39-a5df-a04412db7250",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Phoebe enters with a paper turkey."
+    },
+    {
+      "id": "dc25a330-d0cc-44d5-9ec5-e2780bde47de",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "45f4e535-c796-4b68-8f63-336e483ccae8",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "7c11b242-cdec-42ae-9d98-80559254b014",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey! Hey, Pheebs, check it out. Yeah, for my desert, I have chosen to make a traditional English truffle!",
+      "isUncut": false
+    },
+    {
+      "id": "4f4a60bf-19ea-4b07-b7b5-6ae306e6e0cc",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wow, that sounds great! And what are you making Monica, in case Rachel’s dessert is…[about to say “bad”] so good that I eat all of it. There’s none left for anybody else!",
+      "isUncut": false
+    },
+    {
+      "id": "2d05aae1-b336-4384-b294-47c458a8ac89",
+      "type": "transition",
+      "text": "[Monica, Phoebe, and Rachel laugh]"
+    },
+    {
+      "id": "597351cc-dcc7-4022-ab74-976472b24dab",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Nothing.",
+      "isUncut": false
+    },
+    {
+      "id": "32213cc3-244d-40da-adcf-625ce2897354",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Nothing?",
+      "parenthetical": "worried",
+      "isUncut": false
+    },
+    {
+      "id": "b0847db0-8fee-442e-bbf2-416a84bb7484",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No, sweetie, I-I trust you.",
+      "isUncut": false
+    },
+    {
+      "id": "228c1e23-c12f-4e4c-bc9f-8f08a71b8b93",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So, if-if I mess this up, there’s nothing else for dessert?",
+      "isUncut": false
+    },
+    {
+      "id": "b62ee735-513d-4a0c-b092-5d4eb79a835d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re not gonna mess it up.",
+      "isUncut": false
+    },
+    {
+      "id": "52c02dbf-8d92-4114-87ac-76c579300303",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Wow, Monica, I love that, you really have faith in me. Thank you. Technical question, how do you know when uh, the butter’s done?",
+      "isUncut": false
+    },
+    {
+      "id": "315ae1ca-bc3e-4b11-ae4c-75ae38ce8f93",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, it’s done about two minutes before it looks like that.",
+      "isUncut": false
+    },
+    {
+      "id": "4be185a5-3192-4240-bec1-dad97b3f7dea",
+      "type": "transition",
+      "text": "[Joey and Ross enter.]"
+    },
+    {
+      "id": "517c4104-bd64-4896-9258-47d8836f3707",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "e3db13f9-2f6f-4724-8801-fd6fd2022b36",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "6ba2a66e-d7a4-4be0-96c2-d1f4a5f4e0e0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh, ooh the food smells great, Mon!",
+      "isUncut": false
+    },
+    {
+      "id": "98fad35f-a759-4056-8ed2-dff4a3339d5f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "And the place looks so nice!",
+      "isUncut": false
+    },
+    {
+      "id": "573e16b1-6074-4bee-bee9-e39817cd96f8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, hey hey, Happy Thanksgiving everybody!",
+      "isUncut": false
+    },
+    {
+      "id": "abffc662-a4c4-4c35-90d0-a3e8be545e57",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Happy Thanksgiving!",
+      "isUncut": false
+    },
+    {
+      "id": "0f2e836a-f1f5-46d4-9b37-ad5c381a506c",
+      "type": "dialogue",
+      "speaker": "The Girls",
+      "text": "Happy Thanksgiving!",
+      "isUncut": false
+    },
+    {
+      "id": "f6c9903d-55c7-483e-b81f-fdf1ef9351fc",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well, this has been great!",
+      "isUncut": false
+    },
+    {
+      "id": "95432b7a-b06a-49a4-9200-a47d261fb618",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "See ya!",
+      "isUncut": false
+    },
+    {
+      "id": "8a85282d-edc5-4757-8195-6634b94281f0",
+      "type": "transition",
+      "text": "[Joey and Ross go to the door, ready to leave.]"
+    },
+    {
+      "id": "6ed70423-715e-45eb-b156-111b80308a1b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Whoa whoa whoa! Where’re you goin’?",
+      "isUncut": false
+    },
+    {
+      "id": "f181766f-ecdd-4063-906c-d85895c61cc9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, oh, we did say we’d stop by this little thing Joey’s roommate is having.",
+      "isUncut": false
+    },
+    {
+      "id": "bcfc7ad0-4e67-4561-a12e-8e25a5641951",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, Janine, the really hot dancer girl?",
+      "isUncut": false
+    },
+    {
+      "id": "1695b93b-f347-4b65-b2fd-8bdf26c05484",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Some would say she’s attractive, yes.",
+      "isUncut": false
+    },
+    {
+      "id": "e6cf31b1-b3d2-4f16-b15e-fa439d6ec0ae",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "And who else is going to be there?",
+      "isUncut": false
+    },
+    {
+      "id": "c180e82e-4c2b-4a3d-b075-16900d0d0022",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Uh, some of her friends, yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "6380212d-7f06-4f7e-bd0d-a1c23b1b2855",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Her dancer friends?",
+      "isUncut": false
+    },
+    {
+      "id": "089e4b53-71a6-452d-805b-3061e61ce419",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yes, all right? All of her hot dancer friends are gonna be there and they’re gonna be, be drinkin’ and dancin, and we really wanna go!",
+      "parenthetical": "frustrated",
+      "isUncut": false
+    },
+    {
+      "id": "fee94048-cf45-4d30-8b15-6f7b5208a57c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dude, we were good!",
+      "parenthetical": "to Joey",
+      "isUncut": false
+    },
+    {
+      "id": "7b2c4cef-7115-4c02-928f-163ae49cd165",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re not gonna go anywhere, you said you were gonna eat here, and you’re gonna eat here!",
+      "isUncut": false
+    },
+    {
+      "id": "50ad9829-6a26-4806-a06f-7133a55e216c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, and-and leaving us to go see hot dancer girls is not very Thanksgivingy.",
+      "isUncut": false
+    },
+    {
+      "id": "556451d5-85f5-4e59-988a-ce5693cb3ce9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, but-but it is, uh, it’s just like the first Thanksgiving, when the Indians and the Pilgrims uh, sat down to dinner.",
+      "isUncut": false
+    },
+    {
+      "id": "332662eb-81bb-4de1-9829-7e651c0d593a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, yeah, and the Indians taught the Pilgrims what it meant to be hot in the new world!",
+      "isUncut": false
+    },
+    {
+      "id": "ce61320e-40b2-4f54-bede-929bd18d8229",
+      "type": "transition",
+      "text": "[Enter Jack and Judy Geller]"
+    },
+    {
+      "id": "2af78785-61dc-4b99-b226-b28594bde024",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Hello everybody!",
+      "isUncut": false
+    },
+    {
+      "id": "5b144c64-7733-4745-ac26-2c47c335fc72",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "72d1330a-c024-42ae-97d5-22e5ef567b9e",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "71465b07-37ba-481b-9c07-a26aa9c90374",
+      "type": "transition",
+      "text": "[Kisses and hugs are exchanged.]"
+    },
+    {
+      "id": "9d5490b5-fe37-4ac3-a544-3405ff38f8ed",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Dad [kisses Jack], Mom [kisses Judy]. Look! Look who it is it’s Chandler!",
+      "isUncut": false
+    },
+    {
+      "id": "b75c3762-e0de-4855-a550-ce383292bdaa",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Oh yes of course, hello Chandler.",
+      "parenthetical": "less than pleased",
+      "isUncut": false
+    },
+    {
+      "id": "19cd4713-73cd-43ab-afad-ba225018ccf8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Mr. and Mrs. Geller, you look wonderful, it is great to have you hear, let us take off your coats!",
+      "isUncut": false
+    },
+    {
+      "id": "919040be-a454-479e-9809-2f0ce2fe67a2",
+      "type": "transition",
+      "text": "[Chandler goes to take off Jack’s coat. He then notices little white flakes on Jack’s shoulders. He begins to wipe them off.]"
+    },
+    {
+      "id": "79367544-2b3d-4dba-9ce7-8ae1153df562",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Whoa, snowing out there?",
+      "isUncut": false
+    },
+    {
+      "id": "240dfd33-3a87-46fb-8731-e3ba19699a38",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "No.",
+      "parenthetical": "angry",
+      "isUncut": false
+    },
+    {
+      "id": "18c85f1f-1bb8-4175-98b8-052b4bf17bfe",
+      "type": "transition",
+      "text": "[Time lapse. The gang is sitting down for Thanksgiving dinner. Chandler is at the head of the table, Mr and Mrs Geller are to his right. Joey and Ross are to his left. Monica is serving things. Phoebe is in the living room and Rachel is at the sink.]"
+    },
+    {
+      "id": "1aff143d-70d4-44d5-83ad-fd7b3d5508c1",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Monica, all this food looks wonderful, you should think about doing this for a living.",
+      "isUncut": false
+    },
+    {
+      "id": "084c338a-df0c-401f-8b94-d0b77173b875",
+      "type": "transition",
+      "text": "[Chandler, trying to make nice with Jack, laughs at his joke and points at Jack.]"
+    },
+    {
+      "id": "f7febd90-1fb1-4537-a7e7-1a58f9847a2f",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Ok, I have dandruff. There’s no need to laugh and point.",
+      "isUncut": false
+    },
+    {
+      "id": "7303e52a-a849-4da9-9e81-31e0e80dab3a",
+      "type": "transition",
+      "text": "[Monica rushes over to Chandler’s side.]"
+    },
+    {
+      "id": "d0b7f37c-56fa-497b-9bf1-1dbf8793565f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Dad, Chandler was just laughing at your joke.",
+      "isUncut": false
+    },
+    {
+      "id": "77ca3fc8-6bb1-407a-adff-230321e20964",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "My joke wasn’t funny.",
+      "isUncut": false
+    },
+    {
+      "id": "414fa953-16be-4952-a59f-a66a8d555c32",
+      "type": "transition",
+      "text": "[Phoebe walks from the living room to the kitchen and talks quietly to Rachel.]"
+    },
+    {
+      "id": "6ed1e4d7-6581-4eea-9cc7-6234c4547579",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rach, Rach, I just remembered. I had a dream about Mr. Geller last night.",
+      "isUncut": false
+    },
+    {
+      "id": "1f92106b-eeb0-4212-8540-178e2ba1afb2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really?!",
+      "isUncut": false
+    },
+    {
+      "id": "df908314-3113-4285-8f6d-b9806c9ec60a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, I dreamt that he saved me from a burning building and he was so brave and so strong! And it’s making me look at him totally differently. Y’know, I mean he used to be just, y’know “Jack Geller Monica and Ross’s dad” and now he’s he’s “Jack Geller, dream hunk.”",
+      "isUncut": false
+    },
+    {
+      "id": "4713f7ec-38d7-41e0-9ef3-60f6b8eadc1a",
+      "type": "transition",
+      "text": "[We see a shot of Jack stuffing his face with food. Some dream hunk!]"
+    },
+    {
+      "id": "2468fc52-484a-4de3-a613-328daf16d32c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I dunno. Y’know to me he’ll always be “Jack Geller, walks in while you’re changing.”",
+      "isUncut": false
+    },
+    {
+      "id": "d2b5179a-f986-41ba-9692-ea3aca6cdc42",
+      "type": "transition",
+      "text": "[Time lapse. Ross and Joey are cleaning the table while Judy and Phoebe talk by the window. Jack and Chandler are sitting on the couch while Monica sits on the coffee table.]"
+    },
+    {
+      "id": "5eb6f034-dd88-4e33-be65-bf2c33f1ec85",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Y’know dad, Chandler is one of Ross’s very best friends!",
+      "isUncut": false
+    },
+    {
+      "id": "1161218e-3be6-43f9-92e9-6217780b499f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, Ross sure is a great guy, y’know I’ve always felt that how a young man turns out is a reflection on his father.",
+      "isUncut": false
+    },
+    {
+      "id": "61be9771-9cb3-4263-bd97-b2f3c6afdf36",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I always thought that too. Tell me, what does your father do?",
+      "isUncut": false
+    },
+    {
+      "id": "3fec115f-7aaf-4965-a361-18ae5dcc3191",
+      "type": "transition",
+      "text": "[Chandler and Monica exchange worried looks.]"
+    },
+    {
+      "id": "0eb95c30-36d5-49ed-bead-0b5e8df5add8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "He’s the headliner of a gay burlesque show.",
+      "parenthetical": "worried",
+      "isUncut": false
+    },
+    {
+      "id": "119d9827-b0dd-4d38-8de5-ecf568d58cea",
+      "type": "transition",
+      "text": "[Rachel is in the kitchen fiddling with her English truffle. Joey and Ross, anxious to leave and go to Janine’s party, are egging her on to hurry up.]"
+    },
+    {
+      "id": "b35fa37f-682a-4581-ab43-641aa2bdcf3f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Rach, you’re killin’ us here, will ya serve the dessert already? Those drunken dancers are waiting!",
+      "isUncut": false
+    },
+    {
+      "id": "a127858f-a26f-4b3f-b694-c92759324528",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Look at it, isn’t it beautiful?",
+      "parenthetical": "looking at her truffle",
+      "isUncut": false
+    },
+    {
+      "id": "46d82a0b-c36a-42fc-87a3-1b013946c763",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, yeah, what is it?",
+      "isUncut": false
+    },
+    {
+      "id": "55fc176d-bb54-4852-8628-f95194f80c5e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It’s a truffle. It’s got all of these layers. First there’s a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch, [Joey and Ross make impressed faces] then raspberries, more ladyfingers, then beef sauteed with peas and onions, [Joey and Ross look like something’s wrong.] then a little more custard, and then bananas, and then I just put some whipped cream on top!",
+      "isUncut": false
+    },
+    {
+      "id": "c976d4da-ec02-4911-b1f0-1da70ed2bf76",
+      "type": "transition",
+      "text": "[Joey and Ross make confused faces.]"
+    },
+    {
+      "id": "03917f2f-6d48-4a37-bc69-5bc93555f840",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "W-What was the one right before bananas?",
+      "isUncut": false
+    },
+    {
+      "id": "7634585d-e3c9-4e78-908e-7d64c34985dc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "The beef? Yeah, that was weird to me, too. But then, y’know, I thought “well, there’s mincemeat pie,” I mean that’s an English dessert, these people just put very strange things in their food, y’know. [To Joey] Oh! by the way, can I borrow some Rum from your place?",
+      "isUncut": false
+    },
+    {
+      "id": "a0a0ab32-eca1-4cf9-8cbe-d5b51dcfa181",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Y-sure!",
+      "isUncut": false
+    },
+    {
+      "id": "866c2eb1-501f-4edd-b5ad-f915d580d3b8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "And while I’m gone don’t you boys sneak a taste.",
+      "parenthetical": "teasingly",
+      "isUncut": false
+    },
+    {
+      "id": "95718233-ad60-49ad-af79-1c92bbcdf073",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay.",
+      "parenthetical": "faking dissapointment",
+      "isUncut": false
+    },
+    {
+      "id": "a6f6b65e-6968-4943-a7dd-bff9e6a3ab2d",
+      "type": "transition",
+      "text": "[Rachel leaves]"
+    },
+    {
+      "id": "3db3d9c0-77aa-4929-a26a-4b9429cbc7ec",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Beef in a dessert?! I- no no no, there is no way!",
+      "isUncut": false
+    },
+    {
+      "id": "bc7f0b09-c205-4b89-b30c-7825cef270b2",
+      "type": "transition",
+      "text": "[Ross goes to look in the magazine Rachel got her recipe from.]"
+    },
+    {
+      "id": "3333b493-6fdb-4064-ac05-827e7ed271a7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I know, and only one layer of jam?! What is up with that?",
+      "isUncut": false
+    },
+    {
+      "id": "599754d8-9221-431c-8356-964029ac7376",
+      "type": "transition",
+      "text": "[Ross looks up as if saying that Joey was weird. He begins flipping through the pages, only to find that they are sticky. So one page is overlapping another, making two recipes look like one.]"
+    },
+    {
+      "id": "447e5a75-9ec6-4ddd-91f1-8b98329cdc52",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh my God, the pages are stuck together!",
+      "isUncut": false
+    },
+    {
+      "id": "807eebb2-4cd8-4487-a768-6f57fc4aa1a3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Chandler!",
+      "parenthetical": "turning to Chandler in a scolding tone",
+      "isUncut": false
+    },
+    {
+      "id": "d6d7e388-1b97-4625-a34b-8dc746809bc8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh My God, she-she made half a English Trifle, and half a…Sheperd’s Pie!",
+      "isUncut": false
+    },
+    {
+      "id": "7da03d87-9e7d-4ed3-87f2-49e0227eedae",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh man! Now she’s gonna start all over! We’re never gonna get to introduce the hot girls to the new world!",
+      "parenthetical": "sad",
+      "isUncut": false
+    },
+    {
+      "id": "cddd4b8d-0186-4ca5-96b2-5a6da5cda954",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, no, we will. We just won’t tell her she messed up.",
+      "isUncut": false
+    },
+    {
+      "id": "5e23ec17-cf69-43cf-b26d-0c39ba18bd63",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Just let her serve the beef-custard thing?",
+      "isUncut": false
+    },
+    {
+      "id": "50d9bf23-1b84-44da-b936-3cfb0269b07b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, it’ll be like a funny Thanksgiving story!",
+      "isUncut": false
+    },
+    {
+      "id": "27c73547-372c-4341-9e49-ac3c3a5d735b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Vomiting stories are funny…",
+      "parenthetical": "shrugging his shoulders to go along with it",
+      "isUncut": false
+    },
+    {
+      "id": "c7798191-d5f8-46f0-affb-f28a0e6ee193",
+      "type": "transition",
+      "text": "[Rachel enters]"
+    },
+    {
+      "id": "f2dc07aa-43b1-43ca-b8c3-6a6bd0c788cc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, God, your apartment is like a hundred degrees!",
+      "isUncut": false
+    },
+    {
+      "id": "19afd82d-85a3-492a-b583-2cf42257c360",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Did-did it make you wanna walk around in your underwear?",
+      "isUncut": false
+    },
+    {
+      "id": "a95d2764-fd35-4660-b792-4ee4c0b90521",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No!",
+      "isUncut": false
+    },
+    {
+      "id": "9ee044e7-c0e0-4732-ab5a-529779c7ca49",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Still not hot enough!",
+      "parenthetical": "frustrated",
+      "isUncut": false
+    },
+    {
+      "id": "4f5db790-1d20-44c2-83c9-db182dd03820",
+      "type": "transition",
+      "text": "[Joey leaves]"
+    },
+    {
+      "id": "da0089ed-8c28-4f95-851e-60753b96edb6",
+      "type": "transition",
+      "text": "[Phoebe walks over to talk to Rachel.]"
+    },
+    {
+      "id": "d8b70a47-98a3-4f42-b9fa-a878b4cc5e5c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rachel?",
+      "isUncut": false
+    },
+    {
+      "id": "b575ff5e-b007-4223-95c5-52f341bbff56",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "5e715980-b30d-4cc2-8641-11ff027a710e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, look at him. Look at those strong hands. Oh what I wouldn’t give to be that can of (looks closer to see what Jack is drinking) condensed milk.",
+      "isUncut": false
+    },
+    {
+      "id": "78e5446e-b55b-4b3d-a737-f7da9e840b70",
+      "type": "transition",
+      "text": "[We see a shot of Jack drinking condensed milk on the couch.]"
+    },
+    {
+      "id": "8c8d4517-3346-4ad8-a7da-dafc146d16c1",
+      "type": "transition",
+      "text": "[Ross and Judy enter the living room. Judy and Ross sit down on the couch beside Jack. Monica and Chandler are sitting on the coffee table.]"
+    },
+    {
+      "id": "cf292ff2-ec51-4f04-a3dd-58fe5b24e664",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mom, uh, Chandler was just saying how beautiful your sweater is.",
+      "isUncut": false
+    },
+    {
+      "id": "5e76f8a2-50e6-428e-9595-8360dca5747e",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Oh, thank you Chandler! I just bought it.",
+      "isUncut": false
+    },
+    {
+      "id": "df0510a9-3f99-4928-8952-de0159d9f098",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, yes. Well it’s very beautiful. It’s cream-colored and tight [Realizes what he just said and looks worried. Monica and Ross also looked shocked. Judy and Jack give Chandler a very dirty look.] I don’t mean tight, I mean it’s not too tight, not that I was looking at-[giving up all hope, he puts his head into his hands.]",
+      "isUncut": false
+    },
+    {
+      "id": "f0b95105-fab9-430b-a30e-14478d568842",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "What’s the matter with him?",
+      "isUncut": false
+    },
+    {
+      "id": "91f0da32-f54a-4e5d-b128-d5cd1ad84ef9",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "I think he’s stoned again.",
+      "parenthetical": "whispers to Jack a little loudly",
+      "isUncut": false
+    },
+    {
+      "id": "71379439-9cb4-4d89-aeb0-f485983b61bd",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What?",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "85147d2d-eb53-4caa-9909-d0b6762bc78f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "5259c367-d519-46d2-a610-1c8379950617",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dude, I need to talk to you a sec.",
+      "parenthetical": "worried",
+      "isUncut": false
+    },
+    {
+      "id": "0477f480-9e08-4481-ab02-d7b303a6962b",
+      "type": "transition",
+      "text": "[Ross and Chandler get up and go into Rachel’s old room.]"
+    },
+    {
+      "id": "521678e9-c141-4da4-9d88-51fd542ca14e",
+      "type": "scene",
+      "description": "Rachel’s old room. It’s pretty much empty except for a few boxes against the walls. Ross and Chandler enter."
+    },
+    {
+      "id": "1d2e64f1-9c0e-44b2-a63f-0599d1413def",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, I think I might know why my parents don’t like you.",
+      "isUncut": false
+    },
+    {
+      "id": "5bfee715-a05a-409c-b997-1d0840fe3aa8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You do? Why?",
+      "isUncut": false
+    },
+    {
+      "id": "827a9065-76f0-416b-a836-f8837369800e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, remember, we were young. Hey, Spring break, sophomore year, I got high in my bedroom and my parents walked in and smelled it and so I told them that you had gotten stoned and jumped out the window.",
+      "isUncut": false
+    },
+    {
+      "id": "80eba0c6-be2f-4b06-a52a-0a861d0839ab",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What?! Why did you do that?",
+      "isUncut": false
+    },
+    {
+      "id": "129162fd-1eb8-4ab1-be0b-dbf9a5e0927b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t know, aheh, your’s was the first name that-that popped into my head, I’m I’m sorry. I-I didn’t think it would matter.",
+      "isUncut": false
+    },
+    {
+      "id": "8c903891-0533-4a06-a42c-cd30dc394db6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "How could it not matter?!",
+      "isUncut": false
+    },
+    {
+      "id": "2b866a2b-4963-46f9-bea7-8d03f642c67c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "How was I supposed to know we’d end up being friends after college, let alone you-you would be living with my sister?",
+      "isUncut": false
+    },
+    {
+      "id": "fc38818d-b562-4d8a-8482-f30a4c9bd176",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What about all that “friends forever” stuff?",
+      "isUncut": false
+    },
+    {
+      "id": "368ee653-7457-4522-8f98-e982b0834669",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t know, I-I was all high.",
+      "isUncut": false
+    },
+    {
+      "id": "9cb81719-9fd5-4b4e-9120-30e593277178",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "bb5caf11-4dd5-4432-b1a7-43cb088fb085",
+      "type": "scene",
+      "description": "Rachel’s Old Bedroom, Continued from earlier. Monica enters the room."
+    },
+    {
+      "id": "7fba3e60-0111-4de4-bbdd-916c5050bed4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mom and dad just sent me in here to find out if you (points to Chandler) were trying to get Ross stoned!",
+      "isUncut": false
+    },
+    {
+      "id": "a68ed6c6-fa51-4a7a-8d66-54a2eeeb4b1c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Your parents caught Ross smoking pot in college and he blamed it on me!",
+      "isUncut": false
+    },
+    {
+      "id": "42bf7f50-f400-4367-a286-b7e6a0bbea0c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross, I can’t believe you’d do that!",
+      "isUncut": false
+    },
+    {
+      "id": "00055984-59f8-4d74-81ae-0f092c63ccf6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "The reason we haven’t told them we’re together is because they hate me, okay? So will you fix this?",
+      "isUncut": false
+    },
+    {
+      "id": "a4f7354f-3e59-4fa3-ab9f-9bb1b39651b2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, okay, I’ll tell ‘em it wasn’t Chandler who got high. Now who should I say it was?",
+      "isUncut": false
+    },
+    {
+      "id": "701e4b73-e57d-4e95-931a-b00705330a0d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You! It’s not like it’s a big deal! You-you don’t still do it or anything!",
+      "isUncut": false
+    },
+    {
+      "id": "d0722c0c-f63a-492d-a52d-a37e161b4d8e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Alright, alright, now-now who should I say tricked me into doing it?",
+      "isUncut": false
+    },
+    {
+      "id": "aaa4c6d2-bc5b-403e-b89c-1a81faa0481e",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Time lapse. Jack is still on the couch, picking his teeth with his feet on the table. Phoebe and Judy are sitting on the table looking at him. Ross and Chandler are sitting by the window talking. Rachel and Joey are in the kitchen fooling with Rachel’s trifle. Monica walks into the living room from the kitchen."
+    },
+    {
+      "id": "2f3381ec-0b36-4e54-b4f9-8d8556e62227",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Dad, please don’t pick your teeth out here! Alright, and if you’re gonna put your feet up, why don’t you sit on the-",
+      "isUncut": false
+    },
+    {
+      "id": "2fb01b80-532c-45c8-b823-1726e46074a7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Monica, leave him alone !",
+      "isUncut": false
+    },
+    {
+      "id": "e658942d-2ce1-4e77-840c-3dade82ab2dd",
+      "type": "transition",
+      "text": "[Monica gives Phoebe a surprised expression and goes over to Ross and Chandler.]"
+    },
+    {
+      "id": "559bfec4-f6d8-488c-aef7-e45d76392b87",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Will you hurry up? Did you not hear me before when I told you that all of Janine’s friends are dancers?! And that they’re going to be drinking alot!?",
+      "parenthetical": "to Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "5a6ca59b-db5f-410d-97e2-03524bc919ba",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, I did, but tell me again, because it’s so romantic.",
+      "parenthetical": "sarcastically",
+      "isUncut": false
+    },
+    {
+      "id": "956870c1-0504-4106-8d63-dbcca80c1460",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well you’re whippin’ so slow! Can’t you do it any faster?",
+      "isUncut": false
+    },
+    {
+      "id": "5248270c-b1cb-4627-94ed-4b1f672acc60",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey! Come on! I don’t wanna make any mistakes, alright? This is the only dessert and if I screw it up everybody’s gonna be like “Oh, remember that Thanksgiving when Rachel screwed up the trifle?”",
+      "isUncut": false
+    },
+    {
+      "id": "30895c3c-b718-47e6-96ce-9dd91609e274",
+      "type": "transition",
+      "text": "[Joey gives her an understanding look.]"
+    },
+    {
+      "id": "b1795334-aa58-4d08-b4ea-5b4058564398",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So why don’t you just let me worry about making the trifle and you just worry about eating it, alright?",
+      "isUncut": false
+    },
+    {
+      "id": "e4b857e5-5314-46a3-b42a-2e4ffdac9a95",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh I am!",
+      "isUncut": false
+    },
+    {
+      "id": "c30a91e0-7aa3-4fcc-9262-1803697120f1",
+      "type": "transition",
+      "text": "[Chandler and Monica are by the window pressuring Ross to tell his parents the truth.]"
+    },
+    {
+      "id": "00b3b826-006b-44f9-ade9-b9cefc5267d6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross, if you don’t tell them, then I will!",
+      "isUncut": false
+    },
+    {
+      "id": "c3e0f5e6-b33d-4204-bab6-a6fda4f92283",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, fine!",
+      "isUncut": false
+    },
+    {
+      "id": "9f973dff-fae4-4eb6-a24e-a199c384e2d4",
+      "type": "transition",
+      "text": "[Ross gets up to go tell his parents.]"
+    },
+    {
+      "id": "09ec95f2-1301-4e64-80bf-e104d1581438",
+      "type": "transition",
+      "text": "[Joey rushes over.]"
+    },
+    {
+      "id": "387cb7d9-99fd-4731-ba85-73b05f1a9891",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ross! Can I talk to you for a second?",
+      "isUncut": false
+    },
+    {
+      "id": "6f774056-9507-44af-b6df-5a01cab0ad13",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, uh, can it wait a second Joey? I have to tell my parents something. No it can’t? Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "42b54dbf-3537-4163-814e-d98762dc895b",
+      "type": "transition",
+      "text": "[Monica and Chandler make “What was that?” gestures. Joey and Ross go into Rachel’s old room.]"
+    },
+    {
+      "id": "81f46e18-59d6-4b10-aeb8-fb70e3fa02e1",
+      "type": "scene",
+      "description": "Rachel’s old room, Ross and Joey enter."
+    },
+    {
+      "id": "f4135cb8-bc84-45fa-85f7-654ced02f043",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Okay, look, I think we have to tell Rachel she messed up her dessert.",
+      "isUncut": false
+    },
+    {
+      "id": "7c9a7ee1-fef9-43b3-9e12-8cb98853bf5c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?! What is with everybody? It’s Thanksgiving, not…Truth-Day!",
+      "isUncut": false
+    },
+    {
+      "id": "0ba9c40b-a490-4fee-8683-7aca9eac0693",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look, when everyone eats that…that…Banana-Meat thing, they’re all gonna’ make fun of her, do you want that?",
+      "isUncut": false
+    },
+    {
+      "id": "e315cf3a-5282-408b-b048-04160ebe8102",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, okay, we’ll just get everyone to act like they like it. That-that way noone makes fun of her and we still get to go to Sweet Potatoe Pie! (Referring to the dancers.)",
+      "isUncut": false
+    },
+    {
+      "id": "4d2aa252-1c20-4ae5-8e38-04a7d4aba871",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Dude, they’re not objects.",
+      "parenthetical": "scolding",
+      "isUncut": false
+    },
+    {
+      "id": "30abc288-fe3a-4ad1-9e3e-9a2b99a3ccf2",
+      "type": "transition",
+      "text": "[Ross makes a sorry face.]"
+    },
+    {
+      "id": "b4f7e170-e086-4302-90c7-09ade0bb360c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Just kiddin,’ I’ll talk to them, you distract Rach.",
+      "isUncut": false
+    },
+    {
+      "id": "7fd2175e-c08c-41c9-b061-b99a1df67f43",
+      "type": "transition",
+      "text": "[Joey and Ross go back out into the main area.]"
+    },
+    {
+      "id": "e7c97657-b088-4c26-9f7c-0a27ec170264",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey Rach, can I talk to you outside for a second?",
+      "isUncut": false
+    },
+    {
+      "id": "d584d9f5-3d31-498a-94ba-4b255771660e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay…",
+      "isUncut": false
+    },
+    {
+      "id": "6da863cc-8c0e-482f-834e-4859c2daf2a4",
+      "type": "transition",
+      "text": "[The hallway. Rachel and Ross go out and they just stand there for a few seconds.]"
+    },
+    {
+      "id": "c842fefc-027c-455c-9274-c4b14cda51c1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What’s up, Ross?",
+      "isUncut": false
+    },
+    {
+      "id": "80afb0be-76aa-430b-9151-c77f60c9cf5c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So um…Thanksgiving. The holiday season is upon us, hm?",
+      "isUncut": false
+    },
+    {
+      "id": "079ba16b-2654-4517-a4a7-bf3dd964ba78",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "4db1d9a2-ca32-43e6-864f-0f48b9f74cfd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "And um…You look nice today.",
+      "isUncut": false
+    },
+    {
+      "id": "92269ed8-ec0c-487e-b2f4-a7017717774f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh no. No Ross, don’t do this.",
+      "isUncut": false
+    },
+    {
+      "id": "af5711e7-6364-468f-87fe-ae6baf2e42b0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "2ef2565e-5548-4bdf-b126-e724dcf09eb4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I just- I don’t think us getting back together is a good idea.",
+      "isUncut": false
+    },
+    {
+      "id": "b7c464f3-e428-4d01-a79e-4c3d2f0b60ca",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Eh?",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "d7dc9c4b-c026-419b-a4c0-f0b1456b4cd4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I thought this might happen today. Ross, I know the holidays can be rough. Y’know? And it’s probably really hard for you to be alone right now.",
+      "isUncut": false
+    },
+    {
+      "id": "1a565711-bad1-4826-92db-4148616c19c4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You’re alone.",
+      "parenthetical": "cutting her off",
+      "isUncut": false
+    },
+    {
+      "id": "f46c6c04-1a6d-41e5-b212-4f76c504b0bd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, I-I live with Phoebe. I mean you’re [pity-tone] alone , alone. And I just-it’s just not the time for us. I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "0206141f-e1ff-427f-b453-d6d3e2db686c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ah well, can’t blame a guy for trying!",
+      "parenthetical": "just trying to get out of the conversation",
+      "isUncut": false
+    },
+    {
+      "id": "b7b1bea3-a012-44fd-9cd5-eda64fc6d730",
+      "type": "transition",
+      "text": "[Inside Monica and Chandler’s. Joey is almost done explaining the situation to everyone.]"
+    },
+    {
+      "id": "b71d0e22-b1a9-4817-9493-ca366c18d0c3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh and (Ross begins to open the door and Joey says some gibberish word to indicate to Ross that he’s not done yet. Ross closes the door again.) Okay, and uh if anyone needs help pretending to like it, I learned something in acting class, try uh, rubbing your stomach (Rubs his stomach) or uh, or saying “mmm” and uh, oh oh! And smiling (Smiles while pretending to stir a bowl), okay?",
+      "isUncut": false
+    },
+    {
+      "id": "4249beb6-69bb-4381-8522-b1a03f88630b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, I’m not gonna pay for those acting classes anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "79c136c0-9585-4b07-b5ca-641bad2f3b8e",
+      "type": "transition",
+      "text": "[Ross and Rachel re-enter.]"
+    },
+    {
+      "id": "9083d68b-7947-47b7-b662-4e021b61c9d0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Rachel, there you are! Come on, let’s serve that dessert already!",
+      "isUncut": false
+    },
+    {
+      "id": "6904cc53-3d05-49b3-80d0-7e2fe2fe6c80",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, you’re gonna have to stop rushing me, you know what? You don’t get any dessert.",
+      "isUncut": false
+    },
+    {
+      "id": "40049ade-ab54-4dfa-a538-f1f0ca454b2b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Really?",
+      "parenthetical": "happily",
+      "isUncut": false
+    },
+    {
+      "id": "84efbe85-fe45-4ba9-8a6d-f77ffb434b12",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, I’m just kidding I would never do that to you! Okay, everybody, it’s trifle time!",
+      "isUncut": false
+    },
+    {
+      "id": "be4b41e9-146d-42de-b95d-93d2376f8b53",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So, now, Rach, this is a traditional English trifle, isn’t it?",
+      "isUncut": false
+    },
+    {
+      "id": "d36b887d-19c9-4692-a977-f400edb6581d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It sure is.",
+      "isUncut": false
+    },
+    {
+      "id": "f9bcd474-bbb1-478b-ad2b-75929bd51d95",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wow. So then did you make it with beef or Eggplant?",
+      "isUncut": false
+    },
+    {
+      "id": "2e11024d-3a26-4de5-98da-a8a668a321a9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Beef.",
+      "isUncut": false
+    },
+    {
+      "id": "1ffbfde6-8de6-4f32-b0f0-b0172224a4ad",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I can’t have any. You know I don’t eat meat. (Faking dissapointment.) Ohhh no.",
+      "isUncut": false
+    },
+    {
+      "id": "23e9c1a6-3361-407b-8a10-166839d20167",
+      "type": "transition",
+      "text": "[Phoebe gets up and goes into Rachel’s old room, a smile on her face.]"
+    },
+    {
+      "id": "4352fd16-fe65-4ad4-9c33-7e76d4b15e01",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Alright, Monica, I want you to have the first taste.",
+      "isUncut": false
+    },
+    {
+      "id": "47181e84-d973-4d15-ab7b-1784d9ca8ed5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "284f3a92-c3b7-4ac3-90df-c114b0c39c85",
+      "type": "transition",
+      "text": "[Rachel hands Monica a plate. Monica takes a spoonful of the whipped cream portion.]"
+    },
+    {
+      "id": "939b5e94-7f50-4b8a-81f8-f4202beece5d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh oh oh, wait! You only got whipped cream in there! Ya gotta take a bite with all the layers!",
+      "isUncut": false
+    },
+    {
+      "id": "825ca489-086d-493c-8814-db5b8518a102",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "e60f8d6c-a382-4859-b457-a0f61cacff46",
+      "type": "transition",
+      "text": "[Monica takes a bigger spoonful and a pea falls off]"
+    },
+    {
+      "id": "b842036e-6353-4ba5-a7fa-4290273a087a",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Op! Wait, you dropped a pea.",
+      "isUncut": false
+    },
+    {
+      "id": "b43036bd-317b-4d26-a8ec-48d37f934361",
+      "type": "transition",
+      "text": "[Monica puts the pea on top of the spoonful and takes a bite.]"
+    },
+    {
+      "id": "9d42221d-561a-4d1b-99cd-982f7eaa7f64",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well?",
+      "isUncut": false
+    },
+    {
+      "id": "d8807af0-c1bb-4c83-878b-fd8d697f67ed",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mmmm! It’s good!",
+      "parenthetical": "faking joy. Rubbing her stomach and smiling at the same time, like Joey said",
+      "isUncut": false
+    },
+    {
+      "id": "c1499c45-d092-4540-8f00-b22f64f7486e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Really? How good?",
+      "isUncut": false
+    },
+    {
+      "id": "02e7624b-6bb4-44ec-8cd3-3af4770f1e75",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "It’s so good, that I feel really selfish about being the only one who’s eating it, that I think we should have everyone taste how good it is. Especially Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "87ed7890-2248-43b2-a63f-bf6e81de84ad",
+      "type": "transition",
+      "text": "[Ross glares at Monica.]"
+    },
+    {
+      "id": "f1c51cc3-7057-40d0-974a-782d92d9ce06",
+      "type": "transition",
+      "text": "[Everyone takes a bite of their trifle.]"
+    },
+    {
+      "id": "bb1ccb11-c1ac-46d2-96ef-6a44d16feeca",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Mmm.",
+      "parenthetical": "faking enjoyment",
+      "isUncut": false
+    },
+    {
+      "id": "2b7852f4-e34b-49db-9408-878cc440b5f3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, this is so good, that I’m gonna go enjoy it on the balcony so that I can enjoy the view whilst I enjoy my dessert.",
+      "parenthetical": "clearly lying and hating the dessert",
+      "isUncut": false
+    },
+    {
+      "id": "adfeb63f-2856-488f-bf74-897a9f5fd53d",
+      "type": "transition",
+      "text": "[Chandler exits to the balcony.]"
+    },
+    {
+      "id": "35f45275-9ec6-4e1c-8be1-cd84012d7c78",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "I’ve gotta call my friend Mary and tell her how good this is, from Monica’s room.",
+      "parenthetical": "lying",
+      "isUncut": false
+    },
+    {
+      "id": "1f7d3a11-3fa8-49de-a1a5-4ef88480ec93",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I’ll help you dial.",
+      "parenthetical": "also lying",
+      "isUncut": false
+    },
+    {
+      "id": "ff06bc28-e03a-4c47-9e0d-d44e39f1d384",
+      "type": "transition",
+      "text": "[Jack and Judy exit to Monica’s room.]"
+    },
+    {
+      "id": "a70515bc-ba1b-48ad-978f-679715e7f34a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I’m gonna go into the bathroom so I can look at it in the mirror, as I eat it.",
+      "parenthetical": "again, lying",
+      "isUncut": false
+    },
+    {
+      "id": "2e50c83e-c71d-4f9d-9ef5-800f87cd1a55",
+      "type": "transition",
+      "text": "[Monica exits to the bathroom.]"
+    },
+    {
+      "id": "1bc41531-4a7e-4559-bfab-f70217c3a2c3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, now what was that all about? Is it-does it not taste good? Let me try it.",
+      "isUncut": false
+    },
+    {
+      "id": "28e9d57d-ee49-4896-ba7e-c58d4238470e",
+      "type": "transition",
+      "text": "[Rachel reaches for Ross’s plate]"
+    },
+    {
+      "id": "b9a6fed8-9207-4b7b-b887-c6ea4a6a8475",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wha? No no! Ah! (Ross scarfs all of his trifle down in about a second. He looks like he’s going to throw up.) (Lying) All gone! So good! Maybe Chandler has some left.",
+      "isUncut": false
+    },
+    {
+      "id": "efea2d9b-0758-49e3-b057-d2fd0bf058cc",
+      "type": "transition",
+      "text": "[Rachel leaves to the balcony.]"
+    },
+    {
+      "id": "5080ab8e-0cf0-490a-8b9d-484aae84d22d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It tastes like feet!",
+      "isUncut": false
+    },
+    {
+      "id": "d00706d1-a684-47f9-8bb0-4c8737d079ac",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I like it.",
+      "isUncut": false
+    },
+    {
+      "id": "77801fea-d44e-4fa3-92b6-6dbd109011aa",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Are you kidding?",
+      "isUncut": false
+    },
+    {
+      "id": "85217469-2aee-4e18-ac0e-2eda6023e9bf",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What’s not to like? Custard? Good. Jam? Good. Meat? Gooooood.",
+      "isUncut": false
+    },
+    {
+      "id": "4b4bb781-27fd-4efa-8677-4d373f42fe22",
+      "type": "transition",
+      "text": "[Rachel and Chandler re-emerge from the balcony.]"
+    },
+    {
+      "id": "3b419b28-1e97-4e9f-962f-094fbed6219d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "…So a bird just grabbed it, and then tried to fly away with it and, and then just dropped it on the street?",
+      "isUncut": false
+    },
+    {
+      "id": "e1ba9f00-cda0-4e1d-a7fa-3a725742c267",
+      "type": "transition",
+      "text": "[Chandler makes a fake “I know I couldn’t believe it either” gesture.]"
+    },
+    {
+      "id": "4442df4b-5eb1-4b1a-a994-ffa832496bf9",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes, but if it’s any consolation, before the bird dropped it, he seemed to enjoy it.",
+      "parenthetical": "lying",
+      "isUncut": false
+    },
+    {
+      "id": "408548a8-8ebb-4b78-97a3-74c9c6ecccba",
+      "type": "transition",
+      "text": "[Phoebe comes back from Rachel’s old room.]"
+    },
+    {
+      "id": "7652437e-ddbd-455f-babe-8dab4cf6b783",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rachel, come here. (Rachel walks over to Phoebe. Chandler sits down on the lounge-chair.) Okay, I was just starting to take my Thanksgiving nap, and I had another dream about Jack.",
+      "isUncut": false
+    },
+    {
+      "id": "5545b894-b327-4216-9b4e-4f1a7b18d691",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, Phoebe, do I wanna hear this?",
+      "isUncut": false
+    },
+    {
+      "id": "2561df93-f5ab-4103-a3c7-40a843e433af",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I dunno, let’s see! So, okay, I dreamt that we were gonna get married, and he left, becuz he had to go fight a fire. And, um, so okay, I went to a night club, and I saw him making out with a girl.",
+      "isUncut": false
+    },
+    {
+      "id": "c0df51ff-3125-43a6-8ffe-04f11fadf550",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my God, he dream-cheated on you!",
+      "parenthetical": "humoring Phoebe",
+      "isUncut": false
+    },
+    {
+      "id": "554e34e0-f1c8-4edc-9e37-27536a633595",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, but then Jacques Cousteau came and he kicked his ass for betraying me! It was soo cool! Then, he took me diving and he introduced me to his pet seahorse, who, by the way, was totally coming on to me, and please, that is not gonna happen.",
+      "isUncut": false
+    },
+    {
+      "id": "bf838229-806b-4d22-bda1-254b844d885a",
+      "type": "transition",
+      "text": "[Jack and Judy come out of Monica’s room and sit down on the couch.]"
+    },
+    {
+      "id": "4128b793-2d77-40ef-8ad7-ec375878796a",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Boy, I’m glad I wore the big belt today.",
+      "isUncut": false
+    },
+    {
+      "id": "44296de5-695f-42ea-b6ca-8ae782c893df",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Five minutes ago, a line like that would’ve floored me. Now nothing. Well, not nothing, I am still a woman.",
+      "isUncut": false
+    },
+    {
+      "id": "5061bc2e-c2a0-479b-adcc-c41330d661fe",
+      "type": "transition",
+      "text": "[Rachel and Phoebe walk into the kitchen. Monica comes out of the bathroom and goes over to Ross.]"
+    },
+    {
+      "id": "6c1915a6-e76b-4e2c-90b1-e25476e2da41",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross? Let’s go.",
+      "isUncut": false
+    },
+    {
+      "id": "2953d0e6-46de-4df0-9afa-2fda72aad442",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh yeah, about telling Mom and Dad, I was thinking about maybe writing a letter.",
+      "isUncut": false
+    },
+    {
+      "id": "121adfb9-1aa2-48e9-98f0-4dbc1a196ec3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright, you know what? That’s it. You’ve had your chance.",
+      "isUncut": false
+    },
+    {
+      "id": "c73bc4f6-0a26-43cd-9fe7-a4171cf80f17",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wha-what?",
+      "isUncut": false
+    },
+    {
+      "id": "cca49478-28b5-4c7c-ab83-13a4d95681d1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Mom! Dad! Ross smoked pot in college!",
+      "parenthetical": "out loud, to her parents",
+      "isUncut": false
+    },
+    {
+      "id": "67c40bec-9cf5-441f-880c-8593349df0e5",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "What?!",
+      "isUncut": false
+    },
+    {
+      "id": "b60a742d-d513-4958-8b5d-9ff9dbdf62fd",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "(To Monica) You are such a tattletale! Mom, Dad, you remember that-that time you walked in my room and smelled marijuana?",
+      "parenthetical": "in a 5 year old’s tone",
+      "isUncut": false
+    },
+    {
+      "id": "108edcf3-a401-4429-b83b-b6bec9ff48a8",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Yes. (They look at Chandler angrily.)",
+      "isUncut": false
+    },
+    {
+      "id": "ab26385b-6739-427e-911f-38943f7ad4ab",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well I told you it was Chandler who was smoking the pot but it was me. I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "02078314-927f-4de8-8322-5fe4761c367b",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "It was you?",
+      "isUncut": false
+    },
+    {
+      "id": "e5f6f9c9-74f6-4137-9a65-68e347eabe9c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And Dad, y’know that mailman that you got fired? He didn’t steal your Playboys! Ross did!",
+      "isUncut": false
+    },
+    {
+      "id": "77e8d956-426e-4c91-93ce-efb9dfe37f65",
+      "type": "transition",
+      "text": "[The Gellers stare at Ross. Ross looks at his parents with an afraid, shocked look.]"
+    },
+    {
+      "id": "f1e3d14f-4d73-48c8-9d5a-1aba4ff0fa9c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, well, Hurricane Gloria didn’t break the porch swing, Monica did!",
+      "isUncut": false
+    },
+    {
+      "id": "fc3743ba-b041-4995-9c7a-99960410adc8",
+      "type": "transition",
+      "text": "[The Gellers glare at Monica.]"
+    },
+    {
+      "id": "86f57408-e7e5-41a0-b902-4f830130788a",
+      "type": "transition",
+      "text": "[Joey, Phoebe, and Rachel are sitting at the table, looking at the Geller siblings like they’re weirdos.]"
+    },
+    {
+      "id": "e77590b6-c1a9-477b-a1a4-83c726bd2d76",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross hasn’t worked at the museum for a year!",
+      "isUncut": false
+    },
+    {
+      "id": "1d9c36ef-8c70-4a69-9da5-568c70b24440",
+      "type": "transition",
+      "text": "[The Gellers glare at Ross.]"
+    },
+    {
+      "id": "a0b9b24e-66c3-4d65-9a60-842f63e5975f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Monica and Chandler are living together!",
+      "isUncut": false
+    },
+    {
+      "id": "f0996a9d-dc9c-419c-8149-461284f19592",
+      "type": "transition",
+      "text": "[The Gellers glare at Monica, shocked]"
+    },
+    {
+      "id": "eca984ce-8011-4143-b0bf-3ca0480d720c",
+      "type": "transition",
+      "text": "[Monica and Chandler both are shocked. Ross gives Monica a “take that!” look.]"
+    },
+    {
+      "id": "4148db3a-f7ee-496e-91b2-29f027b3555a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ross married Rachel in Vegas! And got divorced! Again!!!!",
+      "isUncut": false
+    },
+    {
+      "id": "1ac3a2ac-6ce6-4a6b-9561-0d2dfd4b53e6",
+      "type": "transition",
+      "text": "[The Gellers glare at Ross.]"
+    },
+    {
+      "id": "69bd5eac-cd03-4ff5-a5b0-b7681323a82e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I love Jacques Cousteau!",
+      "parenthetical": "joining in",
+      "isUncut": false
+    },
+    {
+      "id": "697efa79-35ac-4737-9d06-2288714e38f2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I wasn’t supposed to put beef in the trifle!",
+      "parenthetical": "reading the recipe magazine, finally figuring out that…",
+      "isUncut": false
+    },
+    {
+      "id": "4dfa9fbf-6968-416c-a875-accd2cd61ad4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I wanna gooooooo!",
+      "parenthetical": "pounding the table",
+      "isUncut": false
+    },
+    {
+      "id": "90aa6c73-7a66-45a3-80e4-7f95f69d7392",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "That’s alot of information to get in in thirty seconds! Alright Joey, if wanna leave, just leave. Rachel, no you weren’t supposed to put beef in the trifle. It did not taste good. Phoebe, I’m sorry, but I think Jacques Cousteau is dead. (Phoebe makes a sad face.) Monica, why you felt you had to hide the fact that you were in an important relationship is beyond me.",
+      "parenthetical": "rubbing her temples",
+      "isUncut": false
+    },
+    {
+      "id": "d3e34645-c52a-4014-b402-8bac864dbe56",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "And we kinda figured about the porch swing.",
+      "isUncut": false
+    },
+    {
+      "id": "3e1de04a-e85b-45f6-8f9f-62063ab0621e",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Ross, drugs? Divorced? Again?",
+      "isUncut": false
+    },
+    {
+      "id": "63b5bf7f-d99c-4fdc-89b7-3cbabf7753db",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "What happened son?",
+      "isUncut": false
+    },
+    {
+      "id": "bf0537a6-e0b2-4c7b-b9d4-76eaf2d4df55",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I-I uh, I got tricked into all those things!",
+      "isUncut": false
+    },
+    {
+      "id": "ac05dcc0-7e98-4945-a37d-9d3631ba7b47",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Chandler! You’ve been Ross’s best friend all these years, stuck by him during the drug problems. (Ross gets disgusted.) And now you’ve taken on Monica as well. Well, I don’t know what to say. You’re a wonderful human being.",
+      "isUncut": false
+    },
+    {
+      "id": "79528ef1-b85f-4702-beb5-7731bff6ad18",
+      "type": "transition",
+      "text": "[Chandler is mega shocked!]"
+    },
+    {
+      "id": "19fa4c6b-73c5-499f-8d16-7228a1ace10c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Thank you!",
+      "isUncut": false
+    },
+    {
+      "id": "73df7044-c077-420b-84f9-cc4519a6ae98",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "No! Thank you! (Hugs Chandler) Monica, and Ross! I don’t know what I’m gonna do about the two of you!",
+      "isUncut": false
+    },
+    {
+      "id": "c246596f-6a8f-4d03-b0d4-5adb1a573ce3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I’ll talk to them!",
+      "parenthetical": "In a parent-like tone",
+      "isUncut": false
+    },
+    {
+      "id": "1dccb8e0-8abd-40b1-8193-821174927130",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "881e7ce7-9908-47d3-ab48-7ba65a6aef8d",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Everyone is helping clean the table."
+    },
+    {
+      "id": "24958ade-7b5d-4528-8b3c-34556363bb8f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn’t feel bad!",
+      "isUncut": false
+    },
+    {
+      "id": "3d8be1c7-3560-4116-8ed0-153b485a5e35",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well actually, I-I didn’t eat mine. It’s still in the bathroom.",
+      "isUncut": false
+    },
+    {
+      "id": "586d251d-50c9-4a61-b797-21a5d5261f9a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No it isn’t, I ate that.",
+      "isUncut": false
+    },
+    {
+      "id": "e6bd9140-461d-4d9d-85a4-2ab74e49f1d4",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Well we left ours in Monica’s bedroom.",
+      "parenthetical": "pointing to herself and Jack",
+      "isUncut": false
+    },
+    {
+      "id": "1ce97a25-76d3-4c56-a00c-93769401415a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Nope, got it and I got yours (Pointing to Jack) too.",
+      "isUncut": false
+    },
+    {
+      "id": "b7d5e7b0-8f1c-4e4f-a319-ca7dcf7bd31f",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

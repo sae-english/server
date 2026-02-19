@@ -6,12 +6,12 @@
         https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
 
     <include file="db/changelog/changes/001-create-schema.xml"/>
-    <include file="db/changelog/changes/002-create-title-table.xml"/>
+    <include file="db/changelog/changes/002-create-work-and-film-tables.xml"/>
     <include file="db/changelog/changes/003-create-episode-table.xml"/>
-    <include file="db/changelog/titles/friends/db.changelog-friends.xml"/>
-    <include file="db/changelog/titles/interstellar/db.changelog-interstellar.xml"/>
-    <include file="db/changelog/changes/004-episode-json-loader.xml"/>
     <include file="db/changelog/changes/005-create-dictionary-table.xml"/>
+
+    <!-- Загрузка данных из storage — всегда в конце, после всего DDL -->
+    <include file="db/changelog/data/storage-loader.xml"/>
 
 </databaseChangeLog>
 

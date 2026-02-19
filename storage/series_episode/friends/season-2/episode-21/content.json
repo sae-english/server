@@ -1,0 +1,1761 @@
+{
+  "season": 2,
+  "episode_number": 21,
+  "episode_title": "222 - The One With the Two Parties",
+  "credits": {
+    "writtenBy": "Alexa Junge",
+    "transcribedBy": "Josh Hodge"
+  },
+  "note": "[Scene: Moondance Diner. Ross, Phoebe, Joey, and Chandler are sitting at the counter, Monica is working. Monica is wearing her costume, including big fake breasts.]",
+  "content": [
+    {
+      "id": "52c61e6f-998a-4150-a1ca-b7cc0bc517d4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So, I’ll get candles and my mom’s lace tablecloth, and since it’s Rachel’s birthday, I mean, we want it to be special, I thought I’d poach a salmon.",
+      "isUncut": false
+    },
+    {
+      "id": "d47b981b-5fd9-4242-8960-811ebf60ee73",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Ohhh.",
+      "isUncut": false
+    },
+    {
+      "id": "a77aeea1-62ad-4aa6-bb45-58d11bcf4f22",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "0e2eddb9-311b-4c29-833a-40284e345f17",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Question. Why do we always have to have parties where you poach things?",
+      "isUncut": false
+    },
+    {
+      "id": "8d05fd67-4c3d-4a3a-96f1-21571d294cb3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You wanna be in charge of the food committee?",
+      "isUncut": false
+    },
+    {
+      "id": "079104f0-c8e7-4db3-84cf-3ac13fc9046a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Question two. Why do we always have to have parties with committees?",
+      "isUncut": false
+    },
+    {
+      "id": "13851bdb-cd95-4d6a-8731-426867b8ac05",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Really. Why can’t we just get some pizzas and get some beers and have fun?",
+      "isUncut": false
+    },
+    {
+      "id": "57d8b042-9fa3-48e5-9644-081af0f95754",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "41fa7946-26e6-4f5f-a299-7cbedd7ecb2e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, I agree. Ya know, I think fancy parties are only fun if you’re fancy on the inside and I’m just not sure we are.",
+      "isUncut": false
+    },
+    {
+      "id": "2529426d-6e3f-45c3-b662-9c1225e290c9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Alright. If you guys don’t want it to be special, fine. You can throw any kind of party you want.",
+      "isUncut": false
+    },
+    {
+      "id": "c8d2035f-fa6e-47e1-ad19-03ea0f832641",
+      "type": "transition",
+      "text": "[Joey is staring at Monica’s breasts]"
+    },
+    {
+      "id": "55f4dafd-469c-4dad-9620-e351f8a6a2e7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Joey they’re not real. I start miles beneath the surface of these things, ok, they’re fake. See [squeezes her breast] honk honk.",
+      "isUncut": false
+    },
+    {
+      "id": "8831fd6a-5790-4843-bccd-af2c48f49860",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Wow, it’s, it’s like porno for clowns.",
+      "isUncut": false
+    },
+    {
+      "id": "74cd10b3-046b-4a13-8f2e-8989c92f6959",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "d8bf7256-7c4e-4732-baef-2126b547becd",
+      "type": "scene",
+      "description": "Central Perk. Chandler, Ross, Joey, Phoebe, and Monica are planning Rache’s birthday party."
+    },
+    {
+      "id": "a14c5188-5bee-4dcc-90d4-74ffdba06de2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I talked to Rachel’s sisters, neither of them can come.",
+      "isUncut": false
+    },
+    {
+      "id": "3d5e4beb-75fa-4956-84ff-599de1e887ca",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, um so, I still have to invite Dillon and Emma and Shannon Cooper.",
+      "isUncut": false
+    },
+    {
+      "id": "8b45f077-f427-429e-9603-1d31ff0cd5d1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Woah, woah, woah, uh, no Shannon Cooper.",
+      "isUncut": false
+    },
+    {
+      "id": "96e6f10c-e802-4ca9-803b-9d8520932089",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Why not her?",
+      "isUncut": false
+    },
+    {
+      "id": "bd6661b1-d81b-4c59-afaa-1c05c0f78348",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Cause she uh, she steals stuff.",
+      "isUncut": false
+    },
+    {
+      "id": "60af265e-39ba-404f-9b84-dfec9bb196b3",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Or maybe she doesn’t steal stuff and Joey just slept with her and never called her back.",
+      "isUncut": false
+    },
+    {
+      "id": "c1c9cd30-57b9-4e1e-bbc3-bb4aeca1d565",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Joey that is horriable.",
+      "isUncut": false
+    },
+    {
+      "id": "c878bf00-8a3e-4e02-9340-a349e2468402",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey I liked her, alright. Maybe, maybe too much. I don’t know I guess I just got scared.",
+      "isUncut": false
+    },
+    {
+      "id": "2637358c-22fa-4997-9695-5f9861b3ebf1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m sorry, I didn’t know.",
+      "isUncut": false
+    },
+    {
+      "id": "cd8db19d-e6cc-4e94-95e2-a738d2ea52a8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I didn’t think anyone’d buy that, ok.",
+      "isUncut": false
+    },
+    {
+      "id": "7078699d-8bc1-4b9d-97e8-41ab4c0c451e",
+      "type": "transition",
+      "text": "[Rachel enters]"
+    },
+    {
+      "id": "0d405631-f247-4170-a7a7-bbc9431bdf90",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi honey, how did it go?",
+      "isUncut": false
+    },
+    {
+      "id": "b70cbb04-9746-44bd-a1f8-6a32c7df1952",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Agh, it was the graduation from hell.",
+      "isUncut": false
+    },
+    {
+      "id": "f3ae78be-312a-4250-94e8-abd43b418232",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ya know, my cousin went to hell on a football scholarship.",
+      "isUncut": false
+    },
+    {
+      "id": "a41899d1-59e1-460a-a499-f1c47fc35409",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ya know, I mean this is supposed to be a joyous occasion. My sister’s graduating from college, nobody thought she would. It’s a true testament to what a girl from long island would do for a Celica.",
+      "isUncut": false
+    },
+    {
+      "id": "871f04c8-fc52-4d33-971a-000735a5ae4f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So what happened?",
+      "isUncut": false
+    },
+    {
+      "id": "f51e75a4-2396-4082-ab81-65d1f9d95279",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "My parents happened. All they had to do was sit in the same stadium, smile proudly, and not talk about the divorce. But nooo, they got into a huge fight in the middle of the commencement address. Bishop Tutu actually had to stop and shush them. But you know what, you know what the good news is? I get to serve coffee for the next 8 hours.",
+      "isUncut": false
+    },
+    {
+      "id": "f7d77b88-71bf-410c-b2a1-62e4c8b8099f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ok, so I guess we don’t invite her parents.",
+      "isUncut": false
+    },
+    {
+      "id": "a6ad2f18-aa8e-425e-a927-c4bfbe1db4cd",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, how bout just her mom?",
+      "isUncut": false
+    },
+    {
+      "id": "c00c4a24-7e55-4368-8129-4bba4b2c43f6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why her mom?",
+      "isUncut": false
+    },
+    {
+      "id": "47f0019b-b275-45d1-adbf-81eb2b098a05",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Cause I already invited her.",
+      "isUncut": false
+    },
+    {
+      "id": "f4a158fc-81c5-433d-be7f-765ed96e5fca",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ooh, ooh, did you ask Stacy Roth?",
+      "isUncut": false
+    },
+    {
+      "id": "8ee6d027-25bd-4e76-92eb-f104c62c9910",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh no, can’t invite her. She also steals.",
+      "isUncut": false
+    },
+    {
+      "id": "550b5d2c-7b8f-4a1c-8e09-4ae05de3f011",
+      "type": "scene",
+      "description": "Monica and Rachel’s apartment. Chandler, Joey, Monica, and Phoebe are setting up for the party."
+    },
+    {
+      "id": "868f3c81-b190-4c02-9ec3-d8273ca13aa5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ok, here are the birthday candles. Where’s the birthday cake?",
+      "isUncut": false
+    },
+    {
+      "id": "c040c7cb-d95c-477f-a488-cd9e8cd31959",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, we’re not having birthday cake, we’re having birthday flan.",
+      "isUncut": false
+    },
+    {
+      "id": "9f50be2b-580e-4d45-a6f4-211d0a368c39",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Excuse me?",
+      "isUncut": false
+    },
+    {
+      "id": "5bced2ae-11ee-4f85-af35-a55bd0f4e107",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "It’s a traditional Mexican custard dessert.",
+      "isUncut": false
+    },
+    {
+      "id": "c80c7879-3673-4448-ad69-8e628fdb2ba5",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh that’s nice. Happy birthday Rachel, here’s some goo.",
+      "isUncut": false
+    },
+    {
+      "id": "ee7cc818-df73-4f72-80b7-79d890ab5924",
+      "type": "transition",
+      "text": "[knock at the door]"
+    },
+    {
+      "id": "a2a09672-3c4d-450b-be0d-40862ef3ae8f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "[answers the door] Dr. Green. Oh my God it’s Rachel’s dad. What’re you doing here?",
+      "isUncut": false
+    },
+    {
+      "id": "4976aa64-b488-43d9-94ca-294936acd5d0",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "What? The father can’t drop by to see the daughter on her birthday?",
+      "isUncut": false
+    },
+    {
+      "id": "9d9dcd67-46c1-4629-9aa2-ebbd9225abd3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No no, the father can, but um, since I am the roommate I can tell you that she’s not here and I’ll pass along the message, ok. So bye-bye.",
+      "isUncut": false
+    },
+    {
+      "id": "6db6177e-9891-460f-8926-083c10b34d92",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Ohhh, you’re having a parteee.",
+      "isUncut": false
+    },
+    {
+      "id": "81d81381-6518-48ff-b2a3-5a4704891d7e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No, no, not a party. Just a surprise gathering of some people Rachel knows. Um, this is Phoebe and Chandler and Joey.",
+      "isUncut": false
+    },
+    {
+      "id": "aa1a24ed-86e6-4b20-aa50-9bc331c021ab",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "I’ll never remember all of that. So uh, what’s the deal? Rachel comes home, people pop out and yell stuff, is that it?",
+      "isUncut": false
+    },
+    {
+      "id": "799e8f44-e501-4db6-9100-770e8a7348d7",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "This isn’t your first surprise party, is it sir?",
+      "isUncut": false
+    },
+    {
+      "id": "2e569167-40b6-4616-af7a-99817fce32cd",
+      "type": "transition",
+      "text": "[knock at the door, Monica answers to see Mrs. Green]"
+    },
+    {
+      "id": "e1a91332-7978-4993-a04c-051d2d830614",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Hi Monica.",
+      "isUncut": false
+    },
+    {
+      "id": "874068c8-1b92-403c-b7bd-83c110b5d36d",
+      "type": "transition",
+      "text": "[Monica slams the door back shut]"
+    },
+    {
+      "id": "f7e94d80-6380-4121-82af-fbd670452776",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Chinese menu guy. Forgot the menus.",
+      "isUncut": false
+    },
+    {
+      "id": "5ccc566b-c797-49d9-aaf4-a724c6d0a178",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So, basically just a Chinese guy.",
+      "isUncut": false
+    },
+    {
+      "id": "d6169220-bf76-45a4-93a1-94a5c3bba8b4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Uh, hey, Dr. Green, why don’t you come with me, we’ll put your jacket on Rachel’s bed.",
+      "isUncut": false
+    },
+    {
+      "id": "3ebe1003-9e68-4477-ad2e-7d57ef276e72",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Alright, that sounds like a two person job. [they walk into Rachel’s bedroom]",
+      "isUncut": false
+    },
+    {
+      "id": "bb4e3437-c0c7-45b8-afd3-f1c78d590f4b",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Well, my goodness, what was that?",
+      "isUncut": false
+    },
+    {
+      "id": "99b7bd36-e4e9-46cf-9a56-2de9947bea87",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Sandra, I am so sorry, I thought you were Rachel and we just weren’t ready for you yet.",
+      "isUncut": false
+    },
+    {
+      "id": "d2c7d929-5c48-4393-8639-3eb80c9dbcdc",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "You thought I was Rachel?",
+      "isUncut": false
+    },
+    {
+      "id": "a5e08857-79f1-4f0b-b252-f0731f04e234",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yes because uh, you look so young.",
+      "isUncut": false
+    },
+    {
+      "id": "ce1b9744-61a8-4c28-ab20-95a8c9dfc5e4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "And because you’re both, you know, white women.",
+      "isUncut": false
+    },
+    {
+      "id": "fcc70e75-2bf9-4636-ab5b-7e678edcf0db",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Oh, I missed you kids. Well, should I put my coat in the bedroom?",
+      "isUncut": false
+    },
+    {
+      "id": "dba116f9-3f29-447e-a04b-c736b598a603",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "NO! No, I’ll take that for ya.",
+      "isUncut": false
+    },
+    {
+      "id": "f62b922f-e3b5-4cb6-a98f-8a6e4347b6be",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Oh well thank you. Such a gentleman. Thank you. [Chandler takes the hot pink coat and grimaces at it] Ahh, it all looks so nice, so festive, all the balloons… [Chandler, remembering that Joey and Mr. Green are in the bedroom, throws her coat in a cupboard] The funniest thing happened to me on the way here. I was…[Joey peeks out]",
+      "isUncut": false
+    },
+    {
+      "id": "56dce868-3180-4bfc-842c-d675ccc094e3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "[cutting Mrs. Green off] Ha-ha, that’s great, ha-ha. I can’t wait to hear the rest of it, ya know, but I really have to go to the bathroom so… Hey, come with me. Yeah, yeah, it’ll be like we’re gal pals, ya know, like at a restraunt. Oh, it’ll be fun, c’mon. [they go in the bathroom]",
+      "isUncut": false
+    },
+    {
+      "id": "2a730330-71fa-42ad-9d0b-7ef9cf61c419",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh my God, oh my God, oh my God.",
+      "isUncut": false
+    },
+    {
+      "id": "f2ff9eb3-a0a8-4dfb-96b5-70e9e08dcdaa",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ok, think, what would Jack and Chrissy do?",
+      "isUncut": false
+    },
+    {
+      "id": "2946a772-27b0-47d8-9900-c9b99ef58eb2",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "[peeks back out] Ok, now that your coat is safely in the bedr-, [sees that the coast is clear] oh, ok we can come back out in the living room.",
+      "isUncut": false
+    },
+    {
+      "id": "f02f8a03-5d1f-4d8b-8612-1ed18f7d4453",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So uh, Joey and Chanlder, I, I think it’s time that you take Dr. Green over to your place.",
+      "isUncut": false
+    },
+    {
+      "id": "2af765a8-3ab2-4f56-9d02-95e2f9c8b8d6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Uhh, yes, absdolutely, um. Why again?",
+      "isUncut": false
+    },
+    {
+      "id": "5f4ab92d-9b38-4617-8907-60cfe0ba0522",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Because that’s where the party is you goon. See this is just the staging area.",
+      "isUncut": false
+    },
+    {
+      "id": "bdc2c243-10e8-446e-88f9-d22eada6ab29",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Right this is staging.",
+      "isUncut": false
+    },
+    {
+      "id": "2b1e5957-853d-457d-8f16-d68b419a9876",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, this more than anything else, is the staging area.",
+      "isUncut": false
+    },
+    {
+      "id": "f8046775-fc4e-4217-8d2a-1be9e0c0171e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "[as they’re walking out, Dr. Green questioningly gestures at the Happy Birthday sign over the door] This is clearly in the wrong apartment. [they all walk across the hall]",
+      "isUncut": false
+    },
+    {
+      "id": "1dc5a213-44da-408f-8f4d-9b0520a78b90",
+      "type": "scene",
+      "description": "Later on in the hallway between the apartments. Chandler is showing people to the parties."
+    },
+    {
+      "id": "75e3656c-9869-48d4-a226-981dab8c4222",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Alright you guys are off to party number one [ushers 3 guys into Monica’s apartment] and you, you are off to party number two [ushers four women into his apartment. Two guys try to follow and Chandler blocks them and shoos them off to Monica’s apartment] Alright fellas, let’s keep it movin’, let’ keep it movin.",
+      "isUncut": false
+    },
+    {
+      "id": "6f534696-7eb6-425c-a2d5-576036b31d5b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Chandler could you at least send some women to my party? [buzzer goes off] Alright that’s Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "6678f6b5-45ef-47ef-a8ce-d1c058c18e43",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ok, they’re coming, shhh. [Runs into Monica’s apartment and grabs one last girl to take to his apartment]",
+      "isUncut": false
+    },
+    {
+      "id": "090e9cb2-ac92-4a50-b6e8-add4dccb1cee",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohh, thank you for the wonderful dinner.",
+      "isUncut": false
+    },
+    {
+      "id": "4a4f3d12-4953-4b87-b24f-4cf033a66984",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Thanks for being born.",
+      "isUncut": false
+    },
+    {
+      "id": "a3a08eed-f024-40db-9e02-e1afecd72981",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohh, thank you for my beautiul earrings, they’re perfect. I love you.",
+      "isUncut": false
+    },
+    {
+      "id": "a0f418f3-23ea-4267-8b3f-cf5ee1db33e2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, now you can exchange them if you want, ok.",
+      "isUncut": false
+    },
+    {
+      "id": "a43a3c1f-51f8-42f1-a0a2-b5fa71e033a7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Now I love you even more.",
+      "isUncut": false
+    },
+    {
+      "id": "0777151f-1ccf-4820-8fef-d54cd50509ab",
+      "type": "transition",
+      "text": "[they kiss and Ross backs her into her apartment and turns on the lights]"
+    },
+    {
+      "id": "e70ec48f-53fb-43b7-a2e8-105e8488059e",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Surprise.",
+      "isUncut": false
+    },
+    {
+      "id": "43cfbef7-bb62-4bcf-ac5b-937480d81cc7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh my gosh, wow. Monica. Oh my god. Mom. This is so great.",
+      "isUncut": false
+    },
+    {
+      "id": "b662f6bb-a9d0-45d5-a346-5ff44249b913",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Happy birthday sweetie.",
+      "isUncut": false
+    },
+    {
+      "id": "f57977ae-96a0-43ca-abcb-487ceec836a4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Wow you, you. I had no idea.",
+      "isUncut": false
+    },
+    {
+      "id": "53a98041-dda4-4b5d-b695-3c60506fad42",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "d6b3ac25-f0cd-42bd-a58e-c6bf9a7dd709",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, I knew.",
+      "isUncut": false
+    },
+    {
+      "id": "b5f91f90-0a2f-4580-b420-9c64ea3beacc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right.",
+      "isUncut": false
+    },
+    {
+      "id": "9097c428-2fbc-4aa2-91fb-229564c6926f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, everybody, there’s food and drinks on the table. Go across the hall.",
+      "isUncut": false
+    },
+    {
+      "id": "9aee443a-0bbc-4e1a-b420-50b9b54ee5ac",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "aad5919d-a6c2-48b2-9809-3cd12d2a7672",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "56975631-60b3-430e-9511-0d8a5f56fdaf",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Right now, Joey and Chandler’s, go now.",
+      "isUncut": false
+    },
+    {
+      "id": "e420f886-648e-410a-9fca-bbafba6c3310",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Why.",
+      "isUncut": false
+    },
+    {
+      "id": "86047789-198c-4e88-92f0-e18036c69a64",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Just go.",
+      "isUncut": false
+    },
+    {
+      "id": "5bded98a-97d9-4a5a-88a5-51c9dc4c1c2f",
+      "type": "transition",
+      "text": "[they walk across the hall]"
+    },
+    {
+      "id": "c633d96b-40c0-40b2-9532-80b209d2f1b1",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Surprise.",
+      "isUncut": false
+    },
+    {
+      "id": "01d4d908-e5a5-4427-add7-58ec0a85c30a",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Happy birthday sweetpea.",
+      "isUncut": false
+    },
+    {
+      "id": "e75736d1-139b-4d79-be01-306d1b2c9a7f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Daddy.",
+      "isUncut": false
+    },
+    {
+      "id": "f6a8acbd-7b03-4acc-8591-4db5badc001a",
+      "type": "transition",
+      "text": "[Ad break. Time lapse. Still at party at Chandler and Joey’s. Rachel is talking to Chandler and Ross.]"
+    },
+    {
+      "id": "1935548b-073b-4fa2-af61-57c8b03604eb",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Both of them are here, both of them, both of them are here?",
+      "isUncut": false
+    },
+    {
+      "id": "6073ffc1-8714-4036-a952-206ecbc9b81f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, we could count again.",
+      "isUncut": false
+    },
+    {
+      "id": "2aba1635-723c-49ca-8271-7709f85f65bd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I can’t believe this is happening.",
+      "isUncut": false
+    },
+    {
+      "id": "8507cfd5-acb9-402f-b15c-99065b399ba1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You know what, this is ridiculous, ok. This is your birthday, this is your party. I say we just put ’em all together and if they can’t deal with it, who cares.",
+      "isUncut": false
+    },
+    {
+      "id": "97619113-9106-452d-9f14-867c05565f30",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I do.",
+      "isUncut": false
+    },
+    {
+      "id": "cf91b0fb-c911-47b6-b220-6d6f7b405fab",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s who.",
+      "isUncut": false
+    },
+    {
+      "id": "b83c927e-5522-40d4-9059-be40f08e2c7b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Look, are you gonna be ok?",
+      "isUncut": false
+    },
+    {
+      "id": "64abc2d2-944c-4f76-bfe6-d2511c90cbfa",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, I have to be, I don’t really have a choice, I mean, you know, I could look at the bright side, I get two birthday parties and two birthday cakes.",
+      "isUncut": false
+    },
+    {
+      "id": "6f055bd1-724b-496f-8b6f-b29236db2f8a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, actually just one birthday flan.",
+      "isUncut": false
+    },
+    {
+      "id": "240871d6-c5e4-4426-aa36-f504e1fe4c48",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "dbf7bff2-7113-41f9-8f5d-82a6f6954737",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "It’s a traditional Mexican custard dessert…Look talk to Monica, she’s on the food committee.",
+      "isUncut": false
+    },
+    {
+      "id": "fcd95c17-ef8f-416e-9cb2-07491f4af78c",
+      "type": "transition",
+      "text": "[Time lapse. Chandler runs out of the bathroom.]"
+    },
+    {
+      "id": "a8fc375c-ca55-4b46-81dc-bef0a378ac91",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Joey, Joey. Hey, some girl just walked up to me and said, ‘I want you Dennis,’ and stuck her tounge down my throat. I love this party.",
+      "isUncut": false
+    },
+    {
+      "id": "3e33f210-23b6-443c-b330-4c56596d953d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Quick volleyball question.",
+      "isUncut": false
+    },
+    {
+      "id": "90e23da7-ed06-4d6c-8ca4-0575944a3a27",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Volleyball.",
+      "isUncut": false
+    },
+    {
+      "id": "fed0f41a-937b-4373-b8e2-fbc64e55da2f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, we set up a court in your room. Uh, you didn’t really like that grey lamp, did you?",
+      "isUncut": false
+    },
+    {
+      "id": "61d3aa17-fdf8-427f-9a42-e767063165c0",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Joey, a woman just stuck her tounge down my throat, I’m not even listening to you.",
+      "isUncut": false
+    },
+    {
+      "id": "404a23f1-2e11-4cf3-b644-9031d36db19e",
+      "type": "dialogue",
+      "speaker": "Girl’s Voice",
+      "text": "Dennis.",
+      "isUncut": false
+    },
+    {
+      "id": "5f5f17d0-3177-4126-b429-30cb188dd68b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Ok, that’s me. [runs back]",
+      "isUncut": false
+    },
+    {
+      "id": "1d280410-0000-4788-8fd6-710e5338a4a5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Listen honey, can you keep dad occupied, I’m gonna go talk to mom for a while.",
+      "isUncut": false
+    },
+    {
+      "id": "33ccc469-1b59-4c51-97d2-801339899a74",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ok, do you have any ideas for any openers?",
+      "isUncut": false
+    },
+    {
+      "id": "5e4c92da-bcab-469d-8d44-51600a60d3c2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uhh, let’s just stay clear of ‘I’m the guy that’s doing you daughter’ and you should be ok.",
+      "isUncut": false
+    },
+    {
+      "id": "b2fb2c0b-a441-4ad0-9de6-d380b5818588",
+      "type": "transition",
+      "text": "[Back in Monica’s party]"
+    },
+    {
+      "id": "83fc7b2a-f46e-45ac-96f6-3e388e3c286d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok people, I want you to take a piece of paper, here you go, and write down your most embarassing memory. Oh, and I do ask that when you’re not using the markers, you put the caps back on them because they will dry out.",
+      "isUncut": false
+    },
+    {
+      "id": "2fa90b68-b51a-486c-9611-0ee81c6dfba4",
+      "type": "transition",
+      "text": "[Back in Chandler and Joey’s party]"
+    },
+    {
+      "id": "40a2086a-f700-43b9-a4cd-c214f3fb1e41",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi Dr. Green. So, uh, how’s everything in the uh, vascular surgery…game?",
+      "isUncut": false
+    },
+    {
+      "id": "ce01411d-0a30-4669-ab2b-257c464bf72a",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "It’s not a game Ross, a woman died on my table today.",
+      "isUncut": false
+    },
+    {
+      "id": "3e4c1adf-cfe9-4e0a-b064-e81bb1c4a394",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m sorry. See that’s the good thing about my job. All the dinosaurs on my table are already dead.",
+      "isUncut": false
+    },
+    {
+      "id": "62ba1a74-ae45-4b71-ad47-ff09da7422ee",
+      "type": "transition",
+      "text": "[Back in Monica’s party]"
+    },
+    {
+      "id": "8296d9bb-f3a8-4037-9ea6-b0330ca61f29",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Listen you guys, I don’t mean to be a pain about this but, um, I’ve noticed that some of you are just placing them on. You wanna push the caps until you hear them click. [she demonstrates, Gunther starts to walk to the door] Gunther, where’re you going?",
+      "isUncut": false
+    },
+    {
+      "id": "20d1b85a-4a8b-4cf4-acf2-a10423e9e43f",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "I um, was sorta thinking about maybe…",
+      "isUncut": false
+    },
+    {
+      "id": "8eba4dcd-f974-4525-bc9f-0ef48da583d1",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No. No you can’t go. No this is fun. Come on we’re just getting started. Here, here’s your marker.",
+      "isUncut": false
+    },
+    {
+      "id": "63893d3f-3a68-4ffd-b991-12bd9d7fc4e6",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Listen if you wanna go, just go.",
+      "isUncut": false
+    },
+    {
+      "id": "7cfc7cfb-cc0a-40b6-ab89-83c126680e9a",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "No, she’ll yell at me again.",
+      "isUncut": false
+    },
+    {
+      "id": "65674761-9d98-45c2-8bbc-e45d2389e388",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Alright, I can get you out.",
+      "isUncut": false
+    },
+    {
+      "id": "5e7598dd-2c8b-4b43-acac-69c77e90318b",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "68d91beb-5169-447d-9d2f-cc0836881868",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Shh. In a minute, I’m gonna create a diversion. When I do, walk quickly to the door and don’t look back.",
+      "isUncut": false
+    },
+    {
+      "id": "d592944a-ade2-4453-8d10-b7703b91c93b",
+      "type": "transition",
+      "text": "[Back at Chandler and Joey’s party]"
+    },
+    {
+      "id": "84d89039-ea91-46c9-8ef2-3eda0f31a833",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "I think I need a drink.",
+      "isUncut": false
+    },
+    {
+      "id": "cb77eba1-ac7c-4b83-8d8b-ad0bdc63aa7c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, here, I, I’ll get it for ya. Whad’ya want?",
+      "isUncut": false
+    },
+    {
+      "id": "2a501510-f7ed-4aef-9758-6cee42cdb9a4",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Scotch.",
+      "isUncut": false
+    },
+    {
+      "id": "0eb9db99-4b98-4730-9209-5948c200dc88",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Scotch. Alright, I’ll be back in 10 seconds with your scotch on the rocks in a glass.",
+      "isUncut": false
+    },
+    {
+      "id": "c079d3b3-b88a-4e6e-b98f-a72b1aaebe17",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Neat.",
+      "isUncut": false
+    },
+    {
+      "id": "08076400-59c5-4500-9878-2079c198c0f0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Cool.",
+      "isUncut": false
+    },
+    {
+      "id": "1a12bd23-06ae-45e5-8ed9-456f07c66c79",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "No no no, no no no, neat, as in no rocks.",
+      "isUncut": false
+    },
+    {
+      "id": "e80991e0-69f2-4b46-ac77-95176b24a0d7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I know.",
+      "isUncut": false
+    },
+    {
+      "id": "22810f19-6241-49c7-8976-73fae270fe10",
+      "type": "transition",
+      "text": "[Back at Monica’s party]"
+    },
+    {
+      "id": "22d6e01a-7783-4b4c-9e9c-2def8818b6c5",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Oh hello Ross, where have you been?",
+      "isUncut": false
+    },
+    {
+      "id": "5de1cbd5-83fa-4aa7-ac95-6d8d6377082f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi. Uh, I have been in the bathroom. Stay clear of the salmon mousse.",
+      "isUncut": false
+    },
+    {
+      "id": "1b72f0b7-1a3a-4624-826f-59f675ef1105",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Oh, scotch neat. Ya know, that’s Rachel’s father’s drink.",
+      "isUncut": false
+    },
+    {
+      "id": "57d4474d-7dcf-4c6a-8c7a-50f15b5d8624",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, mine too. Isn’t that neat, scotch neat. Would you excuse me? [walks out in the hallway, Mr. Green is walking out of Chandler and Joey’s apartment] Hey, hey, where you uh, sneakin off to mister?",
+      "isUncut": false
+    },
+    {
+      "id": "5fd5d0d6-9b05-420b-8267-a25cbd0d1f8c",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "I’m getting my cigarettes out of my jacket.",
+      "isUncut": false
+    },
+    {
+      "id": "172d995b-6a7c-4049-8dea-4ed08762c096",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No. no.",
+      "isUncut": false
+    },
+    {
+      "id": "d5f14b57-b38d-433e-b322-08a86eca7291",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Whad’ya mean no?",
+      "isUncut": false
+    },
+    {
+      "id": "415689b7-afab-4f73-a13c-d3f22bd43aa6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, um, see ’cause that, that is, that is the staging area. If you go in there, it’ll ruin the whole illusion of the party. Yeah, I think you take your scotch back in there and I will get your cigarettes for you sir.",
+      "isUncut": false
+    },
+    {
+      "id": "d2e32056-c39e-4dbf-aa9e-09c4a9368e86",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Get my glasses too.",
+      "isUncut": false
+    },
+    {
+      "id": "1b14ea0c-8dc8-42cf-9503-ef15033c0772",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All righty roo. [closes the door] What a great moment to say that for the first time. [goes to get the cigarettes and glasses]",
+      "isUncut": false
+    },
+    {
+      "id": "48dd9624-3407-4ec2-88c9-f36d9953d696",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, the first person’s most embarassing memory is, ’monica, your party sucks.’ Very funny.",
+      "isUncut": false
+    },
+    {
+      "id": "e6b5c8c2-72c4-4621-a13a-f92b3222325e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh no, ooh, ooh, did somebody forget to use a coaster?",
+      "isUncut": false
+    },
+    {
+      "id": "fcd64ad0-fbd4-4fba-87d3-e8ae826e86a5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What? [she runs over to where Phoebe is, Phoebe signals for Gunther to go] I don’t see anything.",
+      "isUncut": false
+    },
+    {
+      "id": "52ae55e3-6e42-4a17-a827-0f87610f99f5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Great, I’m seeing water rings again.",
+      "isUncut": false
+    },
+    {
+      "id": "51a7ba14-af66-46ec-801d-f27dc5ed1250",
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "text": "Ross, whose glasses are those?",
+      "isUncut": false
+    },
+    {
+      "id": "d5a199c0-f579-4f6d-9d66-1a65e15982ab",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Mine.",
+      "isUncut": false
+    },
+    {
+      "id": "9385e354-e4f9-469d-9ae0-7b168ca1331f",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "You wear bi-focals?",
+      "isUncut": false
+    },
+    {
+      "id": "ae0b0266-18c4-4116-8552-98d07977fdce",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Um-hmm. [puts them on] I have a condition, apparently, that I require two different sets of focals.",
+      "isUncut": false
+    },
+    {
+      "id": "66e2f9ad-6cfe-4eab-a162-1701a40cf57a",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Did you know my husband has glasses just like that?",
+      "isUncut": false
+    },
+    {
+      "id": "d633f474-6d9a-4856-9a12-f7208b5086c5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well those are very popular frames.",
+      "isUncut": false
+    },
+    {
+      "id": "62207609-3bf6-407c-a87a-2170db395d31",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Neil Sedaka wears them.",
+      "isUncut": false
+    },
+    {
+      "id": "4b337cf3-21e8-4ca8-83a7-c95347d2def4",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "[to Phoebe] I hear you can get people out of here.",
+      "isUncut": false
+    },
+    {
+      "id": "4cfb50a1-2d0c-4c23-97a2-a8fee7ba65c7",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Rachel, you didn’t tell me your boyfriend smoked.",
+      "isUncut": false
+    },
+    {
+      "id": "f028f1c6-b5fa-4438-9cca-8fdcd7f86804",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, like a chimney.",
+      "isUncut": false
+    },
+    {
+      "id": "a6064fbe-a3bc-4e18-a00d-2244e34e938d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Ohh, big smoker. [Packs the cigarettes and flings one on Mrs. Green in the process. Finally gets one in his mouth and it look really out of place] Big big smoker. In fact I’m gonna go ou into the hallway and fire up this bad boy. [as he walks into the hall, he comes face to face with Mr. Green]",
+      "isUncut": false
+    },
+    {
+      "id": "762d375d-e6d9-41f1-8631-8c5847fbe584",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Are you wearing my glasses?",
+      "isUncut": false
+    },
+    {
+      "id": "1ffbcc77-caec-4b31-b101-15b41fd38f9e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes. [pulls them off and hands them to Mr. Green] I was just warming up the earpieces for you.",
+      "isUncut": false
+    },
+    {
+      "id": "44618728-a187-4517-9435-01f7902cf163",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Thank you. Is that one of my cigarettes?",
+      "isUncut": false
+    },
+    {
+      "id": "c5485ce0-3d2e-4225-b287-f4d1f934fdf0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "[pulls the cigarette off his upper lip and hands it to Mr. Green] Yeah, yes it is, I was just moistening the tip.",
+      "isUncut": false
+    },
+    {
+      "id": "69ec698b-588e-49b5-9dda-6611b14c48ff",
+      "type": "transition",
+      "text": "[Back in Monica’s party. Phoebe is talking to a guy and two girls at the party.]"
+    },
+    {
+      "id": "d9ba4ccc-a7d1-4901-a6e8-6831a763f0ab",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ok, ok, she’s taking the trash out so I can get you out of here but it has to be now, she’ll be back any minute.",
+      "isUncut": false
+    },
+    {
+      "id": "0dac10ac-1676-47ee-ac7f-e7b757e7765b",
+      "type": "dialogue",
+      "speaker": "Girl 1",
+      "text": "What about my friend Victor?",
+      "isUncut": false
+    },
+    {
+      "id": "26a6093e-6a2d-48fe-9aed-0daef753ef28",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No, only the three of you, any more than that and she’ll get suspicious.",
+      "isUncut": false
+    },
+    {
+      "id": "bb6c1e84-d2ee-45c6-898e-12f023dd8ef4",
+      "type": "dialogue",
+      "speaker": "Girl 1",
+      "text": "Alright, let me just get my coat.",
+      "isUncut": false
+    },
+    {
+      "id": "e71767c7-055d-4c98-a508-78fd89492d8a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "There isn’t time. You must leave everything. They’ll take care of you next door.",
+      "isUncut": false
+    },
+    {
+      "id": "e299a873-4a3c-4603-95db-30cf0bbeec86",
+      "type": "dialogue",
+      "speaker": "Girl 1",
+      "text": "Is it true they have beer?",
+      "isUncut": false
+    },
+    {
+      "id": "f703ab93-d58f-42d0-97d0-405097f5c015",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Everything you’ve heard is true.",
+      "isUncut": false
+    },
+    {
+      "id": "81e7f567-1fa3-4302-8ef9-63a94f80acc1",
+      "type": "transition",
+      "text": "[Back at Chandler and Joey’s party. Everyone is dancing and having fun.]"
+    },
+    {
+      "id": "bdb88daa-cee3-4977-90c1-86d0a927fbd3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Could you guys please try to keep it down, we’re trying to start a Boggle tournament.",
+      "isUncut": false
+    },
+    {
+      "id": "9703af60-ca2f-4943-81f0-369a4f019aac",
+      "type": "transition",
+      "text": "[Chandler and Joey stop dancing and laugh at her]"
+    },
+    {
+      "id": "0d80faf7-4f83-46bc-a4b7-4a64f525057a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You, and you, you’re supposed to be at my party. And Gunther! What are you doing here?",
+      "isUncut": false
+    },
+    {
+      "id": "e4e7762b-148c-4f96-a582-0d45e5cb3e89",
+      "type": "dialogue",
+      "speaker": "Gunther",
+      "text": "Um [gestures to dance floor]",
+      "isUncut": false
+    },
+    {
+      "id": "ad7e391a-6b3c-4b18-b912-9869b6efd328",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "[enters with the three people she got out] Ok, welcome to the fu-oh.",
+      "isUncut": false
+    },
+    {
+      "id": "5ff0f1f1-af16-4955-921c-142742329b79",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Phoebe.",
+      "isUncut": false
+    },
+    {
+      "id": "4654acc3-d746-4d0a-8fae-17449d8b1a43",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Alright, I’m sorry but these people needed me. They work hard all week, it’s Saturday night, they deserve to have a little fun. Go.",
+      "isUncut": false
+    },
+    {
+      "id": "5908935f-17ca-434f-bf96-feabe486e5c4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ya know, my party is fun. I mean, maybe it’s a little quieter, less obvious sorta fun but, you know, if people would just give it a chance… [volleyball hits her in the head from behind]",
+      "isUncut": false
+    },
+    {
+      "id": "bfad82b3-4da0-42a2-9f33-a3b366c6192d",
+      "type": "transition",
+      "text": "[Back at Monica’s party]"
+    },
+    {
+      "id": "a6c4be94-4c65-48cd-918d-8581eb48e82e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You want me to see a therapist?",
+      "isUncut": false
+    },
+    {
+      "id": "46365c99-f1c8-4f2d-aa02-299a9290c4e2",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Sweetheart, you obviously have a problem. You’ve chosen a boyfriend exactly like your father.",
+      "isUncut": false
+    },
+    {
+      "id": "14891d8f-7ca0-46d2-96fc-f1828fc1cfcc",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ok mom, you know what, fine, I’ll make an appointment ok, but you know what, right now, I gotta go, I gotta go do a thing.",
+      "isUncut": false
+    },
+    {
+      "id": "a5a79b84-91a6-45d3-8e7b-c3131003983f",
+      "type": "transition",
+      "text": "[Chandler and Joey’s party]"
+    },
+    {
+      "id": "48258036-d5e7-4880-97b3-0f83e65cb037",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Did you know your mother spent $1200 dollars on bansai trees. I felt like Gulliver around that place.",
+      "isUncut": false
+    },
+    {
+      "id": "1c70bb3f-f019-4037-b810-79a349585208",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Daddy, daddy, you know what, I really wanna hear more about this, I really do, but I just have, I just have to do a, some stuff.",
+      "isUncut": false
+    },
+    {
+      "id": "4e05cb58-9177-47de-ab5a-ec6979e69d09",
+      "type": "transition",
+      "text": "[Monica’s party]"
+    },
+    {
+      "id": "9c7bd9cb-bb57-42ed-8b9c-260acd8fc6b9",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "You work and you work and you work at a marriage but all he cares about is his stupid boat.",
+      "isUncut": false
+    },
+    {
+      "id": "c997a3a3-4cea-45ec-b46c-905a2ae6a2b4",
+      "type": "transition",
+      "text": "[Chandler and Joey’s party]"
+    },
+    {
+      "id": "b23f2a74-c0c8-4974-90a3-e540d3188f1a",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "You work and you work and you work on a boat…",
+      "isUncut": false
+    },
+    {
+      "id": "e76715f6-ee99-4f94-9f14-2a5feed96866",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "He always ridiculed my pottery classs…",
+      "isUncut": false
+    },
+    {
+      "id": "7db284b0-50d5-4ff3-aaba-ec2a17c499af",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "…and you sand it and you varnish it…",
+      "isUncut": false
+    },
+    {
+      "id": "492d119c-14ba-4187-80e3-924d2fe84418",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "…but when all is said and done, he still drinks out of the mugs.",
+      "isUncut": false
+    },
+    {
+      "id": "0ce72fbc-5de0-4e9c-97d8-224c2ca5bd5e",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "…and her yoga and her Bridges of Madison County…",
+      "isUncut": false
+    },
+    {
+      "id": "89d18fe5-e61c-4cda-87b2-17973f726a19",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "…the scotch and the cigarettes…",
+      "isUncut": false
+    },
+    {
+      "id": "2804594d-5f1d-46fd-a7f7-0e1b3176254d",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "…and the bansai’s and the chiuaua…",
+      "isUncut": false
+    },
+    {
+      "id": "319242b1-3135-4f3f-a545-5f31ad10fa61",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "…I may have only been in therapy for three weeks now dear but…",
+      "isUncut": false
+    },
+    {
+      "id": "c65a02d0-55ac-4586-be1f-17a5d789333f",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "…what the hell does she want with half a boat…",
+      "isUncut": false
+    },
+    {
+      "id": "965f166f-15e6-448e-a661-97f3310e67e8",
+      "type": "scene",
+      "description": "The hallway after the party. Rachel is sitting there."
+    },
+    {
+      "id": "f9db9a6a-43ad-42e3-8bec-605a4c13f618",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "[running out of his apartment after a girl] Ok, ok, you can be shirts and I’ll be skins. I’ll be skins. [sits down beside Rachel] Hey, how you holdin’ up there, tiger? Oh, sorry, when my parents were getting divorced I got a lot of tigers. Got a lot of champs, chiefs, sports, I even got a governor.",
+      "isUncut": false
+    },
+    {
+      "id": "0689a512-9a42-4b8b-9e1c-6b614459a6fa",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "This is it, isn’t it? I mean, this is what my life is gonna be like. My mom there, my dad there. Thanksgiving, Christmas. She gets the house, he’s in some condo my sister’s gonna decorate with wicker. Oh, Chandler how did you get through this?",
+      "isUncut": false
+    },
+    {
+      "id": "eba53c14-cde8-4a8c-99a7-4212e77f84da",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, I relied on a carefully regimented program of denial and, and wetting the bed.",
+      "isUncut": false
+    },
+    {
+      "id": "73dc5e56-1e36-44bb-9e7b-9983e56ae5c0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ya know, I just, so weird. I mean I was in there just listening to them bitch about each other and all I kept thinking about was the fourth of July.",
+      "isUncut": false
+    },
+    {
+      "id": "d4538ce5-8d13-45b0-bcc6-f3fb6da40f80",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Becasue it reminded you of the way our forefathers used to bitch at each other?",
+      "isUncut": false
+    },
+    {
+      "id": "9e5b5bd1-2afa-4b7f-93f5-39f2dfbf01ef",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It’s just this thing. Every year we would go out on my dad’s boat and watch the fireworks. Mom always hated it because the ocean air made her hair all big. My sister Jill would be throwing up over the side and my dad would be upset becasue nobody was helping and then when we did help he would scream at us for doing it wrong. But then when the fireworks started, everybody just shut up, you know, and it’d get really cold, and we would all just sort of smush under this one blanket. It never occured to anybody to bring another one. And now it’s just…",
+      "isUncut": false
+    },
+    {
+      "id": "82b924a5-8d5e-4b63-bd27-409766dd85c4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I, I know. [Hugs her. Ross walks out and Chandler puts her in his arms.]",
+      "isUncut": false
+    },
+    {
+      "id": "f507591a-ea44-4942-92c2-3660f612623b",
+      "type": "scene",
+      "description": "Monica’s party. She is seeing off the last of the guests."
+    },
+    {
+      "id": "03438302-930a-4327-9201-351e3bc29d32",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, thanks for coming, I hope you guys had fun.",
+      "isUncut": false
+    },
+    {
+      "id": "18a0f9b7-a855-4d0f-b6ab-c119ff8dbc88",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Alright, Monica dear, I’m gonna hit the road. Now I’ve left my 10 verbs on the table. And you be sure and send me that finished poem.",
+      "isUncut": false
+    },
+    {
+      "id": "8eb76407-775d-4a52-9d6f-65e2cabc40be",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok will do. So glad you came.",
+      "isUncut": false
+    },
+    {
+      "id": "9c6572b0-8f59-4045-8052-76c539b37690",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "I think I saw Rachel out in the hall.",
+      "isUncut": false
+    },
+    {
+      "id": "ff2e7569-5b24-4efd-b73b-676d0f51f5e3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, let me go check. Your mom want’s to say goodbye.",
+      "isUncut": false
+    },
+    {
+      "id": "846da6d0-3663-4f0b-92df-5d0a9bf19f28",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh ok.",
+      "isUncut": false
+    },
+    {
+      "id": "252e7398-c927-42ed-b44f-8161ec27f854",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Happy birthday sweetie.",
+      "isUncut": false
+    },
+    {
+      "id": "a68b2a3d-87a0-4d40-86fd-40c492eb4a22",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ok.",
+      "isUncut": false
+    },
+    {
+      "id": "52f3ce97-595a-4b60-8bd9-be3bb4e3a34d",
+      "type": "transition",
+      "text": "[Mr. Green opens the door to Chandler and Joeys apartment. Ross sees him and runs to the door forcing him back in then holds onto the door knob.]"
+    },
+    {
+      "id": "91042915-1971-4288-b65b-17e83fb107a8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ahh, you drive safe.",
+      "isUncut": false
+    },
+    {
+      "id": "9b71b833-fc14-4f39-afb7-5442b98ba588",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Ross, what’re you doing.",
+      "isUncut": false
+    },
+    {
+      "id": "34d6568d-7462-4c60-9319-09c27c0b92c0",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m getting ready for the water skiing. [Mr. Green opens the door which pulls Ross in] How are you doing?",
+      "isUncut": false
+    },
+    {
+      "id": "6dc6c7b9-8939-4ce0-b19c-1b5b86b6a48e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, uh, Dr. Green, where are you going?",
+      "isUncut": false
+    },
+    {
+      "id": "eab2b396-f1fe-4f55-8c15-535513f2cade",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "To get my coat.",
+      "isUncut": false
+    },
+    {
+      "id": "b28c2e4f-45bf-477a-960d-7320c0828e13",
+      "type": "dialogue",
+      "speaker": "Guys",
+      "text": "No no no.",
+      "isUncut": false
+    },
+    {
+      "id": "63bc374c-b790-43c6-82c3-c469b62f15e6",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "Alright, alright, I can get my own coat.",
+      "isUncut": false
+    },
+    {
+      "id": "f0ba36d7-b068-49a1-9818-2fbbe1099e0a",
+      "type": "transition",
+      "text": "[the guys form a wall between Mrs Geller and Mr Geller and dance across the hall as he walks across]"
+    },
+    {
+      "id": "c3871617-88ca-4e70-837e-275a0923714d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Sorry, we’re on a major flan high.",
+      "isUncut": false
+    },
+    {
+      "id": "fe81a437-294f-4f3e-a6a0-911b743101f3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh no, you’re not supposed to be here. This is the staging area, you should, it’s all wrong, you should leave, ya know, get out. [opens the door, the guys are right there] Or perhaps you’d like a creme d’menthe.",
+      "isUncut": false
+    },
+    {
+      "id": "a6453645-d94d-40b2-9c66-bef614f17dd5",
+      "type": "dialogue",
+      "speaker": "Mr. Green",
+      "text": "I have to be heading to my chateau, thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "67424773-f601-41f4-a47d-69e4a1dab75e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh all right, then I guess we’re going back into the hallway.",
+      "isUncut": false
+    },
+    {
+      "id": "fc2584a5-e4dd-4495-b09d-583eb3065ce7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Thanks for coming Mrs. Green. [grabs her and kisses her to distract her. She goes limp in his arms. Mr. Green leaves.] Well, ok, you take care.",
+      "isUncut": false
+    },
+    {
+      "id": "3a0b66b9-0679-4116-a8a0-4ac1b669bb3b",
+      "type": "dialogue",
+      "speaker": "Mrs. Green",
+      "text": "Oh, you kids [she caresses his face and chest] Well, this is the best party I’ve been to in years.",
+      "isUncut": false
+    },
+    {
+      "id": "e9d46e65-1cbe-4b9a-9abd-7e2aac671e18",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "9b731a00-49c6-41a7-8cf4-ef90dd260562",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "21650081-ca9e-4511-b27c-f5f06790ae0f",
+      "type": "scene",
+      "description": "Monica and Rachel’s apartment. Close up of the flan on the table with birthday candles."
+    },
+    {
+      "id": "09238754-5226-41a0-8524-eafe85e7c242",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok everybody, it’s time for flan.",
+      "isUncut": false
+    },
+    {
+      "id": "1899ce18-563a-4379-8e86-552e7474bb97",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yup, get ready for the gelatenous fun.",
+      "isUncut": false
+    },
+    {
+      "id": "412f3792-4fce-4abd-8623-a642883d726a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Kinda looks like that stuff you get when you get a bad infection.",
+      "isUncut": false
+    },
+    {
+      "id": "1ee1dbd1-320c-4d15-8f83-a4df2836e4f7",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Ok, that’s enough.",
+      "isUncut": false
+    },
+    {
+      "id": "4ab9adcd-deaf-4690-8ffa-3924678a4268",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ok Rachel, make a special flan wish.",
+      "isUncut": false
+    },
+    {
+      "id": "df4b32e7-ee9a-44dd-b692-d8ec17cb2723",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ok, I’ve got one. [blows out the candles. Somebody calls out ‘heads up’ and the volleyball lands in the flan] Wow, those things almost never come true.",
+      "isUncut": false
+    },
+    {
+      "id": "227b4269-91cb-4955-9518-25e3cf193233",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

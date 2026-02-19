@@ -1,0 +1,2378 @@
+{
+  "season": 6,
+  "episode_number": 18,
+  "episode_title": "619 - The One With Joey’s Fridge",
+  "credits": {
+    "transcribedBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "0e75220e-a357-4ba7-a699-b04400bbaf41",
+      "type": "scene",
+      "description": "Joey and now Rachel’s apartment, Joey has the fridge pulled out away from the wall and is in the process of pulling off the cooling grate behind it."
+    },
+    {
+      "id": "fd1b25a2-77b7-4f9d-b7b3-5c0497a5202f",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well that thing is clearing in the way! All right. Ah-ha! (He grabs a screwdriver and starts to attack the compressor, only he causes a small short circuit and shocks himself.) Ah-ah!! Damn fridge!",
+      "isUncut": false
+    },
+    {
+      "id": "469b4a5a-1abf-4cff-a085-1c55ea14f937",
+      "type": "action",
+      "text": "(Rachel enters from her new room.)",
+      "isUncut": false
+    },
+    {
+      "id": "c993bc20-8478-4a50-a3d7-788299446b83",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi Joey, how ya doin’?",
+      "isUncut": false
+    },
+    {
+      "id": "78e24d9b-0d99-4101-9309-c73edcc2c8c1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Great! Roomie!",
+      "isUncut": false
+    },
+    {
+      "id": "4df8c976-0e7a-42ae-aa59-bd9464de68d8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Huh, yeah I guess we are roommates now.",
+      "isUncut": false
+    },
+    {
+      "id": "af32aa38-3dd0-44cb-8e34-6e62529b0fc0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah! Well, now that you brought it up, our fridge is broken. We have to get a new one. Now, I checked around and your half is $400. Thanks a lot.",
+      "isUncut": false
+    },
+    {
+      "id": "43ecaf22-2143-4a37-8ee6-aee763ab5583",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m not paying for half of that! I’m only staying here until my apartment gets fixed.",
+      "isUncut": false
+    },
+    {
+      "id": "3ef8c923-c489-4e6a-a578-43be442e596c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Look Rach, my parents bought this fridge just after I was born, okay? Now, I have never had a problem with it. Then you show up and it breaks! What does that tell ya’?",
+      "isUncut": false
+    },
+    {
+      "id": "563e49a1-432d-41d3-86cc-d923a9ed790d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That refrigerators don’t live as long as people.",
+      "isUncut": false
+    },
+    {
+      "id": "dc450b78-c1ad-4fba-840e-ce5cf61c9ad1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right, now you know that the ATM will only lets you take out 300 at a time, I’ll take a check for the other hundred.",
+      "isUncut": false
+    },
+    {
+      "id": "67a82ac3-2a90-4463-a870-dc0952078ba5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You’re jokin’ right?",
+      "isUncut": false
+    },
+    {
+      "id": "6f4b3846-bf8d-4f0b-ac82-75554ddcf390",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Of course I’m jokin’! I don’t take checks.",
+      "isUncut": false
+    },
+    {
+      "id": "5919fce0-2b14-4f0e-bc11-46ed4ae9c9f5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Thank God you’re pretty. (Exits.)",
+      "isUncut": false
+    },
+    {
+      "id": "a4fac116-ddac-4e48-a937-68ca12610531",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "302e08a9-6466-468e-8b3c-7a7bdfb2dee5",
+      "type": "scene",
+      "description": "Central Perk, Joey, Chandler, Monica, and Phoebe are there as Rachel enters."
+    },
+    {
+      "id": "1a0b45e9-d5a4-48ce-bfe7-afd0e8556e36",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "c3706715-520d-42f2-9a7c-1df2fc185389",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hi! Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "3182e9aa-8c13-4891-b6e9-18257fb42309",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Do you guys know any cute guys?",
+      "isUncut": false
+    },
+    {
+      "id": "b0c4bd98-2e64-4aa4-be16-cca86fd07408",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, of course I do! My good friend Joey over here. (Pats Joey’s arm, Joey pats Chandler’s shoulder, and Chandler motions for Joey to say the same about him.)",
+      "isUncut": false
+    },
+    {
+      "id": "312c0559-12a2-4158-ab94-83befc9e501c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh, I’m sorry. Thank you Chandler.",
+      "isUncut": false
+    },
+    {
+      "id": "678ada7a-1515-4dc0-859f-ad8f6f37b404",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Anyway, there’s this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go…",
+      "isUncut": false
+    },
+    {
+      "id": "94787368-d006-44ee-8029-7eca9228f14a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What’s the charity?",
+      "isUncut": false
+    },
+    {
+      "id": "7b153443-b661-46f9-99da-c20ff5164417",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know, something either trees or disease—Ralph mumbles a lot.",
+      "isUncut": false
+    },
+    {
+      "id": "6ba646ee-04fe-4bb4-9047-c9f2872ab0c4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Does Ralph mumble when you’re not paying attention?",
+      "isUncut": false
+    },
+    {
+      "id": "2177df28-c4f7-4c16-9cae-fe13136f66bf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah! It’s weird. But the thing is need to find a date.",
+      "isUncut": false
+    },
+    {
+      "id": "9b7d061f-4d5f-408f-b695-19f0d57a7d81",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well, what kind of guy are you looking for?",
+      "isUncut": false
+    },
+    {
+      "id": "c6660676-f7a9-4d1f-83aa-00966ac7e349",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, someone that has his own tux, or has the ability to rent a tux.",
+      "isUncut": false
+    },
+    {
+      "id": "f3243fb4-365e-4270-9cab-d828641ec01c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So he has to be a male who has at least $50.",
+      "isUncut": false
+    },
+    {
+      "id": "02af485e-3b96-4ca1-9df4-676f5b6d4233",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ooh! So close.",
+      "isUncut": false
+    },
+    {
+      "id": "a5bb5ff4-cb90-4624-b3cf-3df2f38ac9d4",
+      "type": "action",
+      "text": "(Ross and Elizabeth enter.)",
+      "isUncut": false
+    },
+    {
+      "id": "94b093a1-fc42-4e02-ac58-362ae93416cb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey everybody!",
+      "isUncut": false
+    },
+    {
+      "id": "898b70f8-4ea3-4b84-b749-f52bc8eb9e83",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "a49ad178-53bf-4358-a4be-a3b9f1209b48",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey uh, this is Elizabeth.",
+      "isUncut": false
+    },
+    {
+      "id": "93dc7746-996b-4cbb-9f4c-4b07015ee851",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh hi!",
+      "isUncut": false
+    },
+    {
+      "id": "4514645d-5206-41ed-b20c-f10fafb5acd5",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "77267168-af8f-4dc8-9cf7-37f682e603d3",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "I’m the student.",
+      "isUncut": false
+    },
+    {
+      "id": "5f0d417e-1060-461b-8fcc-daa003ad53a6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Isn’t she cute? (On Monica’s death stare) No!",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "612e309d-8ddf-4ee1-b6f5-f6be6aedd6df",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Y’know, this is probably none of my business, but weren’t you guys supposed to not be seen in public together?",
+      "isUncut": false
+    },
+    {
+      "id": "2f04ae76-c0c5-4c2f-a45b-41f12f37520f",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh, we’re not together.",
+      "isUncut": false
+    },
+    {
+      "id": "c4d5927d-d981-4d7a-bdf3-d9046c04340d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh no-no-no, we’re just two people who happen to run into each other here at the coffee house. (He winks at her.)",
+      "isUncut": false
+    },
+    {
+      "id": "8d1536f8-be2b-46c9-b9af-5783f94d9540",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, sly.",
+      "isUncut": false
+    },
+    {
+      "id": "ce4fca4b-3700-49fb-a505-f8f0d922fb60",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Well, I really wanted to meet you guys, but I have to run. I’ll see you later?",
+      "isUncut": false
+    },
+    {
+      "id": "4b142b2e-8329-42c4-a56a-4cdde650fb53",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Okay!",
+      "isUncut": false
+    },
+    {
+      "id": "7ea6232e-c3a5-4567-9978-6afa974ba649",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Bye Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "17f43812-7fee-4a1e-b207-b549c097b405",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Bye.",
+      "isUncut": false
+    },
+    {
+      "id": "a4e9b93c-a4ea-49e0-b82c-cfc6c9b90386",
+      "type": "action",
+      "text": "(They kiss.)",
+      "isUncut": false
+    },
+    {
+      "id": "5fec7b4f-90ca-41da-b807-27dd56505c32",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oops! I did not mean to run into you like that sir.",
+      "isUncut": false
+    },
+    {
+      "id": "8cf6beaf-dfc4-4f63-83cc-ce887f03014f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh that is quite all right ma’am. (Elizabeth exits.)",
+      "isUncut": false
+    },
+    {
+      "id": "772af641-d99f-4469-a85e-8cfc75234ec4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So, why is she leaving? Is it a school night and she has a lot of homework to do?",
+      "isUncut": false
+    },
+    {
+      "id": "d462d5fa-784c-4d6f-8539-d3e0d1bdd37f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, her molecular epidemiology paper is due tomorrow.",
+      "isUncut": false
+    },
+    {
+      "id": "1480f6be-c329-4960-b9ea-fa94b8099d73",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh, tell her good luck with that.",
+      "isUncut": false
+    },
+    {
+      "id": "06457b96-f0ff-46be-9217-b5ec98bbd6a1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Anyone else? Huh? Bring ‘em on!",
+      "isUncut": false
+    },
+    {
+      "id": "a6ff967f-cc1d-46e7-8e2b-3188a355f61f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oo! When’s her birthday?!",
+      "isUncut": false
+    },
+    {
+      "id": "c4f20d67-bba3-4cd4-85a9-5055de6e8e67",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I don’t know Rachel, why?",
+      "isUncut": false
+    },
+    {
+      "id": "6bfcc058-b76e-4a40-94a7-3b16d5bd3554",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, y’know it’s just been so long since I’ve been to Chuckie Cheese .",
+      "isUncut": false
+    },
+    {
+      "id": "d78c6937-a73b-473b-ad7d-a65f86c0e97e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, I like Elizabeth.",
+      "isUncut": false
+    },
+    {
+      "id": "3e8ba8cd-e47d-4ea0-bfcd-4d4391b27b07",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well thanks!",
+      "isUncut": false
+    },
+    {
+      "id": "0a897775-ca95-4fd1-9e79-8942d3074653",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah. In fact, I like her so much you tell her I want my cookies early this year! Y’know, a box of Thin Mints and some Tag-a-Longs .",
+      "isUncut": false
+    },
+    {
+      "id": "5dec72d5-2fd9-4488-a52f-993419b3c9b6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey-hey come on you guys, give him a break. Ross, seriously, how’s it going with her?",
+      "isUncut": false
+    },
+    {
+      "id": "ca2f345e-4b01-40a5-865a-75d58cc8b4c3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, actually it’s been great. She’s 20 so she’s not looking for anything too serious, which is perfect for me right now.",
+      "isUncut": false
+    },
+    {
+      "id": "4d5973a8-3d48-4d0b-81a7-df8d939f8d63",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well that is great. And seriously, she seems very nice.",
+      "isUncut": false
+    },
+    {
+      "id": "e3657cb1-f8e3-4068-8196-a848dab030c6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Thanks. I know you guys like to give me a hard time and all, but it really means a lot to me that you like her. Just knowing that you guys are…",
+      "isUncut": false
+    },
+    {
+      "id": "9dbaf10e-de5e-41dc-9218-81710c994fc0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, I got a good one. Okay, umm, what is she? Like 12?",
+      "parenthetical": "interrupting",
+      "isUncut": false
+    },
+    {
+      "id": "2e447fea-2cef-498c-a391-41223a500c50",
+      "type": "scene",
+      "description": "Monica, Chandler, and Phoebe’s, Chandler is sitting at the table and Monica is doing something in the kitchen."
+    },
+    {
+      "id": "ee2e8b3c-328e-4323-8fef-a853f61212dd",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Chandler, do you think we talk about our relationship enough?",
+      "isUncut": false
+    },
+    {
+      "id": "996995c3-27ec-4826-9c65-c25c4b281477",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah. Do we have any Fruit Roll-Ups ?",
+      "isUncut": false
+    },
+    {
+      "id": "00f22f3f-de2a-4474-abda-cf303c78083d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "562281cf-a7b8-4085-9c72-ac2a7517da82",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "465fa463-1feb-4d4f-82c2-f74d151f87ce",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, I just thought of the perfect guy for Rachel to take to her thing.",
+      "isUncut": false
+    },
+    {
+      "id": "e6da2bed-fce2-46ac-9f66-7bd3d5fe240b",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Oh that’s so funny because we found someone too.",
+      "isUncut": false
+    },
+    {
+      "id": "fa5018cd-a96d-474b-8630-2bae056d8385",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh that’s good, I guess she’ll have a choice between my guy and your weirdo.",
+      "isUncut": false
+    },
+    {
+      "id": "dc551043-219f-4474-8550-23f4c01e0247",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Why would our guy be a weirdo?",
+      "isUncut": false
+    },
+    {
+      "id": "e3a2eb6b-bc64-4084-9683-0185ff59c0db",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "‘Cause that’s just your taste.",
+      "isUncut": false
+    },
+    {
+      "id": "fc225f61-471f-46e1-a3b2-429b550d96a2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rachel is not going to pick your stupid guy.",
+      "parenthetical": "laughs sarcastically",
+      "isUncut": false
+    },
+    {
+      "id": "fa9baf8a-5201-4a3d-b8a2-485e235197e9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "64cd843a-cd7a-4d0e-8f1d-be35eb954dfe",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yeah!",
+      "isUncut": false
+    },
+    {
+      "id": "eb884c89-408c-42d5-8d13-a735d727947e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "My guy is a lawyer who has volunteer work. And, he has one of these (She squeezes the skin on her chin together to form…)",
+      "isUncut": false
+    },
+    {
+      "id": "3e3d0f36-4a23-4ad5-92e5-58f79dc0a6be",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "A face ass?",
+      "isUncut": false
+    },
+    {
+      "id": "7e1d3e4d-5011-468a-ba50-09f1c69858c7",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "A chin dimple!",
+      "isUncut": false
+    },
+    {
+      "id": "19fc6650-e68d-4ec3-a0f3-855d1a404b1c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, uh y’know, our guy works with Chandler and he’s really nice and smart and he’s a great dresser!",
+      "isUncut": false
+    },
+    {
+      "id": "8254f4e9-e3f9-48f3-b1d8-d79a69437496",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Have you seen your guy’s body?",
+      "isUncut": false
+    },
+    {
+      "id": "bdd26e62-6afa-490a-81a2-a569d41f9c8d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "No, our guy is just a floating head.",
+      "isUncut": false
+    },
+    {
+      "id": "2e16d2aa-9d47-4c20-8078-3786a42b465a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well my guy is spectacular. Okay? He’s a massage client and one time umm, when he was on the table, I looked at it. And I mean all of it.",
+      "isUncut": false
+    },
+    {
+      "id": "bb362254-ec40-4ae3-8a6a-7c5ac8c5563f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re not supposed to look!",
+      "isUncut": false
+    },
+    {
+      "id": "3796a5b0-3dc5-4204-8caa-53758083e78b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh yeah, like there are police for that!",
+      "isUncut": false
+    },
+    {
+      "id": "5bb1aba1-1a3d-4a6a-bfac-00df2b2925d8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Wait! You look? You-you massaged me.",
+      "parenthetical": "horrified",
+      "isUncut": false
+    },
+    {
+      "id": "a7920fb4-d178-4bf0-8bb8-8275c8ea2afa",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I know. (Laughs.)",
+      "isUncut": false
+    },
+    {
+      "id": "c6fa73b5-91c2-4479-b585-1eac698d7a0f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right fine, your guy may have a great body, but our guy is really funny.",
+      "isUncut": false
+    },
+    {
+      "id": "f8ea12b8-8206-48c3-9794-2678ff2b8bc8",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh, Chandler funny?",
+      "isUncut": false
+    },
+    {
+      "id": "203ba8d8-bcad-4dd0-9bb2-e152f937869c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Our guy’s a great dancer!",
+      "isUncut": false
+    },
+    {
+      "id": "00dc91f1-4c56-4742-8326-9822a77ed739",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "My guy is well read.",
+      "isUncut": false
+    },
+    {
+      "id": "d6e11700-64d4-482e-bcfb-4a674430ef76",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Our guy has great hair.",
+      "isUncut": false
+    },
+    {
+      "id": "bf18bd9f-d590-4e82-afd7-348d1e36eb22",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "My guy has great teeth!",
+      "isUncut": false
+    },
+    {
+      "id": "dc559b41-08a3-47d1-be5d-80cb4ff4608c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Our guy smells incredible.",
+      "isUncut": false
+    },
+    {
+      "id": "aa09d0ab-8ff4-4a01-89fe-b804f77f4a93",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Do you want our guy to be your guy?",
+      "parenthetical": "To Chandler",
+      "isUncut": false
+    },
+    {
+      "id": "e4f7cb78-751e-42f5-b441-0feccc52a532",
+      "type": "scene",
+      "description": "Joey and Rachel’s apartment, Chandler is entering to find Joey bingeing on the food from the fridge. Joey isn’t doing all that well."
+    },
+    {
+      "id": "25d20003-e7f8-4ecf-a3c5-a944aba11b1e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "878a86b2-c72d-4d3b-b8ea-4b919e24fee5",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Huh.",
+      "isUncut": false
+    },
+    {
+      "id": "7ceef5ce-b499-4f9b-9656-6267c49a82d0",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, you…don’t look good Joe.",
+      "isUncut": false
+    },
+    {
+      "id": "fe9fcdb0-e253-42f8-8eb3-4f3fb4669cb0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "The fridge broke. I have to eat everything. Cold cuts, ice cream, limes—Hey, what was in that brown jar?",
+      "isUncut": false
+    },
+    {
+      "id": "5cb0c232-d2ff-45b9-820e-f9196f874bc6",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "That’s still in there?!",
+      "isUncut": false
+    },
+    {
+      "id": "d037b7c8-4ac9-426f-8f8c-55aa5fd7a12d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Not anymore. So anyway, how do you want to pay me?",
+      "isUncut": false
+    },
+    {
+      "id": "7a3ab1da-ed57-493b-b45c-9ec3b0a55ee4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Is this a service you’re providing me?",
+      "isUncut": false
+    },
+    {
+      "id": "8c1387d6-d13a-4644-82d5-427ac9232bdd",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No! No! No! For my new fridge—our new fridge!",
+      "isUncut": false
+    },
+    {
+      "id": "71b033ad-de79-44f9-8b16-c6fbe42f9814",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Our new fridge? I don’t live here anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "c07c11e0-08e0-4056-ac17-1e08e8596a34",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "So what? Look, suppose we were a divorced couple.",
+      "isUncut": false
+    },
+    {
+      "id": "c1fe0a7d-00ca-44e9-86ff-45f820f4edd0",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Uh-huh.",
+      "isUncut": false
+    },
+    {
+      "id": "c82df927-9492-4799-94a8-7f234264bb83",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And I got custody of the kid, right? Now suppose the kid dies and-and I gotta buy a new kid.",
+      "isUncut": false
+    },
+    {
+      "id": "530472cc-7f01-4f4a-9453-4722efb0c939",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay…",
+      "parenthetical": "not quite sure where Joey’s going and is a little worried",
+      "isUncut": false
+    },
+    {
+      "id": "a3092407-6559-4051-bdc0-a385dacc8ccd",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Give me $400!",
+      "parenthetical": "pause",
+      "isUncut": false
+    },
+    {
+      "id": "a3804d79-7646-417e-aff0-70f3f47c7a6d",
+      "type": "scene",
+      "description": "Ross’s office, he’s unlocking his office door as Elizabeth walks up."
+    },
+    {
+      "id": "0ba7d0a7-4661-4693-a153-cc4ca0190a2f",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Professor Geller?",
+      "isUncut": false
+    },
+    {
+      "id": "8f390073-19d3-474e-adf6-5d63e59be7d4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hmm? (Turns around and sees that its Elizabeth) Oh, a student I don’t know.",
+      "isUncut": false
+    },
+    {
+      "id": "e2e1fd39-a474-4b77-a35b-38ea0d000eb6",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "I was wondering if I could talk to you for a moment?",
+      "isUncut": false
+    },
+    {
+      "id": "aed40247-67fa-4109-b2e6-3d880e4c5bfa",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, yes of course, what-what would this be regarding?",
+      "isUncut": false
+    },
+    {
+      "id": "2963a9aa-7fb3-43ff-8ffe-076f546b395a",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Making out in your office.",
+      "isUncut": false
+    },
+    {
+      "id": "3adf0f7f-b13f-49f9-a364-f21a6cd2203a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Shh! (Laughs then composes himself) Of course, why don’t we go inside?",
+      "isUncut": false
+    },
+    {
+      "id": "3865cf5e-068c-4554-83b7-f214fdb9a7a6",
+      "type": "action",
+      "text": "(They go inside and Ross closes the door. When he turns around Elizabeth walks up to him, pushes him back against the door, and starts kissing him.)",
+      "isUncut": false
+    },
+    {
+      "id": "754000f0-d634-4f81-ab8a-7b3cba14837d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh-ooh!",
+      "isUncut": false
+    },
+    {
+      "id": "ebc42f6f-601d-4b61-b2b8-3af9fcd7de91",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "c37c4b22-4fa3-4280-9ebc-1e5e18d4f380",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Doorknob! Doorknob!",
+      "isUncut": false
+    },
+    {
+      "id": "76ac8bc4-401e-4384-a3cd-ebd01876489a",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh! Sorry! Umm, I actually do need to talk to you.",
+      "isUncut": false
+    },
+    {
+      "id": "14d14f24-d6e5-44ce-ac39-494b87c07c35",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, okay. What-what about?",
+      "isUncut": false
+    },
+    {
+      "id": "8e4644bc-ada9-4104-bcad-43a5d1337b26",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Spring vacation.",
+      "isUncut": false
+    },
+    {
+      "id": "27c6cdcb-d2dc-4907-9be1-1176189c737f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Spring vacation.",
+      "isUncut": false
+    },
+    {
+      "id": "68d52717-dc94-427d-a703-18311e2579a6",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Yeah, we have time off and a lot of people are going on trips…",
+      "isUncut": false
+    },
+    {
+      "id": "ad53c080-4c42-44d6-be4d-e786bb0c7585",
+      "type": "action",
+      "text": "(Another professor barges in.)",
+      "isUncut": false
+    },
+    {
+      "id": "fe7ad500-a285-4947-8283-a3e47856243d",
+      "type": "dialogue",
+      "speaker": "Professor Feesen",
+      "text": "Professor Geller!",
+      "isUncut": false
+    },
+    {
+      "id": "fa360925-5b02-4f23-b493-b3b34b3bec41",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes, professor Feesen-sen-stenlger… I’ll be with you in one moment. (To Elizabeth) So, I will take one box of the Thin Mints . (And he ushers Elizabeth out of the office.)",
+      "parenthetical": "quickly jumping away from Elizabeth",
+      "isUncut": false
+    },
+    {
+      "id": "60c71f2a-53f0-4122-99fa-ed1a28108320",
+      "type": "scene",
+      "description": "Joey and Rachel’s apartment, Ross, Chandler, and Joey are entering."
+    },
+    {
+      "id": "5aadf1c4-caa0-456d-aaca-0ed87754fb3a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You don’t understand! Elizabeth was about to ask me to go on a trip with her! Is that taking it slow?! No, I’m not ready for this! Okay? What-what do I tell her?",
+      "isUncut": false
+    },
+    {
+      "id": "d70d4b6e-e044-4997-bddc-2b29d4c08616",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Just tell her the truth! Tell her you’re not ready.",
+      "isUncut": false
+    },
+    {
+      "id": "7944ad88-1808-4b4b-9c06-f18906bc889d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I can do that. Oh-oh, what if she gets upset?",
+      "isUncut": false
+    },
+    {
+      "id": "bbc7947c-b417-4217-9b3b-7f73c5f1efbc",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Then you distract her with a Barbie doll.",
+      "isUncut": false
+    },
+    {
+      "id": "5139338c-a47c-46a8-b147-c46f11e363d1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Or! You can just, y’know… (He walks up close to whisper in Ross’s ear and when he gets there he pushes Ross into the fridge.)",
+      "isUncut": false
+    },
+    {
+      "id": "c2dde227-0839-4761-a780-c34af104f461",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What the hell are you doing?",
+      "isUncut": false
+    },
+    {
+      "id": "c93a12f2-fc18-4907-8a79-ab89f76de94c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What? What the hell am I doing? You just broke my fridge!",
+      "isUncut": false
+    },
+    {
+      "id": "588a6768-2922-46eb-b48a-ca3ea19d1f5e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?! What? How do you, how do you even know its broken?!",
+      "isUncut": false
+    },
+    {
+      "id": "6feb71cd-788d-4053-a572-57964387258b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh-ho-ho, you think I don’t know what breaks my fridge? Excuse me! (He opens the door and feels inside.) Well what do you know! Broken! That’ll be $400!",
+      "isUncut": false
+    },
+    {
+      "id": "34cd24ef-6c8c-489b-8833-778a7db7572a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Joey, I saw you push him!",
+      "isUncut": false
+    },
+    {
+      "id": "3d2b11be-175e-4c0c-bf01-c27182bb6a5e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You pushed him!",
+      "parenthetical": "pause",
+      "isUncut": false
+    },
+    {
+      "id": "b14a179c-eeb1-47b1-8c5b-279d27f3879f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Joey, I did not break this! Okay? (He opens the freezer and smells inside and recoils in disgust.) That has been broken for a while.",
+      "isUncut": false
+    },
+    {
+      "id": "31436ec1-f01d-4b61-a710-d272119614e7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right. Chandler, do you remember how I told you about our fridge?",
+      "isUncut": false
+    },
+    {
+      "id": "1ade8462-c836-4687-bdd5-d0be5e370801",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Uh-huh.",
+      "isUncut": false
+    },
+    {
+      "id": "0ed823ec-080c-4c22-97a7-802e670f1d40",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I still haven’t gotten a check for your half yet.",
+      "isUncut": false
+    },
+    {
+      "id": "cb5888a3-80c1-4d06-802a-a520a138fb4c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Do not give him any money!",
+      "isUncut": false
+    },
+    {
+      "id": "b0b6905f-3436-4d20-9334-0e433f268624",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I’m not talking to you! You broke my fridge!",
+      "isUncut": false
+    },
+    {
+      "id": "b98d0edc-1ec0-4ad5-ab6e-46458680d19f",
+      "type": "scene",
+      "description": "Ross’s office, he’s opening the door to Elizabeth."
+    },
+    {
+      "id": "00939108-3721-4338-a7d7-28e83cf8e24a",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "You wanted to see me Professor Geller?",
+      "isUncut": false
+    },
+    {
+      "id": "a528bd2d-2341-47ee-ae4a-55aaf1fd7d4e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yes. Yes! Please, come in.",
+      "isUncut": false
+    },
+    {
+      "id": "ddd9c0c8-6f33-4786-b850-9b4b2ba5410d",
+      "type": "action",
+      "text": "(She does so, he closes the door, and she pushes him against the doorknob again.)",
+      "isUncut": false
+    },
+    {
+      "id": "f93615c5-bdb5-491e-8cef-caec9a1d990f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oo-oo!",
+      "isUncut": false
+    },
+    {
+      "id": "3d35ebd4-dec8-4e91-80aa-51e212db0d40",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Doorknob?",
+      "isUncut": false
+    },
+    {
+      "id": "94f579fa-3eca-4cd1-8df9-ad71b9734736",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, it kinda grows on you. (They both laugh.) Actually, I wanted to finish talking to you about uh, spring vacation.",
+      "isUncut": false
+    },
+    {
+      "id": "a47b1175-6543-45c0-be3c-f5cbe67e67e9",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh good.",
+      "isUncut": false
+    },
+    {
+      "id": "f8315644-490f-4be7-8600-d8cafe8cfd9a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Look, I… (He has trouble sitting in his chair.) Look, I’m having a great time with you and I just don’t want us to move to fast or put to much pressure on us. So, I’m sorry I just don’t think we should go away together yet. It’s-it’s too soon.",
+      "isUncut": false
+    },
+    {
+      "id": "b2c93147-bdb1-44da-8ac0-edb2cd6136ab",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Ross, I think you misunderstood what I was saying. I just wanted to tell you that I’m going to Florida for a couple weeks.",
+      "isUncut": false
+    },
+    {
+      "id": "7502c6ef-f63e-4695-9cef-ca0e9372863f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No. I think you misunderstood what I was saying. What I meant was…",
+      "isUncut": false
+    },
+    {
+      "id": "515639da-2da8-4cf6-882f-891bb60d9564",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "You are so adorable.",
+      "isUncut": false
+    },
+    {
+      "id": "68ca7597-50d0-48ae-92e2-4dd6fb338c59",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That! Let’s talk about that.",
+      "isUncut": false
+    },
+    {
+      "id": "f05d1024-73b0-4216-afc0-4ae345c139d0",
+      "type": "scene",
+      "description": "Central Perk, Monica, Chandler, and Phoebe are there as Ross enters."
+    },
+    {
+      "id": "cee4bc9c-8782-42c7-8204-e91ccaec79ce",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "589cdaf8-d618-4e51-8ffb-c97b47cdff61",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "7041b558-b025-4359-a210-d1ad73a4c0dd",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "db58f1c2-c20f-4bae-af73-f5504f858cb2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey! How did it go with Elizabeth?",
+      "isUncut": false
+    },
+    {
+      "id": "48c02ccc-f78c-47ef-8ed6-93e4ff57effe",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Huh? Oh-oh, it was fine. Uh, it was just a misunderstanding. She didn’t want me to go with her. She just wanted to let me know that she’s going to Florida for spring vacation.",
+      "isUncut": false
+    },
+    {
+      "id": "27eac05f-6a44-4fd2-b3f1-03fc48a38bbb",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Wait a minute, is she going for spring vacation or is she going for spring break? (Does a little whooping/party noise.)",
+      "isUncut": false
+    },
+    {
+      "id": "63233296-2deb-4cf9-a635-2be461ea60b8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What’s-what’s the difference?",
+      "isUncut": false
+    },
+    {
+      "id": "674cdef1-3a25-4c89-8ef8-b674d762d62e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, spring vacation is doing nice things with your grandparents. Spring break you’re doing frat guys.",
+      "isUncut": false
+    },
+    {
+      "id": "a0376bb2-0ce4-4edf-b0a0-8a9722ebe30a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, y’know what? Not all spring breaks are like that.",
+      "isUncut": false
+    },
+    {
+      "id": "f1199df4-f604-453c-88d6-4f66716a91ca",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What did you do on yours?",
+      "isUncut": false
+    },
+    {
+      "id": "27d620da-ae05-45c0-8ec2-b9b9d6fe872c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I went to Egypt with my dad.",
+      "isUncut": false
+    },
+    {
+      "id": "7a65d107-1da5-4299-a618-961f0e9bb5af",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I can see it now, “Look dad, it’s the Sphinx!” (Does that party noise again.)",
+      "isUncut": false
+    },
+    {
+      "id": "17237a95-b267-4574-a5f5-13218772faae",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, I think Elizabeth is a little more serious than, “Spring break!” (Imitates the party noise.) All right? I mean she’s taken my class!",
+      "isUncut": false
+    },
+    {
+      "id": "49ec5f7c-4cda-441f-a0b8-3b82aa4da96f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "And slept with the professor.",
+      "isUncut": false
+    },
+    {
+      "id": "baa2d001-4a8d-4132-8ac8-b68b947f4b30",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m gonna call her.",
+      "isUncut": false
+    },
+    {
+      "id": "d18666fb-78b9-493f-97b1-1ba50bb37d07",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "717e2faf-2890-4766-8b00-6d47789c4143",
+      "type": "action",
+      "text": "(Ross leaves to do so and Rachel enters with a guy.)",
+      "isUncut": false
+    },
+    {
+      "id": "54a60911-38e1-4c49-a6cf-f5ba264b6764",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey! You guys umm, I want you to meet Sebastian.",
+      "isUncut": false
+    },
+    {
+      "id": "556811fd-12ef-4252-abbd-49d3962230eb",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "c765633f-dee3-4797-a0da-d3a14c916ead",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "We just uh, we just met at the newsstand. We both grabbed for the last Field &amp; Stream . (Chandler’s shocked.) What? I read that.",
+      "isUncut": false
+    },
+    {
+      "id": "3f9acd98-deb7-4dad-8b0d-c57611b1d61d",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Can I get you a cup of coffee?",
+      "isUncut": false
+    },
+    {
+      "id": "da4fa2cb-5ff6-4920-8281-db294acdec2d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh yes! Thank you! (He does so and Rachel sits down on the couch.)",
+      "isUncut": false
+    },
+    {
+      "id": "7c5edb07-ffff-4513-81e6-161df76643b0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rachel, what the hell is this?!",
+      "isUncut": false
+    },
+    {
+      "id": "9a69f650-c67e-414b-b1e8-09d73670a37d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "47fbd89f-197f-48fe-9e0f-07b7616aedbf",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "You ask us to find you a guy and you come traipsing in here with your own!",
+      "isUncut": false
+    },
+    {
+      "id": "e4246dff-4fe8-48f0-9c71-972b0947cc21",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You found me a guy?",
+      "isUncut": false
+    },
+    {
+      "id": "d2cbac04-1108-4e50-b0de-ec4f0a3c04b5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Yes! We found you a really cute and funny guy from Chandler’s work!",
+      "isUncut": false
+    },
+    {
+      "id": "9a90a3a5-7dfd-4b2a-ac54-2a3dfc984890",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah and I-I found you one too who is not a weirdo.",
+      "isUncut": false
+    },
+    {
+      "id": "43cf84b8-3581-4d45-be50-bb70d902bbba",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, y’know what though you guys? I really appreciate that but I think I’m just gonna take Sebastian to the charity.",
+      "isUncut": false
+    },
+    {
+      "id": "ba43ad63-7f95-43a4-a319-6e6c048f44aa",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Are you sure?! Because our guy smells incredible!",
+      "isUncut": false
+    },
+    {
+      "id": "d02b5ee4-b082-4bac-8c31-a13c9e3e6f1e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Uh, would you stop it with that already?!",
+      "isUncut": false
+    },
+    {
+      "id": "f756b460-8932-4149-a23b-f8cd0e821748",
+      "type": "action",
+      "text": "(Sebastian returns with the coffee.)",
+      "isUncut": false
+    },
+    {
+      "id": "e70cb95a-c0aa-42e3-a72f-91b39abfc3cc",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Here you go. (Hands her, her cup.)",
+      "isUncut": false
+    },
+    {
+      "id": "10912c9b-b319-4add-9439-b4a6e28ea029",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "e674f682-d239-44cb-9b9e-189dae841856",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Sure.",
+      "isUncut": false
+    },
+    {
+      "id": "cb83b649-86bf-40a8-9092-ea673b86ba28",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "So, Sebastian, do you do any volunteer work?",
+      "isUncut": false
+    },
+    {
+      "id": "0fd08335-f7e4-4f0d-bc0f-1c4cd2858196",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Uh, no not really. Why?",
+      "isUncut": false
+    },
+    {
+      "id": "e6c27305-e745-485c-92a3-7fae5890b622",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No reason, it’s just I know a single guy that cares about other people.",
+      "isUncut": false
+    },
+    {
+      "id": "39418d08-17a3-481c-a344-f006c6ba3ade",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Are you funny?",
+      "isUncut": false
+    },
+    {
+      "id": "cecbc093-18d8-4af7-804d-44a7ff5ace36",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Excuse me?",
+      "isUncut": false
+    },
+    {
+      "id": "2e52f57d-4e8a-455c-8664-949b7c0e9d00",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What are you guys doing?",
+      "isUncut": false
+    },
+    {
+      "id": "386dbce3-1c30-4d6d-9a8b-a7f5d30145e5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Are you funny? Tell us a joke!",
+      "isUncut": false
+    },
+    {
+      "id": "c27c266a-c1a8-4459-a592-2d532d353784",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Look, I just wanted to have coffee with Rachel.",
+      "isUncut": false
+    },
+    {
+      "id": "91bc63ec-7ab0-4cdf-ba08-fe509ece5965",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well, so do a lot of people.",
+      "isUncut": false
+    },
+    {
+      "id": "a3c55608-0835-4387-9863-509d5c41dfde",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Actually, I uh, I gotta get going. (To Rachel) Give me a call sometime.",
+      "isUncut": false
+    },
+    {
+      "id": "f89ce8a5-a5c8-43b6-851c-67129672ab4c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, but y’know, no, you didn’t give me your phone number.",
+      "isUncut": false
+    },
+    {
+      "id": "82491e90-fd7b-40b3-b3be-e9593c1995bb",
+      "type": "dialogue",
+      "speaker": "Sebastian",
+      "text": "Okay! See you later! (Exits.)",
+      "isUncut": false
+    },
+    {
+      "id": "6294f6ba-7b58-4423-9b2b-c38083d3330e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Turns out he is kinda funny.",
+      "parenthetical": "To Monica",
+      "isUncut": false
+    },
+    {
+      "id": "5629eb6d-9641-47e8-87f1-8b60855d0fd3",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "d7c14d1c-2e57-4f1d-acf6-7d6065b7a4d5",
+      "type": "scene",
+      "description": "Central Perk, continued from earlier."
+    },
+    {
+      "id": "ace25e7e-8bba-40a0-9ec4-36537e1005ed",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I cannot believe you guys! He was really nice and he left because of you!",
+      "isUncut": false
+    },
+    {
+      "id": "d00f128d-30df-4cda-a821-5a9378de5b74",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, but Sebastian? What is that? A cat’s name?",
+      "isUncut": false
+    },
+    {
+      "id": "642261ea-ec83-4b53-be4d-690513492caa",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, y’know what I noticed Rachel? He scares easy. Is that the kind of guy you’d like to take to a ball? “Hey Sebastian, would you like to dance?” (Imitates him.) “Uhh, okay—I gotta go!”",
+      "isUncut": false
+    },
+    {
+      "id": "9679dd7b-4457-40d3-9679-2ac90a14d231",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right guys stop it. Rachel, we’re very sorry that is a very insensitive thing for us to do. And y’know what? Let us make it up to you, we have two really great guys for you.",
+      "isUncut": false
+    },
+    {
+      "id": "0201b2b7-0f57-4b5c-9cef-a90828ed7dc1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah! What have you got to lose? Y’know you might even end up with someone really special (whispers) if you pick my guy.",
+      "isUncut": false
+    },
+    {
+      "id": "e90b150e-a191-43ee-9f27-7a203ff8fb25",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "All right.",
+      "isUncut": false
+    },
+    {
+      "id": "15e7bad0-509e-47ea-81cc-589bd3a30aa2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay, so you will meet our guys?",
+      "isUncut": false
+    },
+    {
+      "id": "606d7865-4ff2-4078-86f1-8ff9123eeac1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yes, I’ll meet ‘em.",
+      "isUncut": false
+    },
+    {
+      "id": "7edb87af-bfa0-4d1e-a42b-78d23438c94c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Okay now it doesn’t matter which one you choose, y’know? It’s completely up to you. Our guy is perfect, or you can go out with the guy Phoebe deemed not good enough to go out with herself.",
+      "isUncut": false
+    },
+    {
+      "id": "65dc8dcd-3192-4851-94b4-0bd0e6ad8092",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Pheebs! There you are! Okay, you broke my fridge; you owe me 400 bucks!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "56deb27e-79b7-472b-9ac2-a2a70a7c57e1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay sure!",
+      "isUncut": false
+    },
+    {
+      "id": "8983ab9e-f9fb-4d6c-ad1f-da5ad10d28c4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Really?!",
+      "isUncut": false
+    },
+    {
+      "id": "f178e7f0-b88f-46ad-90e0-d30d3d18422c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ooh, technically you owe me $600 for sending out happy thoughts on your last ten auditions.",
+      "isUncut": false
+    },
+    {
+      "id": "37c474f6-efd7-4e7c-891a-bda9a13e8552",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Call it even?",
+      "isUncut": false
+    },
+    {
+      "id": "3ccc395e-f90b-49d3-aabe-0d6d95db435a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "d6b8158f-f2f4-453a-af85-92be48fd9455",
+      "type": "action",
+      "text": "(Ross returns.)",
+      "isUncut": false
+    },
+    {
+      "id": "74e0a116-dec9-497b-abe0-23e31e6b2241",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, there you are! So what did Elizabeth say?",
+      "parenthetical": "To Ross",
+      "isUncut": false
+    },
+    {
+      "id": "ec8b9ad6-50c9-4046-a87f-c1d0b5f1e06b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, it turns out that she is going to Daytona for spring break woo-hoo. That means, that means wet T-shirt contests, guys doing shots off of girl’s bodies, waking up next to people you don’t even know…",
+      "isUncut": false
+    },
+    {
+      "id": "e2e6f045-d313-486f-a8ad-ade15f344574",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Man, she is going to have a great time! Is she staying at the Hotel Corona?",
+      "isUncut": false
+    },
+    {
+      "id": "4a05a826-526d-4b4e-94fb-f312091e6396",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "You know the hotels?",
+      "isUncut": false
+    },
+    {
+      "id": "1877c73d-1dbd-4dcd-864c-d0ac8fb281d4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Sure! I was there! Spring Break ’81! Woo-hoo!",
+      "isUncut": false
+    },
+    {
+      "id": "807ff365-9c8c-4ed4-a04e-95a17a75aae0",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "In 1981 you were 13!",
+      "isUncut": false
+    },
+    {
+      "id": "c6c7360c-70a8-4d81-8faa-fa7310954cda",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "So what? I drove down, sold T-shirts, had a blast. And y’know who knows how to party? Drunk college chicks.",
+      "isUncut": false
+    },
+    {
+      "id": "e7a6eaef-0ff7-4f82-ba46-c22b664cd43b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay, she can’t go.",
+      "isUncut": false
+    },
+    {
+      "id": "8326ae3e-e746-4659-afaa-8bee415a4c73",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ross, you can’t tell her not to go. You just started dating.",
+      "isUncut": false
+    },
+    {
+      "id": "3c23e63e-7b06-47db-91e6-7ecfed75c09f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Then what am I supposed to do?",
+      "isUncut": false
+    },
+    {
+      "id": "214e5180-b005-4bed-a969-e038342c847e",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Nothing, you just have to be cool with it.",
+      "isUncut": false
+    },
+    {
+      "id": "fbb955c4-07ba-45c0-9c43-c4a5cc86deae",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, what is she goes down and-and sleeps with a bunch of guys?",
+      "isUncut": false
+    },
+    {
+      "id": "79381622-c3b0-4a3d-b369-412fa1e90d91",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, maybe you don’t marry this one.",
+      "isUncut": false
+    },
+    {
+      "id": "9761e6c5-8ad8-4303-8550-17e6b072b71d",
+      "type": "scene",
+      "description": "Elizabeth’s apartment, she is packing for her trip as Ross watches."
+    },
+    {
+      "id": "2e9bd635-9e3f-4aa6-9dfb-879f02d8916b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’m so glad you’re going on this trip!",
+      "isUncut": false
+    },
+    {
+      "id": "22c15976-fe15-4693-89a6-24763b2a77d9",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Yeah! I’ve been working so hard this semester. I really need to go crazy y’know, blow off some steam.",
+      "isUncut": false
+    },
+    {
+      "id": "352273bf-7e74-479c-95c9-9f95d3dca4a9",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Sure. Sure. Look I don’t, I don’t know if your plans are finalized yet, but umm, hey I-I know another great way to blow off steam.",
+      "isUncut": false
+    },
+    {
+      "id": "a292bb8b-3707-4cae-829a-ff07c8d259a5",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "abf4ab39-932f-4d66-9177-4e5ed57377a3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Are you into crafts at all?",
+      "isUncut": false
+    },
+    {
+      "id": "768fc1e6-9401-4995-9023-baeee722f192",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Ross, are you okay?",
+      "isUncut": false
+    },
+    {
+      "id": "9afc212b-4273-48cc-ba3a-6faa43cd0d17",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, yeah, of-of course I’m okay! What? I’m just being supportive. Supportive of you and this whole trip, and-and (notices something) what-what is uh, what’s this? (He holds up a rather skimpy bathing suit.)",
+      "isUncut": false
+    },
+    {
+      "id": "b3bd697e-fb52-4e9a-a2c6-0174d71fc449",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "It’s a bathing suit?",
+      "isUncut": false
+    },
+    {
+      "id": "cc4bdfd9-9a48-4ac1-9a66-e022dd3eca44",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "To wear in front of people?",
+      "isUncut": false
+    },
+    {
+      "id": "929784b9-7589-4a85-86f3-863de8499632",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Is that supportive?",
+      "isUncut": false
+    },
+    {
+      "id": "c7590de8-fe77-42e8-b73a-b70f64e2d811",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Is this?!",
+      "isUncut": false
+    },
+    {
+      "id": "9e1c4dad-87e2-48ff-a15f-fc1a6ceff6a1",
+      "type": "scene",
+      "description": "Central Perk, Rachel is reading as Monica and Chandler enter."
+    },
+    {
+      "id": "a71772ec-d6c0-451c-8346-744d745354a3",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "4649aa92-d2d9-4527-8a2f-ab730535ecda",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Good-good-good-good.",
+      "isUncut": false
+    },
+    {
+      "id": "2b6c88ca-50c6-405a-9936-881dcdf33202",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "5649338f-82b7-466b-b116-526bce6e9ec8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "b148a7a9-4a36-44d6-958d-99506c542a54",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hi!",
+      "isUncut": false
+    },
+    {
+      "id": "5a98a9d4-8ca0-4334-b3c0-a13b77c1bbb9",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "We’re really glad you decided to meet our guy.",
+      "isUncut": false
+    },
+    {
+      "id": "f09a3976-779b-4579-8dde-8c6be4436a8c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh…",
+      "isUncut": false
+    },
+    {
+      "id": "2e28c270-3f07-440a-9415-4759c6d40d90",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "You’re gonna like him so much. So umm, when do you want to meet him?",
+      "isUncut": false
+    },
+    {
+      "id": "9771a987-68cb-486e-ae93-2f4a03e9f8d9",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I don’t know. I know I don’t work late tomorrow night.",
+      "isUncut": false
+    },
+    {
+      "id": "f2a2604b-2905-4cfd-a24d-2dac270337f4",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Tomorrow night is good. Tomorrow night is good, but uh, y’know what? Why put off something till tomorrow that you can do right now? (Laughs) Eldad come here! (He stands up from the next table.)",
+      "isUncut": false
+    },
+    {
+      "id": "08e736fd-1166-426c-bdff-91e230176419",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "22c5ad23-4366-4fa7-8855-e51b27dacb46",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Eldad, this is Rachel.",
+      "isUncut": false
+    },
+    {
+      "id": "5baf2c5b-fb41-4b92-a35b-807b3224926d",
+      "type": "dialogue",
+      "speaker": "Eldad",
+      "text": "How are you?",
+      "isUncut": false
+    },
+    {
+      "id": "60f7a5c3-4c0e-4c01-aad3-331ac1a8f307",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well-well a little blind sided but y’know good.",
+      "isUncut": false
+    },
+    {
+      "id": "2a8a132d-4546-4f6e-a9e8-4af657439755",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Eldad, sit down. (To Rachel) Move over! Move over now!",
+      "isUncut": false
+    },
+    {
+      "id": "b977ed0c-c77b-4b98-b2b2-ceb29de6861f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I—Ohh! (Moves over and lets Eldad sit on the couch.)",
+      "isUncut": false
+    },
+    {
+      "id": "6cc33062-8671-499d-9757-dcd7808a05ba",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "There you go! There you are! (Rachel stares at Monica and Chandler)",
+      "isUncut": false
+    },
+    {
+      "id": "e7cd066e-9d11-458f-997e-b66a2b3a091f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay! Okay! We can take a hint! (They start to leave but run into Phoebe with her guy in tow.) (To Phoebe) What are you doing here?!",
+      "isUncut": false
+    },
+    {
+      "id": "42f68e85-982c-481e-93c7-7eb3d4a2712c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "This is Patrick. (Points to him.)",
+      "isUncut": false
+    },
+    {
+      "id": "c7ec3de7-4a23-487d-97e2-1385dda9a1b3",
+      "type": "dialogue",
+      "speaker": "Patrick",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "e62b02cd-36a6-4f32-9c66-50b9ed9be86e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hi. (To Phoebe) Okay, you’re too late okay? Because she’s already with our guy.",
+      "isUncut": false
+    },
+    {
+      "id": "486442ab-8527-4e7f-b85a-734423a12c6a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh my God, you’re right! I am too late; they’re sitting on the couch and talking! (To Patrick) Come on! (They go over to the couch.) Rachel?",
+      "parenthetical": "looks",
+      "isUncut": false
+    },
+    {
+      "id": "9f6850ca-851d-4ea9-adab-595f78a9fe1e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "987a376d-f6de-4c42-b563-7ac8a5d3a0f3",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "This is Patrick.",
+      "isUncut": false
+    },
+    {
+      "id": "58f3152d-02ae-43c7-984a-bea341952a22",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh, hi.",
+      "isUncut": false
+    },
+    {
+      "id": "ebd9cc11-30d5-4cf0-9936-2c681cb4ceac",
+      "type": "dialogue",
+      "speaker": "Patrick",
+      "text": "Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "08ac9f3e-4b97-4ac2-9297-80874f4ac120",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, this is the guy I was telling you about.",
+      "isUncut": false
+    },
+    {
+      "id": "235d1447-12ec-4e49-99b3-52e923c2ed19",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "9c28825c-6b31-4214-85ac-ae0bd7776933",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah. And believe me, this suit does not do justice to what’s underneath it.",
+      "isUncut": false
+    },
+    {
+      "id": "4fbba955-bb37-4b5a-a720-025493f87cdd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh-okay, but Pheebs?",
+      "isUncut": false
+    },
+    {
+      "id": "b9fdc845-d760-472d-b93a-13523bb22e42",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "6e5a1f7f-1d74-4db9-87a5-1a6b31890ea5",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m just sort of in the middle of something.",
+      "isUncut": false
+    },
+    {
+      "id": "7dd9f19a-3cdf-4d7d-b8b7-de38e5fd92ba",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh! Okay! Yeah, that’s okay. (To Patrick) Have a seat. (Sits Patrick down next to Rachel.)",
+      "isUncut": false
+    },
+    {
+      "id": "51b7bde5-5d1d-4a60-beff-e023303e9b3b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "No! You can’t do that!",
+      "isUncut": false
+    },
+    {
+      "id": "3eff7708-040a-4541-8de1-5302ac3f82a7",
+      "type": "dialogue",
+      "speaker": "Eldad",
+      "text": "Maybe I should go!",
+      "isUncut": false
+    },
+    {
+      "id": "d830f7b4-0ddf-450a-9e30-cff16eb13554",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Sit down! We’re winning!",
+      "parenthetical": "stopping him",
+      "isUncut": false
+    },
+    {
+      "id": "fabfec43-d3c8-4965-a3a1-1215e80acde0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, y’know what? Maybe I should go!",
+      "isUncut": false
+    },
+    {
+      "id": "9bd30328-28b3-4092-ad62-78740b8f7a47",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "No-no-no-no! Have a seat! Have a seat!",
+      "parenthetical": "Chandler stops her",
+      "isUncut": false
+    },
+    {
+      "id": "20834744-771b-49e7-a441-03af523ed302",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Rachel! Rachel! You haven’t touched Eldad’s hair!",
+      "isUncut": false
+    },
+    {
+      "id": "a2aba918-04ce-4acd-9b81-8fc214cecb86",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "It is the softest hair! Touch it! (Both he and Monica do so.)",
+      "isUncut": false
+    },
+    {
+      "id": "a36bd021-b1fe-4fb6-853e-89617de19144",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, I’m good.",
+      "isUncut": false
+    },
+    {
+      "id": "f02a0166-24da-4309-87a4-c5b7a20becb8",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rachel? Patrick is really rich. (To Patrick) Give her some money.",
+      "isUncut": false
+    },
+    {
+      "id": "ad6aa1f8-a0c4-4fee-a6f8-387904d79ad9",
+      "type": "dialogue",
+      "speaker": "Patrick",
+      "text": "Y’know what Phoebe? This isn’t really worth the free massage.",
+      "isUncut": false
+    },
+    {
+      "id": "60a08fe5-afdb-4d61-9323-af3888ec28c2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That’s right Patrick, bye-bye!",
+      "isUncut": false
+    },
+    {
+      "id": "3afa869e-e742-4c4d-9e4b-1bd92f1897e1",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Eldad is much more cooperative! And he can dance! (To Eldad) You dance for Rachel!",
+      "parenthetical": "To Rachel",
+      "isUncut": false
+    },
+    {
+      "id": "d0d464bf-3748-4c7a-9b17-fe1d9af2acf8",
+      "type": "action",
+      "text": "(He starts to get up, but Rachel stops him.)",
+      "isUncut": false
+    },
+    {
+      "id": "9dbaf0d8-1dff-4460-abc8-61208b548987",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No-no! Don’t dance for me! Please? Don’t! (She gets up to yell at her ‘friends.’) What is the matter with you guys?",
+      "isUncut": false
+    },
+    {
+      "id": "673a645b-db09-4b58-a344-e7ad8b9e80b1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, okay, let’s talk it out.",
+      "isUncut": false
+    },
+    {
+      "id": "c940d0ab-41cb-4f30-8138-5005c296ff81",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I… Am I the only one that this is embarrassing for?",
+      "isUncut": false
+    },
+    {
+      "id": "dc522cf1-1965-4e06-b563-7613d5c076ee",
+      "type": "dialogue",
+      "speaker": "Eldad",
+      "text": "I’m a little embarrassed. (Chandler shushes him.)",
+      "isUncut": false
+    },
+    {
+      "id": "ec2ff877-a6c1-402f-a0ce-9839bd9edd6b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’ll tell ya who should be embarrassed! It’s you guys! Come on! This is ridiculous! Thank you very much, but I do not need you to get me a date!",
+      "isUncut": false
+    },
+    {
+      "id": "fe9a8bc7-3915-4d33-80d6-5a8bd3408152",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Then why did she ask us to…",
+      "isUncut": false
+    },
+    {
+      "id": "2e7057ad-6d07-4139-b4b5-84c9163ec223",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I am still talking!! And then you chase away the one guy that I actually liked! I mean, no offense to you guys. Really! I mean (To Patrick) congratulations on all the cash, (He nods) and-and y’know—(Feels Eldad’s hair)—Wow! You do have very soft hair! But I would much rather go to the ball all by myself than go through anymore of this! Good-bye! (Grabs her stuff, starts to leave, then turns back suddenly, and to Eldad) Now do you use some sort of special conditioner on that hair?!",
+      "isUncut": false
+    },
+    {
+      "id": "4bd1eacf-7e50-4ca4-ad3a-d6c48ad57fc9",
+      "type": "dialogue",
+      "speaker": "Eldad",
+      "text": "Yes, Papaya Extract.",
+      "isUncut": false
+    },
+    {
+      "id": "f8d3ada9-5e51-48cb-82d4-b5751392b9e8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Thank you! (Storms out.)",
+      "isUncut": false
+    },
+    {
+      "id": "fed3df72-b635-48cb-9c3a-ff26d7ce84df",
+      "type": "scene",
+      "description": "The airport, Elizabeth’s flight is about to leave and Ross is there to send her off."
+    },
+    {
+      "id": "bae09ed5-6909-4c45-8497-7efa8d7f5738",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "So uh, have a great time down there.",
+      "isUncut": false
+    },
+    {
+      "id": "6b034865-11de-4da5-93b6-cf63101aa1a5",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "I will.",
+      "isUncut": false
+    },
+    {
+      "id": "f4ac8f42-9726-4b40-88fc-8559f6397d91",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah. And did you, did you pack that bathing suit?",
+      "isUncut": false
+    },
+    {
+      "id": "ea803cda-2de9-41ff-8a67-f20404452b7e",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "f730751c-e7f1-497e-a41e-b54694dc364d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It was pretty funny when I, when I hid it for a while, huh? Anyway, umm, I-I am worried about that bathing suit, not because it’s revealing which I’m fine with, no I’m concerned about your health, sun exposure.",
+      "isUncut": false
+    },
+    {
+      "id": "4d52f0f0-86e8-49cf-a777-4364290b46e9",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh, don’t worry I have plenty of sun block, it’s SPF-30.",
+      "isUncut": false
+    },
+    {
+      "id": "c514f515-da70-4d9d-82d6-ac98e7bd223a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, if what’s in the bottle is actually 30. I mean sometimes you get 30, sometimes it’s-it’s get 4, and I swear to God more often than not it’s just milk.",
+      "isUncut": false
+    },
+    {
+      "id": "098ba2af-93ec-480e-ba08-ce65b874f852",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Ross, it’s going to be okay. I’m not going down there to hook up with a bunch of guys. I really like you. I like how things are going between us.",
+      "isUncut": false
+    },
+    {
+      "id": "360089c8-988d-448a-a90b-6185d23ff434",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "c35faad8-8573-41e6-b0d6-68f48559e872",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Yeah! I’m just going down there to relax and hang out with my friends.",
+      "isUncut": false
+    },
+    {
+      "id": "9c952522-a5e8-417d-8945-98012629a3fe",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay. Cool.",
+      "isUncut": false
+    },
+    {
+      "id": "696dac44-d9a2-451d-9c13-18537195028d",
+      "type": "dialogue",
+      "speaker": "Elizabeth",
+      "text": "Oh hey! Here they are!",
+      "isUncut": false
+    },
+    {
+      "id": "cb5ca7e9-5080-45f5-8c0e-1d174dc6443d",
+      "type": "action",
+      "text": "(A group of about 10 guys and no women come running around the corner.)",
+      "isUncut": false
+    },
+    {
+      "id": "c8df462e-5b38-476b-b42d-828b2b1816f4",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "Elizabeth!",
+      "isUncut": false
+    },
+    {
+      "id": "0ef41a8a-baf7-47fe-8f02-ef23a3e74e8d",
+      "type": "action",
+      "text": "(The guys pick up Elizabeth and carry her onto the plane as she waves bye.)",
+      "isUncut": false
+    },
+    {
+      "id": "d26573a4-ce5c-4517-a266-79596fe74085",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Call me!",
+      "isUncut": false
+    },
+    {
+      "id": "bdee9b0a-5075-4afc-a40f-a18140546bc6",
+      "type": "scene",
+      "description": "Monica, Chandler, and Phoebe’s, Rachel, Chandler, and Phoebe are there."
+    },
+    {
+      "id": "9e1e67fa-2314-4e45-9b12-6aa4be2ae708",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Rachel, we’re sorry for pushing those guys on you.",
+      "isUncut": false
+    },
+    {
+      "id": "9d2b02c3-2083-474f-be85-e60640aca948",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh that’s all right! Y’know, I ended up having a really good time. Y’know, the charity was a big success and they raised a lot of money and awareness.",
+      "isUncut": false
+    },
+    {
+      "id": "b736946e-c74b-47ff-a772-2d2b4042d8e2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So what was it for anyway?",
+      "isUncut": false
+    },
+    {
+      "id": "798d9c35-b65e-4fd1-8135-998ff6651dd6",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I wanna say a disease.",
+      "isUncut": false
+    },
+    {
+      "id": "fc944c50-14cf-43fb-97d4-ee94b327abeb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "b2d022b5-953a-4b96-bc64-e16db5195862",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "17e51efb-3d48-43ff-8814-0a91dc4bc070",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I just got this really weird message from Ross. He said turn on MTV .",
+      "isUncut": false
+    },
+    {
+      "id": "3318a8c5-212a-47f7-8815-afdcb68ac13b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Huh. All right.",
+      "isUncut": false
+    },
+    {
+      "id": "c59a5259-3093-43f2-8c5b-16415184a7e5",
+      "type": "action",
+      "text": "(Rachel does so and it’s one of those dance party shows they have during spring break and we see…)",
+      "isUncut": false
+    },
+    {
+      "id": "9b504200-e487-4067-b86a-991f1de22121",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh my God, look! That’s Elizabeth!",
+      "isUncut": false
+    },
+    {
+      "id": "e9f27a95-4df7-4a71-9c9c-7a87e9e5111c",
+      "type": "action",
+      "text": "(Suddenly Ross jumps in and starts dancing with her.)",
+      "isUncut": false
+    },
+    {
+      "id": "b55de4c9-515e-430f-a4aa-03019aa8ba69",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh-oh Professor Geller.",
+      "isUncut": false
+    },
+    {
+      "id": "8fe621c0-44db-4b96-ad62-77c04bea87f3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ahh, to be 13 again.",
+      "isUncut": false
+    },
+    {
+      "id": "c3ece082-d850-495f-8609-56647340684f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "b36ac59b-ceb2-4e96-87df-fdd620a9ccce",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

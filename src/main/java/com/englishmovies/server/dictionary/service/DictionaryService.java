@@ -2,40 +2,47 @@ package com.englishmovies.server.dictionary.service;
 
 import com.englishmovies.server.dictionary.domain.dto.DictionaryDto;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
-import com.englishmovies.server.dictionary.domain.entity.Dictionary;
+import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
 import com.englishmovies.server.dictionary.repository.DictionaryRepository;
+import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
+@RequiredArgsConstructor
 public class DictionaryService {
 
     private final DictionaryRepository dictionaryRepository;
 
-    public DictionaryService(DictionaryRepository dictionaryRepository) {
-        this.dictionaryRepository = dictionaryRepository;
-    }
-
     @Transactional
     public DictionaryDto save(DictionaryRequestDto request) {
-        Dictionary entity = new Dictionary();
+        DictionaryEntity entity = new DictionaryEntity();
         entity.setValue(request.getValue());
         entity.setTranslation(request.getTranslation());
+        entity.setLanguage(request.getLanguage());
         entity.setComment(request.getComment());
-        Dictionary saved = dictionaryRepository.save(entity);
+        entity.setContentKey(request.getContentKey());
+        entity.setContentType(request.getContentType());
+        entity.setBlockId(request.getBlockId());
+        DictionaryEntity saved = dictionaryRepository.save(entity);
         return toDto(saved);
     }
 
     @Transactional
     public DictionaryDto update(Long id, DictionaryRequestDto request) {
-        Dictionary entity = dictionaryRepository.findById(id)
+        DictionaryEntity entity = dictionaryRepository.findById(id)
             .orElseThrow(() -> new IllegalArgumentException("Dictionary entry not found: " + id));
         entity.setValue(request.getValue());
         entity.setTranslation(request.getTranslation());
+        entity.setLanguage(request.getLanguage());
         entity.setComment(request.getComment());
-        Dictionary updated = dictionaryRepository.save(entity);
+        entity.setContentKey(request.getContentKey());
+        entity.setContentType(request.getContentType());
+        entity.setBlockId(request.getBlockId());
+        DictionaryEntity updated = dictionaryRepository.save(entity);
         return toDto(updated);
     }
 
@@ -54,12 +61,22 @@ public class DictionaryService {
             .toList();
     }
 
-    private DictionaryDto toDto(Dictionary entity) {
+    @Transactional(readOnly = true)
+    public Optional<DictionaryDto> findFirst() {
+        return dictionaryRepository.findFirstByOrderByIdAsc()
+            .map(this::toDto);
+    }
+
+    private DictionaryDto toDto(DictionaryEntity entity) {
         return new DictionaryDto(
             entity.getId(),
             entity.getValue(),
             entity.getTranslation(),
+            entity.getLanguage(),
             entity.getComment(),
+            entity.getContentKey(),
+            entity.getContentType(),
+            entity.getBlockId(),
             entity.getCreatedAt(),
             entity.getUpdatedAt()
         );

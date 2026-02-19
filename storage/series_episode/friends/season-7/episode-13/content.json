@@ -1,0 +1,2386 @@
+{
+  "season": 7,
+  "episode_number": 13,
+  "episode_title": "713 - The One Where Rosita Dies",
+  "credits": {
+    "transcribedBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "45cec88e-c633-402b-82ab-8ae39855b312",
+      "type": "scene",
+      "description": "Joey and Rachel’s, Rachel is trying to move Joey’s chair and not having much luck at it as Joey enters."
+    },
+    {
+      "id": "8dc3dc48-fd63-4e19-ac98-6115707a5fef",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "e6c1f179-71f6-490d-919f-55eec70db98f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "c1a0e97a-8402-4fdc-a719-fcd0ceb0e47e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What are you doing?",
+      "isUncut": false
+    },
+    {
+      "id": "00e02854-880d-443a-b976-d84db78b87f1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, y’know I was thinking of moving the couch over here.",
+      "isUncut": false
+    },
+    {
+      "id": "07ae0acd-b0e9-45b3-b2be-3c6be29f4802",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Why would you want to do that?",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "1f9cfcec-171b-4d45-a8ef-56c272c4e972",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "So that there will be a decent place for me to sit.",
+      "isUncut": false
+    },
+    {
+      "id": "a0fd4c98-06f3-4839-9699-289801d543c1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Rach, there is a decent place to…",
+      "isUncut": false
+    },
+    {
+      "id": "b4d910f4-2734-4e2a-a46f-642a2ad6bcb4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "And your lap does not count! Okay? Come on, help me move this.",
+      "isUncut": false
+    },
+    {
+      "id": "4f3099f2-62ce-459d-848f-fdfd2ca53659",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No. No. No.",
+      "isUncut": false
+    },
+    {
+      "id": "a47fe101-9c0e-4755-b6a0-52c7dd1eba7c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No?",
+      "isUncut": false
+    },
+    {
+      "id": "574d0c0b-98e6-486b-8343-bc203b95b74a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No. Rosita does not move.",
+      "isUncut": false
+    },
+    {
+      "id": "6540f2dd-9105-40de-bb00-8564b34a48b3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I’m sorry, Rosita? As in…",
+      "isUncut": false
+    },
+    {
+      "id": "d06f2011-67a3-4443-a686-d6c5a33556ac",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "As in Rosita does not move.",
+      "isUncut": false
+    },
+    {
+      "id": "ac254996-393e-4046-891e-6f6fe7a444bf",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, it’s just a chair! What’s the big deal?",
+      "isUncut": false
+    },
+    {
+      "id": "19b31f94-8953-43f4-960e-20d14cadadf7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "The big deal is that it is the exact equal distance from the bathroom to the kitchen and it’s at the perfect angle so you don’t get any glare coming off of Stevie.",
+      "isUncut": false
+    },
+    {
+      "id": "9c488319-1f92-41ad-854e-6df2bc62e78d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Stevie the TV?",
+      "isUncut": false
+    },
+    {
+      "id": "0f98741d-81aa-4c7c-8e66-fac03eadc22b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Is there a problem?",
+      "parenthetical": "glaring at her",
+      "isUncut": false
+    },
+    {
+      "id": "fdbc8454-649b-453a-9a3e-8c6f210f4244",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No! (Joey sets his beer and bag of chips down and heads into his room.) Oh what does he know! Come on Rosita, us chichas got to stick together! (She tries pulling on the back of the chair, until the hinge breaks and the back falls off.) You bitch!",
+      "isUncut": false
+    },
+    {
+      "id": "56226845-3ebb-4725-a108-862fcd697bd2",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "c9c746e5-4d67-498b-9805-1b1eb475b8c3",
+      "type": "scene",
+      "description": "Central Perk, Chandler and Ross are on the couch talking. Phoebe is getting coffee."
+    },
+    {
+      "id": "8520118e-a0a9-42bf-8578-c594917f6314",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, y’know what’s weird? After you guys get married, when you introduce me to people you’re gonna have to say, “This is my brother-in-law Ross.” Not, “My friend Ross,” “brother-in-law Ross.” That’s weird isn’t it?",
+      "isUncut": false
+    },
+    {
+      "id": "e2cfec60-6cec-4707-b050-a61886e1af7a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Couldn’t I just say, “This is Ross?”",
+      "isUncut": false
+    },
+    {
+      "id": "bf76daa4-dcfc-4d1f-a4cc-ebdc618d935e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Sure, do whatever you want.",
+      "parenthetical": "disappointed",
+      "isUncut": false
+    },
+    {
+      "id": "b8d8374e-a051-41cb-bc7c-bd033fe269ba",
+      "type": "action",
+      "text": "(Phoebe sits down between Chandler and Ross.)",
+      "isUncut": false
+    },
+    {
+      "id": "70b39eae-c77e-434a-9ffd-8aef250e59b2",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey Ross! So, I was checking out the uh, real estate section…",
+      "parenthetical": "entering, carrying a newspaper",
+      "isUncut": false
+    },
+    {
+      "id": "6bf0c24e-5959-4a95-a098-a72629cf8147",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah?",
+      "isUncut": false
+    },
+    {
+      "id": "3643bdd8-c3da-4c97-8b2d-da02806ba10d",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Look at this. (Hands him the newspaper.)",
+      "isUncut": false
+    },
+    {
+      "id": "8d7a6cd2-485d-426e-849d-931acc5c5856",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, it looks like mom and dad’s house. Oh, it even has a tree with a broken limb out front and the uh, the window in the attic is…Oh my God!!",
+      "isUncut": false
+    },
+    {
+      "id": "42265eca-a6e7-4584-b6bd-f85f095ad774",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "What? What happened to the window in the attic?!",
+      "isUncut": false
+    },
+    {
+      "id": "1c36da50-205f-4b92-83bd-114dfe769b0e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t believe mom and dad are selling the house!",
+      "isUncut": false
+    },
+    {
+      "id": "135a2765-2db4-46b6-b648-7a1d4a751097",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I can’t believe they-they didn’t even tell us!",
+      "isUncut": false
+    },
+    {
+      "id": "3c6a59a9-5434-44b5-b447-896e2436c391",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I can’t believe I still don’t know what happened to the window in the attic!",
+      "isUncut": false
+    },
+    {
+      "id": "9f311146-3a61-439f-9df6-00e59484ed54",
+      "type": "action",
+      "text": "(Ross calls his parents on his cell phone.)",
+      "isUncut": false
+    },
+    {
+      "id": "2b7e8293-b250-47ad-8920-61c23b9bda23",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, hello dad! Monica and I just saw the house in the paper! (Listens) Yes we’re surprised! (Listens) Who did you leave a message with?",
+      "parenthetical": "on phone",
+      "isUncut": false
+    },
+    {
+      "id": "c331e277-8154-434c-bea7-6b4da6d5081c",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Sorry! (Runs off.)",
+      "parenthetical": "knocking on the window while outside",
+      "isUncut": false
+    },
+    {
+      "id": "0f1d8362-8156-4edd-9746-292fceb062e2",
+      "type": "scene",
+      "description": "Joey and Rachel’s, Joey is examining the injury to Rosita while Rachel is apologizing to him."
+    },
+    {
+      "id": "fe6908cf-ace4-42ab-aa33-ee285e47bf89",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, Joey I am so sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "9929291b-ff23-490b-a327-c091d7b681e6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I told you not to move it! Rach, how would you feel if say, I wanted to move your mom, and you said don’t, and I did it anyway and her head fell off?",
+      "isUncut": false
+    },
+    {
+      "id": "f420e35c-3f95-4721-b45f-1bd623b16392",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay, come on—Joey, I’ll buy you a new one! All right? We’ll go down to the store right now and we’ll-we’ll get you a new chair.",
+      "isUncut": false
+    },
+    {
+      "id": "9f965116-8715-4b86-88f2-c532447e88a7",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "She’s not even cold yet!",
+      "parenthetical": "slowly turning and glaring at her",
+      "isUncut": false
+    },
+    {
+      "id": "e267f581-736a-4f00-ac4b-a5151392f0d8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "But don’t you think Rosita would’ve wanted you to move on? I mean y’know, she did always put…your comfort first.",
+      "isUncut": false
+    },
+    {
+      "id": "b88b3cfe-c2d8-4604-90f4-1307dc2f8700",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s true.",
+      "isUncut": false
+    },
+    {
+      "id": "a9a5e0c9-3321-4d0d-bb45-473cc8329e89",
+      "type": "action",
+      "text": "(Rachel turns for the door and makes the “Wow!” face.)",
+      "isUncut": false
+    },
+    {
+      "id": "46e6a118-a0cb-4b94-97d2-28c01f87e82b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Okay? You ready?",
+      "parenthetical": "grabbing her coat",
+      "isUncut": false
+    },
+    {
+      "id": "46efe219-f522-46ef-b3cd-57c3532b4013",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, I… (Shuts off the TV.) I don’t want Stevie to see her like this.",
+      "isUncut": false
+    },
+    {
+      "id": "5155a2a9-d401-4464-9319-1ee9f8877c9b",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Ross and Monica are still going on about the house."
+    },
+    {
+      "id": "8f2ce22d-f067-4faa-9f4d-22adca948bdc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I can’t believe we have to say goodbye to the house we grew up in. Man, some-some stranger’s gonna be living in my room.",
+      "isUncut": false
+    },
+    {
+      "id": "82a8befc-8186-43ac-9451-606e8dbc1f5b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Well, after 15 years of mom and dad keeping it as a shrine to you, it’s time the velvet ropes came down.",
+      "isUncut": false
+    },
+    {
+      "id": "c97fc0dd-5568-42e9-8836-dc7393b03e42",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "They kept your room for a while.",
+      "isUncut": false
+    },
+    {
+      "id": "f260ca19-afc4-4708-b350-f0d3ce553f01",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh please! Dad turned my room into a gym 20 minutes after I moved out! I gotta say, a tanning bed and a stack of Victoria’s Secret catalogues, not a gym!",
+      "isUncut": false
+    },
+    {
+      "id": "c7524fcc-acb3-4846-916c-d2da93b59277",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Come on, you know they love you.",
+      "isUncut": false
+    },
+    {
+      "id": "e35abfda-a7d5-471b-af01-3ec3c7d3c048",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "As much as they love you?",
+      "isUncut": false
+    },
+    {
+      "id": "4902acf3-e728-482b-ae90-4dcc7c6ce964",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I was their first born! They thought she was barren! It’s not my fault.",
+      "isUncut": false
+    },
+    {
+      "id": "9f18ef05-9363-4b77-a940-8dec0fa2db5d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hey.",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "b275da07-5aea-47c7-a407-d0b6b8dc0d61",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "42c2c6b6-a2cd-49fa-88d2-c3af93237bc6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "8d8ff423-0f6b-4d45-a1c2-3907af093b48",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Ugh, I hate this year!",
+      "isUncut": false
+    },
+    {
+      "id": "72e77f9b-7d73-4253-a0c2-257fa158d0a2",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What’s wrong with this year?",
+      "isUncut": false
+    },
+    {
+      "id": "0eaf7849-dab6-476d-a05e-e8b81cc9bb46",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well okay, it’s already February and I’ve only given two massages and they were both the worst tippers in the world!",
+      "isUncut": false
+    },
+    {
+      "id": "39234a1b-c61b-4d04-9fee-e36ffafc04ed",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "That was me and Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "f81f6aa2-cc02-41b3-adef-1791fdb1fe67",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh that’s right!",
+      "isUncut": false
+    },
+    {
+      "id": "9b9af92d-ca58-4840-8cfd-53d0aea0dbab",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, y’know if you want to pick up some extra cash? Some friends of mine made good money doing telemarketing.",
+      "isUncut": false
+    },
+    {
+      "id": "39528603-a779-4d5d-87bd-74b0dfbf240e",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh that’s a great idea. You’re really good on the phone.",
+      "isUncut": false
+    },
+    {
+      "id": "6bfe9e1b-2735-43e5-8a47-d1cd5dac9d53",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah and yeah, and it would probably be better than the last telephone job I had. Y’know, I probably wouldn’t have to say spank as much. (Monica and Ross are shocked.)",
+      "isUncut": false
+    },
+    {
+      "id": "e2798195-b783-403b-babd-db4d7e0eb484",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "0af65b04-4ebd-42c9-bedc-4d904ac39688",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh yeah, like you never called!",
+      "isUncut": false
+    },
+    {
+      "id": "98c36c7f-96db-4d4e-a45c-220bdb76af65",
+      "type": "scene",
+      "description": "The telemarketing office, Phoebe is getting shown to her desk by the supervisor."
+    },
+    {
+      "id": "df6925ca-d9d2-4452-8840-5b8e67436374",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "So basically this is very easy. You read from the script and try to sell as much toner as you possibly can.",
+      "isUncut": false
+    },
+    {
+      "id": "c1263468-9b5a-445f-a056-bf4539646cf2",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Okay, I can do that! Oh, by the way, I love my office.",
+      "isUncut": false
+    },
+    {
+      "id": "ebf4573f-1abb-4c0d-bc56-520a33940063",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "Why don’t we do a trial run.",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "20110f44-0dd2-4e1e-beac-e5ff3a79005a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh okay. Umm, all right. (Picks up the phone and starts reading from the script.) Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please?",
+      "isUncut": false
+    },
+    {
+      "id": "0f578881-9879-4a2c-9ebb-95ee8d0d256f",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "I’m the supply manager.",
+      "isUncut": false
+    },
+    {
+      "id": "cd7fbe8c-9cc6-4f51-ae72-4517bce1229d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Umm, okay I would like to talk to you about your toner needs.",
+      "isUncut": false
+    },
+    {
+      "id": "e46358ea-a146-4398-9886-f05b9e07f8d2",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "We don’t need any toner.",
+      "isUncut": false
+    },
+    {
+      "id": "2d8a3b27-aafc-425e-b832-4634525a9e98",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh okay, well I’m sorry to bother you. Bye-bye. (Hangs up the phone.) Yeah you’re right, this is easy.",
+      "isUncut": false
+    },
+    {
+      "id": "7ea96a68-2a84-438e-aee0-3663099db39f",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "Okay, what was wrong with that call?",
+      "isUncut": false
+    },
+    {
+      "id": "c4e64a5e-d47d-4d76-9c1f-42094fe0ed81",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh well, all right…um, no offense, but you were kind of rude.",
+      "isUncut": false
+    },
+    {
+      "id": "dd9d9393-55af-4cd5-ac43-be821a07209e",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "They’re always going to tell you they don’t need toner, but that’s okay because whatever they say, you can find the answer to it here in this script.",
+      "isUncut": false
+    },
+    {
+      "id": "8c038096-525e-42fb-8b9b-3cf6bd88e318",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh.",
+      "isUncut": false
+    },
+    {
+      "id": "e6bd8d5d-34e8-43ec-99b2-18bcb960b153",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "So, I think you’re ready to sell toner, do you have any last questions?",
+      "isUncut": false
+    },
+    {
+      "id": "fce2db9f-5cd1-4ce2-a09b-d15ce50e75e2",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No. (Pause) Oh wait yes! I do, I do have one question. What is toner?",
+      "isUncut": false
+    },
+    {
+      "id": "f4ac5ba6-324f-48fe-9577-18b013f63f16",
+      "type": "scene",
+      "description": "Joey and Rachel’s, Chandler is entering."
+    },
+    {
+      "id": "3c19b96b-8eff-4f3c-9152-7d2a11ab235a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Joey! Joe! (Sees that he’s not here and starts investigating. He picks up the bag of chips.) Full bag. (He picks up the beer.) Beer’s still cold. Something terrible must’ve happened here! (He decides it’s not that important; sits down on Rosita, and the back falls off causing him to flip over.) Oh no-no-no-no-no-no! (Runs over to Stevie.) Stevie, I was never here! (Runs out.)",
+      "isUncut": false
+    },
+    {
+      "id": "3fdcbc19-49c0-455a-a5ba-9bfc2f825f88",
+      "type": "scene",
+      "description": "Ross and Monica’s parent’s garage, Ross and Monica are arriving to go through their things. Mr. Geller is in the garage."
+    },
+    {
+      "id": "18fbe6fd-fd5c-4930-b4ae-303ca9acd06b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dad?",
+      "isUncut": false
+    },
+    {
+      "id": "1999a8bc-2fbd-4f31-9f56-433dfff029e1",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I’m here!",
+      "isUncut": false
+    },
+    {
+      "id": "5a4643b5-fc53-439d-89fc-bfacba4bd721",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey!",
+      "parenthetical": "entering with Monica",
+      "isUncut": false
+    },
+    {
+      "id": "6f490196-b210-472a-99a2-35840dd5f13b",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Hi. God, it seems like just yesterday you guys used to come out to watch me work.",
+      "isUncut": false
+    },
+    {
+      "id": "6b68d6a4-9585-4c99-b945-403da11d3188",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dad, we-we can’t believe you’re selling the house.",
+      "isUncut": false
+    },
+    {
+      "id": "1d1e4c61-31aa-4340-afe0-189b44c5a7cb",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, it’s time for a new family to start their memories here and hopefully their check will clear before they find the crack in the foundation and the asbestos in the ceiling.",
+      "isUncut": false
+    },
+    {
+      "id": "366c84ae-63a9-479f-b480-a42bd7267f04",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Let’s grab our stuff and get the hell out of here.",
+      "parenthetical": "To Monica",
+      "isUncut": false
+    },
+    {
+      "id": "1b165118-c105-4235-a4d9-7e97be4d4b66",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I’m sorry we can’t store your childhood things anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "b30499a6-caed-4737-9411-6be907bf5b6c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, that’s okay, I can’t wait to see everything again! All of the memories…",
+      "isUncut": false
+    },
+    {
+      "id": "a951de2d-8ab8-4cf1-a167-21c835e58b8e",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, I don’t know what’s in the boxes down here, but I do know there are six or seven Easy Bake Ovens in the attic.",
+      "isUncut": false
+    },
+    {
+      "id": "e5bef266-bcbd-4233-88af-abe15fa0346c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I used to love to play restaurant.",
+      "isUncut": false
+    },
+    {
+      "id": "a0410a3b-5ca4-417e-bbeb-a7eb3bc5df8a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah, not as much as you used to love to play uncooked batter eater.",
+      "isUncut": false
+    },
+    {
+      "id": "93d1214b-e595-4dee-adc9-04c779af6f25",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, it is unreasonable to expect a child to wait for a light bulb to cook brownies! (She goes to the attic.)",
+      "isUncut": false
+    },
+    {
+      "id": "3fff6810-8592-4644-85c0-40a88b0ee4e2",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "So, I think your boxes are over here. (They walk over to them.)",
+      "isUncut": false
+    },
+    {
+      "id": "b6d8f7bb-fa4a-4365-85aa-a875ff700602",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wow! Great! (Finds a pack of cigarettes.) Wait, dad who-who’s cigarettes are these?",
+      "isUncut": false
+    },
+    {
+      "id": "83a213db-1856-4d97-b3c3-ff2f0b5f1f17",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I don’t know. They-they must be your mother’s, but please, please don’t ask her. I’ll throw these away. (He puts them in his pocket as Ross finds something of interest in one of his boxes.)",
+      "isUncut": false
+    },
+    {
+      "id": "7d3b64d3-afca-412c-b818-9d7781ed9f37",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Cool! Dad! My report cards! Hey, check this out dad, (reading his grades) Math, A. Science, A. History, A. Gym…(He puts it away and finds something else.) Oooh, my rock polisher!",
+      "isUncut": false
+    },
+    {
+      "id": "29d500ef-4a42-414f-bf8b-d43e012af2c3",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Oh look, look there’s your old makeup kit!",
+      "isUncut": false
+    },
+    {
+      "id": "99119b73-7797-4a74-a099-bd7fada43f03",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "It’s a clown kit! Clown kit!",
+      "isUncut": false
+    },
+    {
+      "id": "01b9776b-538a-480f-b9ef-e16b07d76d9e",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, the white seems to be untouched. (He throws it back into the box as Mr. Geller moves a tarp and makes a discovery.) Uh-oh.",
+      "isUncut": false
+    },
+    {
+      "id": "eb246d41-ce99-41eb-9c99-46fa0711468a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "0b45354e-16de-4402-af79-05955248f6f3",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Y’know how the garage floods every Spring?",
+      "isUncut": false
+    },
+    {
+      "id": "dbdf2cd8-d683-4955-9983-3288bc584564",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "How are you ever going to sell this place?",
+      "isUncut": false
+    },
+    {
+      "id": "abbe2162-8ab1-4f42-9b3c-96a85edd17d2",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I think I accidentally used Monica’s boxes to keep the water away from the Porsche .",
+      "isUncut": false
+    },
+    {
+      "id": "92c4b3e0-4a06-4c94-9dc1-a983ab8d4ced",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh no. Dad! Dad! What…(He goes to open one of her boxes and it rips apart.) Oh God…everything’s ruined! Dad, she’s gonna be crushed!",
+      "isUncut": false
+    },
+    {
+      "id": "c175a567-8ff1-4ec7-a0be-7dc00961da95",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "You don’t secretly smoke do you?",
+      "isUncut": false
+    },
+    {
+      "id": "5c30599b-94f5-43be-8c4d-7a696d43d54a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No!",
+      "isUncut": false
+    },
+    {
+      "id": "9d2d41cb-04b7-4508-8c57-e525bedd9707",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "So it’s just your mother then.",
+      "isUncut": false
+    },
+    {
+      "id": "923a898e-af6b-4fd3-83a7-180de6227c3e",
+      "type": "scene",
+      "description": "The telemarketing office, Phoebe is hard at work."
+    },
+    {
+      "id": "e59ac7fe-9b6e-40a6-a0e8-e6c1c5178615",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Hi, this Phoebe from Empire Office Supplies, can I speak to your supply manager please? (Listens) Earl, thanks. (Listens) Hi Earl, this is Phoebe from Empire Office Supplies I’d like to talk to you about your toner needs. (She’s reading from the script.)",
+      "parenthetical": "on phone",
+      "isUncut": false
+    },
+    {
+      "id": "2cbe36aa-d4a1-413d-9d79-9151dc700da8",
+      "type": "transition",
+      "text": "[Cut to Earl’s office, who is played by Jason Alexander, George from Seinfeld. They cut back and forth between Phoebe’s and Earl’s offices with each of their lines.]"
+    },
+    {
+      "id": "f8750e37-106a-4dcb-9adb-b873857e31a7",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "I don’t need any toner.",
+      "isUncut": false
+    },
+    {
+      "id": "c8d970f3-7097-41cb-a841-f2ecb0d7c1ee",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m hearing what you’re saying, but at our prices everyone needs toner.",
+      "isUncut": false
+    },
+    {
+      "id": "4239c321-f095-4059-a4a6-7df5788bb4fb",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Not me.",
+      "isUncut": false
+    },
+    {
+      "id": "8be01b26-342c-4d41-a62c-09cf0c1c2b45",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "May I ask why?",
+      "isUncut": false
+    },
+    {
+      "id": "aa116393-a291-4622-8244-11865c6794e4",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "You wanna know why. You wanna know why?",
+      "isUncut": false
+    },
+    {
+      "id": "415652a9-42a4-419e-824e-81caa3f7bbf5",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I surely do!",
+      "isUncut": false
+    },
+    {
+      "id": "6249ecf1-7852-4b3c-867f-c701f439f6fd",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Okay, I don’t need any toner because I’m going to kill myself.",
+      "isUncut": false
+    },
+    {
+      "id": "cdf12101-5571-407e-91aa-78a2c9df89f2",
+      "type": "action",
+      "text": "(Phoebe desperately tries to find the scripted response to that line.)",
+      "isUncut": false
+    },
+    {
+      "id": "7311910c-8ed0-4147-b432-83714cf13adf",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Umm, is-is that because you’re out of toner?",
+      "parenthetical": "doesn’t have any luck",
+      "isUncut": false
+    },
+    {
+      "id": "503930d6-404c-49fc-893b-8aae4dc4cd99",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "9bd0c445-9d0e-4ebe-b11b-3d9c48b6a38b",
+      "type": "scene",
+      "description": "The telemarketing office, Phoebe is still talking to Earl."
+    },
+    {
+      "id": "c453fbc4-5468-42eb-85d6-50d140bee76e",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Okay, so…no toner today. Thanks anyway, bye-bye.",
+      "isUncut": false
+    },
+    {
+      "id": "93427fc5-878d-4fa8-92ce-0d351b98ae11",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No-no wait-wait! I can’t just let you hang up! Just please talk to me.",
+      "isUncut": false
+    },
+    {
+      "id": "35742f2a-dc40-4e79-96e6-4e86a9569494",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Well…I only have one thing to do today. (He looks at his board in his office that reads, “Today’s Tasks: KILL SELF.”) I guess I could push it back.",
+      "isUncut": false
+    },
+    {
+      "id": "f54e313b-b04b-4c8b-ac1b-413a351e13d0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah! Now, why do you want to kill yourself?",
+      "isUncut": false
+    },
+    {
+      "id": "af2eaa4e-8e41-4510-900c-def6798f7c08",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "It’s just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!",
+      "isUncut": false
+    },
+    {
+      "id": "c4c7bd47-1d20-4487-a94a-b311e37883ea",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Chandler?",
+      "isUncut": false
+    },
+    {
+      "id": "e4ff0aa7-1749-4503-9b54-ea27bc92373a",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "I-I’m sorry?",
+      "isUncut": false
+    },
+    {
+      "id": "38f62056-a2ac-4a34-a3fd-c8fe2c7184e0",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No look, I-I’m sure that people know you exist!",
+      "isUncut": false
+    },
+    {
+      "id": "3506e647-82bc-4b39-829b-46b564e2ad8b",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Oh yeah? I work in a cubicle surrounded by people. I’ve been talking to you for five minutes now about killing myself and no one’s even looked up from their desk. Hang-hang on. (To the people standing around his cubicle.) Hey everybody! Uh, I’m gonna kill myself! (There’s no response; no one even looks up.) I’ll get back to ya. (To Phoebe) I got nothing. Wait. (He sets the phone down.) Uh, hey Marge! (Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the wall behind him. Then points to himself. Marge watches this, then goes back to work.) (To Phoebe) Ehh, nothing. Nothing.",
+      "isUncut": false
+    },
+    {
+      "id": "f21eafb2-51ee-457a-bb9e-6a55b259ba0f",
+      "type": "scene",
+      "description": "Joey and Rachel’s, Chandler has replaced Rosita with his chair."
+    },
+    {
+      "id": "a2f3cec8-0958-4a5a-9558-41eb18177b2f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "My chair. Now, if anybody asks, your name is Rosita! (He runs out the door, grabs the back of Rosita, and we can hear Joey and Rachel talking as they are coming up the stairs. Neither of them have reached the landing yet.)",
+      "isUncut": false
+    },
+    {
+      "id": "deaeaa78-7841-42ff-94ea-3ecd0d44a565",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You will like it!",
+      "isUncut": false
+    },
+    {
+      "id": "5c410438-9ddb-4bf8-8d8e-22c50328babb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No I won’t.",
+      "isUncut": false
+    },
+    {
+      "id": "574d2567-3dd0-4c24-96c8-530fb694ecab",
+      "type": "action",
+      "text": "(Chandler runs to check on them coming up the stairs.)",
+      "isUncut": false
+    },
+    {
+      "id": "bd702031-9210-4fca-ba60-4579887e5f1e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "You don’t even know!",
+      "isUncut": false
+    },
+    {
+      "id": "a0b8997d-977d-4ab0-9b4f-a6064e3be2f2",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Because, I know what I like and what I don’t like! It’s not the same thing!",
+      "isUncut": false
+    },
+    {
+      "id": "55482e8c-2ecb-4cf3-8c67-68b8278a02d5",
+      "type": "action",
+      "text": "(Chandler throws the back of Rosita into his apartment and quickly starts pushing the base into his apartment.)",
+      "isUncut": false
+    },
+    {
+      "id": "a087fdb2-10d1-44dd-9d80-6bc1e865aadd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well look, if you don’t like this…(The audience’s laughter at Chandler’s progress cuts out the rest of Rachel’s line.)",
+      "isUncut": false
+    },
+    {
+      "id": "15672553-a9c9-47d7-a4e1-b9e1a0421e57",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I don’t know why you say that so soon.",
+      "isUncut": false
+    },
+    {
+      "id": "830eb466-c0d0-40d9-a0a0-0aefa80ed2e2",
+      "type": "action",
+      "text": "(Joey and Rachel reach the landing just as Chandler closes the door.)",
+      "isUncut": false
+    },
+    {
+      "id": "5e618971-55ae-4a6d-9c14-23e738fc6ce2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Come on Joey, I just bought you a new chair! The most expensive one in the store! Hey, y’know what I was thinking? We could name her Francette.",
+      "isUncut": false
+    },
+    {
+      "id": "02ed520e-17cf-40de-8b66-39240ae366a4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Francette? What is she? A couch?",
+      "isUncut": false
+    },
+    {
+      "id": "2ce23fc7-2159-487a-9861-18d6e2fa7b46",
+      "type": "action",
+      "text": "(They enter their apartment.)",
+      "isUncut": false
+    },
+    {
+      "id": "551732c6-fabe-48c6-b9c8-0c3775ee6f03",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Poor thing. Cut down in her prime.",
+      "isUncut": false
+    },
+    {
+      "id": "30514790-14c8-46a0-912e-d155d730ff79",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, the new chair will be here in an hour. Maybe we should actually move Rosita out of here. Y’know, start the healing process?",
+      "isUncut": false
+    },
+    {
+      "id": "ecb5c870-fd19-4fee-bdae-5b97cd42817a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well, I guess you’re right. Maybe, maybe I’ll take her down to the incinerator. It’s gonna be so sad, and kinda cool. (He goes to remove the back, but it doesn’t come off. So he sits down in it, puts his feet up, stands up, and looks back at it.) She’s healed!",
+      "isUncut": false
+    },
+    {
+      "id": "78c2d8ae-0ff0-4b96-9454-166f529f27f3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That’s weird.",
+      "isUncut": false
+    },
+    {
+      "id": "172badf0-6c09-40b3-bbd2-b56b4f81f2d2",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No it’s not weird, it’s a miracle!",
+      "isUncut": false
+    },
+    {
+      "id": "a5cd714d-a0c6-40ff-9da2-898a39d5da8e",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "It’s not a miracle Joey! I’m sure there’s some explanation.",
+      "isUncut": false
+    },
+    {
+      "id": "f8c7264a-3c8f-4017-8e5d-c9f77b3a8da1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh there is! If you want something enough and your heart is pure, wondrous things can happen!",
+      "isUncut": false
+    },
+    {
+      "id": "b64a3076-aeee-48ed-abcb-944da6d2cdd1",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Joey, I really don’t…",
+      "isUncut": false
+    },
+    {
+      "id": "7d5e0c83-e416-4da8-b6f0-fc361f3c22f6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Can you tell me how this happened?",
+      "parenthetical": "interrupting her",
+      "isUncut": false
+    },
+    {
+      "id": "9df78a95-5671-40e6-aa1b-ce9f5e80838c",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well no.",
+      "isUncut": false
+    },
+    {
+      "id": "60d29a01-327f-4663-8171-a1ac21569618",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Miracle!",
+      "isUncut": false
+    },
+    {
+      "id": "84406e6e-7024-4561-b155-a793dd2e0973",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No, y’know what? Maybe somebody came in here and fixed it! Or something!",
+      "isUncut": false
+    },
+    {
+      "id": "f764f60b-ed0b-4bc5-a95c-6bf684bfc1cb",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Someone like an…angel?",
+      "isUncut": false
+    },
+    {
+      "id": "d8327214-9104-4353-9ee4-0bb970207ec8",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "That’s right Joey, the chair angel came in and healed your chair. (She sits down in the chair.)",
+      "isUncut": false
+    },
+    {
+      "id": "8c3097b8-95bd-430d-8b05-888875d9379c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Get your non-believer ass outta my chair! (She gets up and heads for her room.)",
+      "parenthetical": "angrily",
+      "isUncut": false
+    },
+    {
+      "id": "84b303fc-01f3-464e-896e-e7440d6d8023",
+      "type": "scene",
+      "description": "The Geller’s Garage, continued from earlier. Ross and Mr. Geller are still deciding what to do."
+    },
+    {
+      "id": "63b4cae0-722c-4f19-9aec-e3246b04013d",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, she’ll understand right? It’s not like I did it on purpose.",
+      "isUncut": false
+    },
+    {
+      "id": "93ccc014-82a3-4078-a612-0155f09dcf35",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dad, that won’t matter to her. Look, all my stuff is safe and dry and all hers is-is, is growing new stuff! See, this is exactly the kind of thing that makes her think you guys love me more than you love her.",
+      "isUncut": false
+    },
+    {
+      "id": "545b12e3-9ae1-4f00-b959-3d7dc44de3e6",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Oh my God, does she really thinks that?",
+      "isUncut": false
+    },
+    {
+      "id": "7aed419e-33b8-4073-b0a4-3b43441d3961",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, can you blame her?",
+      "isUncut": false
+    },
+    {
+      "id": "06e170b2-9d17-46ce-b079-ce9d41172df3",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well I don’t know, I-I suppose we may have favored you unconsciously, you were a medical marvel! The doctor said your mother could…",
+      "isUncut": false
+    },
+    {
+      "id": "f44fa09e-c23e-487c-871a-425cd9456d62",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dad, dad I don’t want to hear about it.",
+      "isUncut": false
+    },
+    {
+      "id": "7c7ed133-57c5-4ac7-a362-584345a3cf66",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Really?",
+      "isUncut": false
+    },
+    {
+      "id": "7df863ab-716b-4bc3-ae24-444f281ce66e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, not right now. Okay look, Monica came here for some memories and damnit, we’re gonna give her some! Okay, grab…grab some empty boxes. Okay? We’ll-we’ll take stuff from mine and whatever we can pass off as hers we’ll-we’ll put ‘em in there.",
+      "isUncut": false
+    },
+    {
+      "id": "c1ddb4ce-2e57-45bb-90fa-2a377c507882",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Great!",
+      "isUncut": false
+    },
+    {
+      "id": "55674b60-1943-4664-b869-0013cf5088ad",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Like uh y’know like this! This! (He picks up one of those art projects that kids make in kindergarten and first grade.) She-she could’ve made this!",
+      "isUncut": false
+    },
+    {
+      "id": "6249494c-ec70-4330-9523-61b81b60fc3d",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Sure!",
+      "isUncut": false
+    },
+    {
+      "id": "9d236ff5-dea4-48b3-bc4c-61bca8425331",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Right? And this! (He picks up a trophy) She-she could’ve won this!",
+      "isUncut": false
+    },
+    {
+      "id": "300bc66e-30ce-4f9b-ab2d-6c301fca8207",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "This could’ve been hers!",
+      "parenthetical": "grabbing a glove",
+      "isUncut": false
+    },
+    {
+      "id": "de67e8ae-782c-4f04-9439-8fce946c8f97",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Sure! Ooh-ooh, what about this?",
+      "isUncut": false
+    },
+    {
+      "id": "c0bef6d5-ea72-4533-bfbf-770f72ff66d0",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Your make-up kit? I’d feel better.",
+      "isUncut": false
+    },
+    {
+      "id": "3514c5d2-fcab-453f-85fa-442a1cebd88f",
+      "type": "action",
+      "text": "(Ross angrily throws the kit into one of Monica’s new boxes.)",
+      "isUncut": false
+    },
+    {
+      "id": "7d1e495e-66bf-4938-a790-1f0912c6ed09",
+      "type": "scene",
+      "description": "[Scene: Joey and Rachel’s, Joey is sitting on the now healed Rosita as Rachel is sitting in the newly arrived Francette. Francette is one of those new chairs from La-Z-Boy that has and does everything except cook and go to the bathroom for you. It’s got a small refrigerator under one armrest, it has phone jacks for the Internet and regular phone, and so much more.]"
+    },
+    {
+      "id": "8c3df5cf-07e2-44cf-a901-262f9dcdca31",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I am so psyched I kept this chair for myself!",
+      "parenthetical": "grabbing a beer out of the chair’s fridge",
+      "isUncut": false
+    },
+    {
+      "id": "f26c1e8e-47c6-4234-8770-14056b304730",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah, me too. (He flips up his armrest in disgust.)",
+      "isUncut": false
+    },
+    {
+      "id": "7be71173-9431-41ca-a038-c5ec5d9f2a5b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey, how’s…how’s the uh, miracle chair?",
+      "isUncut": false
+    },
+    {
+      "id": "c0ff8dbb-76af-4b09-8742-c4769004d508",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Fine.",
+      "isUncut": false
+    },
+    {
+      "id": "5430842a-7915-4fae-9dfa-8f1f69eaebcd",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah? Wow! Y’know, that this thing has speakers in the headrest!",
+      "isUncut": false
+    },
+    {
+      "id": "08dd3b11-9ab1-444a-a03f-7f23ca92936e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "No. Really?",
+      "isUncut": false
+    },
+    {
+      "id": "155cebaa-bb1c-4eba-9e2c-ff1da0a3b2b4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah! You can hook it up to your TV and you get radio!",
+      "isUncut": false
+    },
+    {
+      "id": "fae46681-3a45-45a2-b960-d262877548cf",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "My chair heals itself.",
+      "parenthetical": "quietly",
+      "isUncut": false
+    },
+    {
+      "id": "07016d42-83a6-4e02-94fd-033a641fe701",
+      "type": "scene",
+      "description": "The telemarketing office, Phoebe is still trying to talk Earl out of suicide."
+    },
+    {
+      "id": "02d4e000-e9e2-4af3-a929-c0cb64339855",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Earl, you’re not hearing me! All I’m saying is that you’re not alone, alright? Everybody hates the people they work with! (One of her coworkers overhears that, and she mimes that she didn’t mean him.)",
+      "isUncut": false
+    },
+    {
+      "id": "978102cd-f2ee-408f-b207-144740257f7c",
+      "type": "dialogue",
+      "speaker": "Guy",
+      "text": "Hey guy!",
+      "parenthetical": "walking past Earl’s desk",
+      "isUncut": false
+    },
+    {
+      "id": "8a0d8094-47f4-437d-8a07-b7eb835849f9",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Wait, what was that? That sounded like someone being nice to you.",
+      "isUncut": false
+    },
+    {
+      "id": "7fdc30ad-8021-49c5-b4c0-1eaf00f2685b",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "No! That’s just the “Hey Guy” guy. He says that to everybody! He’s the worst! I’d like to take him with me!",
+      "isUncut": false
+    },
+    {
+      "id": "c08a85ee-dd22-4bdc-91bf-1ba2955bfe42",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "All right. So Earl, let’s just forget about the people at the office, okay? There-there’s gotta be someone else in your life worth sticking around for! What about-what about your family, your friends, or maybe your girlfriend?",
+      "isUncut": false
+    },
+    {
+      "id": "345f4482-ad5a-4db3-88e6-720e01826a5a",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Yeah! Right!",
+      "parenthetical": "laughs",
+      "isUncut": false
+    },
+    {
+      "id": "48ebfa59-bbbe-499e-bb07-856f296faa34",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh sorry, boyfriend!",
+      "isUncut": false
+    },
+    {
+      "id": "d46f10c6-c517-4f92-8fc3-abb4219f6efb",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Oh no.",
+      "isUncut": false
+    },
+    {
+      "id": "3fa973be-1788-4a15-bddb-bb4fe369853f",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No, whatever! Anything!",
+      "isUncut": false
+    },
+    {
+      "id": "c6d952c7-e30c-4448-bb30-cf3f00c33e4b",
+      "type": "dialogue",
+      "speaker": "The “Hey Guy” Guy",
+      "text": "Hey guy!",
+      "isUncut": false
+    },
+    {
+      "id": "d8ddd372-3f01-465a-b044-659793da02a4",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yeah, he’s gotta go.",
+      "isUncut": false
+    },
+    {
+      "id": "e17e8ede-ac51-40cb-b34a-2140a5d5aa4b",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Okay, I should, I should probably be getting back to my thing now. See ya. (Hangs up.)",
+      "isUncut": false
+    },
+    {
+      "id": "be375534-b1ae-46f0-bd68-60399a63e292",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No! I’m not finished yet! Don’t! Don’t you dare hang up on me!!!",
+      "isUncut": false
+    },
+    {
+      "id": "46649c4f-763b-4cef-8048-fd6919a39aae",
+      "type": "dialogue",
+      "speaker": "Supervisor",
+      "text": "(to the rest of the staff) The new girl’s good.",
+      "parenthetical": "walking by and overhearing that",
+      "isUncut": false
+    },
+    {
+      "id": "72fe237b-c7b5-4a85-af6c-bac52fd59919",
+      "type": "scene",
+      "description": "The Geller’s Garage, Mr. Geller and Ross are finishing up recreating Monica’s memories as Monica enters."
+    },
+    {
+      "id": "1c7ac7ba-8811-44ca-8fd0-d993da0a3722",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey guys! Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "091d4715-c9c5-4163-afc1-0c9cbe5c42c4",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "3d0fb552-b784-4312-bd35-73b2896f0a6b",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey, I just whipped us up some Easy Bake treats, they should be ready in about three days.",
+      "isUncut": false
+    },
+    {
+      "id": "81e08717-b493-4d2c-9f58-58aa4fe15dbd",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "That’s a good one! Do you hear that Ross? Three days!",
+      "parenthetical": "overacting",
+      "isUncut": false
+    },
+    {
+      "id": "9a3e22a0-b273-42e7-822f-6377f2e1b191",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah! Yeah! (Laughs.) Oh, this will make a great memory.",
+      "parenthetical": "overacting as well",
+      "isUncut": false
+    },
+    {
+      "id": "c59689eb-2261-4a95-9ddf-8cfab221900a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay. So, which boxes are mine?",
+      "parenthetical": "wary",
+      "isUncut": false
+    },
+    {
+      "id": "8b910692-b6b3-404a-950e-230b44949aa3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, these. These are yours right here. (Pointing to the boxes they just created for her.)",
+      "isUncut": false
+    },
+    {
+      "id": "7ecf5085-9172-4479-ae96-95f28a2ce429",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Okay. (Starting to go through them) Oh! A coloring book! (Holding it up.)",
+      "isUncut": false
+    },
+    {
+      "id": "138f4c5f-1b1b-4dbf-bac5-77225f4dd59b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yeah. Yeah, oh you loved that thing. You always had it with you. You never went anywhere without-without that coloring book.",
+      "isUncut": false
+    },
+    {
+      "id": "16873c12-3ac1-4c23-b99c-45c742da3946",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Really? Wow! It looks like I had some trouble staying inside the lines.",
+      "parenthetical": "looking through it",
+      "isUncut": false
+    },
+    {
+      "id": "174f0793-033f-409a-8e84-b90de7535784",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Nu-uh! (Grabs it and examines it.)",
+      "isUncut": false
+    },
+    {
+      "id": "d9796311-fb2a-4e6e-aedc-9242381b7e68",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, an old glove?",
+      "parenthetical": "holding up a glove",
+      "isUncut": false
+    },
+    {
+      "id": "bcb24bf0-f172-4f51-8be9-6a1a0a93102e",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Oh, yeah you loved that glove! You took it every place you went. You never went any place without that glove.",
+      "isUncut": false
+    },
+    {
+      "id": "01eaaf97-1576-4949-aed9-018e3ec60a9c",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Wow! Look at this! (Picking up a shirt.) I can’t believe I even fit into this shirt! (She holds it up and it reads: Tyrannosaurus Ross.) (She turns it around and looks at it.) Oh, this is yours. (Hands it to Ross.)",
+      "isUncut": false
+    },
+    {
+      "id": "360dbc73-4aa2-4498-b7a4-d0b300072b47",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, I don’t know how that got in there.",
+      "isUncut": false
+    },
+    {
+      "id": "06108205-d8a2-46f1-a0e9-fc4c921c0fbd",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "This isn’t mine. (Sets it down and looks at the rest of the boxes.) Hey, this isn’t, this isn’t my stuff! Ugh, Ross! (Grabs and holds up a doll.) These are your boxes! Where are my boxes?",
+      "parenthetical": "holding up a small cowboy hat",
+      "isUncut": false
+    },
+    {
+      "id": "cd7f4651-06d5-4280-89f5-711b770b7c23",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Umm, your boxes are umm…",
+      "isUncut": false
+    },
+    {
+      "id": "dbec325c-0d53-423d-947b-2dc06351f54a",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "63234d90-0998-45cf-96b8-4d70d05fc629",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Dad?",
+      "isUncut": false
+    },
+    {
+      "id": "1218bd99-71f0-4ea3-88d2-cb4e3068e980",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, the garage flooded sweetie and it ruined everything in your boxes. I’m sorry.",
+      "isUncut": false
+    },
+    {
+      "id": "abdd9d85-4a7b-4aa4-b07f-295db8c1f151",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Just mine?",
+      "isUncut": false
+    },
+    {
+      "id": "743bf9e4-3621-48bd-87ba-0e16f760df52",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I’m afraid so.",
+      "isUncut": false
+    },
+    {
+      "id": "b5bdf265-0098-497a-a7f4-62aa8fbd6b04",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So why-why wasn’t Ross’s stuff ruined? (Pause) And if you say the words medical marvel I’m going to Easy Bake your head!",
+      "isUncut": false
+    },
+    {
+      "id": "233c182b-719e-46e5-8746-0553d091f7b6",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Well, I used your boxes to divert water away from the Porsche .",
+      "isUncut": false
+    },
+    {
+      "id": "db8020ce-adfe-4b80-9ed4-48901ffa09e6",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "So wait, Ross’s stuff is fine, but I have no memories because you wanted to keep the bottom two inches of your car away from water!!!",
+      "isUncut": false
+    },
+    {
+      "id": "862c2dc0-9e3c-4220-864f-9d140dae63e9",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "There was also leaves and guk and stuff.",
+      "isUncut": false
+    },
+    {
+      "id": "9990cc0c-4f98-445c-8a06-1c6f91e1eb09",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "I can’t believe this! (Storms out.)",
+      "isUncut": false
+    },
+    {
+      "id": "1dfbb401-76d7-41db-92db-68d53f2c11fa",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Screw it! I’m having one. (Takes out and lights a cigarette.)",
+      "parenthetical": "To Ross",
+      "isUncut": false
+    },
+    {
+      "id": "d3827193-c672-4291-8a23-3a375d8ffd52",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "8f9d356a-e427-4a6c-a70d-77e828072a48",
+      "type": "scene",
+      "description": "Monica and Chandler’s, Chandler is writing a letter by the bay window as Rachel enters."
+    },
+    {
+      "id": "74304e6a-4716-45cf-bcea-e3b6674a1a44",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey Chandler!",
+      "isUncut": false
+    },
+    {
+      "id": "fb978c6a-72be-41a1-8357-45635061d7b2",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "b7798c7f-fb79-4a6c-b13d-9c87dbdafa2f",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "How would you like to sit in a chair that fully reclines, has a rolling massage, and speakers in the head rest?",
+      "isUncut": false
+    },
+    {
+      "id": "e0a26498-fb0a-4441-9a32-211a12a2d2fb",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Yeah, I’d love to but I’ve tried that so many times they won’t even let me in the store anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "089b00f7-91cd-4fa3-b953-80df63cf3a55",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well what if I told you you can do it in my apartment?",
+      "isUncut": false
+    },
+    {
+      "id": "ee02b0b4-6d9a-4d5b-a6fd-6cdb96d63388",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Are you telling me that you bought the chair that is making all other lounge systems obsolete? The chair that Sit magazine called the Chair of the Year?",
+      "parenthetical": "excitedly",
+      "isUncut": false
+    },
+    {
+      "id": "20c5842c-562f-47e8-a284-18c05587eba2",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "I just purchased the La-Z-Boy E-cliner 3000 . (Which is an actual product by the way, I’m not sure about the 3000 part.)",
+      "isUncut": false
+    },
+    {
+      "id": "14c572f9-787c-47f0-b294-ee2ef26ed843",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "That’s awesome! That’s great! What made you do it?!",
+      "isUncut": false
+    },
+    {
+      "id": "67e0df0d-b8c8-4dcb-95fe-680102f97913",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Well, it’s a long story, but umm I broke Joey’s chair…",
+      "isUncut": false
+    },
+    {
+      "id": "1fb31400-6c39-490b-a7c8-930246c6bc01",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Whoa-whoa-whoa! You broke Joey’s chair?",
+      "isUncut": false
+    },
+    {
+      "id": "e6023421-db4c-4958-86da-fe8e6ee3f690",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "4be0e329-488a-4556-a2ca-30a47cc9406a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I thought I broke Joey’s chair! That’s why I replaced it with mine!",
+      "isUncut": false
+    },
+    {
+      "id": "4321d532-aef6-4005-aedc-662c61175b6d",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ohhhhh. That’s how it got fixed!",
+      "isUncut": false
+    },
+    {
+      "id": "c7427a84-0928-4387-bf9a-039d3377752d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, what did you think, that-that elves came in and fixed it?",
+      "isUncut": false
+    },
+    {
+      "id": "d6aae632-c2d6-4ae2-968b-dba2a8edf712",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Noo! (Laughs) Angels.",
+      "isUncut": false
+    },
+    {
+      "id": "48c5264d-aa4e-4905-ac36-20ad38a46b1e",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I’m gettin’ my chair back! (Heads for Joey and Rachel’s.)",
+      "isUncut": false
+    },
+    {
+      "id": "51a85bcf-6531-437e-9dcd-a5be27b1d754",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "What? Wh-hey!",
+      "isUncut": false
+    },
+    {
+      "id": "f94aa120-b56f-456a-9103-5b43a09df47a",
+      "type": "action",
+      "text": "(They enter Joey and Rachel’s to find that Joey has broken Chandler’s chair.)",
+      "isUncut": false
+    },
+    {
+      "id": "860135fc-73c4-4d6f-bdad-0d41c1722f6b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Well, it looks like it wasn’t healed after all! Yeah! So, I guess this chair is mine now! (Sits down in it and groans.)",
+      "isUncut": false
+    },
+    {
+      "id": "24660aff-47dd-4ebe-a787-d15a14cd612d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Joey you broke my chair!!",
+      "isUncut": false
+    },
+    {
+      "id": "5dfe8888-209a-4260-bd0f-fef9df62aac6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Your chair?!",
+      "isUncut": false
+    },
+    {
+      "id": "097fa85b-cfef-4bd3-a05f-885136dec636",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Yeah, he thought he broke your chair so he switched the chairs!",
+      "isUncut": false
+    },
+    {
+      "id": "554921c9-c4bf-4a72-adb1-9d38ea91df8b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "So, there was no miracle?!",
+      "isUncut": false
+    },
+    {
+      "id": "14cf60ce-daff-490e-8bcb-07529b1e63a7",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No Joe, no miracle.",
+      "isUncut": false
+    },
+    {
+      "id": "873459f6-02c8-4091-b062-c9dc0a9b0ff0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh no this is devastating! My faith is shaken. I’m so glad I have the new chair to get my through this difficult time in my life.",
+      "parenthetical": "sarcastic",
+      "isUncut": false
+    },
+    {
+      "id": "192a6c75-f72e-40c2-96c6-37b407a245a3",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh-huh! Nice try, but you don’t get that chair anymore! All right? That is my chair now! You can sit on my lap! (Joey starts to get up.) No I take that back!",
+      "isUncut": false
+    },
+    {
+      "id": "7dd27b80-2970-46a1-b745-a622ddf020a8",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "I think I should get the chair!",
+      "isUncut": false
+    },
+    {
+      "id": "78bc8e69-fdf2-491d-9e14-70318e6048e2",
+      "type": "action",
+      "text": "(Rachel and Joey both laugh at that suggestion.)",
+      "isUncut": false
+    },
+    {
+      "id": "4acceaaf-3a12-40b9-b1ae-b7cd35751164",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "How do you figure?",
+      "isUncut": false
+    },
+    {
+      "id": "c30ca3a0-8b0b-4531-a6a1-0e16790e523f",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Because you (Points to Joey) broke a chair and you (Points to Rachel) broke a chair! The only one around here that hasn’t broke a chair, is me!",
+      "isUncut": false
+    },
+    {
+      "id": "6d5ee69f-8ee8-470f-9f3f-f16c0f122b03",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "No-no-no! This chair’s not going anywhere.",
+      "isUncut": false
+    },
+    {
+      "id": "97ada96e-258c-48e7-821b-2d1f1e81676a",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "Well, where’s the logic in that?!",
+      "isUncut": false
+    },
+    {
+      "id": "3bd74364-7180-44bb-8057-a3585e02f67b",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "The logic is, that there are two of us and we are both strong enough to break a chair in half!",
+      "isUncut": false
+    },
+    {
+      "id": "ca89e475-f44c-435b-b50b-97be1c6c8f8d",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "So Joey breaks my chair and I get nothing!",
+      "isUncut": false
+    },
+    {
+      "id": "922fa01e-9690-4edd-9614-678bf529661c",
+      "type": "action",
+      "text": "(Joey whispers in Rachel’s ear to confirm his response.)",
+      "isUncut": false
+    },
+    {
+      "id": "67939806-3a1e-4078-9697-3f7a4d4d8204",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "That’s right!",
+      "isUncut": false
+    },
+    {
+      "id": "283cd870-970f-4867-be5c-bf980fc43c35",
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "text": "What are you guys? Like a gang or something?!",
+      "isUncut": false
+    },
+    {
+      "id": "e4db9479-86ca-4b3f-b715-58328725b285",
+      "type": "action",
+      "text": "(They confer again.)",
+      "isUncut": false
+    },
+    {
+      "id": "b1b991c0-451c-40e0-b7a1-00d7b30cb5ec",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Yeah! We are!",
+      "isUncut": false
+    },
+    {
+      "id": "30088d4a-944a-41ed-9a13-f6c51f795e42",
+      "type": "action",
+      "text": "(Rachel whispers in Joey’s ear.)",
+      "isUncut": false
+    },
+    {
+      "id": "19937047-2fc3-4d8a-8874-abeaf0289354",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "We’re the Cobras!",
+      "isUncut": false
+    },
+    {
+      "id": "2f3065cf-794f-4efa-b5e3-156c1ccbf594",
+      "type": "scene",
+      "description": "Earl’s Office, Earl has his head in his hands as Phoebe enters."
+    },
+    {
+      "id": "db1bef24-8b76-45b0-b932-e25e425ca59c",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Excuse me! Can you tell me where I can find Earl? He’s the supply manager around here.",
+      "parenthetical": "to Marge",
+      "isUncut": false
+    },
+    {
+      "id": "be9f25e5-5012-476e-a1c0-a76c39976624",
+      "type": "dialogue",
+      "speaker": "Marge",
+      "text": "Sorry, I don’t know any Earl.",
+      "isUncut": false
+    },
+    {
+      "id": "c42fcd7f-4ac8-4ce0-8b41-5ac5284c5cf8",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "I’m right here!!!!",
+      "parenthetical": "screaming",
+      "isUncut": false
+    },
+    {
+      "id": "f388d268-c0c3-4304-a215-f151d2c31f09",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Earl! I’m Phoebe.",
+      "parenthetical": "goes over to his desk",
+      "isUncut": false
+    },
+    {
+      "id": "15690d0b-312a-4934-9b28-4386a5cc23b8",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Phoebe? The lady who sells toner?",
+      "isUncut": false
+    },
+    {
+      "id": "7e4df9e9-4b1d-40c2-bd06-81e428c47b53",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Umm, look it, you-you can’t kill yourself.",
+      "isUncut": false
+    },
+    {
+      "id": "5ef7b5a0-3527-48ea-b87c-8df93bc710f6",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Look, um I really appreciate your coming down…",
+      "parenthetical": "exhales",
+      "isUncut": false
+    },
+    {
+      "id": "33dce497-5014-4dd5-a048-f7f0637144b2",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No-no I can’t! I can’t let you do it!",
+      "isUncut": false
+    },
+    {
+      "id": "154a7090-d9f5-4d15-ab52-a7064ba88e5a",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Why?!",
+      "isUncut": false
+    },
+    {
+      "id": "8b1807a2-c6e2-448c-902b-1c08d6446b92",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Because it was fate that made me call you today!",
+      "isUncut": false
+    },
+    {
+      "id": "ea2a9189-bf40-4e97-a7ce-127f655a4325",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "I thought it was toner.",
+      "isUncut": false
+    },
+    {
+      "id": "70c57686-9bf0-4373-a66c-2cb52161ebd6",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No! Think about it okay? This isn’t even my regular job! Okay? And my first day on the job, you’re my first call! And-and somebody else might’ve hung up on you, but I wouldn’t do that because I know about this stuff. My mom killed herself.",
+      "isUncut": false
+    },
+    {
+      "id": "6c37efcd-13ee-4301-a587-687c646f7eab",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Really?!",
+      "isUncut": false
+    },
+    {
+      "id": "603a0b51-af35-475f-99f2-233992f503fa",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Yes.",
+      "isUncut": false
+    },
+    {
+      "id": "93cbdabd-b588-4a60-a1f4-c4fc046c4c64",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "How?",
+      "isUncut": false
+    },
+    {
+      "id": "2868bc42-b905-4e86-95f6-840c268c1050",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "I’m not gonna give you tips! Look don’t you see that this-this…this all came together so that I could stop you from doing this.",
+      "isUncut": false
+    },
+    {
+      "id": "2afe0a0a-1031-4354-9e65-eb913f1aa1da",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Couldn’t it just be a coincidence?",
+      "isUncut": false
+    },
+    {
+      "id": "e37fe1ba-ddac-463f-9381-723da2925c6d",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "No, it’s fate!",
+      "isUncut": false
+    },
+    {
+      "id": "93ffb98d-be09-440f-bdd2-173c7900b8b1",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "It doesn’t really seem like enough to be fate.",
+      "isUncut": false
+    },
+    {
+      "id": "44a38a23-cd98-4112-9e40-f38b862b7233",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh. Well umm, okay here’s a weird thing. My mother was also a supply manager.",
+      "isUncut": false
+    },
+    {
+      "id": "b6cf2513-8d80-4a50-bb18-7f785403edb3",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "I’m actually the office manager.",
+      "isUncut": false
+    },
+    {
+      "id": "79b60aac-dc4b-4ce8-a8de-ed352c399d0b",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh my God! So was she! And! Get this, okay? Your-your name is Earl, right? Her name was Pearl, P-Earl.",
+      "isUncut": false
+    },
+    {
+      "id": "e1c70bb4-11b3-4209-9826-1ffef321207e",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Well, was there anything else?!",
+      "isUncut": false
+    },
+    {
+      "id": "1dc7567b-8f0a-4f0b-841a-b5c9152162b1",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Sure! (Thinks.) Umm, where are you from?",
+      "isUncut": false
+    },
+    {
+      "id": "7ab252b3-3eb1-413d-a628-33604972509e",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Philadelphia.",
+      "isUncut": false
+    },
+    {
+      "id": "ec2c5ffa-7550-4b31-a2ac-dbd29e589f42",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Oh my God! So was she! Oh, I’ve got-I’ve got goose bumps. (She holds out her arm.)",
+      "isUncut": false
+    },
+    {
+      "id": "646505fa-b11a-4049-8316-9de592458aa6",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Really?",
+      "parenthetical": "inspecting it",
+      "isUncut": false
+    },
+    {
+      "id": "3c0f5802-d1f2-4c22-83d4-ab240ce2a257",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Well, y’know I’m wearing layers and it’s warm.",
+      "isUncut": false
+    },
+    {
+      "id": "ba8b6ab0-3a36-47ba-94b2-40df31486ae2",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Yeah-yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "b470ff45-3083-4933-84b8-cc1a7553b58a",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "But if—no look, okay. These jerks might not care about you, but the universe does! And that says a lot!",
+      "isUncut": false
+    },
+    {
+      "id": "133f1d83-e57b-4f98-8f00-f2f3da567474",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Did you hear that?! I don’t need you guys to care about me! Because the universe cares! The whole universe! (Laughs as everyone ignores him.) (To Phoebe) I really wished they’d care just a little bit though.",
+      "parenthetical": "To All",
+      "isUncut": false
+    },
+    {
+      "id": "b3451b4c-53af-447a-b52c-950cc7081188",
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "text": "Y’know, I don’t-I don’t think it’s you. This is a freaky place. (To All) Hey! Guys! (Everyone looks up.) (To Earl) Oh no, it’s you.",
+      "isUncut": false
+    },
+    {
+      "id": "58f5c116-6c5d-4ba3-a7ef-7ec61db54203",
+      "type": "dialogue",
+      "speaker": "Earl",
+      "text": "Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "17b3ee6a-4094-4094-8f1b-ac58c53928c0",
+      "type": "scene",
+      "description": "The Geller’s Garage, Monica is picking through her ruined childhood heirlooms with Ross."
+    },
+    {
+      "id": "9edc1810-94b9-42a1-8f19-b7b2c8c8a03f",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Oh, this is terrible! Eve rything is destroyed! Look at this. (She picks up some kind of furry thing.) It obviously meant enough for me to save it, and I don’t even know what it is! Ohh, it’s still soft. (She rubs it against her cheek.) What do you think this is?",
+      "isUncut": false
+    },
+    {
+      "id": "b33f6f23-e4ce-4a33-89f4-0031dce091b8",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "All right. I think it was a mouse.",
+      "isUncut": false
+    },
+    {
+      "id": "9956109c-529e-470c-93ca-ccde14cfc8ab",
+      "type": "action",
+      "text": "(Monica screams, throws the mouse down, and rubs her hands on Ross’s sweater to clean them.)",
+      "isUncut": false
+    },
+    {
+      "id": "da46bd7c-db1e-43e6-bcad-24109185d679",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "How are you honey?",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "0defa4cb-1a7b-4596-a2b7-8aaad4027de4",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "How do you think I am?! You’ve wrecked all my childhood memories. You love Ross more than me. And I just rubbed a dead mouse on my face!",
+      "isUncut": false
+    },
+    {
+      "id": "ab2e736c-57c7-4036-9f13-96b89e04690f",
+      "type": "action",
+      "text": "(Ross gets up to let his dad sit next to Monica.)",
+      "isUncut": false
+    },
+    {
+      "id": "0bf94b4f-1fa5-4e7d-ab57-f8431d69f2ba",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Sweetheart, we love you just as much as Ross! Now, I’m sorry about everything that happened and I’d probably never be able to make it up to you, but here’s a start. (He hands her a small box.)",
+      "isUncut": false
+    },
+    {
+      "id": "488bb23f-bd39-4514-b8c8-d255d7d148fb",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What’s this?",
+      "parenthetical": "opening it",
+      "isUncut": false
+    },
+    {
+      "id": "3a9e6e72-cfe1-41c5-a021-599d9f13e0da",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "It’s the key to my Porsche . Well, the key to your Porsche .",
+      "isUncut": false
+    },
+    {
+      "id": "298c9e3a-c1bb-4c21-81dc-7eb1d914c8ab",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "What?!",
+      "parenthetical": "shocked",
+      "isUncut": false
+    },
+    {
+      "id": "b511dbe8-a589-485b-8021-cdab4a74d190",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "What?!!!",
+      "parenthetical": "even more shocked",
+      "isUncut": false
+    },
+    {
+      "id": "02ade514-a6ae-4603-9436-f5538fb3b46c",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "I’ve been thinking about getting rid of it. I was driving it the other day and saw my reflection in a store window. Your mother’s right, I do look like an ass.",
+      "isUncut": false
+    },
+    {
+      "id": "96381fdc-f0a3-414d-8d81-7476646a8302",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Wait, you’re giving me your Porsche , you’re kidding me right?!",
+      "isUncut": false
+    },
+    {
+      "id": "0701cd0a-c83f-414e-b81d-b0da791fcad6",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well w-w-w-w-wait, w-wait, wait, wait a minute! I mean a couple of stupid boxes get wet and she gets a Porsche ?!",
+      "isUncut": false
+    },
+    {
+      "id": "8eab71e9-7048-431d-b112-8a377c1f6634",
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "text": "Why don’t we take it for a spin?",
+      "parenthetical": "To Monica",
+      "isUncut": false
+    },
+    {
+      "id": "d6418671-4593-4f15-9ca8-70cc42de4499",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "All right!",
+      "isUncut": false
+    },
+    {
+      "id": "091a9db4-75ca-4444-9ae4-c740716812c3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, what about me?! I’m a medical marvel!!",
+      "isUncut": false
+    },
+    {
+      "id": "2e45794f-5592-4ce3-bf08-6c5916c94dd9",
+      "type": "scene",
+      "description": "Joey and Rachel’s, Rachel is sitting in Joey’s lap on Francette, and they’re both groaning."
+    },
+    {
+      "id": "0eb99fdc-c919-4dff-ae3a-a74e5c38f3c6",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Oh yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "a1f48117-6c22-4089-b512-36861c6d39d4",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Ahhhh…",
+      "isUncut": false
+    },
+    {
+      "id": "8e72ee49-83ab-46a8-a1cf-45f9ac0c379d",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Ahhh…… (To Rachel) Eh?",
+      "isUncut": false
+    },
+    {
+      "id": "42297fd4-f084-489c-bf3f-77be639e2cda",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Uh-huh.",
+      "isUncut": false
+    },
+    {
+      "id": "08e9d2ff-dff5-4ff4-8e13-c1baea5659f5",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Hey guys!",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "08569262-0edb-49f8-9fac-672256c70348",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "63c061ec-dddb-45e9-9125-eaa02812703e",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey!",
+      "isUncut": false
+    },
+    {
+      "id": "c08d20ca-3559-41b5-b29e-85d6810e4f94",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Do you guys know what happened to Chandler’s barcalounger?",
+      "isUncut": false
+    },
+    {
+      "id": "867361ed-c6c0-4655-8f4a-6d731f71fad0",
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "text": "Oh yeah, Joey broke it. Had to get rid of it.",
+      "isUncut": false
+    },
+    {
+      "id": "d9b61869-dbe3-4823-8e01-e316288c6e52",
+      "type": "dialogue",
+      "speaker": "Monica",
+      "text": "Are you kidding?! I get a Porsche and the barcalounger’s gone?! This is the best day ever! (Runs out.)",
+      "isUncut": false
+    },
+    {
+      "id": "1cbe47ae-7f1d-48fe-88b4-48be4c245de7",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}

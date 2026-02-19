@@ -16,6 +16,8 @@ public class EpisodeDto {
     Integer season;
     Integer episodeNumber;
     String episodeTitle;
+    /** Стабильный ключ контента (friends-s1e1, interstellar) для привязки в dictionary. */
+    String contentKey;
     Object content;
     Object credits;
     String note;

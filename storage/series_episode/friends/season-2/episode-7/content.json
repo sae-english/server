@@ -1,0 +1,1473 @@
+{
+  "season": 2,
+  "episode_number": 7,
+  "episode_title": "207 - The One Where Ross Finds Out",
+  "credits": {
+    "writtenBy": "Michael Borkow",
+    "transcribedBy": "Josh Hodge",
+    "withMinorAdjustmentsBy": "Eric Aasen <Ericaasen1@aol.com>"
+  },
+  "note": null,
+  "content": [
+    {
+      "id": "15815d61-bf2a-4c02-8f9f-182ab6f79b58",
+      "type": "scene",
+      "description": "Monica and Rachel’s apartment. Everyone is sitting at the couches, Chandler enters."
+    },
+    {
+      "id": "3e511706-3a5d-4dda-9097-86e5fb8f580b",
+      "type": "action",
+      "text": "Chandler: Okay, what is it about me? Do I not look fun enough? Is there something… repellent… about me?",
+      "isUncut": false
+    },
+    {
+      "id": "0b2397f4-a645-4f31-bd72-d8cf2c046d9b",
+      "type": "action",
+      "text": "Rachel: So, how was the party?",
+      "isUncut": false
+    },
+    {
+      "id": "2f160d7d-0193-4081-ac4a-eaf3679e1538",
+      "type": "action",
+      "text": "Phoebe: No, you are not, you are very attractive. You know what, I go through the exact same thing. Every time I put on a little weight, I start questioning everything.",
+      "isUncut": false
+    },
+    {
+      "id": "cd6a11e2-6391-4c92-81f1-8b3f4cd83ca4",
+      "type": "action",
+      "text": "Chandler: Woah, woah, I’ve put on a little weight?",
+      "isUncut": false
+    },
+    {
+      "id": "16441022-dc92-4a04-b1d0-bac17de131b8",
+      "type": "action",
+      "text": "Phoebe: No, not weight… y’know, more like insulation.",
+      "isUncut": false
+    },
+    {
+      "id": "9802da90-3dea-4e05-a7ef-0aeccb228e9c",
+      "type": "action",
+      "text": "Monica: Chandler, I’m unemployed and in dire need of a project. Ya wanna work out? I can remake you.",
+      "isUncut": false
+    },
+    {
+      "id": "07fac5ce-5a29-4772-bdba-c228ab975001",
+      "type": "action",
+      "text": "Chandler: Oh, you know, I would, but that might get in the way of my lying around time.",
+      "isUncut": false
+    },
+    {
+      "id": "f066497c-8ca2-44d7-8b92-ae57947af7e3",
+      "type": "action",
+      "text": "Monica: Please.",
+      "isUncut": false
+    },
+    {
+      "id": "1d59c98c-b3a9-481e-8d1b-e9eca1f36884",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "C’mon. Let her. Yeah.",
+      "isUncut": false
+    },
+    {
+      "id": "cdaa1376-510f-48ab-afc8-6076796c2aea",
+      "type": "action",
+      "text": "Chandler: All right, Okay, all right. But if we put on spandex and my boobs are bigger than yours, I’m goin’ home.",
+      "isUncut": false
+    },
+    {
+      "id": "6f77cf67-5611-44f7-a181-95eaf8430b29",
+      "type": "action",
+      "text": "Phoebe: Your boobs are fine. look, I never should have said anything. Come here. Come here. (hugs Chandler but holds her hands apart behind his back) Oh, can’t make… hands… meet…",
+      "isUncut": false
+    },
+    {
+      "id": "4c176be6-4aa7-4529-bd73-6315f536ec23",
+      "type": "section",
+      "title": "Opening Credits"
+    },
+    {
+      "id": "7c53781a-e44e-4d4a-8786-b7f06be5bef7",
+      "type": "scene",
+      "description": "The Hallway, Chandler comes out wearing spandex, jogging in place. Monica is there."
+    },
+    {
+      "id": "259c9b30-9da8-4ea9-93a3-b8f966e1036e",
+      "type": "action",
+      "text": "Chandler: Okay, let’s do it. (Monica looks at him funny) What?",
+      "isUncut": false
+    },
+    {
+      "id": "cdbb0cbd-6667-4d90-9468-2dbb0c9f7db2",
+      "type": "action",
+      "text": "Monica: Nothing, just never seen you in little stretchy pants before.",
+      "isUncut": false
+    },
+    {
+      "id": "df62fedc-3b2f-442b-a58c-4d89ad85f048",
+      "type": "action",
+      "text": "Chandler: And we’re changing. (jogs back in his apartment)",
+      "isUncut": false
+    },
+    {
+      "id": "b512cfee-5a43-445b-b2a4-87f39b501a14",
+      "type": "transition",
+      "text": "[Cut to the city street. Monica and Chandler are jogging. Chandler is lagging behind so he hops in a cab and takes off, leaving Monica behind]"
+    },
+    {
+      "id": "fe65e970-3a72-4dd5-8b03-f7a453e3fe67",
+      "type": "scene",
+      "description": "Chandler and Joey’s, Chandler is doing sit-ups."
+    },
+    {
+      "id": "54d3296c-94b3-4d77-8212-a99bd8a5f6fe",
+      "type": "action",
+      "text": "Monica: C’mon give me five more. Five more.",
+      "isUncut": false
+    },
+    {
+      "id": "3d308654-2310-4448-86df-a438734b355c",
+      "type": "action",
+      "text": "Chandler: (weakly) No.",
+      "isUncut": false
+    },
+    {
+      "id": "05f5a0eb-f0a4-4eef-8e8b-6b11f180297e",
+      "type": "action",
+      "text": "Monica: Five more and I’ll flash you.",
+      "isUncut": false
+    },
+    {
+      "id": "bdccc4ef-4154-405c-b00b-f2790ce77a4d",
+      "type": "action",
+      "text": "Chandler: One… two… two and a half. Okay, just show me one of them.",
+      "isUncut": false
+    },
+    {
+      "id": "f54e027d-bba4-4580-b307-12e714578aaa",
+      "type": "scene",
+      "description": "Central Perk, Chandler and Joey are sitting on the couch. Rachel is working."
+    },
+    {
+      "id": "bc54ac65-548c-448f-b9d0-55299d454f66",
+      "type": "action",
+      "text": "Chandler: (slowly lifts coffee cup to his mouth) Ow, ow, ow, ow, ow, ow, ow. (slowly sets the cup back down) Ow, ow, ow, ow, ow. (Joey intercepts the cup and puts it down for him). She’s insane, the woman is insane. It’s before work, it’s after work, it’s during work. She’s got me doing butt clenches at my desk. And now, they won’t bring me my mail anymore.",
+      "isUncut": false
+    },
+    {
+      "id": "e07b1199-602c-4802-84e8-7805d82a0b74",
+      "type": "action",
+      "text": "(Phoebe enters.)",
+      "isUncut": false
+    },
+    {
+      "id": "ddf15049-d83c-460e-9e9c-f07e4a536f7b",
+      "type": "action",
+      "text": "Rachel: Hey Pheebs, how’d it go with Scott last night?",
+      "isUncut": false
+    },
+    {
+      "id": "9161eb96-209c-4ddf-b8b5-5da6cdf7e814",
+      "type": "action",
+      "text": "Phoebe: Oh, um, it was nice. Took him to a romantic restaurant, ordered champagne, nice.",
+      "isUncut": false
+    },
+    {
+      "id": "8a4d0c2c-e65f-4c7b-b6c6-e90838ef98db",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "The guy still won’t put out, huh?",
+      "isUncut": false
+    },
+    {
+      "id": "419759b7-1dbb-45c1-8f99-dae7116c8d4b",
+      "type": "action",
+      "text": "Phoebe: Nope. Zilch, nothin’, uh-uh.",
+      "isUncut": false
+    },
+    {
+      "id": "5e7f2072-7188-4a08-b8c4-33f4ea9bd562",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Sorry Pheebs.",
+      "isUncut": false
+    },
+    {
+      "id": "34587267-d9cb-45f6-a53d-7965174dec13",
+      "type": "action",
+      "text": "Phoebe: look, I, y’know, I don’t mind taking it slow, I like him a lot, y’know he’s really interesting and he’s really sweet and why won’t he give it up?",
+      "isUncut": false
+    },
+    {
+      "id": "eef0a111-eeaa-4f8e-bb59-cbd6b383ef1b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Maybe he, uhh… drives his car on the other side of the road, if ya know what I mean.",
+      "isUncut": false
+    },
+    {
+      "id": "fcacc991-ac6a-4812-9a61-1444d421352b",
+      "type": "action",
+      "text": "Phoebe: No, whad’ya mean? He’s not British.",
+      "isUncut": false
+    },
+    {
+      "id": "1b533da7-d9cd-4ca1-9c57-10d47c3c6d92",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Maybe he’s… gay.",
+      "isUncut": false
+    },
+    {
+      "id": "095ec4ae-e041-4f40-9dc9-e8679ffa816f",
+      "type": "action",
+      "text": "Phoebe: Oohh, um, no, I don’t think that’s the problem. ’Cause we went, um, dancing the other night and the way he held me so close, and the way he was looking into my eyes I just like… definitely felt something.",
+      "isUncut": false
+    },
+    {
+      "id": "bcb7680e-f348-4d72-baac-49d95b88d980",
+      "type": "action",
+      "text": "Rachel: Yeah, but how much can you tell from a look?",
+      "isUncut": false
+    },
+    {
+      "id": "bd1e3ab6-fc13-46bd-8531-66f6ab152e62",
+      "type": "action",
+      "text": "Phoebe: No, I felt it on my hip. You could tell.",
+      "isUncut": false
+    },
+    {
+      "id": "b5e0efd0-2686-4c99-a521-bdc623a21d4a",
+      "type": "action",
+      "text": "(Monica enters.)",
+      "isUncut": false
+    },
+    {
+      "id": "c5ef27e9-6195-46fe-9b36-9c5721de889d",
+      "type": "action",
+      "text": "Monica: (to Chandler) Yo, Bing. Racquetball in 15 minutes.",
+      "isUncut": false
+    },
+    {
+      "id": "879dbcb1-90a0-41a5-8f8e-ce000027530b",
+      "type": "action",
+      "text": "Chandler: Joey, be a pal. Lift up my hand and smack her with it.",
+      "isUncut": false
+    },
+    {
+      "id": "41489424-6894-4139-b4c1-9385fd93932c",
+      "type": "action",
+      "text": "Phoebe: (seeing Ross kissing Julie outside the window) Ooh, oh, Rachel, don’t look.",
+      "isUncut": false
+    },
+    {
+      "id": "91800c5a-7013-4b45-af7b-32d182e818e4",
+      "type": "action",
+      "text": "Rachel: What? (looks, feigns indifference) C’mon you guys, I don’t care, I have a date tonight.",
+      "isUncut": false
+    },
+    {
+      "id": "7f4a682b-5925-4c35-87d3-121a240709ad",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Woah, woah, woah, you have a date?",
+      "isUncut": false
+    },
+    {
+      "id": "76a3a996-4a2d-457d-b18b-284056c2164c",
+      "type": "action",
+      "text": "Rachel: Yeah, Monica’s settin’ me up.",
+      "isUncut": false
+    },
+    {
+      "id": "fcc9771d-4699-47a9-b75d-b8dcab49dec4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "But uh, uh, what about uh, Ross and uh…",
+      "isUncut": false
+    },
+    {
+      "id": "ff8c08e6-b7ec-4169-b0fc-93fccb7f3031",
+      "type": "action",
+      "text": "Rachel: Oh what, my whole insane jealousy thing? Well, y’know, as much fun as that was, I’ve decided to opt for sanity.",
+      "isUncut": false
+    },
+    {
+      "id": "5519fba3-2888-4b0d-8393-85433ec4889b",
+      "type": "action",
+      "text": "Chandler: So you really Okay about all this?",
+      "isUncut": false
+    },
+    {
+      "id": "5a4bae36-a168-4068-b05f-59074c11df5d",
+      "type": "action",
+      "text": "Rachel: Oh yeah, c’mon, I’m movin’ on. He can press her up against that window as much as he wants. For all I care, he can throw her through the damn thing.",
+      "isUncut": false
+    },
+    {
+      "id": "838e8e89-6d9b-4209-86c0-e20faee08052",
+      "type": "action",
+      "text": "(Ross and Julie enter.)",
+      "isUncut": false
+    },
+    {
+      "id": "b285361f-e130-4335-aa0f-a123e6666759",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hi guys.",
+      "isUncut": false
+    },
+    {
+      "id": "3b632779-d0e0-4706-8b38-76baac399002",
+      "type": "dialogue",
+      "speaker": "All",
+      "text": "Hey.",
+      "isUncut": false
+    },
+    {
+      "id": "0fa30d22-7a7c-4429-b78c-137b4bd2e5e1",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, Monica, I figured I’d come by tomorrow morning and pick up Fluffy’s old cat toy, Okay?",
+      "isUncut": false
+    },
+    {
+      "id": "448838e8-b877-406d-89a3-365453d568e9",
+      "type": "action",
+      "text": "Monica: Only if you say his full name.",
+      "isUncut": false
+    },
+    {
+      "id": "0fe98d88-4a88-4b49-9ede-913b69b3dc9d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Can I come over tomorrow and pick up Fluffy Meowington’s cat toy.",
+      "parenthetical": "reluctantly",
+      "isUncut": false
+    },
+    {
+      "id": "8e824eee-886b-482e-84bc-7c70e394d0ec",
+      "type": "action",
+      "text": "Monica: All right.",
+      "isUncut": false
+    },
+    {
+      "id": "8821f4f5-b6cd-49da-aed6-47b1cb95411c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "You’re getting a cat?",
+      "parenthetical": "to Ross",
+      "isUncut": false
+    },
+    {
+      "id": "4484d77a-99e7-4326-816c-8c6f80d2a1fc",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh, actually, we’re getting a cat.",
+      "isUncut": false
+    },
+    {
+      "id": "821a2353-efd4-40df-b850-1cf4878d484a",
+      "type": "action",
+      "text": "Rachel: Together?",
+      "isUncut": false
+    },
+    {
+      "id": "6a2b7e81-212c-4325-a524-000886464583",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Uh huh.",
+      "isUncut": false
+    },
+    {
+      "id": "dd1dde42-915b-4c7b-9dc3-40904c7603e5",
+      "type": "action",
+      "text": "Rachel: Both of you?",
+      "isUncut": false
+    },
+    {
+      "id": "6ec2ba92-3cae-4bd5-a7a0-8618062f6873",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Yep.",
+      "isUncut": false
+    },
+    {
+      "id": "c1e6a868-79f1-4f3f-825b-6d2eea35e914",
+      "type": "action",
+      "text": "Rachel: Together.",
+      "isUncut": false
+    },
+    {
+      "id": "a523d5b6-46ad-400a-82f3-f0186ad87373",
+      "type": "dialogue",
+      "speaker": "Julie",
+      "text": "Yeah, we figure it’ll live with Ross half the time, and with me half the time.",
+      "isUncut": false
+    },
+    {
+      "id": "cf4c2ce7-a154-480a-9609-f597f8e10f26",
+      "type": "action",
+      "text": "Rachel: Ohh, well, isn’t that just lovely. That’s something the two of you will be able to enjoy for a really, really, really, really, really long time.",
+      "isUncut": false
+    },
+    {
+      "id": "22237d87-2f81-406b-9dca-16e106f4323e",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hopefully.",
+      "isUncut": false
+    },
+    {
+      "id": "7e87d631-9bea-48c4-af4d-f74370b81944",
+      "type": "action",
+      "text": "Rachel: Well. (looks at watch) Woah, look at that! I gotta go, I gotta date. With a man. Um, Okay, you guys have a really, uh, have a really good night and you two have a, uh, have a, uh, really good cat. (she leaves carrying her tray then comes back in) Okay, we’re not supposed to take these when we leave.",
+      "isUncut": false
+    },
+    {
+      "id": "fcf8b7aa-2c18-48bf-8330-019bdc39b44f",
+      "type": "scene",
+      "description": "A Restaurant, Rachel is on her date with Michael."
+    },
+    {
+      "id": "30d36ec0-86d8-4139-ab84-168ff651905c",
+      "type": "action",
+      "text": "Michael: I don’t know if Monica told you but this is the first date I’ve gone on since my divorce so, if I seem a little nervous, I am.",
+      "isUncut": false
+    },
+    {
+      "id": "97b95537-c45b-4d70-ab43-72ff113c0efa",
+      "type": "action",
+      "text": "Rachel: (distracted) How long do cats live?",
+      "isUncut": false
+    },
+    {
+      "id": "9242bde0-085c-4595-a8a9-b850f9923786",
+      "type": "action",
+      "text": "Michael: (confused) I’m sorry?",
+      "isUncut": false
+    },
+    {
+      "id": "efa0d986-c344-405e-8ac4-609c16adb6d7",
+      "type": "action",
+      "text": "Rachel: Cats, how long do they live figuring you don’t… y’know, throw ’em under a bus or something?",
+      "isUncut": false
+    },
+    {
+      "id": "6f7ac543-4a47-4c48-941e-1726e10e4fb1",
+      "type": "action",
+      "text": "Michael: Um, maybe 15, 16 years.",
+      "isUncut": false
+    },
+    {
+      "id": "8aaf9ccf-6837-44ee-b27c-3553c56d2abc",
+      "type": "action",
+      "text": "Rachel: That’s just great. (she picks up her champagne and starts drinking)",
+      "isUncut": false
+    },
+    {
+      "id": "e30f4188-1a27-4fdf-a353-deb4af61f867",
+      "type": "action",
+      "text": "Michael: Um, cheers.",
+      "isUncut": false
+    },
+    {
+      "id": "a3040d15-1005-43ac-81bf-02eb2cfaa381",
+      "type": "action",
+      "text": "Rachel: Oh, right, clink. (downs her glass)",
+      "isUncut": false
+    },
+    {
+      "id": "4090d263-744c-4aae-a826-21658a41f481",
+      "type": "action",
+      "text": "Michael: Monica told you I was cuter that this, didn’t she?",
+      "isUncut": false
+    },
+    {
+      "id": "c7efbb52-0e80-49a9-8cae-938bf469448f",
+      "type": "action",
+      "text": "Rachel: Oh, no, Michael, it’s not you. I’m sorry, it’s just, it’s this thing. It’s probably not as bad as it sounds but this friend of mine is, is getting a cat with his girlfriend.",
+      "isUncut": false
+    },
+    {
+      "id": "aff746b7-dae8-41f2-bfc0-ef1403a67f4c",
+      "type": "action",
+      "text": "Michael: Oh, that does sound…Ahh.",
+      "isUncut": false
+    },
+    {
+      "id": "0d55234d-7695-441f-82f7-625028d0fb4e",
+      "type": "action",
+      "text": "Rachel: I mean he just started going out with her.",
+      "isUncut": false
+    },
+    {
+      "id": "f5bc3a50-59da-4561-b05f-8bc6839cc3aa",
+      "type": "action",
+      "text": "Michael: Is this guy, uhh, an old boyfriend?",
+      "isUncut": false
+    },
+    {
+      "id": "d67ddf57-2654-4566-9f98-40466ef7ef37",
+      "type": "action",
+      "text": "Rachel: Ah, hah-hah-hah-ho, yeah, he wishes. Oh, I’m sorry, look at me. Okay, Michael, let’s talk about you.",
+      "isUncut": false
+    },
+    {
+      "id": "b4fedb36-caba-47cf-bb07-115d9a2e0f9d",
+      "type": "action",
+      "text": "Michael: All right.",
+      "isUncut": false
+    },
+    {
+      "id": "5e28daf4-8972-48a5-accc-452544ea17d1",
+      "type": "action",
+      "text": "Rachel: Okay, Okay. So, you ever get a pet with a girlfriend?",
+      "isUncut": false
+    },
+    {
+      "id": "7d73fca8-6e08-46a6-9c6d-389d03675be1",
+      "type": "scene",
+      "description": "Central Perk, Phoebe and Joey are sitting on the couch."
+    },
+    {
+      "id": "7cecbcb0-ba71-4cd8-b1dc-eb67a8f7f9ba",
+      "type": "action",
+      "text": "Phoebe: So, I figured it out.",
+      "isUncut": false
+    },
+    {
+      "id": "1872f93d-bb55-4bf5-b8fa-ab14b7eef743",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "What?",
+      "isUncut": false
+    },
+    {
+      "id": "b48629f8-f383-45d8-985f-0206934317da",
+      "type": "action",
+      "text": "Phoebe: Why Scott doesn’t want to sleep with me. It’s ’cause I’m not sexy enough.",
+      "isUncut": false
+    },
+    {
+      "id": "468eaf76-1c28-4d70-a127-de1c2a470fd8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Phoebe, that’s crazy. When I first met you, you know what I said to Chandler? I said, “Excellent butt, great rack.”",
+      "isUncut": false
+    },
+    {
+      "id": "1edbca1c-d1c4-43f8-8d2f-e43d2cf1967e",
+      "type": "action",
+      "text": "Phoebe: Really? That’s so sweet. I mean, I’m officially offended but, sweet.",
+      "isUncut": false
+    },
+    {
+      "id": "c7df0c9e-f6c1-47da-9bfa-51cddddaf76a",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Pheebs look, if you want to know what the deal is, you’re just gonna have to ask him.",
+      "isUncut": false
+    },
+    {
+      "id": "6569fad8-1150-4aca-a186-7067b82c4062",
+      "type": "action",
+      "text": "Phoebe: You’re right, you’re right. Ah, you are so yumm. (they hug)",
+      "isUncut": false
+    },
+    {
+      "id": "a13b80b0-88ab-4272-83cd-69e297a09f35",
+      "type": "action",
+      "text": "(Outside the window, Monica and Chandler jog up. Monica playfully pushes him. They start pushing and slapping harder and harder until Monica pushes him down. Chandler stands up, with a serious expression, and chases her away.)",
+      "isUncut": false
+    },
+    {
+      "id": "934fd602-e5a5-4b48-9217-f0d2f0cbbe27",
+      "type": "scene",
+      "description": "A Restaurant, Rachel pours the last of the champagne bottle in her glass."
+    },
+    {
+      "id": "506b16a7-4b39-48ed-a097-d00c8d66ac2c",
+      "type": "action",
+      "text": "Michael: Fruit flies?",
+      "isUncut": false
+    },
+    {
+      "id": "aa491cd8-d72a-4f07-a813-79096c52624e",
+      "type": "action",
+      "text": "Rachel: Yes! Thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "0c80f89d-f1b6-4b77-90b5-4c6272346030",
+      "type": "action",
+      "text": "(The waiter comes to the table.)",
+      "isUncut": false
+    },
+    {
+      "id": "500d74a1-d3d2-4fe9-bb95-b95aa1915abb",
+      "type": "action",
+      "text": "Waiter: So, would you like any dessert?",
+      "isUncut": false
+    },
+    {
+      "id": "ad048844-e9c9-4f5b-b12a-f2fccab4dd2f",
+      "type": "action",
+      "text": "Michael: No! No dessert, just a check, please.",
+      "isUncut": false
+    },
+    {
+      "id": "3dd02643-5d20-4e5e-a1e9-b7d6a5a55a12",
+      "type": "action",
+      "text": "Rachel: Oh, you’re not having fun, are you?",
+      "isUncut": false
+    },
+    {
+      "id": "bbd63ed0-7c36-449d-8fc1-390ffcbe77d7",
+      "type": "action",
+      "text": "Michael: No, no, I am, but only because for the last hour and a half I’ve been playing the movie Diner in my head.",
+      "isUncut": false
+    },
+    {
+      "id": "b6f31833-4e04-4543-bd14-9c851680f3e5",
+      "type": "action",
+      "text": "Rachel: Oh, Look at me, Look at me. Oh, I’m on a date with a really great guy, all I can think about is Ross and his cat and his… Julie. I just want to get over him. gosh, why can’t I do that?",
+      "isUncut": false
+    },
+    {
+      "id": "380dc39b-c040-4e40-b94e-78bdb58dabed",
+      "type": "action",
+      "text": "Michael: Oy. Look, I’ve been through a divorce, trust me you’re gonna be fine. You just can’t see it now because you haven’t had any closure.",
+      "isUncut": false
+    },
+    {
+      "id": "c9f885e7-6769-4762-af87-d9464e25e4c5",
+      "type": "action",
+      "text": "Rachel: Yeah! Closure. That’s what it is, that’s what I need. God, you’re brilliant! Why didn’t I think of that? How do I get that?",
+      "isUncut": false
+    },
+    {
+      "id": "f089b78d-18c8-40ca-bcad-3c145c2d43f1",
+      "type": "action",
+      "text": "Michael: Well, you know, there’s no one way really, it’s just, you know, whatever it takes so that you can finally say to him, “I’m over you.”",
+      "isUncut": false
+    },
+    {
+      "id": "a9841b07-b1f3-4b45-a5f4-79dd95f93b71",
+      "type": "action",
+      "text": "Rachel: Closure, that’s what it is. Closure. (she Looks around the restaurant, spotting a guy with a cellular phone) Hello, excuse me. Excuse me, hel—woo (she almost falls out of her chair)",
+      "isUncut": false
+    },
+    {
+      "id": "8b8a68b5-9808-40a2-86dc-3af2c6819374",
+      "type": "action",
+      "text": "Guy: Hang on.",
+      "isUncut": false
+    },
+    {
+      "id": "fc79eada-7858-451b-9434-a246d92a993f",
+      "type": "action",
+      "text": "Rachel: Hello, excuse me.",
+      "isUncut": false
+    },
+    {
+      "id": "a0d65d07-c9c9-49a6-8ba9-5dd86e337de6",
+      "type": "action",
+      "text": "Guy: What.",
+      "isUncut": false
+    },
+    {
+      "id": "1e05ba79-854b-4404-911c-a1d708704b8f",
+      "type": "action",
+      "text": "Rachel: Hi, I’m sorry, I need to borrow your phone for just one minute.",
+      "isUncut": false
+    },
+    {
+      "id": "767baf25-b84d-474e-ad3e-c8d414035268",
+      "type": "action",
+      "text": "Guy: I’m talkin’!",
+      "isUncut": false
+    },
+    {
+      "id": "0189f869-de72-47ed-bbdd-622cd55f67e9",
+      "type": "action",
+      "text": "Rachel: I can see that. I—just one phone call, I’ll be very quick, I’ll even pay for it myself. (man is still reluctant) Okay, you’re bein’ a little weird about your phone.",
+      "isUncut": false
+    },
+    {
+      "id": "14827799-8614-4eba-b280-3de80d977b1e",
+      "type": "action",
+      "text": "Guy: All right, fine. (on the phone) I’ll call you back. (hands the phone to her)",
+      "isUncut": false
+    },
+    {
+      "id": "79657654-c031-4442-9cb0-709145768d97",
+      "type": "action",
+      "text": "Rachel: Thank you. Okay. (dials) (to Michael) Machine. Just waiting for the beep.",
+      "isUncut": false
+    },
+    {
+      "id": "5f6eeb09-1869-4320-b5cf-d63c5e35155f",
+      "type": "action",
+      "text": "Michael: Good.",
+      "isUncut": false
+    },
+    {
+      "id": "728972f5-516d-47dd-ac97-8568d9c991a3",
+      "type": "action",
+      "text": "Rachel: (on phone) Ross, hi, it’s Rachel. I’m just calling to say that um, everything’s fine and I’m really happy for you and your cat who, by the way, I think you should name Michael. And, you know, ya see there I’m thinking of names so obviously, I am over you. I am over you and that, my friend, is what they call closure. (hangs up and tosses phone in the ice bucket)",
+      "isUncut": false
+    },
+    {
+      "id": "e3e0a642-389e-442c-b099-ef5e76745530",
+      "type": "section",
+      "title": "Commercial Break"
+    },
+    {
+      "id": "6a31f184-2aed-4f78-b94c-1a311c9cd146",
+      "type": "scene",
+      "description": "Chandler and Joey’s, Chandler is answering the door in his robe."
+    },
+    {
+      "id": "e5f7b418-8fdc-47bc-9a1b-f05cd9ec6363",
+      "type": "action",
+      "text": "Chandler: No, no, no, no, no, no (opens door to Monica) No. Monica, it’s Sunday morning. I’m not running on a Sunday.",
+      "isUncut": false
+    },
+    {
+      "id": "dc48ee82-9265-439e-bfd6-57ef780fcb98",
+      "type": "action",
+      "text": "Monica: Why not?",
+      "isUncut": false
+    },
+    {
+      "id": "89c62a29-07d1-4853-ac6d-41557afefe6e",
+      "type": "action",
+      "text": "Chandler: Because it’s Sunday. It’s God’s day.",
+      "isUncut": false
+    },
+    {
+      "id": "4e551c47-c306-485d-b6ce-aa2c56a3e6de",
+      "type": "action",
+      "text": "Monica: Okay, if you say stop, then we stop.",
+      "isUncut": false
+    },
+    {
+      "id": "aa43bc3b-a1fe-4a4a-a3b1-29ecc5955563",
+      "type": "action",
+      "text": "Chandler: Okay, stop.",
+      "isUncut": false
+    },
+    {
+      "id": "74763923-8ea6-4223-8517-6527969972fb",
+      "type": "action",
+      "text": "Monica: No, c’mon, we can’t stop, c’mon, we’ve got three more pounds to go. I am the energy train and you are on board. Woo-woo, woo-woo, woo-woo (Chandler walks out of the apartment, leaving Monica) Woo.",
+      "isUncut": false
+    },
+    {
+      "id": "03e483a5-bbea-41c3-b41a-c1dbd68d139d",
+      "type": "scene",
+      "description": "Rachel and Monica’s, Rachel is taking aspirin."
+    },
+    {
+      "id": "39545a16-7f07-4822-82e5-be965a9c6a42",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey Rach.",
+      "parenthetical": "entering",
+      "isUncut": false
+    },
+    {
+      "id": "56300edb-7aca-4292-82a3-5d8f8b38b529",
+      "type": "action",
+      "text": "Rachel: Ahhhh.",
+      "isUncut": false
+    },
+    {
+      "id": "8788d652-b9c8-4f71-ad38-a58f3365003c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh. And how was the date?",
+      "isUncut": false
+    },
+    {
+      "id": "1315c7a7-eee0-4ee3-be35-a6f672351126",
+      "type": "action",
+      "text": "Rachel: Umm, I think there was a restaurant… I know there was wine…",
+      "isUncut": false
+    },
+    {
+      "id": "93060ee7-62c6-4288-b8fb-555927603ef7",
+      "type": "action",
+      "text": "(Rachel looks at Ross as though she remembers something, but can’t place what it is.)",
+      "isUncut": false
+    },
+    {
+      "id": "eb458c24-d084-411b-83da-c6be347aa230",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wow, well uh, uh, actually, Julie’s downstairs getting a cab, I just need the cat toy, did Monica say… What? Why, why are you looking at me like that?",
+      "isUncut": false
+    },
+    {
+      "id": "ef1c7a67-da6d-4eff-8507-3b5ffa530bb4",
+      "type": "action",
+      "text": "Rachel: I don’t know, I, I feel like I had a dream about you last night but I, I don’t remember.",
+      "isUncut": false
+    },
+    {
+      "id": "7ae580d9-b4f7-4673-821b-ae8cc96d0970",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Okay. Oh, oh, oh. (runs over and picks up the cat toy)",
+      "isUncut": false
+    },
+    {
+      "id": "83434262-4b21-4655-8c5a-c6b3c888685a",
+      "type": "action",
+      "text": "Rachel: Did we speak on the phone last night? Did you call me?",
+      "isUncut": false
+    },
+    {
+      "id": "e8c83ad0-53b2-4353-a1f0-68992634b443",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, I stayed at Julie’s last night.",
+      "isUncut": false
+    },
+    {
+      "id": "6e84bc3f-21f1-4d5e-9196-952e4faa3f14",
+      "type": "action",
+      "text": "Rachel: Huh.",
+      "isUncut": false
+    },
+    {
+      "id": "a429aadd-0c41-4325-b5bf-f5df89156826",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Oh, actually I haven’t even been home yet. Do you mind if I check my messages?",
+      "isUncut": false
+    },
+    {
+      "id": "1b1deb74-9b40-4aa6-8803-4a47e1717ea7",
+      "type": "action",
+      "text": "Rachel: Oh yeah, go ahead. (Rachel walks in her room. Ross picks up the phone and dials his machine to check his messages.)",
+      "isUncut": false
+    },
+    {
+      "id": "78d4704e-ced0-41b6-aef0-19f18abc5116",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Rach, I got a message from you. (pauses) Who’s Michael?",
+      "isUncut": false
+    },
+    {
+      "id": "e0ca42e9-a392-4983-9267-712ea96f66b2",
+      "type": "action",
+      "text": "(Rachel comes out of her room, suddenly she remembers leaving the message.)",
+      "isUncut": false
+    },
+    {
+      "id": "aab9af17-d54b-4b57-9fed-4f19cbd4cebd",
+      "type": "action",
+      "text": "Rachel: Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the… (jumps the couch and lands on Ross’s back, finally getting the phone from him. Ross has a confused expression on his face.)",
+      "isUncut": false
+    },
+    {
+      "id": "d22730d0-b297-4051-8fce-3d511b360ece",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You’re over me?",
+      "isUncut": false
+    },
+    {
+      "id": "ca7126d7-ef8d-4a16-b7fc-7ff24fcedd2e",
+      "type": "action",
+      "text": "Rachel: Ohhhhhhhh God. (climbs off his back)",
+      "isUncut": false
+    },
+    {
+      "id": "48a4cfcd-ff78-4a43-b58d-7ceb1c2498e7",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Wha… you’re uh, you’re, you’re over me?",
+      "isUncut": false
+    },
+    {
+      "id": "1c7373a4-9da6-4583-85f6-988857fc764d",
+      "type": "action",
+      "text": "Rachel: Ohh, ohh.",
+      "isUncut": false
+    },
+    {
+      "id": "60cf66d1-8075-4ead-9d4f-d778cd5e8a6c",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "When, when were you… under me? Rach. Rachel do you, I mean, were you, uh… What?",
+      "isUncut": false
+    },
+    {
+      "id": "50c79c39-b0a5-4eff-b841-5291fbe51be2",
+      "type": "action",
+      "text": "Rachel: Ohh, Okay, Okay, Okay, well, basically, lately, I’ve uh, I’ve uh, sort of had feelings for you.",
+      "isUncut": false
+    },
+    {
+      "id": "c0d8b380-f1b4-4afd-816a-83aafcf6d463",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You’ve had feelings for me?",
+      "isUncut": false
+    },
+    {
+      "id": "010600f2-593b-4891-8748-e6418a6bbeb2",
+      "type": "action",
+      "text": "Rachel: Yeah, what, so? You had feelings for me first.",
+      "isUncut": false
+    },
+    {
+      "id": "c253f4ec-86ea-446a-b617-7a9bb3b01464",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Woah. Huh. You know about my, I mean, you know I had… you know?",
+      "isUncut": false
+    },
+    {
+      "id": "d763b2fe-6e29-4d8c-bebb-eaa5b4ee0f6b",
+      "type": "action",
+      "text": "Rachel: Chandler told me.",
+      "isUncut": false
+    },
+    {
+      "id": "e5f784ae-1abf-4116-bd2a-82011553ddf5",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Chandler. When did he… when did he… when did he?",
+      "isUncut": false
+    },
+    {
+      "id": "07ff5087-4939-4475-a4e6-bfbaf0063dd2",
+      "type": "action",
+      "text": "Rachel: When you were in China.",
+      "isUncut": false
+    },
+    {
+      "id": "2a959fc8-c674-44b4-975b-1be98ff28af3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "China.",
+      "isUncut": false
+    },
+    {
+      "id": "4cc62fd0-23c5-4aaa-b760-955f3e075659",
+      "type": "action",
+      "text": "Rachel: Meeting Julie.",
+      "isUncut": false
+    },
+    {
+      "id": "78e691b4-79a4-42b1-88ed-1bce3f0e1cf3",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Julie. Julie. That. Oh God. Julie, right. Okay, I need to lie down. No, ya know, I’m gonna stand. I’m gonna stand, I’m gonna walk, I’m walkin’ and I am standing. Okay so you uh, and now wha… and now, now, now you’re over me?",
+      "isUncut": false
+    },
+    {
+      "id": "17f7f936-9ae0-4ae9-8116-2ac4bb85c16d",
+      "type": "action",
+      "text": "Rachel: Are you over me?",
+      "isUncut": false
+    },
+    {
+      "id": "6b667cd7-2c0d-4dec-bccc-1c3420674369",
+      "type": "action",
+      "text": "(A moment of silence.)",
+      "isUncut": false
+    },
+    {
+      "id": "78682c46-d53e-45f9-acc0-e34b35d6c911",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "That’s, that’s Julie. Ju… Julie, Julie. (talks on intercom) Hi Julie.",
+      "parenthetical": "doorbell buzzes",
+      "isUncut": false
+    },
+    {
+      "id": "8dd5a9a8-75ea-461a-8555-14688d726e64",
+      "type": "dialogue",
+      "speaker": "Julie",
+      "text": "Hi honey, I’ve got a cab waiting.",
+      "parenthetical": "over intercom",
+      "isUncut": false
+    },
+    {
+      "id": "cefb094d-6886-4057-8d9c-aee9a649265d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I’ll be right down.",
+      "parenthetical": "perky",
+      "isUncut": false
+    },
+    {
+      "id": "6c9695b0-a161-42de-970d-73feea3da915",
+      "type": "action",
+      "text": "Rachel: Wait, so, you’re going?",
+      "isUncut": false
+    },
+    {
+      "id": "c62c4185-f48b-4016-a246-36f99fec7405",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Well, Okay, I uh, I have to. I can’t deal with this right now. I mean, I’ve uh, y’know, I’ve got a cab, I’ve got a girlfriend, I’m… I’m gonna go get a cat.",
+      "isUncut": false
+    },
+    {
+      "id": "885b50c5-0cbb-4f2a-bbdf-845aac453e87",
+      "type": "action",
+      "text": "Rachel: Okay, Okay.",
+      "isUncut": false
+    },
+    {
+      "id": "1e1e07ab-4a43-46af-a73b-69ea3d51bf67",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Cat. (leaves)",
+      "isUncut": false
+    },
+    {
+      "id": "af8f64a0-2ffa-4c15-96cd-c1961b905e86",
+      "type": "scene",
+      "description": "Chandler and Joey’s, Joey is watching a rabbi play an electric guitar on TV."
+    },
+    {
+      "id": "a3ee97ba-4a2e-4b16-aea6-ca13be11d6df",
+      "type": "action",
+      "text": "Phoebe: (entering) Hey Joey.",
+      "isUncut": false
+    },
+    {
+      "id": "d056a396-4ffc-42a5-aff7-9136ad34877b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Hey Pheebs.",
+      "isUncut": false
+    },
+    {
+      "id": "884bbe43-b5e6-458e-9bf7-47df606c3b50",
+      "type": "action",
+      "text": "Phoebe: How come you’re watching a rabbi play electric guitar?",
+      "isUncut": false
+    },
+    {
+      "id": "6ecd8d65-fa86-4d93-94c9-2ed643737027",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "I can’t find the remote. (Phoebe turns off the TV) Thank you.",
+      "isUncut": false
+    },
+    {
+      "id": "2aa2928a-5d1f-4b42-848a-b0d6b5a7a121",
+      "type": "action",
+      "text": "Phoebe: So, Scott asked me to come over for lunch today and I did.",
+      "isUncut": false
+    },
+    {
+      "id": "64627ae6-2187-40c3-bb73-98a7b2a0f5a8",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And?",
+      "isUncut": false
+    },
+    {
+      "id": "5a9611a3-b95a-4df9-b458-90a07cc04b8f",
+      "type": "action",
+      "text": "Phoebe: And we did.",
+      "isUncut": false
+    },
+    {
+      "id": "a9cebe8c-f820-4187-9280-76c7a943d31c",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "All right Pheebs, way to go.",
+      "isUncut": false
+    },
+    {
+      "id": "ec925662-c282-4f9f-b873-9d18530e1bb7",
+      "type": "action",
+      "text": "Phoebe: Yay me.",
+      "isUncut": false
+    },
+    {
+      "id": "55d8f15c-9ab3-4558-a135-fd96cf4b3ba4",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "So, so how did it happen?",
+      "isUncut": false
+    },
+    {
+      "id": "8e8c49df-d5c2-4262-9d6f-2f47b7f120c7",
+      "type": "action",
+      "text": "Phoebe: Well, I finally took your advice and asked him what was going on.",
+      "isUncut": false
+    },
+    {
+      "id": "220e1cfb-5bc0-4d3e-8703-b2311872fdf0",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "And what did he say?",
+      "isUncut": false
+    },
+    {
+      "id": "b0dcfe5a-b260-4b6c-9dc6-ec93459aa356",
+      "type": "action",
+      "text": "Phoebe: He said that, um, he understands how sex can be like, a very emotional thing for a woman and he was just afraid that I was gonna get all, y’know, like, ‘ohh, is he gonna call me the next day’ and, y’know, ‘where is this going’ and, ya know, blah-la-la-la-la. So he said he wanted to hold off until he was prepared to be really serious.",
+      "isUncut": false
+    },
+    {
+      "id": "ea916824-d468-4434-9c68-b370678fa1b1",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Wow.",
+      "isUncut": false
+    },
+    {
+      "id": "c3b33fd7-df07-43c9-a8fd-0c54afd2b4ac",
+      "type": "action",
+      "text": "Phoebe: Yeah, so I said, “Okay, relax please,” y’know, I mean, sex can be just about two people right there in the moment, y’know, it’s, if he wants to see me again he can call and if not, that’s fine too. So after a looooot of talking… I convinced him.",
+      "isUncut": false
+    },
+    {
+      "id": "26a398eb-1469-4ac0-8c23-418dc1c24aa3",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "Let me get this straight. He got you to beg to sleep with him, he got you to say he never has to call you again, and he got you thinking this was a great idea.",
+      "isUncut": false
+    },
+    {
+      "id": "941e7be5-d0a4-4af2-af60-98029b12da06",
+      "type": "action",
+      "text": "Phoebe: Um-hum.",
+      "isUncut": false
+    },
+    {
+      "id": "8f9ec6ce-d7df-419d-bade-8096f7a5f32b",
+      "type": "dialogue",
+      "speaker": "Joey",
+      "text": "This man is my God.",
+      "isUncut": false
+    },
+    {
+      "id": "da8ae75b-97a7-4608-988a-c78a02015cf1",
+      "type": "scene",
+      "description": "Central Perk, Rachel is closing up and Ross comes in."
+    },
+    {
+      "id": "04ae36fa-1ef6-46de-98c6-d5bd3db23016",
+      "type": "action",
+      "text": "Rachel: Hi.",
+      "isUncut": false
+    },
+    {
+      "id": "f4c3ae88-9b64-4e41-8c50-d02225ab40bb",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I didn’t get a cat.",
+      "isUncut": false
+    },
+    {
+      "id": "ca031fec-0de9-410b-bf1d-5659e98c4dd0",
+      "type": "action",
+      "text": "Rachel: Oh, that’s um, interesting.",
+      "isUncut": false
+    },
+    {
+      "id": "94f5ccd3-af0f-4c5c-b035-37ec83820056",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "No, no it’s not interesting. Okay, it’s very, very not interesting. In fact it’s actually 100 percent completely opposite of interesting.",
+      "isUncut": false
+    },
+    {
+      "id": "923145da-fa25-4ea0-b91b-2f5cdd33afe6",
+      "type": "action",
+      "text": "Rachel: All right, I got it Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "295a4d40-9fa1-413d-aee2-4013d84b2eed",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "You had no right to tell me you ever had feelings for me.",
+      "isUncut": false
+    },
+    {
+      "id": "3f8978d2-dd20-4f6e-b2d4-5812c32f12d6",
+      "type": "action",
+      "text": "Rachel: (hurt) What?",
+      "isUncut": false
+    },
+    {
+      "id": "046f59a3-5373-46a7-8345-006fd4ec075b",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "I was doing great with Julie before I found out about you.",
+      "isUncut": false
+    },
+    {
+      "id": "b51a8995-d810-49e4-bfda-97e8d2852f50",
+      "type": "action",
+      "text": "Rachel: Hey, I was doin’ great before I found out about you. You think it’s easy for me to see you with Julie?",
+      "isUncut": false
+    },
+    {
+      "id": "99c3690d-a706-453f-8732-7e56ab4c233a",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Then you should have said something before I met her.",
+      "isUncut": false
+    },
+    {
+      "id": "51274171-1930-44ae-be4d-a1fbf38630a3",
+      "type": "action",
+      "text": "Rachel: I didn’t know then. And how come you never said anything to me.",
+      "isUncut": false
+    },
+    {
+      "id": "b6513f46-4fe9-456b-b87a-a3d884e5f4fe",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "There was never a good time.",
+      "isUncut": false
+    },
+    {
+      "id": "d7ce85ef-3b5a-4f44-a3e0-91efa2a536ac",
+      "type": "action",
+      "text": "Rachel: Right, you, you only had a year. We only hung out every night.",
+      "isUncut": false
+    },
+    {
+      "id": "66d50218-cf4c-44f1-a130-9d701226944d",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Not, not, not every night . You know, and… and it’s not like I didn’t try, Rachel, but things got in the way, y’know? Like, like Italian guys or ex-fianc�s or, or, or Italian guys.",
+      "isUncut": false
+    },
+    {
+      "id": "c9917035-6dd1-4530-8f61-f6b18b073aaa",
+      "type": "action",
+      "text": "Rachel: Hey, there was one Italian guy, Okay, and do you even have a point?",
+      "isUncut": false
+    },
+    {
+      "id": "4f4417b4-645f-41d3-a47a-814da0a64d4f",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "The point is I… I don’t need this right now, Okay. It, it’s too late, I’m with somebody else, I’m happy. This ship has sailed.",
+      "isUncut": false
+    },
+    {
+      "id": "d3e6ab1b-62c5-4ab6-93ae-6a8174098eed",
+      "type": "action",
+      "text": "Rachel: Yeah, what’re you saying, you just sort of put away feelings or whatever the hell it was you felt for me?",
+      "isUncut": false
+    },
+    {
+      "id": "6453fc70-56ab-45f1-aebb-2398505d4e49",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Hey, I’ve been doin’ it since the ninth grade, I’ve gotten pretty damn good at it.",
+      "isUncut": false
+    },
+    {
+      "id": "df4256f1-ac25-442b-99f8-1fce11afa0cf",
+      "type": "action",
+      "text": "Rachel: All right, fine, you go ahead and you do that, all right Ross.",
+      "isUncut": false
+    },
+    {
+      "id": "46bf1938-d2a7-465e-8ebd-96803fd78aac",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Fine.",
+      "isUncut": false
+    },
+    {
+      "id": "9cbbcdfb-5a37-482c-9f60-2118f9d950cd",
+      "type": "action",
+      "text": "Rachel: ’Cause I don’t need your stupid ship.",
+      "isUncut": false
+    },
+    {
+      "id": "6f39675b-d899-4016-b87b-5921dd78c5fa",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Good.",
+      "isUncut": false
+    },
+    {
+      "id": "1479edb5-7f72-4262-85c4-213c903a94f9",
+      "type": "action",
+      "text": "Rachel: Good. (Ross leaves)",
+      "isUncut": false
+    },
+    {
+      "id": "25e6c6dc-70c4-4b16-aabc-b17e91c1c78a",
+      "type": "action",
+      "text": "(Rachel gets up and opens the door, yelling after him.)",
+      "isUncut": false
+    },
+    {
+      "id": "486b8fa7-083f-47b2-b164-c0c055b7c8ce",
+      "type": "action",
+      "text": "Rachel: And ya know what, now I’ve got closure.",
+      "isUncut": false
+    },
+    {
+      "id": "79aa8db7-80d5-4c59-bc0b-6dfd5b82811f",
+      "type": "action",
+      "text": "(Rachel slams the door and locks it. She sits down, visibly upset. She puts her head in her hands and begins to cry. Ross comes back and is standing outside the window. When Rachel regroups and gets back up to finish closing, she sees him. She smiles. She goes to open the door and can’t get the lock undone.)",
+      "isUncut": false
+    },
+    {
+      "id": "b21d850f-281b-4833-8e09-66e7ebe40989",
+      "type": "dialogue",
+      "speaker": "Ross",
+      "text": "Try the bottom one.",
+      "isUncut": false
+    },
+    {
+      "id": "03061da1-499a-4e39-b282-52aa7d9b4942",
+      "type": "action",
+      "text": "(She opens the door and they kiss.)",
+      "isUncut": false
+    },
+    {
+      "id": "4a935faf-1b8e-4182-8aa8-68b743364de6",
+      "type": "section",
+      "title": "Closing Credits"
+    },
+    {
+      "id": "acd0175f-a48b-44ab-b047-2d62b54b6faa",
+      "type": "scene",
+      "description": "Chandler and Joey’s, Chandler answers the door to find Monica."
+    },
+    {
+      "id": "033b7a5b-8e57-46b0-9e8c-2f67eba71dc2",
+      "type": "action",
+      "text": "Chandler: Monica, it’s 6:30 in the morning. We’re not working out, it’s over.",
+      "isUncut": false
+    },
+    {
+      "id": "6697555e-05af-4459-be22-c16b03c1fcff",
+      "type": "action",
+      "text": "Monica: No way, with one pound to go, c’mon. We’re workin’, we’re movin’, we’re in the zone we’re groovin’.",
+      "isUncut": false
+    },
+    {
+      "id": "2aa11b76-094a-4e5c-a58a-b0a5f27a35a6",
+      "type": "action",
+      "text": "Chandler: Okay, I don’t, I don’t mind the last pound. Okay, in fact I kind of like the last pound. Okay, so don’t make me do anything that I’ll regret.",
+      "isUncut": false
+    },
+    {
+      "id": "322d2c3b-5a81-4797-9260-1409bc39f18c",
+      "type": "action",
+      "text": "Monica: Ooh, what’cha gonna do, fat boy, huh? What?",
+      "isUncut": false
+    },
+    {
+      "id": "b9164170-c338-450c-ba1d-dd237b8a7cb1",
+      "type": "action",
+      "text": "Chandler: Nothing, except tell you, uh, I think it’s wonderful how much energy you have.",
+      "isUncut": false
+    },
+    {
+      "id": "2552fa72-f5a0-4d4b-a700-7566a2edebcc",
+      "type": "action",
+      "text": "Monica: Well, thanks.",
+      "isUncut": false
+    },
+    {
+      "id": "b3a77d91-55ca-424f-a760-8b61ca3024f0",
+      "type": "action",
+      "text": "Chandler: I mean, especially considering how tough it’s been for you to find work.",
+      "isUncut": false
+    },
+    {
+      "id": "adcaae7d-7006-4f3c-9e6f-5e3b3cfd170c",
+      "type": "action",
+      "text": "Monica: Well, you know.",
+      "isUncut": false
+    },
+    {
+      "id": "5cbbb742-8277-45f8-97aa-10b96cdd0156",
+      "type": "action",
+      "text": "Chandler: You know, I mean, you can’t tell your parents you were fired because they’d be disappointed.",
+      "isUncut": false
+    },
+    {
+      "id": "ae5c22e4-dbea-4db1-ae70-cbe387ebc336",
+      "type": "action",
+      "text": "Monica: (sad) Uh-huh.",
+      "isUncut": false
+    },
+    {
+      "id": "37807bd5-08b0-4218-be4c-745d975497db",
+      "type": "action",
+      "text": "Chandler: And it’s not as if you have a boyfriend’s shoulder to cry on.",
+      "isUncut": false
+    },
+    {
+      "id": "52ec04cc-9b9c-4225-8813-d0dbb905334a",
+      "type": "action",
+      "text": "Monica: Well no, but um.",
+      "isUncut": false
+    },
+    {
+      "id": "f94d1c79-65b4-48b9-a63d-16e6d4721dea",
+      "type": "action",
+      "text": "Chandler: I mean, if it were me, I think I’d have difficulty just getting out of bed at all.",
+      "isUncut": false
+    },
+    {
+      "id": "903d7672-da56-45a1-a2c1-ea72899a1046",
+      "type": "action",
+      "text": "Monica: Y’know, I try to stay positive…",
+      "isUncut": false
+    },
+    {
+      "id": "99d21dc9-cca4-435f-97d9-64904d06bc27",
+      "type": "action",
+      "text": "Chandler: So, you feel like goin’ for a run?",
+      "isUncut": false
+    },
+    {
+      "id": "4617da06-938a-45ca-bc26-17091e03ba2c",
+      "type": "action",
+      "text": "Monica: All right.",
+      "isUncut": false
+    },
+    {
+      "id": "6181175c-3a2e-4fbf-b956-4b9fd3380f6b",
+      "type": "action",
+      "text": "Chandler: Because, you know, you don’t have to. If you want, you could just take a nap right here.",
+      "isUncut": false
+    },
+    {
+      "id": "1047889f-a961-4fb9-9fd1-1ddc3ac144b5",
+      "type": "action",
+      "text": "Monica: Okay. Just for a little while.",
+      "isUncut": false
+    },
+    {
+      "id": "acf7aea3-f068-43ea-8ca6-592ec24b8461",
+      "type": "action",
+      "text": "Chandler: Okay. (Puts an afghan over her and dances into his room)",
+      "isUncut": false
+    },
+    {
+      "id": "e1effe90-222a-4075-a0f4-5f1a521bad54",
+      "type": "section",
+      "title": "End"
+    }
+  ]
+}
