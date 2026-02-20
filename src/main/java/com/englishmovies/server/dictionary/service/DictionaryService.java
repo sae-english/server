@@ -1,5 +1,6 @@
 package com.englishmovies.server.dictionary.service;
 
+import com.englishmovies.server.dictionary.converter.DictionaryConverter;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryDto;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
 import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
@@ -16,34 +17,22 @@ import java.util.Optional;
 public class DictionaryService {
 
     private final DictionaryRepository dictionaryRepository;
+    private final DictionaryConverter dictionaryConverter;
 
     @Transactional
     public DictionaryDto save(DictionaryRequestDto request) {
-        DictionaryEntity entity = new DictionaryEntity();
-        entity.setValue(request.getValue());
-        entity.setTranslation(request.getTranslation());
-        entity.setLanguage(request.getLanguage());
-        entity.setComment(request.getComment());
-        entity.setContentKey(request.getContentKey());
-        entity.setContentType(request.getContentType());
-        entity.setBlockId(request.getBlockId());
+        DictionaryEntity entity = dictionaryConverter.toEntity(request);
         DictionaryEntity saved = dictionaryRepository.save(entity);
-        return toDto(saved);
+        return dictionaryConverter.toDto(saved);
     }
 
     @Transactional
     public DictionaryDto update(Long id, DictionaryRequestDto request) {
         DictionaryEntity entity = dictionaryRepository.findById(id)
             .orElseThrow(() -> new IllegalArgumentException("Dictionary entry not found: " + id));
-        entity.setValue(request.getValue());
-        entity.setTranslation(request.getTranslation());
-        entity.setLanguage(request.getLanguage());
-        entity.setComment(request.getComment());
-        entity.setContentKey(request.getContentKey());
-        entity.setContentType(request.getContentType());
-        entity.setBlockId(request.getBlockId());
+        dictionaryConverter.updateEntity(request, entity);
         DictionaryEntity updated = dictionaryRepository.save(entity);
-        return toDto(updated);
+        return dictionaryConverter.toDto(updated);
     }
 
     @Transactional
@@ -57,28 +46,13 @@ public class DictionaryService {
     @Transactional(readOnly = true)
     public List<DictionaryDto> findAll() {
         return dictionaryRepository.findAll().stream()
-            .map(this::toDto)
+            .map(dictionaryConverter::toDto)
             .toList();
     }
 
     @Transactional(readOnly = true)
     public Optional<DictionaryDto> findFirst() {
         return dictionaryRepository.findFirstByOrderByIdAsc()
-            .map(this::toDto);
-    }
-
-    private DictionaryDto toDto(DictionaryEntity entity) {
-        return new DictionaryDto(
-            entity.getId(),
-            entity.getValue(),
-            entity.getTranslation(),
-            entity.getLanguage(),
-            entity.getComment(),
-            entity.getContentKey(),
-            entity.getContentType(),
-            entity.getBlockId(),
-            entity.getCreatedAt(),
-            entity.getUpdatedAt()
-        );
+            .map(dictionaryConverter::toDto);
     }
 }
