@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!-- Схема + все таблицы с нуля (для перезапуска БД). Всё в schema englishmovies. -->
+    <changeSet id="001-schema-and-tables" author="english-movies">
+        <sql>CREATE SCHEMA IF NOT EXISTS englishmovies</sql>
+
+        <createTable schemaName="englishmovies" tableName="work">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="type" type="VARCHAR(20)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="name" type="VARCHAR(500)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="language" type="VARCHAR(20)" defaultValue="ENGLISH">
+                <constraints nullable="false"/>
+            </column>
+            <column name="content_key" type="VARCHAR(255)"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addUniqueConstraint schemaName="englishmovies" tableName="work" columnNames="content_key" constraintName="uq_work_content_key"/>
+
+        <createTable schemaName="englishmovies" tableName="movies">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="work_id" type="BIGINT">
+                <constraints nullable="false" unique="true"/>
+            </column>
+            <column name="director" type="VARCHAR(255)"/>
+            <column name="year" type="INTEGER"/>
+            <column name="description" type="TEXT"/>
+            <column name="credits" type="JSONB"/>
+            <column name="note" type="TEXT"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="movies" baseColumnNames="work_id"
+            constraintName="fk_movies_work" referencedTableSchemaName="englishmovies" referencedTableName="work" referencedColumnNames="id"/>
+
+        <createTable schemaName="englishmovies" tableName="movies_content">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="movie_id" type="BIGINT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="block_id" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="block_type" type="VARCHAR(20)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="title" type="TEXT"/>
+            <column name="text" type="TEXT"/>
+            <column name="description" type="TEXT"/>
+            <column name="speaker" type="VARCHAR(500)"/>
+            <column name="parenthetical" type="VARCHAR(500)"/>
+            <column name="previous_id" type="VARCHAR(255)"/>
+            <column name="next_id" type="VARCHAR(255)"/>
+            <column name="position" type="INT">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="movies_content" baseColumnNames="movie_id"
+            constraintName="fk_movies_content_movie" referencedTableSchemaName="englishmovies" referencedTableName="movies" referencedColumnNames="id"/>
+        <addUniqueConstraint schemaName="englishmovies" tableName="movies_content" columnNames="movie_id, block_id" constraintName="uq_movies_content_movie_block"/>
+
+        <createTable schemaName="englishmovies" tableName="series">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="work_id" type="BIGINT">
+                <constraints nullable="false" unique="true"/>
+            </column>
+            <column name="director" type="VARCHAR(255)"/>
+            <column name="year" type="INTEGER"/>
+            <column name="description" type="TEXT"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="series" baseColumnNames="work_id"
+            constraintName="fk_series_work" referencedTableSchemaName="englishmovies" referencedTableName="work" referencedColumnNames="id"/>
+
+        <createTable schemaName="englishmovies" tableName="episode">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="work_id" type="BIGINT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="season" type="INTEGER"/>
+            <column name="episode_number" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="episode_title" type="VARCHAR(500)"/>
+            <column name="content_key" type="VARCHAR(255)"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="episode" baseColumnNames="work_id"
+            constraintName="fk_episode_work" referencedTableSchemaName="englishmovies" referencedTableName="work" referencedColumnNames="id"/>
+        <addUniqueConstraint schemaName="englishmovies" tableName="episode" columnNames="work_id, season, episode_number" constraintName="uq_episode_work_season_number"/>
+        <addUniqueConstraint schemaName="englishmovies" tableName="episode" columnNames="content_key" constraintName="uq_episode_content_key"/>
+
+        <createTable schemaName="englishmovies" tableName="episode_content">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="episode_id" type="BIGINT">
+                <constraints nullable="false" unique="true"/>
+            </column>
+            <column name="content" type="JSONB"/>
+            <column name="credits" type="JSONB"/>
+            <column name="note" type="TEXT"/>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="episode_content" baseColumnNames="episode_id"
+            constraintName="fk_episode_content_episode" referencedTableSchemaName="englishmovies" referencedTableName="episode" referencedColumnNames="id"/>
+
+        <createTable schemaName="englishmovies" tableName="dictionary">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="value" type="VARCHAR(500)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="translation" type="VARCHAR(500)"/>
+            <column name="language" type="VARCHAR(20)" defaultValue="ENGLISH">
+                <constraints nullable="false"/>
+            </column>
+            <column name="comment" type="TEXT"/>
+            <column name="content_key" type="VARCHAR(255)"/>
+            <column name="content_type" type="VARCHAR(20)"/>
+            <column name="block_id" type="VARCHAR(255)"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+    </changeSet>
+</databaseChangeLog>

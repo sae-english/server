@@ -2,6 +2,7 @@ package com.englishmovies.server.dictionary.controller;
 
 import com.englishmovies.server.dictionary.domain.dto.DictionaryDto;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
+import com.englishmovies.server.dictionary.domain.dto.ExpandedDictionaryDto;
 import com.englishmovies.server.dictionary.service.DictionaryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -61,6 +62,25 @@ public class DictionaryController {
     @GetMapping
     public ResponseEntity<List<DictionaryDto>> findAll() {
         List<DictionaryDto> list = dictionaryService.findAll();
+        return ResponseEntity.ok(list);
+    }
+
+    /**
+     * Поиск по value: LIKE %query% без учёта регистра. GET /api/dictionary/search?q=слово
+     */
+    @GetMapping("/search")
+    public ResponseEntity<List<DictionaryDto>> search(@RequestParam(name = "q") String query) {
+        List<DictionaryDto> list = dictionaryService.searchByValue(query);
+        return ResponseEntity.ok(list);
+    }
+
+    /**
+     * Поиск по value с расширением: каждая запись содержит dictionary, title (название фильма/сериала)
+     * и block (тот же ContentBlockDto, что в GET /movie-content/.../pages).
+     */
+    @GetMapping("/search/expanded")
+    public ResponseEntity<List<ExpandedDictionaryDto>> searchExpanded(@RequestParam(name = "q") String query) {
+        List<ExpandedDictionaryDto> list = dictionaryService.searchByValueExpanded(query);
         return ResponseEntity.ok(list);
     }
 }

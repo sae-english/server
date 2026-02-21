@@ -22,6 +22,6 @@ public interface MovieRepository extends JpaRepository<MovieEntity, Long> {
     @Query("SELECT m FROM MovieEntity m JOIN FETCH m.work WHERE m.work.id = :workId")
     Optional<MovieEntity> findByWorkIdWithWork(Long workId);
 
-    @Query("SELECT m FROM MovieEntity m JOIN FETCH m.work LEFT JOIN FETCH m.content WHERE m.work.id = :workId")
+    @Query("SELECT DISTINCT m FROM MovieEntity m JOIN FETCH m.work LEFT JOIN FETCH m.contentBlocks WHERE m.work.id = :workId")
     Optional<MovieEntity> findByWorkIdWithWorkAndContent(Long workId);
 }

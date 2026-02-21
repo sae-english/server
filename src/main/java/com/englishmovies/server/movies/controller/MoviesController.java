@@ -1,6 +1,6 @@
 package com.englishmovies.server.movies.controller;
 
-import com.englishmovies.server.movies.domain.dto.MovieContentDto;
+import com.englishmovies.server.movies.domain.dto.MovieContentPageDto;
 import com.englishmovies.server.movies.domain.dto.MovieDto;
 import com.englishmovies.server.movies.service.MoviesService;
 import lombok.RequiredArgsConstructor;
@@ -29,11 +29,15 @@ public class MoviesController {
     }
 
     /**
-     * Получить контент фильма (сценарий) по id записи movies_content.
+     * Пагинация контента по курсору: GET /movie-content/{movieId}/pages?after=&limit=100.
+     * after — block_id последнего блока предыдущей страницы (пусто для первой). В ответе: content, nextCursor, hasMore.
      */
-    @GetMapping("/movie-content/{id}")
-    public ResponseEntity<MovieContentDto> getMovieContentById(@PathVariable Long id) {
-        return moviesService.getMovieContentById(id)
+    @GetMapping("/movie-content/{movieId}/pages")
+    public ResponseEntity<MovieContentPageDto> getMovieContentPage(
+            @PathVariable Long movieId,
+            @RequestParam(name = "after", required = false) String after,
+            @RequestParam(name = "limit", defaultValue = "100") int limit) {
+        return moviesService.getMovieContentPage(movieId, after, limit)
             .map(ResponseEntity::ok)
             .orElse(ResponseEntity.notFound().build());
     }

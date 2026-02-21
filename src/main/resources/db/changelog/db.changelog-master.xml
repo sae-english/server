@@ -5,12 +5,10 @@
     xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
         https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
 
-    <include file="db/changelog/changes/001-create-schema.xml"/>
-    <include file="db/changelog/changes/002-create-work-and-film-tables.xml"/>
-    <include file="db/changelog/changes/003-create-episode-table.xml"/>
-    <include file="db/changelog/changes/005-create-dictionary-table.xml"/>
+    <!-- Один changeset: схема englishmovies + все таблицы в финальном виде -->
+    <include file="db/changelog/changes/001-schema-and-tables.xml"/>
 
-    <!-- Загрузка данных из storage — всегда в конце, после всего DDL -->
+    <!-- Загрузка данных из storage — всегда в конце -->
     <include file="db/changelog/data/storage-loader.xml"/>
 
 </databaseChangeLog>

@@ -100,12 +100,12 @@ public class StorageLoaderChange implements CustomTaskChange {
         }
     }
 
-    /** Movies: каждый элемент — путь к content.json. Метаданные в movies, контент в movies_content. */
+    /** Movies: каждый элемент — путь к content.json. Метаданные в movies, контент чанками в movies_content. */
     private void loadMovies(Connection conn, Path storageRoot, JsonNode movies) throws Exception {
         if (!movies.isArray()) return;
         String workSql = "INSERT INTO " + SCHEMA + ".work (type, name, language, content_key) VALUES (?, ?, ?, ?)";
-        String moviesSql = "INSERT INTO " + SCHEMA + ".movies (work_id, director, year, description) VALUES (?, ?, ?, ?)";
-        String moviesContentSql = "INSERT INTO " + SCHEMA + ".movies_content (movie_id, content, credits, note) VALUES (?, ?::jsonb, ?::jsonb, ?)";
+        String moviesSql = "INSERT INTO " + SCHEMA + ".movies (work_id, director, year, description, credits, note) VALUES (?, ?, ?, ?, ?::jsonb, ?)";
+        String moviesContentSql = "INSERT INTO " + SCHEMA + ".movies_content (movie_id, block_id, block_type, title, text, description, speaker, parenthetical, previous_id, next_id, position) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
         for (JsonNode pathNode : movies) {
             Path contentPath = storageRoot.resolve(pathNode.asText());
@@ -116,8 +116,8 @@ public class StorageLoaderChange implements CustomTaskChange {
                 throw new CustomChangeException("movies content.json must contain 'work' and 'film': " + contentPath);
             }
             long workId = insertWork(conn, workSql, work);
-            long movieId = insertMovie(conn, moviesSql, workId, film);
-            insertMovieContent(conn, moviesContentSql, movieId, root);
+            long movieId = insertMovie(conn, moviesSql, workId, film, root);
+            insertMovieContentBlocks(conn, moviesContentSql, movieId, root);
         }
     }
 
@@ -215,12 +215,17 @@ public class StorageLoaderChange implements CustomTaskChange {
         throw new IllegalStateException("Failed to get work id");
     }
 
-    private long insertMovie(Connection conn, String sql, long workId, JsonNode film) throws Exception {
+    private long insertMovie(Connection conn, String sql, long workId, JsonNode film, JsonNode root) throws Exception {
+        JsonNode creditsNode = root.path("credits");
+        String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
+        String note = root.path("note").asText(null);
         try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
             ps.setLong(1, workId);
             ps.setString(2, film.path("director").asText(null));
             ps.setObject(3, film.path("year").isMissingNode() || film.path("year").isNull() ? null : film.path("year").asInt());
             ps.setString(4, film.path("description").asText(null));
+            ps.setString(5, creditsJson);
+            ps.setString(6, note);
             ps.executeUpdate();
             try (ResultSet rs = ps.getGeneratedKeys()) {
                 if (rs.next()) return rs.getLong(1);
@@ -229,18 +234,49 @@ public class StorageLoaderChange implements CustomTaskChange {
         throw new IllegalStateException("Failed to get movie id");
     }
 
-    private void insertMovieContent(Connection conn, String sql, long movieId, JsonNode root) throws Exception {
+    private void insertMovieContentBlocks(Connection conn, String sql, long movieId, JsonNode root) throws Exception {
         JsonNode contentArray = root.path("content");
-        String contentJsonStr = contentArray.isMissingNode() ? "[]" : contentArray.toString();
-        JsonNode creditsNode = root.path("credits");
-        String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
-        String note = root.path("note").asText(null);
-        try (PreparedStatement ps = conn.prepareStatement(sql)) {
-            ps.setLong(1, movieId);
-            ps.setString(2, contentJsonStr);
-            ps.setString(3, creditsJson);
-            ps.setString(4, note);
-            ps.executeUpdate();
+        if (!contentArray.isArray()) return;
+        int size = contentArray.size();
+        java.util.List<String> blockIds = new java.util.ArrayList<>(size);
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = block.path("id").asText(null);
+            if (blockId == null || blockId.isBlank()) {
+                blockId = java.util.UUID.randomUUID().toString();
+            }
+            blockIds.add(blockId);
+        }
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = blockIds.get(i);
+            String blockType = block.path("type").asText("action");
+            String title = block.path("title").asText(null);
+            if (title != null && title.isEmpty()) title = null;
+            String text = block.path("text").asText(null);
+            if (text != null && text.isEmpty()) text = null;
+            String description = block.path("description").asText(null);
+            if (description != null && description.isEmpty()) description = null;
+            String speaker = block.path("speaker").asText(null);
+            if (speaker != null && speaker.isEmpty()) speaker = null;
+            String parenthetical = block.path("parenthetical").asText(null);
+            if (parenthetical != null && parenthetical.isEmpty()) parenthetical = null;
+            String previousId = i > 0 ? blockIds.get(i - 1) : null;
+            String nextId = i < size - 1 ? blockIds.get(i + 1) : null;
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setLong(1, movieId);
+                ps.setString(2, blockId);
+                ps.setString(3, blockType);
+                ps.setString(4, title);
+                ps.setString(5, text);
+                ps.setString(6, description);
+                ps.setString(7, speaker);
+                ps.setString(8, parenthetical);
+                ps.setString(9, previousId);
+                ps.setString(10, nextId);
+                ps.setInt(11, i);
+                ps.executeUpdate();
+            }
         }
     }
 

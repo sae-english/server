@@ -1,17 +1,17 @@
 package com.englishmovies.server.movies.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.englishmovies.server.movies.domain.dto.ContentBlockDto;
 import com.englishmovies.server.movies.domain.dto.CreditsDto;
 import com.englishmovies.server.movies.domain.dto.EpisodeDto;
 import com.englishmovies.server.movies.domain.dto.EpisodeListDto;
-import com.englishmovies.server.movies.domain.dto.MovieContentDto;
+import com.englishmovies.server.movies.domain.dto.MovieContentPageDto;
 import com.englishmovies.server.movies.domain.dto.MovieDto;
 import com.englishmovies.server.movies.domain.entity.EpisodeEntity;
 import com.englishmovies.server.movies.domain.entity.MovieContentEntity;
 import com.englishmovies.server.movies.domain.entity.MovieEntity;
+import com.englishmovies.server.movies.converter.ContentBlockMapper;
 import com.englishmovies.server.movies.converter.EpisodeConverter;
 import com.englishmovies.server.movies.converter.MovieConverter;
 import com.englishmovies.server.movies.repository.EpisodeRepository;
@@ -41,10 +41,24 @@ public class MoviesService {
     private final MovieConverter movieConverter;
     private final EpisodeConverter episodeConverter;
 
+    /**
+     * Одна страница контента (пагинация по курсору). afterBlockId == null — первая страница.
+     * limit — размер страницы; nextCursor в ответе — block_id для запроса следующей страницы.
+     */
     @Transactional(readOnly = true)
-    public Optional<MovieContentDto> getMovieContentById(Long id) {
-        return movieContentRepository.findById(id)
-            .map(this::toMovieContentDto);
+    public Optional<MovieContentPageDto> getMovieContentPage(Long movieId, String afterBlockId, int limit) {
+        int size = Math.min(Math.max(1, limit), 200);
+        List<MovieContentEntity> page;
+        if (afterBlockId == null || afterBlockId.isBlank()) {
+            page = movieContentRepository.findByMovieIdOrderByPosition(movieId, PageRequest.of(0, size));
+        } else {
+            var cursor = movieContentRepository.findByMovieIdAndBlockId(movieId, afterBlockId);
+            if (cursor.isEmpty()) return Optional.empty();
+            int afterPosition = cursor.get().getPosition();
+            page = movieContentRepository.findByMovieIdAndPositionGreaterThanOrderByPosition(movieId, afterPosition, PageRequest.of(0, size));
+        }
+        if (page.isEmpty()) return Optional.empty();
+        return Optional.of(toMovieContentPageDto(page, size));
     }
 
     @Transactional(readOnly = true)
@@ -96,7 +110,8 @@ public class MoviesService {
 
     private EpisodeDto toEpisodeDtoFromMovie(MovieEntity movie) {
         var work = movie.getWork();
-        var c = movie.getContent();
+        var contentBlocks = movie.getContentBlocks();
+        Object contentJson = contentBlocks == null || contentBlocks.isEmpty() ? null : toJsonValue(assembleBlocksFromEntities(contentBlocks));
         return new EpisodeDto(
             movie.getId(),
             work.getId(),
@@ -106,28 +121,50 @@ public class MoviesService {
             1,
             work.getName(),
             work.getContentKey(),
-            c != null ? toJsonValue(c.getContent()) : null,
-            c != null ? toJsonValue(c.getCredits()) : null,
-            c != null ? c.getNote() : null
+            contentJson,
+            movie.getCredits() != null ? toJsonValue(movie.getCredits()) : null,
+            movie.getNote()
         );
     }
 
-    private MovieContentDto toMovieContentDto(MovieContentEntity entity) {
-        var work = entity.getMovie() != null ? entity.getMovie().getWork() : null;
+    private MovieContentPageDto toMovieContentPageDto(List<MovieContentEntity> page, int requestedSize) {
+        MovieContentEntity first = page.get(0);
+        var meta = metadataFromFirst(first);
+        List<ContentBlockDto> content = page.stream().map(ContentBlockMapper::fromEntity).toList();
+        boolean hasMore = page.size() >= requestedSize;
+        String nextCursor = hasMore ? page.get(page.size() - 1).getBlockId() : null;
+        return new MovieContentPageDto(
+            meta.movieId(),
+            meta.contentKey(),
+            meta.credits(),
+            meta.note(),
+            content,
+            nextCursor,
+            hasMore
+        );
+    }
+
+    /** Метаданные контента фильма из первого блока (movie, work → contentKey, credits, note). */
+    private record MovieContentMeta(Long movieId, String contentKey, CreditsDto credits, String note) {}
+
+    private MovieContentMeta metadataFromFirst(MovieContentEntity first) {
+        var movie = first.getMovie();
+        var work = movie != null ? movie.getWork() : null;
         String contentKey = work != null ? work.getContentKey() : null;
-        return new MovieContentDto(
-            entity.getId(),
-            entity.getMovie() != null ? entity.getMovie().getId() : null,
+        return new MovieContentMeta(
+            movie != null ? movie.getId() : null,
             contentKey,
-            toContentBlocks(entity.getContent()),
-            toCreditsDto(entity.getCredits()),
-            entity.getNote()
+            movie != null ? toCreditsDto(movie.getCredits()) : null,
+            movie != null ? movie.getNote() : null
         );
     }
 
-    private List<ContentBlockDto> toContentBlocks(JsonNode node) {
-        if (node == null || node.isNull() || !node.isArray()) return List.of();
-        return OBJECT_MAPPER.convertValue(node, new TypeReference<>() {});
+    private JsonNode assembleBlocksFromEntities(List<MovieContentEntity> entities) {
+        com.fasterxml.jackson.databind.node.ArrayNode array = OBJECT_MAPPER.createArrayNode();
+        for (MovieContentEntity e : entities) {
+            array.add(OBJECT_MAPPER.valueToTree(ContentBlockMapper.fromEntity(e)));
+        }
+        return array;
     }
 
     private CreditsDto toCreditsDto(JsonNode node) {
