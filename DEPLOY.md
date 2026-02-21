@@ -4,6 +4,148 @@
 
 ---
 
+## Рекомендуемый вариант: БД на сервере + лёгкая пересборка
+
+Ниже — один раз настраиваешь сервер, потом обновление = `git pull` + `./scripts/deploy.sh`.
+
+### Один раз: подготовка сервера
+
+Подключись по SSH, затем выполни по шагам.
+
+**1. Обновление и установка Java 21 + PostgreSQL**
+
+```bash
+apt update && apt install -y openjdk-21-jdk postgresql postgresql-contrib git
+```
+
+**2. База данных**
+
+```bash
+sudo -u postgres psql -c "CREATE USER englishmovies WITH PASSWORD 'придумай_надёжный_пароль';"
+sudo -u postgres psql -c "CREATE DATABASE englishmovies OWNER englishmovies;"
+```
+
+Пароль запомни — он понадобится для конфига приложения.
+
+**3. Код проекта**
+
+Если репозиторий уже есть в Git:
+
+```bash
+cd /opt
+git clone https://github.com/ТВОЙ_ЮЗЕР/english-movies.git
+cd english-movies/server
+```
+
+Если пока без Git — залей папку `server` с компьютера:
+
+```bash
+# На твоём Mac в папке с проектом:
+scp -r server root@IP_СЕРВЕРА:/opt/english-movies-server
+# На сервере:
+cd /opt/english-movies-server
+```
+
+**4. Конфиг для production**
+
+Создай файл конфигурации (подставь свой пароль БД):
+
+```bash
+cat > /opt/english-movies/server/src/main/resources/application-prod.yaml << 'EOF'
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    url: jdbc:postgresql://localhost:5432/englishmovies?currentSchema=englishmovies
+    username: englishmovies
+    password: ТВОЙ_ПАРОЛЬ_БД
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.xml
+    liquibase-schema: public
+    default-schema: englishmovies
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+EOF
+```
+
+(замени `ТВОЙ_ПАРОЛЬ_БД` на пароль из шага 2)
+
+**5. Папка storage на сервере**
+
+Данные фильмов (content.json и т.д.) должны лежать на сервере. Скопируй папку `storage` из проекта в тот же каталог, откуда запускается приложение (например рядом с `app.jar`), или оставь внутри `server` — загрузчик Liquibase ищет её относительно рабочей директории. Лучше положить в каталог приложения:
+
+```bash
+# Если storage уже в репозитории — ничего делать не нужно.
+# Если нет — с твоего Mac:
+scp -r storage root@IP_СЕРВЕРА:/opt/english-movies/server/
+```
+
+**6. Сервис systemd**
+
+Создай юнит (путь к каталогу поправь, если проект лежит не в `/opt/english-movies/server`):
+
+```bash
+cat > /etc/systemd/system/english-movies.service << 'EOF'
+[Unit]
+Description=English Movies API
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/english-movies/server
+ExecStart=/usr/bin/java -Xmx256m -jar /opt/english-movies/server/app.jar --spring.profiles.active=prod
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+EOF
+```
+
+Если проект в `/opt/english-movies-server`, замени путь в `WorkingDirectory` и в `ExecStart` на `/opt/english-movies-server`.
+
+```bash
+systemctl daemon-reload
+systemctl enable english-movies
+```
+
+**7. Первый запуск**
+
+```bash
+cd /opt/english-movies/server   # или /opt/english-movies-server
+chmod +x scripts/deploy.sh
+./scripts/deploy.sh
+```
+
+Скрипт соберёт JAR, скопирует его в `app.jar` и перезапустит сервис. При первом старте Liquibase создаст схему и таблицы и при необходимости загрузит данные из `storage`.
+
+Проверка:
+
+```bash
+curl -s http://localhost:8080/api/movies/titles?limit=2
+```
+
+---
+
+### Обновление (пересборка) приложения
+
+Когда выкатил новый код (через `git pull` или залив файлов):
+
+```bash
+cd /opt/english-movies/server
+git pull   # если используешь Git
+./scripts/deploy.sh
+```
+
+Скрипт заново соберёт проект, подменит `app.jar` и перезапустит сервис.
+
+**Сброс БД и пересоздание схемы:** перед перезапуском можно выполнить `./scripts/reset-schema.sh` (см. раздел «Сброс схемы» ниже).
+
+---
+
 ## 1. Подключение к серверу
 
 Поставщик (Reg.ru, Timeweb, Selectel и т.п.) даёт тебе:
@@ -188,3 +330,55 @@ Certbot сам поправит конфиг Nginx и будет продлев�
 8. По желанию включил HTTPS через `certbot --nginx`.
 
 Если напишешь, какой у тебя ОС на сервере и как именно хочешь отдавать приложение (только API или ещё фронт), можно сузить шаги под твой случай.
+
+---
+
+## Вариант: БД на сервере (без Docker)
+
+Если хочешь, чтобы PostgreSQL работал как обычная служба на сервере, а не в контейнере:
+
+**1. Установка PostgreSQL:**
+
+```bash
+apt update && apt install -y postgresql postgresql-contrib
+```
+
+**2. Создание БД и пользователя:**
+
+```bash
+sudo -u postgres psql -c "CREATE USER englishmovies WITH PASSWORD 'твой_надёжный_пароль';"
+sudo -u postgres psql -c "CREATE DATABASE englishmovies OWNER englishmovies;"
+```
+
+**3. Приложение** подключается к `localhost:5432`. В `application-prod.yaml` (или через переменные окружения) укажи:
+
+- `spring.datasource.url=jdbc:postgresql://localhost:5432/englishmovies?currentSchema=englishmovies`
+- `spring.datasource.username=englishmovies`
+- `spring.datasource.password=твой_надёжный_пароль`
+
+При первом запуске Liquibase создаст схему `englishmovies` и все таблицы.
+
+---
+
+## Сброс схемы (пересоздание при следующем запуске)
+
+Чтобы удалить схему и все данные и дать приложению заново создать всё при старте:
+
+**1. Запусти скрипт** (на сервере, из каталога проекта):
+
+```bash
+cd /opt/english-movies/server   # или где у тебя лежит проект
+chmod +x scripts/reset-schema.sh
+PGPASSWORD=твой_пароль ./scripts/reset-schema.sh
+```
+
+Скрипт удаляет схему `englishmovies` и очищает таблицы Liquibase в `public` (`databasechangelog`, `databasechangeloglock`). После этого при следующем запуске приложения Liquibase заново выполнит все миграции и создаст схему и таблицы.
+
+**2. Перезапусти приложение:**
+
+```bash
+systemctl restart english-movies
+# или: docker compose restart app  (если только приложение в Docker, а БД на хосте)
+```
+
+Данные из `storage/` (фильмы, контент) загрузятся снова, если у тебя в Liquibase включён загрузчик (custom change), который читает JSON при старте.
