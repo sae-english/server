@@ -20,20 +20,20 @@ public class DictionaryTelegramScheduler {
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
 
-//    @Scheduled(fixedRate = 5000) // каждые 5 секунд
-//    public void sendFirstDictionaryEntry() {
-//        if (!telegramService.isEnabled()) {
-//            return;
-//        }
-//        Optional<DictionaryDto> first = dictionaryService.findFirst();
-//        if (first.isEmpty()) {
-//            log.trace("Словарь пуст, пропуск отправки в Telegram");
-//            return;
-//        }
-//        DictionaryDto d = first.get();
-//        String value = d.getValue() != null ? d.getValue() : "";
-//        String translation = d.getTranslation() != null ? d.getTranslation() : "—";
-//        String message = value + " — " + translation;
-//        telegramService.sendMessage(message);
-//    }
+    @Scheduled(fixedRate = 60000) // каждые 5 секунд
+    public void sendFirstDictionaryEntry() {
+        if (!telegramService.isEnabled()) {
+            return;
+        }
+        Optional<DictionaryDto> first = dictionaryService.findFirst();
+        if (first.isEmpty()) {
+            log.trace("Словарь пуст, пропуск отправки в Telegram");
+            return;
+        }
+        DictionaryDto d = first.get();
+        String value = d.getValue() != null ? d.getValue() : "";
+        String translation = d.getTranslation() != null ? d.getTranslation() : "—";
+        String message = value + " — " + translation;
+        telegramService.sendMessage(message);
+    }
 }

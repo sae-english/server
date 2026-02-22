@@ -132,6 +132,8 @@ curl -s http://localhost:8080/api/movies/titles?limit=2
 
 ### Обновление (пересборка) приложения
 
+Пошаговая инструкция: **[UPDATE.md](UPDATE.md)**.
+
 Когда выкатил новый код (через `git pull` или залив файлов):
 
 ```bash
