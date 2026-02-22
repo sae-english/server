@@ -16,17 +16,9 @@ import java.util.List;
 @Configuration
 public class CorsConfig implements WebMvcConfigurer {
 
-    private static final List<String> ALLOWED_ORIGINS = List.of(
-            "https://ui-sandy-tau.vercel.app",
-            "https://*.vercel.app",
-            "http://localhost:*",
-            "http://127.0.0.1:*"
-    );
+    // Разрешаем все источники с помощью "*"
+    private static final List<String> ALLOWED_ORIGINS = List.of("*");
 
-    /**
-     * CorsFilter with highest precedence so it runs before any other filter.
-     * Adds CORS headers to every response (including errors and OPTIONS preflight).
-     */
     @Bean
     @Order(Ordered.HIGHEST_PRECEDENCE)
     public CorsFilter corsFilter() {
