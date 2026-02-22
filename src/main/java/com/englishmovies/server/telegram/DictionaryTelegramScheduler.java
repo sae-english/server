@@ -20,9 +20,10 @@ public class DictionaryTelegramScheduler {
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
 
-    @Scheduled(fixedRate = 60000) // каждые 5 секунд
+    @Scheduled(fixedRate = 60000) // каждую минуту
     public void sendFirstDictionaryEntry() {
         if (!telegramService.isEnabled()) {
+            log.debug("Telegram отключён (нет bot-token/chat-id), пропуск отправки");
             return;
         }
         Optional<DictionaryDto> first = dictionaryService.findFirst();

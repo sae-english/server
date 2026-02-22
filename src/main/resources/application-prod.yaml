@@ -17,3 +17,8 @@ spring:
     hibernate:
       ddl-auto: validate
     show-sql: false
+
+# Telegram (пока те же значения, что и на dev; потом перейти на переменные окружения)
+telegram:
+  bot-token: 8217894172:AAEq0W2pRxfw-qjdCaj1nKgLOdfCgOvTkgg
+  chat-id: "-1002329783519"
