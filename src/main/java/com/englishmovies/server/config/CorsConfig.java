@@ -16,14 +16,18 @@ import java.util.List;
 @Configuration
 public class CorsConfig implements WebMvcConfigurer {
 
-    // Разрешаем все источники с помощью "*"
+    // Разрешаем все источники
     private static final List<String> ALLOWED_ORIGINS = List.of("*");
 
+    /**
+     * CorsFilter с наивысшим приоритетом — выполняется первым.
+     * Убираем allowCredentials(true) при использовании "*"
+     */
     @Bean
     @Order(Ordered.HIGHEST_PRECEDENCE)
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
-        config.setAllowCredentials(true);
+        config.setAllowCredentials(false); // ВАЖНО: false при allowedOriginPatterns("*")
         config.setAllowedOriginPatterns(ALLOWED_ORIGINS);
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(List.of("*"));
@@ -34,12 +38,16 @@ public class CorsConfig implements WebMvcConfigurer {
         return new CorsFilter(source);
     }
 
-    @Override
-    public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/**")
-                .allowedOriginPatterns(ALLOWED_ORIGINS.toArray(new String[0]))
-                .allowedMethods("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")
-                .allowedHeaders("*")
-                .allowCredentials(true);
-    }
+    /**
+     * Удаляем дублирующую конфигурацию через WebMvcConfigurer,
+     * чтобы избежать конфликтов настроек CORS
+     */
+//    @Override
+//    public void addCorsMappings(CorsRegistry registry) {
+//        registry.addMapping("/**")
+//                .allowedOriginPatterns(ALLOWED_ORIGINS.toArray(new String[0]))
+//                .allowedMethods("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")
+//                .allowedHeaders("*")
+//                .allowCredentials(true); // Конфликт с "*"
+//    }
 }
