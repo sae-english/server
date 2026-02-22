@@ -2,6 +2,8 @@ package com.englishmovies.server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.Ordered;
+import org.springframework.core.annotation.Order;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
@@ -22,10 +24,11 @@ public class CorsConfig implements WebMvcConfigurer {
     );
 
     /**
-     * CorsFilter runs first and adds CORS headers to every response (including errors and OPTIONS).
-     * This avoids CORS errors when the backend returns 4xx/5xx or when preflight is not handled by MVC.
+     * CorsFilter with highest precedence so it runs before any other filter.
+     * Adds CORS headers to every response (including errors and OPTIONS preflight).
      */
     @Bean
+    @Order(Ordered.HIGHEST_PRECEDENCE)
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);

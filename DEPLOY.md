@@ -273,6 +273,21 @@ server {
     server_name api.твой-домен.ru;   # или твой-домен.ru
 
     location / {
+        # CORS: если фронт на другом домене (например Vercel), браузер требует эти заголовки
+        if ($request_method = OPTIONS) {
+            add_header Access-Control-Allow-Origin "https://ui-sandy-tau.vercel.app" always;
+            add_header Access-Control-Allow-Methods "GET, POST, PUT, PATCH, DELETE, OPTIONS" always;
+            add_header Access-Control-Allow-Headers "*" always;
+            add_header Access-Control-Allow-Credentials "true" always;
+            add_header Access-Control-Max-Age 3600;
+            add_header Content-Length 0;
+            add_header Content-Type text/plain;
+            return 204;
+        }
+        add_header Access-Control-Allow-Origin "https://ui-sandy-tau.vercel.app" always;
+        add_header Access-Control-Allow-Credentials "true" always;
+        # Если фронт на другом домене — замени origin на свой (например https://твой-фронт.vercel.app)
+
         proxy_pass http://127.0.0.1:8080;
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
