@@ -1,6 +1,7 @@
 package com.englishmovies.server.movies.converter;
 
 import com.englishmovies.server.movies.domain.dto.ContentBlockDto;
+import com.englishmovies.server.movies.domain.entity.EpisodeContentEntity;
 import com.englishmovies.server.movies.domain.entity.MovieContentEntity;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -24,6 +25,23 @@ public final class ContentBlockMapper {
 
     /** Из MovieContentEntity (фильмы — поля в таблице). */
     public static ContentBlockDto fromEntity(MovieContentEntity e) {
+        if (e == null) {
+            return new ContentBlockDto(null, null, null, null, null, null, null);
+        }
+        String type = e.getBlockType() != null ? e.getBlockType().name().toLowerCase() : null;
+        return new ContentBlockDto(
+            type,
+            e.getBlockId(),
+            e.getTitle(),
+            e.getText(),
+            e.getDescription(),
+            e.getSpeaker(),
+            e.getParenthetical()
+        );
+    }
+
+    /** Из EpisodeContentEntity (эпизоды — те же поля по колонкам). */
+    public static ContentBlockDto fromEntity(EpisodeContentEntity e) {
         if (e == null) {
             return new ContentBlockDto(null, null, null, null, null, null, null);
         }

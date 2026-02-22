@@ -9,13 +9,12 @@ import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
 import com.englishmovies.server.dictionary.repository.DictionaryRepository;
 import com.englishmovies.server.movies.converter.ContentBlockMapper;
 import com.englishmovies.server.movies.domain.dto.ContentBlockDto;
-import com.englishmovies.server.movies.domain.entity.EpisodeContentEntity;
 import com.englishmovies.server.movies.domain.entity.MovieContentEntity;
+import com.englishmovies.server.movies.repository.EpisodeContentRepository;
 import com.englishmovies.server.movies.repository.EpisodeRepository;
 import com.englishmovies.server.movies.repository.MovieContentRepository;
 import com.englishmovies.server.movies.repository.MovieRepository;
 import com.englishmovies.server.movies.repository.WorkRepository;
-import com.fasterxml.jackson.databind.JsonNode;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -33,6 +32,7 @@ public class DictionaryService {
     private final MovieRepository movieRepository;
     private final MovieContentRepository movieContentRepository;
     private final EpisodeRepository episodeRepository;
+    private final EpisodeContentRepository episodeContentRepository;
 
     @Transactional
     public DictionaryDto save(DictionaryRequestDto request) {
@@ -107,7 +107,7 @@ public class DictionaryService {
         if (ck != null && !ck.isBlank() && contentType != null) {
             title = workRepository.findByContentKey(ck).map(w -> w.getName()).orElse(null);
             if (contentType == ContentType.EPISODE) {
-                title = episodeRepository.findByContentKeyWithWorkAndContent(ck)
+                title = episodeRepository.findByContentKeyWithWork(ck)
                     .map(e -> e.getWork() != null ? e.getWork().getName() : null)
                     .orElse(title);
             }
@@ -115,9 +115,7 @@ public class DictionaryService {
                 if (contentType == ContentType.MOVIE) {
                     block = resolveMovieBlock(ck, blockId);
                 } else if (contentType == ContentType.EPISODE) {
-                    block = episodeRepository.findByContentKeyWithWorkAndContent(ck)
-                        .map(e -> resolveEpisodeBlock(e.getContent(), blockId))
-                        .orElse(null);
+                    block = resolveEpisodeBlock(ck, blockId);
                 }
             }
         }
@@ -133,17 +131,10 @@ public class DictionaryService {
             .orElse(null);
     }
 
-    private ContentBlockDto resolveEpisodeBlock(EpisodeContentEntity contentEntity, String blockId) {
-        if (contentEntity == null) return null;
-        JsonNode root = contentEntity.getContent();
-        if (root == null || root.isNull()) return null;
-        JsonNode contentArray = root.path("content");
-        if (!contentArray.isArray()) return null;
-        for (JsonNode node : contentArray) {
-            if (blockId.equals(node.path("id").asText(null))) {
-                return ContentBlockMapper.toDto(node);
-            }
-        }
-        return null;
+    private ContentBlockDto resolveEpisodeBlock(String contentKey, String blockId) {
+        return episodeRepository.findByContentKey(contentKey)
+            .flatMap(ep -> episodeContentRepository.findByEpisodeIdAndBlockId(ep.getId(), blockId))
+            .map(ContentBlockMapper::fromEntity)
+            .orElse(null);
     }
 }

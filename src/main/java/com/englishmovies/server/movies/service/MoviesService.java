@@ -8,12 +8,14 @@ import com.englishmovies.server.movies.domain.dto.EpisodeDto;
 import com.englishmovies.server.movies.domain.dto.EpisodeListDto;
 import com.englishmovies.server.movies.domain.dto.MovieContentPageDto;
 import com.englishmovies.server.movies.domain.dto.MovieDto;
+import com.englishmovies.server.movies.domain.entity.EpisodeContentEntity;
 import com.englishmovies.server.movies.domain.entity.EpisodeEntity;
 import com.englishmovies.server.movies.domain.entity.MovieContentEntity;
 import com.englishmovies.server.movies.domain.entity.MovieEntity;
 import com.englishmovies.server.movies.converter.ContentBlockMapper;
 import com.englishmovies.server.movies.converter.EpisodeConverter;
 import com.englishmovies.server.movies.converter.MovieConverter;
+import com.englishmovies.server.movies.repository.EpisodeContentRepository;
 import com.englishmovies.server.movies.repository.EpisodeRepository;
 import com.englishmovies.server.movies.repository.MovieContentRepository;
 import com.englishmovies.server.movies.repository.MovieRepository;
@@ -36,6 +38,7 @@ public class MoviesService {
 
     private final WorkRepository workRepository;
     private final EpisodeRepository episodeRepository;
+    private final EpisodeContentRepository episodeContentRepository;
     private final MovieRepository movieRepository;
     private final MovieContentRepository movieContentRepository;
     private final MovieConverter movieConverter;
@@ -86,13 +89,16 @@ public class MoviesService {
 
     @Transactional(readOnly = true)
     public Optional<EpisodeDto> getEpisodeById(Long id) {
-        return episodeRepository.findByIdWithWorkAndContent(id)
-            .map(this::toEpisodeDto);
+        return episodeRepository.findByIdWithWork(id)
+            .map(entity -> {
+                List<EpisodeContentEntity> blocks = episodeContentRepository.findByEpisodeIdOrderByPosition(entity.getId());
+                return toEpisodeDto(entity, blocks);
+            });
     }
 
-    private EpisodeDto toEpisodeDto(EpisodeEntity entity) {
+    private EpisodeDto toEpisodeDto(EpisodeEntity entity, List<EpisodeContentEntity> blocks) {
         var work = entity.getWork();
-        var c = entity.getContent();
+        Object contentObj = blocks.isEmpty() ? null : blocks.stream().map(ContentBlockMapper::fromEntity).toList();
         return new EpisodeDto(
             entity.getId(),
             work.getId(),
@@ -102,9 +108,9 @@ public class MoviesService {
             entity.getEpisodeNumber(),
             entity.getEpisodeTitle(),
             entity.getContentKey(),
-            c != null ? toJsonValue(c.getContent()) : null,
-            c != null ? toJsonValue(c.getCredits()) : null,
-            c != null ? c.getNote() : null
+            contentObj,
+            entity.getCredits() != null ? toJsonValue(entity.getCredits()) : null,
+            entity.getNote()
         );
     }
 

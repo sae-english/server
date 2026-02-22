@@ -1,12 +1,17 @@
 package com.englishmovies.server.movies.domain.entity;
 
+import com.fasterxml.jackson.databind.JsonNode;
 import jakarta.persistence.*;
 import lombok.*;
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
 
 import java.time.Instant;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
- * Эпизод сериала. Контент (сценарий) — в EpisodeContentEntity (one-to-one).
+ * Эпизод сериала. Контент (сценарий) — блоки в EpisodeContentEntity (one-to-many).
  */
 @Entity
 @Table(
@@ -39,8 +44,15 @@ public class EpisodeEntity {
     @Column(name = "episode_title", length = 500)
     private String episodeTitle;
 
-    @OneToOne(mappedBy = "episode", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
-    private EpisodeContentEntity content;
+    @JdbcTypeCode(SqlTypes.JSON)
+    @Column(name = "credits", columnDefinition = "jsonb")
+    private JsonNode credits;
+
+    @Column(name = "note", columnDefinition = "TEXT")
+    private String note;
+
+    @OneToMany(mappedBy = "episode", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<EpisodeContentEntity> contentBlocks = new ArrayList<>();
 
     @Column(name = "created_at", nullable = false, updatable = false)
     private Instant createdAt;

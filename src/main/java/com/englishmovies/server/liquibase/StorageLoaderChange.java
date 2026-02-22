@@ -126,8 +126,8 @@ public class StorageLoaderChange implements CustomTaskChange {
         if (!seriesEpisode.isArray()) return;
         String workSql = "INSERT INTO " + SCHEMA + ".work (type, name, language, content_key) VALUES (?, ?, ?, ?)";
         String seriesSql = "INSERT INTO " + SCHEMA + ".series (work_id, director, year, description) VALUES (?, ?, ?, ?)";
-        String episodeSql = "INSERT INTO " + SCHEMA + ".episode (work_id, season, episode_number, episode_title, content_key) VALUES (?, ?, ?, ?, ?)";
-        String episodeContentSql = "INSERT INTO " + SCHEMA + ".episode_content (episode_id, content, credits, note) VALUES (?, ?::jsonb, ?::jsonb, ?)";
+        String episodeSql = "INSERT INTO " + SCHEMA + ".episode (work_id, season, episode_number, episode_title, content_key, credits, note) VALUES (?, ?, ?, ?, ?, ?::jsonb, ?)";
+        String episodeContentSql = "INSERT INTO " + SCHEMA + ".episode_content (episode_id, block_id, block_type, title, text, description, speaker, parenthetical, previous_id, next_id, position) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
         for (JsonNode pathNode : seriesEpisode) {
             Path seriesDir = storageRoot.resolve(pathNode.asText());
@@ -143,14 +143,15 @@ public class StorageLoaderChange implements CustomTaskChange {
             }
             long workId = insertWork(conn, workSql, work);
             insertMovieOrSeries(conn, seriesSql, workId, film);
-            String workContentKey = work.path("contentKey").asText(null);
+            String workContentKey = textOrNull(work.path("contentKey"));
+            if (workContentKey == null) workContentKey = textOrNull(work.path("content_key"));
 
             List<Path> episodeContentPaths = collectEpisodeContentPaths(seriesDir);
             for (Path epContent : episodeContentPaths) {
                 try {
                     JsonNode epRoot = MAPPER.readTree(Files.readString(epContent, StandardCharsets.UTF_8));
                     long episodeId = insertEpisode(conn, episodeSql, epRoot, workId, workContentKey);
-                    insertEpisodeContent(conn, episodeContentSql, episodeId, epRoot);
+                    insertEpisodeContentBlocks(conn, episodeContentSql, episodeId, epRoot);
                 } catch (Exception e) {
                     throw new RuntimeException("Failed to load " + epContent, e);
                 }
@@ -201,12 +202,20 @@ public class StorageLoaderChange implements CustomTaskChange {
         }
     }
 
+    private static String textOrNull(JsonNode node) {
+        if (node == null || node.isMissingNode() || node.isNull()) return null;
+        String s = node.asText(null);
+        return (s != null && !s.isBlank()) ? s : null;
+    }
+
     private long insertWork(Connection conn, String sql, JsonNode work) throws Exception {
+        String contentKey = textOrNull(work.path("contentKey"));
+        if (contentKey == null) contentKey = textOrNull(work.path("content_key"));
         try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
             ps.setString(1, work.path("type").asText());
             ps.setString(2, work.path("name").asText());
             ps.setString(3, work.path("language").asText("ENGLISH"));
-            ps.setString(4, work.path("contentKey").asText(null));
+            ps.setString(4, contentKey);
             ps.executeUpdate();
             try (ResultSet rs = ps.getGeneratedKeys()) {
                 if (rs.next()) return rs.getLong(1);
@@ -295,16 +304,22 @@ public class StorageLoaderChange implements CustomTaskChange {
             ? null : contentJson.path("season").asInt();
         int episodeNumber = contentJson.path("episode_number").asInt(1);
         String episodeTitle = contentJson.path("episode_title").asText(null);
-        String episodeContentKey = contentJson.path("contentKey").asText(null);
+        String episodeContentKey = textOrNull(contentJson.path("contentKey"));
+        if (episodeContentKey == null) episodeContentKey = textOrNull(contentJson.path("content_key"));
         if (episodeContentKey == null && workContentKey != null && season != null) {
             episodeContentKey = workContentKey + "-s" + season + "e" + episodeNumber;
         }
+        JsonNode creditsNode = contentJson.path("credits");
+        String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
+        String note = contentJson.path("note").asText(null);
         try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
             ps.setLong(1, workId);
             ps.setObject(2, season);
             ps.setInt(3, episodeNumber);
             ps.setString(4, episodeTitle);
             ps.setString(5, episodeContentKey);
+            ps.setString(6, creditsJson);
+            ps.setString(7, note);
             ps.executeUpdate();
             try (ResultSet rs = ps.getGeneratedKeys()) {
                 if (rs.next()) return rs.getLong(1);
@@ -313,18 +328,50 @@ public class StorageLoaderChange implements CustomTaskChange {
         throw new IllegalStateException("Failed to get episode id");
     }
 
-    private void insertEpisodeContent(Connection conn, String sql, long episodeId, JsonNode contentJson) throws Exception {
-        JsonNode creditsNode = contentJson.path("credits");
-        String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
-        String note = contentJson.path("note").asText(null);
+    /** По одному ряду на каждый блок content[] эпизода — по аналогии с movies_content. */
+    private void insertEpisodeContentBlocks(Connection conn, String sql, long episodeId, JsonNode contentJson) throws Exception {
         JsonNode contentArray = contentJson.path("content");
-        String contentJsonStr = contentArray.isMissingNode() ? "[]" : contentArray.toString();
-        try (PreparedStatement ps = conn.prepareStatement(sql)) {
-            ps.setLong(1, episodeId);
-            ps.setString(2, contentJsonStr);
-            ps.setString(3, creditsJson);
-            ps.setString(4, note);
-            ps.executeUpdate();
+        if (!contentArray.isArray()) return;
+        int size = contentArray.size();
+        java.util.List<String> blockIds = new java.util.ArrayList<>(size);
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = block.path("id").asText(null);
+            if (blockId == null || blockId.isBlank()) {
+                blockId = java.util.UUID.randomUUID().toString();
+            }
+            blockIds.add(blockId);
+        }
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = blockIds.get(i);
+            String blockType = block.path("type").asText("action");
+            String title = block.path("title").asText(null);
+            if (title != null && title.isEmpty()) title = null;
+            String text = block.path("text").asText(null);
+            if (text != null && text.isEmpty()) text = null;
+            String description = block.path("description").asText(null);
+            if (description != null && description.isEmpty()) description = null;
+            String speaker = block.path("speaker").asText(null);
+            if (speaker != null && speaker.isEmpty()) speaker = null;
+            String parenthetical = block.path("parenthetical").asText(null);
+            if (parenthetical != null && parenthetical.isEmpty()) parenthetical = null;
+            String previousId = i > 0 ? blockIds.get(i - 1) : null;
+            String nextId = i < size - 1 ? blockIds.get(i + 1) : null;
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setLong(1, episodeId);
+                ps.setString(2, blockId);
+                ps.setString(3, blockType);
+                ps.setString(4, title);
+                ps.setString(5, text);
+                ps.setString(6, description);
+                ps.setString(7, speaker);
+                ps.setString(8, parenthetical);
+                ps.setString(9, previousId);
+                ps.setString(10, nextId);
+                ps.setInt(11, i);
+                ps.executeUpdate();
+            }
         }
     }
 

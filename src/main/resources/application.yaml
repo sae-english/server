@@ -9,3 +9,14 @@ spring:
 telegram:
   bot-token: ${TELEGRAM_BOT_TOKEN:}
   chat-id: ${TELEGRAM_CHAT_ID:}
+
+# Перевод текста: по умолчанию MyMemory (бесплатно, по HTTP). Чтобы вернуть Yandex: translate.provider=yandex
+translate:
+  provider: ${TRANSLATE_PROVIDER:mymemory}
+  mymemory:
+    email: ${TRANSLATE_MYMEMORY_EMAIL:}
+# Yandex Cloud Translate (используется при translate.provider=yandex). См. YANDEX_TRANSLATE.md
+yandex:
+  translate:
+    api-key: ${YANDEX_TRANSLATE_API_KEY:}
+    folder-id: ${YANDEX_TRANSLATE_FOLDER_ID:}
