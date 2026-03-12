@@ -35,3 +35,6 @@ build/
 ### Local SSL (see LOCAL_HTTPS.md) ###
 keystore.p12
 *.p12
+
+### Local build artifact for systemd deployment ###
+app.jar
