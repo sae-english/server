@@ -1,3 +1,23 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/englishmovies?currentSchema=englishmovies
+    username: englishmovies
+    password: dro11gba
+
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.xml
+    liquibase-schema: public
+    default-schema: englishmovies
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
 # Профиль prod — настраивается при деплое на сервер
 # Укажи SPRING_PROFILES_ACTIVE=prod и переменные:
 # DATABASE_URL, DATABASE_USER, DATABASE_PASSWORD
