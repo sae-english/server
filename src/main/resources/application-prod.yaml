@@ -17,3 +17,7 @@ spring:
     hibernate:
       ddl-auto: validate
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+telegram:
+  bot-token: "8217894172:AAEq0W2pRxfw-qjdCaj1nKgLOdfCgOvTkgg"
+  chat-id: "@sae_my_english_bot"
