@@ -14,7 +14,6 @@ import com.englishmovies.server.movies.repository.EpisodeContentRepository;
 import com.englishmovies.server.movies.repository.EpisodeRepository;
 import com.englishmovies.server.movies.repository.MovieContentRepository;
 import com.englishmovies.server.movies.repository.MovieRepository;
-import com.englishmovies.server.movies.repository.WorkRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -28,7 +27,6 @@ public class DictionaryService {
 
     private final DictionaryRepository dictionaryRepository;
     private final DictionaryConverter dictionaryConverter;
-    private final WorkRepository workRepository;
     private final MovieRepository movieRepository;
     private final MovieContentRepository movieContentRepository;
     private final EpisodeRepository episodeRepository;
@@ -105,11 +103,12 @@ public class DictionaryService {
         ContentBlockDto block = null;
 
         if (ck != null && !ck.isBlank() && contentType != null) {
-            title = workRepository.findByContentKey(ck).map(w -> w.getName()).orElse(null);
-            if (contentType == ContentType.EPISODE) {
-                title = episodeRepository.findByContentKeyWithWork(ck)
-                    .map(e -> e.getWork() != null ? e.getWork().getName() : null)
-                    .orElse(title);
+            if (contentType == ContentType.MOVIE) {
+                title = movieRepository.findByContentKey(ck).map(m -> m.getName()).orElse(null);
+            } else if (contentType == ContentType.EPISODE) {
+                title = episodeRepository.findByContentKeyWithSeries(ck)
+                    .map(e -> e.getSeries() != null ? e.getSeries().getName() : null)
+                    .orElse(null);
             }
             if (blockId != null && !blockId.isBlank()) {
                 if (contentType == ContentType.MOVIE) {
@@ -124,8 +123,7 @@ public class DictionaryService {
     }
 
     private ContentBlockDto resolveMovieBlock(String contentKey, String blockId) {
-        return workRepository.findByContentKey(contentKey)
-            .flatMap(work -> movieRepository.findByWorkId(work.getId()))
+        return movieRepository.findByContentKey(contentKey)
             .flatMap(movie -> movieContentRepository.findByMovieIdAndBlockId(movie.getId(), blockId))
             .map(ContentBlockMapper::fromEntity)
             .orElse(null);

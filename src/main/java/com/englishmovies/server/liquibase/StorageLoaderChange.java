@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /**
- * Liquibase CustomChange: loads work, film and episode data from storage.
+ * Liquibase CustomChange: loads movies, series and episode data from storage.
  * Reads storage/content-manifest.json — ключи movies и series_episode, в каждом массив путей.
  * Paths relative to storage. Storage: system property "storage.path" or "storage" relative to user.dir.
  * runAlways="true" — runs on every app startup.
@@ -96,15 +96,13 @@ public class StorageLoaderChange implements CustomTaskChange {
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".movies_content RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".movies RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".series RESTART IDENTITY CASCADE");
-            stmt.execute("TRUNCATE TABLE " + SCHEMA + ".work RESTART IDENTITY CASCADE");
         }
     }
 
     /** Movies: каждый элемент — путь к content.json. Метаданные в movies, контент чанками в movies_content. */
     private void loadMovies(Connection conn, Path storageRoot, JsonNode movies) throws Exception {
         if (!movies.isArray()) return;
-        String workSql = "INSERT INTO " + SCHEMA + ".work (type, name, language, content_key) VALUES (?, ?, ?, ?)";
-        String moviesSql = "INSERT INTO " + SCHEMA + ".movies (work_id, director, year, description, credits, note) VALUES (?, ?, ?, ?, ?::jsonb, ?)";
+        String moviesSql = "INSERT INTO " + SCHEMA + ".movies (name, language, content_key, director, year, description, credits, note) VALUES (?, ?, ?, ?, ?, ?, ?::jsonb, ?)";
         String moviesContentSql = "INSERT INTO " + SCHEMA + ".movies_content (movie_id, block_id, block_type, title, text, description, speaker, parenthetical, previous_id, next_id, position) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
         for (JsonNode pathNode : movies) {
@@ -115,18 +113,16 @@ public class StorageLoaderChange implements CustomTaskChange {
             if (work.isMissingNode() || film.isMissingNode()) {
                 throw new CustomChangeException("movies content.json must contain 'work' and 'film': " + contentPath);
             }
-            long workId = insertWork(conn, workSql, work);
-            long movieId = insertMovie(conn, moviesSql, workId, film, root);
+            long movieId = insertMovie(conn, moviesSql, work, film, root);
             insertMovieContentBlocks(conn, moviesContentSql, movieId, root);
         }
     }
 
-    /** Series_episode: каждый элемент — путь к папке сериала. Метаданные эпизода в episode, контент в episode_content. */
+    /** Series_episode: каждый элемент — путь к папке сериала. Метаданные в series и episode, контент в episode_content. */
     private void loadSeriesEpisodes(Connection conn, Path storageRoot, JsonNode seriesEpisode) throws Exception {
         if (!seriesEpisode.isArray()) return;
-        String workSql = "INSERT INTO " + SCHEMA + ".work (type, name, language, content_key) VALUES (?, ?, ?, ?)";
-        String seriesSql = "INSERT INTO " + SCHEMA + ".series (work_id, director, year, description) VALUES (?, ?, ?, ?)";
-        String episodeSql = "INSERT INTO " + SCHEMA + ".episode (work_id, season, episode_number, episode_title, content_key, credits, note) VALUES (?, ?, ?, ?, ?, ?::jsonb, ?)";
+        String seriesSql = "INSERT INTO " + SCHEMA + ".series (name, language, content_key, director, year, description) VALUES (?, ?, ?, ?, ?, ?)";
+        String episodeSql = "INSERT INTO " + SCHEMA + ".episode (series_id, season, episode_number, episode_title, content_key, credits, note) VALUES (?, ?, ?, ?, ?, ?::jsonb, ?)";
         String episodeContentSql = "INSERT INTO " + SCHEMA + ".episode_content (episode_id, block_id, block_type, title, text, description, speaker, parenthetical, previous_id, next_id, position) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
         for (JsonNode pathNode : seriesEpisode) {
@@ -141,8 +137,7 @@ public class StorageLoaderChange implements CustomTaskChange {
             if (work.isMissingNode() || film.isMissingNode()) {
                 throw new CustomChangeException("work.json must contain 'work' and 'film': " + workPath);
             }
-            long workId = insertWork(conn, workSql, work);
-            insertMovieOrSeries(conn, seriesSql, workId, film);
+            long seriesId = insertSeries(conn, seriesSql, work, film);
             String workContentKey = textOrNull(work.path("contentKey"));
             if (workContentKey == null) workContentKey = textOrNull(work.path("content_key"));
 
@@ -150,7 +145,7 @@ public class StorageLoaderChange implements CustomTaskChange {
             for (Path epContent : episodeContentPaths) {
                 try {
                     JsonNode epRoot = MAPPER.readTree(Files.readString(epContent, StandardCharsets.UTF_8));
-                    long episodeId = insertEpisode(conn, episodeSql, epRoot, workId, workContentKey);
+                    long episodeId = insertEpisode(conn, episodeSql, epRoot, seriesId, workContentKey);
                     insertEpisodeContentBlocks(conn, episodeContentSql, episodeId, epRoot);
                 } catch (Exception e) {
                     throw new RuntimeException("Failed to load " + epContent, e);
@@ -208,39 +203,49 @@ public class StorageLoaderChange implements CustomTaskChange {
         return (s != null && !s.isBlank()) ? s : null;
     }
 
-    private long insertWork(Connection conn, String sql, JsonNode work) throws Exception {
+    private long insertMovie(Connection conn, String sql, JsonNode work, JsonNode film, JsonNode root) throws Exception {
         String contentKey = textOrNull(work.path("contentKey"));
         if (contentKey == null) contentKey = textOrNull(work.path("content_key"));
-        try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
-            ps.setString(1, work.path("type").asText());
-            ps.setString(2, work.path("name").asText());
-            ps.setString(3, work.path("language").asText("ENGLISH"));
-            ps.setString(4, contentKey);
-            ps.executeUpdate();
-            try (ResultSet rs = ps.getGeneratedKeys()) {
-                if (rs.next()) return rs.getLong(1);
-            }
-        }
-        throw new IllegalStateException("Failed to get work id");
-    }
-
-    private long insertMovie(Connection conn, String sql, long workId, JsonNode film, JsonNode root) throws Exception {
+        String name = work.path("name").asText();
+        String language = work.path("language").asText("ENGLISH");
         JsonNode creditsNode = root.path("credits");
         String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
         String note = root.path("note").asText(null);
         try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
-            ps.setLong(1, workId);
-            ps.setString(2, film.path("director").asText(null));
-            ps.setObject(3, film.path("year").isMissingNode() || film.path("year").isNull() ? null : film.path("year").asInt());
-            ps.setString(4, film.path("description").asText(null));
-            ps.setString(5, creditsJson);
-            ps.setString(6, note);
+            ps.setString(1, name);
+            ps.setString(2, language);
+            ps.setString(3, contentKey);
+            ps.setString(4, film.path("director").asText(null));
+            ps.setObject(5, film.path("year").isMissingNode() || film.path("year").isNull() ? null : film.path("year").asInt());
+            ps.setString(6, film.path("description").asText(null));
+            ps.setString(7, creditsJson);
+            ps.setString(8, note);
             ps.executeUpdate();
             try (ResultSet rs = ps.getGeneratedKeys()) {
                 if (rs.next()) return rs.getLong(1);
             }
         }
         throw new IllegalStateException("Failed to get movie id");
+    }
+
+    private long insertSeries(Connection conn, String sql, JsonNode work, JsonNode film) throws Exception {
+        String contentKey = textOrNull(work.path("contentKey"));
+        if (contentKey == null) contentKey = textOrNull(work.path("content_key"));
+        String name = work.path("name").asText();
+        String language = work.path("language").asText("ENGLISH");
+        try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
+            ps.setString(1, name);
+            ps.setString(2, language);
+            ps.setString(3, contentKey);
+            ps.setString(4, film.path("director").asText(null));
+            ps.setObject(5, film.path("year").isMissingNode() || film.path("year").isNull() ? null : film.path("year").asInt());
+            ps.setString(6, film.path("description").asText(null));
+            ps.executeUpdate();
+            try (ResultSet rs = ps.getGeneratedKeys()) {
+                if (rs.next()) return rs.getLong(1);
+            }
+        }
+        throw new IllegalStateException("Failed to get series id");
     }
 
     private void insertMovieContentBlocks(Connection conn, String sql, long movieId, JsonNode root) throws Exception {
@@ -289,17 +294,7 @@ public class StorageLoaderChange implements CustomTaskChange {
         }
     }
 
-    private void insertMovieOrSeries(Connection conn, String sql, long workId, JsonNode film) throws Exception {
-        try (PreparedStatement ps = conn.prepareStatement(sql)) {
-            ps.setLong(1, workId);
-            ps.setString(2, film.path("director").asText(null));
-            ps.setObject(3, film.path("year").isMissingNode() || film.path("year").isNull() ? null : film.path("year").asInt());
-            ps.setString(4, film.path("description").asText(null));
-            ps.executeUpdate();
-        }
-    }
-
-    private long insertEpisode(Connection conn, String sql, JsonNode contentJson, long workId, String workContentKey) throws Exception {
+    private long insertEpisode(Connection conn, String sql, JsonNode contentJson, long seriesId, String workContentKey) throws Exception {
         Integer season = contentJson.path("season").isMissingNode() || contentJson.path("season").isNull()
             ? null : contentJson.path("season").asInt();
         int episodeNumber = contentJson.path("episode_number").asInt(1);
@@ -313,7 +308,7 @@ public class StorageLoaderChange implements CustomTaskChange {
         String creditsJson = creditsNode.isMissingNode() || creditsNode.isNull() ? "{}" : creditsNode.toString();
         String note = contentJson.path("note").asText(null);
         try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
-            ps.setLong(1, workId);
+            ps.setLong(1, seriesId);
             ps.setObject(2, season);
             ps.setInt(3, episodeNumber);
             ps.setString(4, episodeTitle);

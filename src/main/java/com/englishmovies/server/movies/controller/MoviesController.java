@@ -31,7 +31,7 @@ public class MoviesController {
     }
 
     /**
-     * Список эпизодов сериала по work id (titleId). GET /api/movies/titles/{titleId}/episodes
+     * Список эпизодов сериала по series id (titleId). GET /api/movies/titles/{titleId}/episodes
      */
     @GetMapping("/titles/{titleId}/episodes")
     public ResponseEntity<List<EpisodeListDto>> getEpisodesByTitleId(@PathVariable Long titleId) {

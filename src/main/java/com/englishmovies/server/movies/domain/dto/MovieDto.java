@@ -9,8 +9,6 @@ import lombok.Value;
 @Value
 public class MovieDto {
     Long movieId;
-    Long workId;
-    String type;
     String name;
     Language language;
     String director;

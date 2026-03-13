@@ -9,14 +9,14 @@ import java.util.Optional;
 
 public interface EpisodeRepository extends JpaRepository<EpisodeEntity, Long> {
 
-    @Query("SELECT e FROM EpisodeEntity e JOIN FETCH e.work WHERE e.id = :id")
-    Optional<EpisodeEntity> findByIdWithWork(Long id);
+    @Query("SELECT e FROM EpisodeEntity e JOIN FETCH e.series WHERE e.id = :id")
+    Optional<EpisodeEntity> findByIdWithSeries(Long id);
 
-    @Query("SELECT e FROM EpisodeEntity e LEFT JOIN FETCH e.work WHERE e.contentKey = :contentKey")
-    Optional<EpisodeEntity> findByContentKeyWithWork(String contentKey);
+    @Query("SELECT e FROM EpisodeEntity e LEFT JOIN FETCH e.series WHERE e.contentKey = :contentKey")
+    Optional<EpisodeEntity> findByContentKeyWithSeries(String contentKey);
 
-    @Query("SELECT e FROM EpisodeEntity e WHERE e.work.id = :workId ORDER BY e.season ASC NULLS FIRST, e.episodeNumber ASC")
-    List<EpisodeEntity> findByWorkIdOrderBySeasonAscEpisodeNumberAsc(Long workId);
+    @Query("SELECT e FROM EpisodeEntity e WHERE e.series.id = :seriesId ORDER BY e.season ASC NULLS FIRST, e.episodeNumber ASC")
+    List<EpisodeEntity> findBySeriesIdOrderBySeasonAscEpisodeNumberAsc(Long seriesId);
 
     Optional<EpisodeEntity> findByContentKey(String contentKey);
 }

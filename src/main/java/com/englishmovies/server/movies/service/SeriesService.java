@@ -21,16 +21,15 @@ public class SeriesService {
         List<SeriesEntity> random = seriesRepository.findRandomSeriesIds(size);
         if (random.isEmpty()) return List.of();
         List<Long> ids = random.stream().map(SeriesEntity::getId).toList();
-        return seriesRepository.findByIdInWithWork(ids).stream()
+        return seriesRepository.findByIdIn(ids).stream()
             .map(this::toListDto)
             .toList();
     }
 
     private SeriesListDto toListDto(SeriesEntity s) {
-        var w = s.getWork();
         return new SeriesListDto(
-            w != null ? w.getId() : null,
-            w != null ? w.getName() : null,
+            s.getId(),
+            s.getName(),
             s.getDirector(),
             s.getYear()
         );

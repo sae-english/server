@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
         https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.20.xsd">
 
-    <!-- Запускается последним: после всех DDL заливает work/movies/series/episode из storage -->
+    <!-- Запускается последним: после всех DDL заливает movies/series/episode из storage -->
     <changeSet id="004-episode-json-loader" author="english-movies" runAlways="true">
         <customChange class="com.englishmovies.server.liquibase.StorageLoaderChange"/>
     </changeSet>

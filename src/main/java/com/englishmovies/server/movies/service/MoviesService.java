@@ -19,7 +19,6 @@ import com.englishmovies.server.movies.repository.EpisodeContentRepository;
 import com.englishmovies.server.movies.repository.EpisodeRepository;
 import com.englishmovies.server.movies.repository.MovieContentRepository;
 import com.englishmovies.server.movies.repository.MovieRepository;
-import com.englishmovies.server.movies.repository.WorkRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -36,7 +35,6 @@ public class MoviesService {
 
     private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
 
-    private final WorkRepository workRepository;
     private final EpisodeRepository episodeRepository;
     private final EpisodeContentRepository episodeContentRepository;
     private final MovieRepository movieRepository;
@@ -67,29 +65,22 @@ public class MoviesService {
     @Transactional(readOnly = true)
     public List<MovieDto> getLimitedMovies(Long limit) {
         int size = limit > Integer.MAX_VALUE ? Integer.MAX_VALUE : limit.intValue();
-        return movieRepository.findRandomMoviesWithWork(PageRequest.of(0, size)).stream()
+        return movieRepository.findRandomMovies(PageRequest.of(0, size)).stream()
             .map(movieConverter::toDto)
             .toList();
     }
 
-    /** Список эпизодов только для сериалов. Для фильмов возвращается пустой список (контент — через getMovieByTitleId). */
+    /** Список эпизодов сериала по series id (titleId в API). */
     @Transactional(readOnly = true)
-    public List<EpisodeListDto> getEpisodesByTitleId(Long titleId) {
-        return episodeRepository.findByWorkIdOrderBySeasonAscEpisodeNumberAsc(titleId).stream()
+    public List<EpisodeListDto> getEpisodesByTitleId(Long seriesId) {
+        return episodeRepository.findBySeriesIdOrderBySeasonAscEpisodeNumberAsc(seriesId).stream()
             .map(episodeConverter::toListDto)
             .toList();
     }
 
-    /** Контент фильма по work id. Для сериалов не используется. */
-    @Transactional(readOnly = true)
-    public Optional<EpisodeDto> getMovieByTitleId(Long titleId) {
-        return movieRepository.findByWorkIdWithWorkAndContent(titleId)
-            .map(this::toEpisodeDtoFromMovie);
-    }
-
     @Transactional(readOnly = true)
     public Optional<EpisodeDto> getEpisodeById(Long id) {
-        return episodeRepository.findByIdWithWork(id)
+        return episodeRepository.findByIdWithSeries(id)
             .map(entity -> {
                 List<EpisodeContentEntity> blocks = episodeContentRepository.findByEpisodeIdOrderByPosition(entity.getId());
                 return toEpisodeDto(entity, blocks);
@@ -97,13 +88,13 @@ public class MoviesService {
     }
 
     private EpisodeDto toEpisodeDto(EpisodeEntity entity, List<EpisodeContentEntity> blocks) {
-        var work = entity.getWork();
+        var series = entity.getSeries();
         Object contentObj = blocks.isEmpty() ? null : blocks.stream().map(ContentBlockMapper::fromEntity).toList();
         return new EpisodeDto(
             entity.getId(),
-            work.getId(),
-            work.getName(),
-            work.getType(),
+            series != null ? series.getId() : null,
+            series != null ? series.getName() : null,
+            "SERIES",
             entity.getSeason(),
             entity.getEpisodeNumber(),
             entity.getEpisodeTitle(),
@@ -111,25 +102,6 @@ public class MoviesService {
             contentObj,
             entity.getCredits() != null ? toJsonValue(entity.getCredits()) : null,
             entity.getNote()
-        );
-    }
-
-    private EpisodeDto toEpisodeDtoFromMovie(MovieEntity movie) {
-        var work = movie.getWork();
-        var contentBlocks = movie.getContentBlocks();
-        Object contentJson = contentBlocks == null || contentBlocks.isEmpty() ? null : toJsonValue(assembleBlocksFromEntities(contentBlocks));
-        return new EpisodeDto(
-            movie.getId(),
-            work.getId(),
-            work.getName(),
-            work.getType(),
-            null,
-            1,
-            work.getName(),
-            work.getContentKey(),
-            contentJson,
-            movie.getCredits() != null ? toJsonValue(movie.getCredits()) : null,
-            movie.getNote()
         );
     }
 
@@ -150,16 +122,14 @@ public class MoviesService {
         );
     }
 
-    /** Метаданные контента фильма из первого блока (movie, work → contentKey, credits, note). */
+    /** Метаданные контента фильма из первого блока (movie → contentKey, credits, note). */
     private record MovieContentMeta(Long movieId, String contentKey, CreditsDto credits, String note) {}
 
     private MovieContentMeta metadataFromFirst(MovieContentEntity first) {
         var movie = first.getMovie();
-        var work = movie != null ? movie.getWork() : null;
-        String contentKey = work != null ? work.getContentKey() : null;
         return new MovieContentMeta(
             movie != null ? movie.getId() : null,
-            contentKey,
+            movie != null ? movie.getContentKey() : null,
             movie != null ? toCreditsDto(movie.getCredits()) : null,
             movie != null ? movie.getNote() : null
         );

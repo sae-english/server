@@ -1,12 +1,13 @@
 package com.englishmovies.server.movies.domain.entity;
 
+import com.englishmovies.server.dictionary.domain.Language;
 import jakarta.persistence.*;
-import lombok.*;
 
 import java.time.Instant;
+import lombok.*;
 
 /**
- * Детали сериала. Одна запись на work с type SERIES.
+ * Сериал. Эпизоды — в EpisodeEntity.
  */
 @Entity
 @Table(name = "series", schema = "englishmovies")
@@ -20,9 +21,15 @@ public class SeriesEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @OneToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "work_id", nullable = false, unique = true)
-    private WorkEntity work;
+    @Column(nullable = false, length = 500)
+    private String name;
+
+    @Enumerated(EnumType.STRING)
+    @Column(nullable = false, length = 20)
+    private Language language = Language.ENGLISH;
+
+    @Column(name = "content_key", unique = true, length = 255)
+    private String contentKey;
 
     @Column(length = 255)
     private String director;

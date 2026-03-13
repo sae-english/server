@@ -17,7 +17,7 @@ import java.util.List;
 @Table(
     name = "episode",
     schema = "englishmovies",
-    uniqueConstraints = @UniqueConstraint(columnNames = {"work_id", "season", "episode_number"})
+    uniqueConstraints = @UniqueConstraint(columnNames = {"series_id", "season", "episode_number"})
 )
 @Getter
 @Setter
@@ -30,8 +30,8 @@ public class EpisodeEntity {
     private Long id;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "work_id", nullable = false)
-    private WorkEntity work;
+    @JoinColumn(name = "series_id", nullable = false)
+    private SeriesEntity series;
 
     private Integer season;
 

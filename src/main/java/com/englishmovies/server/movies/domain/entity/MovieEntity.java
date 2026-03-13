@@ -1,5 +1,6 @@
 package com.englishmovies.server.movies.domain.entity;
 
+import com.englishmovies.server.dictionary.domain.Language;
 import com.fasterxml.jackson.databind.JsonNode;
 import jakarta.persistence.*;
 import lombok.*;
@@ -11,7 +12,7 @@ import java.util.List;
 import java.time.Instant;
 
 /**
- * Детали фильма. Одна запись на work с type MOVIE. Контент (сценарий) — несколько чанков в MovieContentEntity.
+ * Фильм. Контент (сценарий) — блоки в MovieContentEntity.
  */
 @Entity
 @Table(name = "movies", schema = "englishmovies")
@@ -25,9 +26,15 @@ public class MovieEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @OneToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "work_id", nullable = false, unique = true)
-    private WorkEntity work;
+    @Column(nullable = false, length = 500)
+    private String name;
+
+    @Enumerated(EnumType.STRING)
+    @Column(nullable = false, length = 20)
+    private Language language = Language.ENGLISH;
+
+    @Column(name = "content_key", unique = true, length = 255)
+    private String contentKey;
 
     @Column(length = 255)
     private String director;
