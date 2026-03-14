@@ -23,7 +23,7 @@ public class DictionaryTelegramScheduler {
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
 
-    @Scheduled(fixedRate = 300000) // раз в час
+    @Scheduled(fixedRate = 60000) // раз в час
     public void sendFirstDictionaryEntry() {
         // Окно отправки по Москве: с 10:00 до 23:59 включительно
         ZonedDateTime nowMoscow = ZonedDateTime.now(ZoneId.of("Europe/Moscow"));
@@ -43,13 +43,34 @@ public class DictionaryTelegramScheduler {
             return;
         }
         DictionaryDto d = next.get();
-        String value = d.getValue() != null ? d.getValue() : "";
-        String translation = d.getTranslation() != null ? d.getTranslation() : "—";
-        String message = value + " — " + translation;
-        log.info("Отправка в Telegram: {}", message);
-        telegramService.sendMessage(message);
+        String value = d.getValue() != null ? d.getValue().strip() : "";
+        String translation = d.getTranslation() != null ? d.getTranslation().strip() : "—";
+        String comment = d.getComment() != null && !d.getComment().isBlank() ? d.getComment().strip() : null;
+
+        String message = formatDictionaryMessage(value, translation, comment);
+        log.info("Отправка в Telegram: {} — {}", value, translation);
+        telegramService.sendMessage(message, "HTML");
         if (d.getId() != null) {
             dictionaryService.markSent(d.getId(), Instant.now());
         }
+    }
+
+    /** Экранирование для HTML (Telegram). */
+    private static String escapeHtml(String s) {
+        if (s == null) return "";
+        return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;");
+    }
+
+    /** Собирает сообщение для Telegram: слово жирным, перевод и опционально комментарий. */
+    private static String formatDictionaryMessage(String value, String translation, String comment) {
+        String v = escapeHtml(value);
+        String t = escapeHtml(translation);
+        StringBuilder sb = new StringBuilder();
+        sb.append("📚 <b>").append(v).append("</b>\n");
+        sb.append("➜ ").append(t);
+        if (comment != null && !comment.isBlank()) {
+            sb.append("\n\n💬 ").append(escapeHtml(comment));
+        }
+        return sb.toString();
     }
 }

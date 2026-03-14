@@ -50,13 +50,32 @@ public class TelegramService {
             return false;
         }
 
+        return sendMessage(text, null);
+    }
+
+    /**
+     * Отправить сообщение с форматированием (HTML).
+     *
+     * @param text     текст (HTML, когда parseMode = "HTML")
+     * @param parseMode "HTML" или null для обычного текста
+     */
+    public boolean sendMessage(String text, String parseMode) {
+        if (!isEnabled()) {
+            log.info("Telegram не настроен (bot-token или chat-id пусты), сообщение не отправлено");
+            return false;
+        }
+        if (text == null || text.isBlank()) {
+            log.warn("Пустой текст сообщения в Telegram");
+            return false;
+        }
+
         String url = SEND_MESSAGE_URL.formatted(botToken);
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-        var body = Map.of(
-                "chat_id", chatId,
-                "text", text
-        );
+        Map<String, String> body = new java.util.HashMap<>(Map.of("chat_id", chatId, "text", text));
+        if (parseMode != null && !parseMode.isBlank()) {
+            body.put("parse_mode", parseMode);
+        }
         HttpEntity<Map<String, String>> request = new HttpEntity<>(body, headers);
 
         try {
