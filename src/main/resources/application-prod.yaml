@@ -20,4 +20,5 @@ spring:
 
 telegram:
   bot-token: "8217894172:AAEq0W2pRxfw-qjdCaj1nKgLOdfCgOvTkgg"
-  chat-id: "-1002329783519"
+  # личка с ботом (твой user id из RawDataBot)
+  chat-id: "119870107"
