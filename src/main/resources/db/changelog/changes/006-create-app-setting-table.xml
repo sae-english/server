@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="006-create-app-setting-table" author="english-movies">
+        <createTable schemaName="englishmovies" tableName="app_setting">
+            <column name="key" type="VARCHAR(100)">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="value" type="VARCHAR(500)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <insert schemaName="englishmovies" tableName="app_setting">
+            <column name="key" value="telegram_sending_enabled"/>
+            <column name="value" value="true"/>
+        </insert>
+    </changeSet>
+</databaseChangeLog>

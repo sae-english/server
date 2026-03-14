@@ -3,6 +3,7 @@ package com.englishmovies.server.telegram;
 import com.englishmovies.server.dictionary.domain.Language;
 import com.englishmovies.server.dictionary.domain.dto.DictionaryDto;
 import com.englishmovies.server.dictionary.service.DictionaryService;
+import com.englishmovies.server.settings.service.SettingsService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -20,13 +21,18 @@ public class DictionaryTelegramService {
 
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
+    private final SettingsService settingsService;
 
     /**
      * Отправить в Telegram следующую запись словаря (по очереди last_sent_at).
      *
-     * @return true, если сообщение отправлено; false, если Telegram выключен, словарь пуст или ошибка
+     * @return true, если сообщение отправлено; false, если отправка выключена в настройках, Telegram выключен, словарь пуст или ошибка
      */
     public boolean sendNextEntry() {
+        if (!settingsService.isTelegramSendingEnabled()) {
+            log.debug("Отправка в Telegram выключена в настройках, пропуск");
+            return false;
+        }
         if (!telegramService.isEnabled()) {
             log.debug("Telegram отключён (нет bot-token/chat-id), пропуск отправки");
             return false;
