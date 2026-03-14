@@ -48,6 +48,10 @@ public class DictionaryEntity {
     @Column(name = "block_id", length = 255)
     private String blockId;
 
+    /** Дата и время последней отправки этого слова в Telegram. */
+    @Column(name = "last_sent_at")
+    private Instant lastSentAt;
+
     @Column(name = "created_at", nullable = false, updatable = false)
     private Instant createdAt;
 

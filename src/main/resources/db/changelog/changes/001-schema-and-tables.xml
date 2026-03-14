@@ -143,6 +143,7 @@
             <column name="content_key" type="VARCHAR(255)"/>
             <column name="content_type" type="VARCHAR(20)"/>
             <column name="block_id" type="VARCHAR(255)"/>
+            <column name="last_sent_at" type="TIMESTAMP"/>
             <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
             <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
         </createTable>

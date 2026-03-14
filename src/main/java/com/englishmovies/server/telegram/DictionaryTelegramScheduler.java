@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
+import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.Optional;
@@ -22,7 +23,8 @@ public class DictionaryTelegramScheduler {
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
 
-    @Scheduled(fixedRate = 3600000) // раз в час
+    // @Scheduled(fixedRate = 3600000) // раз в час
+    @Scheduled(fixedRate = 30000);
     public void sendFirstDictionaryEntry() {
         // Окно отправки по Москве: с 10:00 до 23:59 включительно
         ZonedDateTime nowMoscow = ZonedDateTime.now(ZoneId.of("Europe/Moscow"));
@@ -36,16 +38,19 @@ public class DictionaryTelegramScheduler {
             log.debug("Telegram отключён (нет bot-token/chat-id), пропуск отправки");
             return;
         }
-        Optional<DictionaryDto> first = dictionaryService.findFirst();
-        if (first.isEmpty()) {
+        Optional<DictionaryDto> next = dictionaryService.findNextForTelegram();
+        if (next.isEmpty()) {
             log.info("Словарь пуст, пропуск отправки в Telegram");
             return;
         }
-        DictionaryDto d = first.get();
+        DictionaryDto d = next.get();
         String value = d.getValue() != null ? d.getValue() : "";
         String translation = d.getTranslation() != null ? d.getTranslation() : "—";
         String message = value + " — " + translation;
         log.info("Отправка в Telegram: {}", message);
         telegramService.sendMessage(message);
+        if (d.getId() != null) {
+            dictionaryService.markSent(d.getId(), Instant.now());
+        }
     }
 }

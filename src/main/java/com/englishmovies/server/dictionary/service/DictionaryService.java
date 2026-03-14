@@ -15,9 +15,11 @@ import com.englishmovies.server.movies.repository.EpisodeRepository;
 import com.englishmovies.server.movies.repository.MovieContentRepository;
 import com.englishmovies.server.movies.repository.MovieRepository;
 import lombok.RequiredArgsConstructor;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.time.Instant;
 import java.util.List;
 import java.util.Optional;
 
@@ -67,6 +69,24 @@ public class DictionaryService {
     public Optional<DictionaryDto> findFirst() {
         return dictionaryRepository.findFirstByOrderByIdAsc()
             .map(dictionaryConverter::toDto);
+    }
+
+    /**
+     * Следующая запись для Telegram: сначала записи без lastSentAt, затем с наименьшим lastSentAt.
+     */
+    @Transactional(readOnly = true)
+    public Optional<DictionaryDto> findNextForTelegram() {
+        return dictionaryRepository.findNextForTelegram(PageRequest.of(0, 1))
+            .stream()
+            .findFirst()
+            .map(dictionaryConverter::toDto);
+    }
+
+    @Transactional
+    public void markSent(Long id, Instant sentAt) {
+        dictionaryRepository.findById(id).ifPresent(entity -> {
+            entity.setLastSentAt(sentAt);
+        });
     }
 
     /**
