@@ -24,3 +24,11 @@ spring:
 telegram:
   bot-token: 8217894172:AAEq0W2pRxfw-qjdCaj1nKgLOdfCgOvTkgg
   chat-id: "-1002329783519"
+
+# Yandex Translate: задай YANDEX_TRANSLATE_API_KEY и YANDEX_TRANSLATE_FOLDER_ID в env (или .env локально)
+translate:
+  provider: yandex
+yandex:
+  translate:
+    api-key: ${YANDEX_TRANSLATE_API_KEY:}
+    folder-id: ${YANDEX_TRANSLATE_FOLDER_ID:}
