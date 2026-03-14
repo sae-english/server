@@ -75,12 +75,15 @@ EOF
 
 **5. Папка storage на сервере**
 
-Данные фильмов (content.json и т.д.) должны лежать на сервере. Скопируй папку `storage` из проекта в тот же каталог, откуда запускается приложение (например рядом с `app.jar`), или оставь внутри `server` — загрузчик Liquibase ищет её относительно рабочей директории. Лучше положить в каталог приложения:
+Данные фильмов, сериалов и comedy (content.json и т.д.) должны лежать на сервере. Загрузчик Liquibase при каждом старте читает `storage/content-manifest.json` и по путям из ключей `movies`, `series_episode`, `comedy` заливает данные в БД. Папку `storage` положи в **тот же каталог, откуда запускается приложение** (WorkingDirectory в systemd), т.к. загрузчик ищет её относительно рабочей директории (`user.dir/storage`):
 
 ```bash
-# Если storage уже в репозитории — ничего делать не нужно.
-# Если нет — с твоего Mac:
-scp -r storage root@IP_СЕРВЕРА:/opt/english-movies/server/
+# Если деплой через Jenkins только копирует JAR — на сервере storage не обновится.
+# Нужно либо копировать и storage (rsync/scp), либо собирать и запускать из клона репо на сервере (git pull + deploy.sh).
+# Проверка на сервере:
+ls -la /opt/english-movies/server/storage/content-manifest.json
+# В manifest должен быть ключ "comedy" и путь comedy/george-carlin-you-are-all-diseased/content.json
+grep comedy /opt/english-movies/server/storage/content-manifest.json
 ```
 
 **6. Сервис systemd**
@@ -168,6 +171,26 @@ git pull   # если используешь Git
 Скрипт заново соберёт проект, подменит `app.jar` и перезапустит сервис.
 
 **Сброс БД и пересоздание схемы:** перед перезапуском можно выполнить `./scripts/reset-schema.sh` (см. раздел «Сброс схемы» ниже).
+
+### Деплой через Jenkins: почему не подтягивается storage
+
+При сборке в Jenkins репозиторий клонируется в **workspace** — там есть и код, и папка `storage` из git. Но на сервер в шаге деплоя обычно копируют **только JAR** (из `target/`). Папка `storage` на сервере при этом не обновляется — там остаётся старая версия (или её вообще нет).
+
+**Что сделать в Jenkins:** в шаге деплоя после копирования JAR **дополнительно копировать папку `storage`** на сервер в тот же каталог, откуда запускается приложение (рядом с `app.jar`).
+
+Пример для «Execute shell» в Jenkins (сборка и деплой на тот же сервер, где крутится Jenkins-агент):
+
+```bash
+./mvnw package -DskipTests -q
+sudo cp target/server-0.0.1-SNAPSHOT.jar /opt/server/app.jar
+# Обновить storage (manifest, comedy, movies, series) — иначе раздел comedy и новые данные не появятся
+sudo rsync -a --delete storage/ /opt/server/storage/
+sudo systemctl restart english-movies
+```
+
+Если `rsync` на агенте нет: `sudo cp -r storage/* /opt/server/storage/` (предварительно создать `sudo mkdir -p /opt/server/storage`).
+
+Альтернатива: не копировать JAR на сервер, а в Jenkins по SSH заходить на сервер и выполнять там `cd /opt/server && git pull && ./scripts/deploy.sh` — тогда и код, и `storage` будут из репо на сервере.
 
 ---
 
