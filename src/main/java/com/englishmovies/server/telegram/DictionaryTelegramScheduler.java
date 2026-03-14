@@ -23,7 +23,7 @@ public class DictionaryTelegramScheduler {
     private final DictionaryService dictionaryService;
     private final TelegramService telegramService;
 
-    @Scheduled(fixedRate = 300 000) // раз в час
+    @Scheduled(fixedRate = 300000) // раз в час
     public void sendFirstDictionaryEntry() {
         // Окно отправки по Москве: с 10:00 до 23:59 включительно
         ZonedDateTime nowMoscow = ZonedDateTime.now(ZoneId.of("Europe/Moscow"));
