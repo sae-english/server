@@ -96,6 +96,8 @@ After=network.target postgresql.service
 [Service]
 Type=simple
 WorkingDirectory=/opt/english-movies/server
+# Секреты (Telegram, Yandex Translate и т.д.) — из файла, не храни в репозитории
+EnvironmentFile=/opt/english-movies/server/.env
 ExecStart=/usr/bin/java -Xmx256m -jar /opt/english-movies/server/app.jar --spring.profiles.active=prod
 Restart=always
 RestartSec=5
@@ -105,12 +107,33 @@ WantedBy=multi-user.target
 EOF
 ```
 
-Если проект в `/opt/english-movies-server`, замени путь в `WorkingDirectory` и в `ExecStart` на `/opt/english-movies-server`.
+Если проект в `/opt/english-movies-server`, замени путь в `WorkingDirectory` и в `ExecStart` на `/opt/english-movies-server`. В `EnvironmentFile` укажи путь к `.env` в том же каталоге.
+
+**6.1. Файл с секретами (обязательно на сервере)**
+
+Все секреты хранятся в **одном файле** `.env` в рабочем каталоге приложения. Его не коммитят в git. Systemd подхватывает переменные через `EnvironmentFile`.
+
+В репозитории есть файл **`.env.example`** — список переменных без значений. На сервере можно скопировать его в `.env` и заполнить: `cp .env.example .env && nano .env`.
+
+Либо создай вручную (подставь свои значения):
 
 ```bash
-systemctl daemon-reload
-systemctl enable english-movies
+cat > /opt/english-movies/server/.env << 'ENVEOF'
+# БД (логин можно оставить в application-prod.yaml, пароль — только здесь)
+SPRING_DATASOURCE_PASSWORD=твой_пароль_postgres
+
+# Telegram (бот для рассылки слов в личку)
+TELEGRAM_BOT_TOKEN=токен_от_BotFather
+TELEGRAM_CHAT_ID=твой_user_id_из_RawDataBot
+
+# Yandex Translate (кнопка «Перевести» в UI)
+YANDEX_TRANSLATE_API_KEY=твой_api_ключ
+YANDEX_TRANSLATE_FOLDER_ID=b1g6mf6i36n8pi112ugk
+ENVEOF
+chmod 600 /opt/english-movies/server/.env
 ```
+
+После любого изменения `.env`: `systemctl restart english-movies`.
 
 **7. Первый запуск**
 

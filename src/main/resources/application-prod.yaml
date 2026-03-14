@@ -5,8 +5,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/englishmovies?currentSchema=englishmovies
-    username: englishmovies
-    password: dro11gba
+    username: ${SPRING_DATASOURCE_USERNAME:englishmovies}
+    password: ${SPRING_DATASOURCE_PASSWORD:}
 
   liquibase:
     change-log: classpath:db/changelog/db.changelog-master.xml
@@ -18,7 +18,14 @@ spring:
       ddl-auto: validate
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 
+# Секреты только из переменных окружения (.env на сервере, см. DEPLOY.md)
 telegram:
-  bot-token: "8217894172:AAEq0W2pRxfw-qjdCaj1nKgLOdfCgOvTkgg"
-  # личка с ботом (твой user id из RawDataBot)
-  chat-id: "119870107"
+  bot-token: ${TELEGRAM_BOT_TOKEN:}
+  chat-id: ${TELEGRAM_CHAT_ID:}
+
+translate:
+  provider: yandex
+yandex:
+  translate:
+    api-key: ${YANDEX_TRANSLATE_API_KEY:}
+    folder-id: ${YANDEX_TRANSLATE_FOLDER_ID:}
