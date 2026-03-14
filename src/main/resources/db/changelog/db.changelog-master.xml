@@ -8,6 +8,7 @@
     <!-- Один changeset: схема englishmovies + все таблицы в финальном виде -->
     <include file="db/changelog/changes/001-schema-and-tables.xml"/>
     <include file="db/changelog/changes/006-create-app-setting-table.xml"/>
+    <include file="db/changelog/changes/007-create-comedy-tables.xml"/>
 
     <!-- Загрузка данных из storage — всегда в конце -->
     <include file="db/changelog/data/storage-loader.xml"/>

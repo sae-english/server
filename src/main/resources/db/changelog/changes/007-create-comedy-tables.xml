@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="007-create-comedy-tables" author="english-movies">
+        <createTable schemaName="englishmovies" tableName="comedy_specials">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="name" type="VARCHAR(500)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="content_key" type="VARCHAR(255)"/>
+            <column name="performer" type="VARCHAR(255)"/>
+            <column name="year" type="INTEGER"/>
+            <column name="description" type="TEXT"/>
+            <column name="note" type="TEXT"/>
+            <column name="created_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+            <column name="updated_at" type="TIMESTAMP" defaultValueComputed="CURRENT_TIMESTAMP"/>
+        </createTable>
+        <addUniqueConstraint schemaName="englishmovies" tableName="comedy_specials" columnNames="content_key" constraintName="uq_comedy_specials_content_key"/>
+
+        <createTable schemaName="englishmovies" tableName="comedy_content">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="comedy_special_id" type="BIGINT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="block_id" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="block_type" type="VARCHAR(20)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="title" type="TEXT"/>
+            <column name="text" type="TEXT"/>
+            <column name="position" type="INT">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <addForeignKeyConstraint baseTableSchemaName="englishmovies" baseTableName="comedy_content" baseColumnNames="comedy_special_id"
+            constraintName="fk_comedy_content_special" referencedTableSchemaName="englishmovies" referencedTableName="comedy_specials" referencedColumnNames="id"/>
+        <addUniqueConstraint schemaName="englishmovies" tableName="comedy_content" columnNames="comedy_special_id, block_id" constraintName="uq_comedy_content_special_block"/>
+    </changeSet>
+</databaseChangeLog>

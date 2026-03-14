@@ -48,7 +48,12 @@ public class DictionaryTelegramService {
         String comment = d.getComment() != null && !d.getComment().isBlank() ? d.getComment().strip() : null;
         String languageLabel = formatLanguage(d.getLanguage());
 
-        String message = formatDictionaryMessage(value, translation, comment, languageLabel);
+        String sourceTitle = dictionaryService.findExpandedById(d.getId())
+            .map(exp -> exp.getTitle())
+            .filter(t -> t != null && !t.isBlank())
+            .orElse(null);
+
+        String message = formatDictionaryMessage(value, translation, comment, languageLabel, sourceTitle);
         log.info("Отправка в Telegram: {} — {}", value, translation);
         boolean sent = telegramService.sendMessage(message, "HTML");
         if (sent && d.getId() != null) {
@@ -69,11 +74,14 @@ public class DictionaryTelegramService {
     }
 
     /** Стильное сообщение для Telegram: язык, слово, перевод, опционально комментарий. */
-    private static String formatDictionaryMessage(String value, String translation, String comment, String languageLabel) {
+    private static String formatDictionaryMessage(String value, String translation, String comment, String languageLabel, String sourceTitle) {
         String v = escapeHtml(value);
         String t = escapeHtml(translation);
         StringBuilder sb = new StringBuilder();
         sb.append("<b>").append(escapeHtml(languageLabel)).append("</b>\n");
+        if (sourceTitle != null && !sourceTitle.isBlank()) {
+            sb.append("📖 ").append(escapeHtml(sourceTitle)).append("\n");
+        }
         sb.append("┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄\n\n");
         sb.append("<b>").append(v).append("</b>\n");
         sb.append("<i>").append(t).append("</i>\n");

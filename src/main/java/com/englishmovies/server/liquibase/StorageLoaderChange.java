@@ -59,6 +59,7 @@ public class StorageLoaderChange implements CustomTaskChange {
                 truncateTables(conn);
                 loadMovies(conn, storageRoot, manifest.path("movies"));
                 loadSeriesEpisodes(conn, storageRoot, manifest.path("series_episode"));
+                loadComedy(conn, storageRoot, manifest.path("comedy"));
                 conn.commit();
             } catch (Exception e) {
                 conn.rollback();
@@ -91,6 +92,8 @@ public class StorageLoaderChange implements CustomTaskChange {
 
     private void truncateTables(Connection conn) throws Exception {
         try (Statement stmt = conn.createStatement()) {
+            stmt.execute("TRUNCATE TABLE " + SCHEMA + ".comedy_content RESTART IDENTITY CASCADE");
+            stmt.execute("TRUNCATE TABLE " + SCHEMA + ".comedy_specials RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".episode_content RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".episode RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".movies_content RESTART IDENTITY CASCADE");
@@ -150,6 +153,76 @@ public class StorageLoaderChange implements CustomTaskChange {
                 } catch (Exception e) {
                     throw new RuntimeException("Failed to load " + epContent, e);
                 }
+            }
+        }
+    }
+
+    /** Comedy: каждый элемент — путь к content.json. special + content[] → comedy_specials и comedy_content. */
+    private void loadComedy(Connection conn, Path storageRoot, JsonNode comedy) throws Exception {
+        if (!comedy.isArray()) return;
+        String specialSql = "INSERT INTO " + SCHEMA + ".comedy_specials (name, content_key, performer, year, description, note) VALUES (?, ?, ?, ?, ?, ?)";
+        String contentSql = "INSERT INTO " + SCHEMA + ".comedy_content (comedy_special_id, block_id, block_type, title, text, position) VALUES (?, ?, ?, ?, ?, ?)";
+
+        for (JsonNode pathNode : comedy) {
+            Path contentPath = storageRoot.resolve(pathNode.asText());
+            JsonNode root = MAPPER.readTree(Files.readString(contentPath, StandardCharsets.UTF_8));
+            JsonNode specialNode = root.path("special");
+            JsonNode contentArray = root.path("content");
+            if (specialNode.isMissingNode()) {
+                throw new CustomChangeException("comedy content.json must contain 'special': " + contentPath);
+            }
+            long specialId = insertComedySpecial(conn, specialSql, specialNode);
+            insertComedyContentBlocks(conn, contentSql, specialId, contentArray);
+        }
+    }
+
+    private long insertComedySpecial(Connection conn, String sql, JsonNode special) throws Exception {
+        String name = special.path("name").asText();
+        String contentKey = textOrNull(special.path("contentKey"));
+        if (contentKey == null) contentKey = textOrNull(special.path("content_key"));
+        String performer = textOrNull(special.path("performer"));
+        Integer year = special.path("year").isMissingNode() || special.path("year").isNull() ? null : special.path("year").asInt();
+        String description = textOrNull(special.path("description"));
+        String note = textOrNull(special.path("note"));
+        try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
+            ps.setString(1, name);
+            ps.setString(2, contentKey);
+            ps.setString(3, performer);
+            ps.setObject(4, year);
+            ps.setString(5, description);
+            ps.setString(6, note);
+            ps.executeUpdate();
+            try (ResultSet rs = ps.getGeneratedKeys()) {
+                if (rs.next()) return rs.getLong(1);
+            }
+        }
+        throw new IllegalStateException("Failed to get comedy_specials id");
+    }
+
+    private void insertComedyContentBlocks(Connection conn, String sql, long specialId, JsonNode contentArray) throws Exception {
+        if (!contentArray.isArray()) return;
+        int size = contentArray.size();
+        List<String> blockIds = new ArrayList<>(size);
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = block.path("id").asText(null);
+            if (blockId == null || blockId.isBlank()) blockId = java.util.UUID.randomUUID().toString();
+            blockIds.add(blockId);
+        }
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = blockIds.get(i);
+            String blockType = block.path("type").asText("text");
+            String title = textOrNull(block.path("title"));
+            String text = textOrNull(block.path("text"));
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setLong(1, specialId);
+                ps.setString(2, blockId);
+                ps.setString(3, blockType);
+                ps.setString(4, title);
+                ps.setString(5, text);
+                ps.setInt(6, i);
+                ps.executeUpdate();
             }
         }
     }

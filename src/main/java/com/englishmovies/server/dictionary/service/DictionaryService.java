@@ -7,6 +7,8 @@ import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
 import com.englishmovies.server.dictionary.domain.dto.ExpandedDictionaryDto;
 import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
 import com.englishmovies.server.dictionary.repository.DictionaryRepository;
+import com.englishmovies.server.comedy.repository.ComedyContentRepository;
+import com.englishmovies.server.comedy.repository.ComedySpecialRepository;
 import com.englishmovies.server.movies.converter.ContentBlockMapper;
 import com.englishmovies.server.movies.domain.dto.ContentBlockDto;
 import com.englishmovies.server.movies.domain.entity.MovieContentEntity;
@@ -33,6 +35,8 @@ public class DictionaryService {
     private final MovieContentRepository movieContentRepository;
     private final EpisodeRepository episodeRepository;
     private final EpisodeContentRepository episodeContentRepository;
+    private final ComedySpecialRepository comedySpecialRepository;
+    private final ComedyContentRepository comedyContentRepository;
 
     @Transactional
     public DictionaryDto save(DictionaryRequestDto request) {
@@ -103,7 +107,7 @@ public class DictionaryService {
     }
 
     /**
-     * Поиск по value с расширением: для каждой записи подставляются title (название фильма/сериала)
+     * Поиск по value с расширением: для каждой записи подставляются title (название фильма/сериала/комедии)
      * и block (тот же ContentBlockDto, что в GET /movie-content/.../pages).
      */
     @Transactional(readOnly = true)
@@ -112,6 +116,14 @@ public class DictionaryService {
         return list.stream()
             .map(this::toExpanded)
             .toList();
+    }
+
+    /** Расширенная запись по id (для Telegram и др.): словарь + title + block. */
+    @Transactional(readOnly = true)
+    public Optional<ExpandedDictionaryDto> findExpandedById(Long id) {
+        return dictionaryRepository.findById(id)
+            .map(dictionaryConverter::toDto)
+            .map(this::toExpanded);
     }
 
     private ExpandedDictionaryDto toExpanded(DictionaryDto dto) {
@@ -129,12 +141,16 @@ public class DictionaryService {
                 title = episodeRepository.findByContentKeyWithSeries(ck)
                     .map(e -> e.getSeries() != null ? e.getSeries().getName() : null)
                     .orElse(null);
+            } else if (contentType == ContentType.COMEDY) {
+                title = comedySpecialRepository.findByContentKey(ck).map(s -> s.getName()).orElse(null);
             }
             if (blockId != null && !blockId.isBlank()) {
                 if (contentType == ContentType.MOVIE) {
                     block = resolveMovieBlock(ck, blockId);
                 } else if (contentType == ContentType.EPISODE) {
                     block = resolveEpisodeBlock(ck, blockId);
+                } else if (contentType == ContentType.COMEDY) {
+                    block = resolveComedyBlock(ck, blockId);
                 }
             }
         }
@@ -152,6 +168,13 @@ public class DictionaryService {
     private ContentBlockDto resolveEpisodeBlock(String contentKey, String blockId) {
         return episodeRepository.findByContentKey(contentKey)
             .flatMap(ep -> episodeContentRepository.findByEpisodeIdAndBlockId(ep.getId(), blockId))
+            .map(ContentBlockMapper::fromEntity)
+            .orElse(null);
+    }
+
+    private ContentBlockDto resolveComedyBlock(String contentKey, String blockId) {
+        return comedySpecialRepository.findByContentKey(contentKey)
+            .flatMap(special -> comedyContentRepository.findByComedySpecialIdAndBlockId(special.getId(), blockId))
             .map(ContentBlockMapper::fromEntity)
             .orElse(null);
     }
