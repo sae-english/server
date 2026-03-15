@@ -20,17 +20,17 @@ public class BookController {
     private final BookService bookService;
 
     /**
-     * Список книг для каталога. GET /api/books?limit=N
+     * Список книг для каталога. GET /api/books?limit=N или /api/books/?limit=N
      */
-    @GetMapping
+    @GetMapping(path = {"", "/"})
     public ResponseEntity<List<BookDto>> getBooks(@RequestParam(defaultValue = "20") int limit) {
         return ResponseEntity.ok(bookService.getBooks(limit));
     }
 
     /**
-     * Одна книга с полным контентом (блоки: section = глава, text = абзац). GET /api/books/{id}
+     * Одна книга с полным контентом (блоки: section = глава, text = абзац). GET /api/books/{id} или /api/books/{id}/
      */
-    @GetMapping("/{id}")
+    @GetMapping(path = {"/{id}", "/{id}/"})
     public ResponseEntity<BookFullDto> getBookById(@PathVariable Long id) {
         return bookService.getBookById(id)
                 .map(ResponseEntity::ok)
