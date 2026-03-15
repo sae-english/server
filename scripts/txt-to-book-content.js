@@ -3,7 +3,10 @@
  * Конвертирует TXT книги (с заголовками PROLOGUE, CHAPTER N, EPILOGUE) в content.json для storage.
  * Сохраняет структуру: главы (section), абзацы (text), отступы и переносы внутри абзацев.
  *
- * Использование: node scripts/txt-to-book-content.js <input.txt> [output-dir]
+ * В TXT абзацы обозначены отступом в начале строки (2+ пробела), а не пустой строкой.
+ * Длинные абзацы (>550 символов) разбиваются на несколько блоков для удобного отображения в UI.
+ *
+ * Использование: node scripts/txt-to-book-content.js <input.txt> [output-dir] [--pretty]
  * По умолчанию output: storage/books/the-secret-of-secrets/content.json (относительно cwd).
  */
 
@@ -56,12 +59,51 @@ function cleanLines(lines) {
   return lines.filter((line) => !OCEAN_LINE.test(line));
 }
 
+/** In this TXT, paragraphs are marked by leading spaces (2+), not blank lines. */
+const PARAGRAPH_START = /^\s{2,}/;
+/** Max chars per text block so the UI doesn't show one huge card; long paragraphs split by lines. */
+const MAX_BLOCK_CHARS = 550;
+
 function splitParagraphs(lines) {
-  const text = lines.join('\n');
-  return text
-    .split(/\n\n+/)
-    .map((p) => p.trim())
-    .filter((p) => p.length > 0);
+  const out = [];
+  let current = [];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (PARAGRAPH_START.test(line)) {
+      if (current.length > 0) {
+        flushParagraph(current, out);
+        current = [];
+      }
+      current.push(line.trimStart());
+    } else {
+      if (current.length > 0) {
+        current.push(line);
+      } else if (line.trim().length > 0) {
+        current.push(line.trimStart());
+      }
+    }
+  }
+  if (current.length > 0) flushParagraph(current, out);
+  return out;
+}
+
+function flushParagraph(lines, out) {
+  const text = lines.join('\n').trim();
+  if (text.length === 0) return;
+  if (text.length <= MAX_BLOCK_CHARS) {
+    out.push(text);
+    return;
+  }
+  const lineArr = text.split('\n');
+  let chunk = [];
+  for (const ln of lineArr) {
+    chunk.push(ln);
+    if (chunk.join('\n').length > MAX_BLOCK_CHARS) {
+      out.push(chunk.join('\n').trim());
+      chunk = [];
+    }
+  }
+  if (chunk.length > 0) out.push(chunk.join('\n').trim());
 }
 
 function uuid() {
