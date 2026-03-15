@@ -421,3 +421,44 @@ systemctl restart english-movies
 ```
 
 Данные из `storage/` (фильмы, контент) загрузятся снова, если у тебя в Liquibase включён загрузчик (custom change), который читает JSON при старте.
+
+**Режимы сброса:**
+
+- **С сохранением dictionary** (по умолчанию): `./scripts/reset-schema.sh` — перед DROP создаётся бэкап `scripts/dictionary_backup.sql`, после перезапуска приложения вызови `./scripts/restore-dictionary.sh`.
+- **Полный сброс (включая dictionary):** `./scripts/reset-schema.sh full` — бэкап не создаётся, словарь не восстанавливается.
+
+Файл бэкапа в репозиторий не коммитится (см. `.gitignore`).
+
+**Jenkins (два параметра сборки):**
+
+- `RESET_DB=true` — сброс схемы с сохранением dictionary (бэкап → drop → после перезапуска вызвать `restore-dictionary.sh`).
+- `RESET_FULL_DB=true` — полный сброс, включая dictionary (без бэкапа и без restore).
+- Оба `false` — БД не трогаем.
+
+Пример шага «Execute shell» в Jenkins:
+
+```bash
+# Сброс БД (один из двух режимов)
+if [ "$RESET_FULL_DB" = "true" ]; then
+  echo "RESET_FULL_DB=true: полный сброс схемы (включая dictionary)..."
+  PGPASSWORD=dro11gba /opt/server/scripts/reset-schema.sh full
+  echo "Схема БД сброшена."
+elif [ "$RESET_DB" = "true" ]; then
+  echo "RESET_DB=true: сбрасываем схему, dictionary сохраняем..."
+  PGPASSWORD=dro11gba /opt/server/scripts/reset-schema.sh
+  echo "Схема БД сброшена."
+fi
+
+# сборка и деплой
+./mvnw package -DskipTests -q
+sudo cp target/server-0.0.1-SNAPSHOT.jar /opt/server/app.jar
+sudo rsync -a --delete storage/ /opt/server/storage/
+sudo systemctl restart english-movies
+
+# Восстановить dictionary только после обычного сброса (не full)
+if [ "$RESET_DB" = "true" ] && [ "$RESET_FULL_DB" != "true" ]; then
+  echo "Восстанавливаем словарь..."
+  sleep 10
+  PGPASSWORD=dro11gba /opt/server/scripts/restore-dictionary.sh
+fi
+```

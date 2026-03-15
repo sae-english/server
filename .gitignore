@@ -41,3 +41,6 @@ keystore.p12
 
 ### Local build artifact for systemd deployment ###
 app.jar
+
+### Dictionary backup (created by reset-schema.sh, restored by restore-dictionary.sh) ###
+scripts/dictionary_backup.sql

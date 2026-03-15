@@ -60,6 +60,7 @@ public class StorageLoaderChange implements CustomTaskChange {
                 loadMovies(conn, storageRoot, manifest.path("movies"));
                 loadSeriesEpisodes(conn, storageRoot, manifest.path("series_episode"));
                 loadComedy(conn, storageRoot, manifest.path("comedy"));
+                loadBooks(conn, storageRoot, manifest.path("books"));
                 conn.commit();
             } catch (Exception e) {
                 conn.rollback();
@@ -92,6 +93,8 @@ public class StorageLoaderChange implements CustomTaskChange {
 
     private void truncateTables(Connection conn) throws Exception {
         try (Statement stmt = conn.createStatement()) {
+            stmt.execute("TRUNCATE TABLE " + SCHEMA + ".book_content RESTART IDENTITY CASCADE");
+            stmt.execute("TRUNCATE TABLE " + SCHEMA + ".books RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".comedy_content RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".comedy_specials RESTART IDENTITY CASCADE");
             stmt.execute("TRUNCATE TABLE " + SCHEMA + ".episode_content RESTART IDENTITY CASCADE");
@@ -197,6 +200,83 @@ public class StorageLoaderChange implements CustomTaskChange {
             }
         }
         throw new IllegalStateException("Failed to get comedy_specials id");
+    }
+
+    /** Books: каждый элемент — путь к content.json. book + content[] → books и book_content. */
+    private void loadBooks(Connection conn, Path storageRoot, JsonNode books) throws Exception {
+        if (!books.isArray()) return;
+        String bookSql = "INSERT INTO " + SCHEMA + ".books (name, content_key, author, year, description, note) VALUES (?, ?, ?, ?, ?, ?)";
+        String contentSql = "INSERT INTO " + SCHEMA + ".book_content (book_id, block_id, block_type, title, text, position) VALUES (?, ?, ?, ?, ?, ?)";
+
+        for (JsonNode pathNode : books) {
+            Path contentPath = storageRoot.resolve(pathNode.asText());
+            JsonNode root = MAPPER.readTree(Files.readString(contentPath, StandardCharsets.UTF_8));
+            JsonNode bookNode = root.path("book");
+            JsonNode contentArray = root.path("content");
+            if (bookNode.isMissingNode()) {
+                throw new CustomChangeException("book content.json must contain 'book': " + contentPath);
+            }
+            long bookId = insertBook(conn, bookSql, bookNode);
+            insertBookContentBlocks(conn, contentSql, bookId, contentArray);
+        }
+    }
+
+    private long insertBook(Connection conn, String sql, JsonNode book) throws Exception {
+        String name = book.path("name").asText();
+        String contentKey = textOrNull(book.path("contentKey"));
+        if (contentKey == null) contentKey = textOrNull(book.path("content_key"));
+        String author = textOrNull(book.path("author"));
+        Integer year = book.path("year").isMissingNode() || book.path("year").isNull() ? null : book.path("year").asInt();
+        String description = textOrNull(book.path("description"));
+        String note = textOrNull(book.path("note"));
+        try (PreparedStatement ps = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
+            ps.setString(1, name);
+            ps.setString(2, contentKey);
+            ps.setString(3, author);
+            ps.setObject(4, year);
+            ps.setString(5, description);
+            ps.setString(6, note);
+            ps.executeUpdate();
+            try (ResultSet rs = ps.getGeneratedKeys()) {
+                if (rs.next()) return rs.getLong(1);
+            }
+        }
+        throw new IllegalStateException("Failed to get books id");
+    }
+
+    private void insertBookContentBlocks(Connection conn, String sql, long bookId, JsonNode contentArray) throws Exception {
+        if (!contentArray.isArray()) return;
+        int size = contentArray.size();
+        List<String> blockIds = new ArrayList<>(size);
+        java.util.Set<String> seen = new java.util.HashSet<>();
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = block.path("id").asText(null);
+            if (blockId == null || blockId.isBlank()) blockId = java.util.UUID.randomUUID().toString();
+            else {
+                String unique = blockId;
+                for (int k = 0; seen.contains(unique); k++) unique = blockId + "-" + k;
+                seen.add(unique);
+                blockId = unique;
+            }
+            blockIds.add(blockId);
+        }
+        for (int i = 0; i < size; i++) {
+            JsonNode block = contentArray.get(i);
+            String blockId = blockIds.get(i);
+            String blockType = block.path("type").asText("text");
+            String title = textOrNull(block.path("title"));
+            String text = textOrNull(block.path("text"));
+            try (PreparedStatement ps = conn.prepareStatement(sql)) {
+                ps.setLong(1, bookId);
+                ps.setString(2, blockId);
+                ps.setString(3, blockType);
+                ps.setString(4, title);
+                ps.setString(5, text);
+                ps.setInt(6, i);
+                ps.executeUpdate();
+            }
+        }
     }
 
     private void insertComedyContentBlocks(Connection conn, String sql, long specialId, JsonNode contentArray) throws Exception {

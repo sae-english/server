@@ -1,5 +1,6 @@
 package com.englishmovies.server.movies.converter;
 
+import com.englishmovies.server.book.domain.entity.BookContentEntity;
 import com.englishmovies.server.comedy.domain.entity.ComedyContentEntity;
 import com.englishmovies.server.movies.domain.dto.ContentBlockDto;
 import com.englishmovies.server.movies.domain.entity.EpisodeContentEntity;
@@ -60,6 +61,22 @@ public final class ContentBlockMapper {
 
     /** Из ComedyContentEntity (стендап — block_type строка, остальные поля как у контента). */
     public static ContentBlockDto fromEntity(ComedyContentEntity e) {
+        if (e == null) {
+            return new ContentBlockDto(null, null, null, null, null, null, null);
+        }
+        return new ContentBlockDto(
+            e.getBlockType(),
+            e.getBlockId(),
+            e.getTitle(),
+            e.getText(),
+            null,
+            null,
+            null
+        );
+    }
+
+    /** Из BookContentEntity (книга — section = глава, text = абзац). */
+    public static ContentBlockDto fromEntity(BookContentEntity e) {
         if (e == null) {
             return new ContentBlockDto(null, null, null, null, null, null, null);
         }

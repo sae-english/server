@@ -7,6 +7,8 @@ import com.englishmovies.server.dictionary.domain.dto.DictionaryRequestDto;
 import com.englishmovies.server.dictionary.domain.dto.ExpandedDictionaryDto;
 import com.englishmovies.server.dictionary.domain.entity.DictionaryEntity;
 import com.englishmovies.server.dictionary.repository.DictionaryRepository;
+import com.englishmovies.server.book.repository.BookContentRepository;
+import com.englishmovies.server.book.repository.BookRepository;
 import com.englishmovies.server.comedy.repository.ComedyContentRepository;
 import com.englishmovies.server.comedy.repository.ComedySpecialRepository;
 import com.englishmovies.server.movies.converter.ContentBlockMapper;
@@ -37,6 +39,8 @@ public class DictionaryService {
     private final EpisodeContentRepository episodeContentRepository;
     private final ComedySpecialRepository comedySpecialRepository;
     private final ComedyContentRepository comedyContentRepository;
+    private final BookRepository bookRepository;
+    private final BookContentRepository bookContentRepository;
 
     @Transactional
     public DictionaryDto save(DictionaryRequestDto request) {
@@ -143,6 +147,8 @@ public class DictionaryService {
                     .orElse(null);
             } else if (contentType == ContentType.COMEDY) {
                 title = comedySpecialRepository.findByContentKey(ck).map(s -> s.getName()).orElse(null);
+            } else if (contentType == ContentType.BOOK) {
+                title = bookRepository.findByContentKey(ck).map(b -> b.getName()).orElse(null);
             }
             if (blockId != null && !blockId.isBlank()) {
                 if (contentType == ContentType.MOVIE) {
@@ -151,6 +157,8 @@ public class DictionaryService {
                     block = resolveEpisodeBlock(ck, blockId);
                 } else if (contentType == ContentType.COMEDY) {
                     block = resolveComedyBlock(ck, blockId);
+                } else if (contentType == ContentType.BOOK) {
+                    block = resolveBookBlock(ck, blockId);
                 }
             }
         }
@@ -175,6 +183,13 @@ public class DictionaryService {
     private ContentBlockDto resolveComedyBlock(String contentKey, String blockId) {
         return comedySpecialRepository.findByContentKey(contentKey)
             .flatMap(special -> comedyContentRepository.findByComedySpecialIdAndBlockId(special.getId(), blockId))
+            .map(ContentBlockMapper::fromEntity)
+            .orElse(null);
+    }
+
+    private ContentBlockDto resolveBookBlock(String contentKey, String blockId) {
+        return bookRepository.findByContentKey(contentKey)
+            .flatMap(book -> bookContentRepository.findByBookIdAndBlockId(book.getId(), blockId))
             .map(ContentBlockMapper::fromEntity)
             .orElse(null);
     }
