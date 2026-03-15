@@ -438,6 +438,11 @@ systemctl restart english-movies
 Пример шага «Execute shell» в Jenkins:
 
 ```bash
+# Обновить скрипты на сервере (reset-schema.sh, restore-dictionary.sh и др.)
+sudo mkdir -p /opt/server/scripts
+sudo rsync -a scripts/ /opt/server/scripts/
+sudo chmod +x /opt/server/scripts/*.sh
+
 # Сброс БД (один из двух режимов)
 if [ "$RESET_FULL_DB" = "true" ]; then
   echo "RESET_FULL_DB=true: полный сброс схемы (включая dictionary)..."
@@ -462,3 +467,5 @@ if [ "$RESET_DB" = "true" ] && [ "$RESET_FULL_DB" != "true" ]; then
   PGPASSWORD=dro11gba /opt/server/scripts/restore-dictionary.sh
 fi
 ```
+
+Важно: без `rsync scripts/` в `/opt/server/scripts/` скрипт `restore-dictionary.sh` на сервере не появится, и шаг восстановления словаря будет падать с «not found».

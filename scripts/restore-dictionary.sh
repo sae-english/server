@@ -26,8 +26,23 @@ if [ ! -f "$BACKUP_FILE" ] || [ ! -s "$BACKUP_FILE" ]; then
 fi
 
 echo "Database: $PGUSER@$PGHOST:$PGPORT/$PGDATABASE"
-echo "Restoring dictionary from $BACKUP_FILE ..."
 
+# Дождаться, пока Liquibase создаст схему и таблицу (приложение только что перезапустилось)
+WAIT_TIMEOUT="${RESTORE_WAIT_TIMEOUT:-120}"
+echo "Waiting for schema englishmovies and table dictionary (up to ${WAIT_TIMEOUT}s)..."
+for i in $(seq 1 "$WAIT_TIMEOUT"); do
+  if psql -v ON_ERROR_STOP=1 -tAc "SELECT 1 FROM information_schema.tables WHERE table_schema = 'englishmovies' AND table_name = 'dictionary'" 2>/dev/null | grep -q 1; then
+    echo "Schema and table ready after ${i}s."
+    break
+  fi
+  if [ "$i" -eq "$WAIT_TIMEOUT" ]; then
+    echo "Timeout: schema englishmovies or table dictionary not found after ${WAIT_TIMEOUT}s. Is the app running?"
+    exit 1
+  fi
+  sleep 1
+done
+
+echo "Restoring dictionary from $BACKUP_FILE ..."
 psql -v ON_ERROR_STOP=1 -d "$PGDATABASE" -f "$BACKUP_FILE"
 
 # Подправить последовательность id, чтобы новые записи получали корректный id
